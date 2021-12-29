@@ -1,0 +1,49 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.LibSVM -S 0 -K 2 -D 3 -G 0.0 -R 0.0 -N 0.5 -M 40.0 -C 1.0 -E 0.001 -P 0.1 -model D:\Weka-3-7 -seed 1
+Relation:     ?????4attr
+Instances:    11042
+Attributes:   5
+              PPERSAUT
+              PVRAAUT
+              PBRAND
+              PPLEZIER
+              CARAVAN
+Test mode:    user supplied test set:  size unknown (reading incrementally)
+
+=== Classifier model (full training set) ===
+
+LibSVM wrapper, original code by Yasser EL-Manzalawy (= WLSVM)
+
+Time taken to build model: 6.99 seconds
+
+=== Evaluation on test set ===
+
+Time taken to test model on supplied test set: 2.11 seconds
+
+=== Summary ===
+
+Correctly Classified Instances        2631               65.775  %
+Incorrectly Classified Instances      1369               34.225  %
+Kappa statistic                          0.0844
+Mean absolute error                      0.3423
+Root mean squared error                  0.585 
+Relative absolute error                 67.9405 %
+Root relative squared error            116.1325 %
+Coverage of cases (0.95 level)          65.775  %
+Mean rel. region size (0.95 level)      50      %
+Total Number of Instances             4000     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.660    0.378    0.965      0.660    0.784      0.139    0.641     0.957     0
+                 0.622    0.340    0.104      0.622    0.178      0.139    0.641     0.087     1
+Weighted Avg.    0.658    0.376    0.914      0.658    0.748      0.139    0.641     0.905     
+
+=== Confusion Matrix ===
+
+    a    b   <-- classified as
+ 2483 1279 |    a = 0
+   90  148 |    b = 1
+
