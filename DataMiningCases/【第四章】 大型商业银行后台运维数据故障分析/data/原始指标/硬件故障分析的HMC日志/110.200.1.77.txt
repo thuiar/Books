@@ -1,0 +1,988 @@
+problem_num=4756,pmh_num=,refcode=#25C3902,status=Closed,first_time=12/07/2012 01:00:24,last_time=12/07/2012 01:00:24,sys_name=P55A-6B-SFCGBJ-SN06210FH,sys_mtms=9133-55A/06210FH,enclosure_mtms=9133-55A/06210FH,firmware_fix=,"text=No trouble was found with this adapter.  However Error Log Analysis indicates that there recently may have been a network problem.  If your Ethernet adapter is connected to a network, and if you are experiencing problems with network communications, check for a loose or defective cable or connection.  If a switch or another system is directly attached to the Ethernet adapter, verify it is powered up, configured, and functioning correctly.",created_time=12/07/2012 01:00:24,reporting_name=P55A-6B-SFCGBJ-SN06210FH,reporting_mtms=9133-55A/06210FH,failing_mtms=9133-55A/06210FH,analyzing_hmc=7310-CR4/062C36B,event_time=12/02/2012 04:40:39
+problem_num=4755,pmh_num=,refcode=#25C3902,status=Closed,first_time=12/07/2012 01:00:24,last_time=12/07/2012 01:00:24,sys_name=P55A-6A-SFCGSCJ-SN062148H,sys_mtms=9133-55A/062148H,enclosure_mtms=9133-55A/062148H,firmware_fix=,"text=No trouble was found with this adapter.  However Error Log Analysis indicates that there recently may have been a network problem.  If your Ethernet adapter is connected to a network, and if you are experiencing problems with network communications, check for a loose or defective cable or connection.  If a switch or another system is directly attached to the Ethernet adapter, verify it is powered up, configured, and functioning correctly.",created_time=12/07/2012 01:00:24,reporting_name=P55A-6A-SFCGSCJ-SN062148H,reporting_mtms=9133-55A/062148H,failing_mtms=9133-55A/062148H,analyzing_hmc=7310-CR4/062C36B,event_time=12/02/2012 04:45:20
+problem_num=4754,pmh_num=,refcode=#25C1902,status=Closed,first_time=11/05/2012 01:46:09,last_time=11/05/2012 01:46:09,sys_name=P55A-6A-SFCGSCJ-SN062148H,sys_mtms=9133-55A/062148H,enclosure_mtms=9133-55A/062148H,firmware_fix=,"text=No trouble was found with this adapter.  However Error Log Analysis indicates that there recently may have been a network problem.  If your Ethernet adapter is connected to a network, and if you are experiencing problems with network communications, check for a loose or defective cable or connection.  If a switch or another system is directly attached to the Ethernet adapter, verify it is powered up, configured, and functioning correctly.",created_time=11/05/2012 01:46:09,reporting_name=P55A-6A-SFCGSCJ-SN062148H,reporting_mtms=9133-55A/062148H,failing_mtms=9133-55A/062148H,analyzing_hmc=7310-CR4/062C36B,event_time=10/31/2012 05:12:38
+problem_num=4752,pmh_num=,refcode=#25C1902,status=Closed,first_time=11/05/2012 01:45:40,last_time=11/05/2012 01:45:40,sys_name=P55A-6B-SFCGBJ-SN06210FH,sys_mtms=9133-55A/06210FH,enclosure_mtms=9133-55A/06210FH,firmware_fix=,"text=No trouble was found with this adapter.  However Error Log Analysis indicates that there recently may have been a network problem.  If your Ethernet adapter is connected to a network, and if you are experiencing problems with network communications, check for a loose or defective cable or connection.  If a switch or another system is directly attached to the Ethernet adapter, verify it is powered up, configured, and functioning correctly.",created_time=11/05/2012 01:45:40,reporting_name=P55A-6B-SFCGBJ-SN06210FH,reporting_mtms=9133-55A/06210FH,failing_mtms=9133-55A/06210FH,analyzing_hmc=7310-CR4/062C36B,event_time=10/31/2012 05:08:17
+problem_num=4751,pmh_num=,refcode=#25C3902,status=Closed,first_time=11/05/2012 01:45:36,last_time=11/05/2012 01:45:36,sys_name=P55A-5B-SFHC-B-SN0639EAH,sys_mtms=9133-55A/0639EAH,enclosure_mtms=9133-55A/0639EAH,firmware_fix=,"text=No trouble was found with this adapter.  However Error Log Analysis indicates that there recently may have been a network problem.  If your Ethernet adapter is connected to a network, and if you are experiencing problems with network communications, check for a loose or defective cable or connection.  If a switch or another system is directly attached to the Ethernet adapter, verify it is powered up, configured, and functioning correctly.",created_time=11/05/2012 01:45:36,reporting_name=P55A-5B-SFHC-B-SN0639EAH,reporting_mtms=9133-55A/0639EAH,failing_mtms=9133-55A/0639EAH,analyzing_hmc=7310-CR4/062C36B,event_time=10/31/2012 18:03:16
+problem_num=4747,pmh_num=,refcode=#25C1902,status=Closed,first_time=10/29/2012 12:08:54,last_time=10/29/2012 12:08:54,sys_name=P55A-5B-SFHC-B-SN0639EAH,sys_mtms=9133-55A/0639EAH,enclosure_mtms=9133-55A/0639EAH,firmware_fix=,"text=No trouble was found with this adapter.  However Error Log Analysis indicates that there recently may have been a network problem.  If your Ethernet adapter is connected to a network, and if you are experiencing problems with network communications, check for a loose or defective cable or connection.  If a switch or another system is directly attached to the Ethernet adapter, verify it is powered up, configured, and functioning correctly.",created_time=10/29/2012 12:08:54,reporting_name=P55A-5B-SFHC-B-SN0639EAH,reporting_mtms=9133-55A/0639EAH,failing_mtms=9133-55A/0639EAH,analyzing_hmc=7310-CR4/062C36B,event_time=10/25/2012 04:16:47
+problem_num=285,pmh_num=,refcode=1100152F,status=Closed,first_time=10/24/2013 13:47:19,last_time=10/24/2013 13:47:19,sys_name=P570-3A-itmdata-SN067335F,sys_mtms=9117-570/067335F,enclosure_mtms=9117-570/067335F,firmware_fix=,text=Power/Cooling subsystem & control (0x61): Unrecoverable Error (0x44),created_time=10/24/2013 13:47:19,reporting_name=P570-3A-itmdata-SN067335F,reporting_mtms=9117-570/067335F,failing_mtms=9117-570/067335F,analyzing_hmc=IBMHMC01,event_time=10/24/2013 13:59:38
+problem_num=284,pmh_num=,refcode=1100152E,status=Closed,first_time=10/24/2013 13:42:34,last_time=10/24/2013 13:42:34,sys_name=P570-3A-itmdata-SN067335F,sys_mtms=9117-570/067335F,enclosure_mtms=9117-570/067335F,firmware_fix=,text=Power/Cooling subsystem & control (0x61): Unrecoverable Error (0x44),created_time=10/24/2013 13:42:34,reporting_name=P570-3A-itmdata-SN067335F,reporting_mtms=9117-570/067335F,failing_mtms=9117-570/067335F,analyzing_hmc=IBMHMC01,event_time=10/24/2013 13:54:55
+problem_num=283,pmh_num=,refcode=#2601902,status=Closed,first_time=04/13/2013 04:01:19,last_time=04/13/2013 04:01:19,sys_name=P570-3A-itmdata-SN067335F,sys_mtms=9117-570/067335F,enclosure_mtms=9117-570/067335F,firmware_fix=,"text=Error Log Analysis has detected multiple communication
+errors.  These errors can be caused by attached devices,
+a switch, a hub, or a SCSI-to-FC convertor.
+
+If connected to a switch, refer to the Storage Area
+Network (SAN) problem determination procedures for
+additional problem resolution.
+
+If not connected to a switch, run diagnostics on the
+attached devices.  If a hub or SCSI-to-FC convertor is
+attached, refer to the product documentation for problem
+resolution.",created_time=04/13/2013 04:01:19,reporting_name=P570-3A-itmdata-SN067335F,reporting_mtms=9117-570/067335F,failing_mtms=9117-570/067335F,analyzing_hmc=IBMHMC01,event_time=04/13/2013 04:25:40
+problem_num=282,pmh_num=,refcode=11001520,status=Closed,first_time=03/29/2013 20:46:11,last_time=03/29/2013 20:46:11,sys_name=P55A-6A-SFCGSCJ-SN062148H,sys_mtms=9133-55A/062148H,enclosure_mtms=9133-55A/062148H,firmware_fix=,text=Power/Cooling subsystem & control (0x61): Unrecoverable Error (0x44),created_time=03/29/2013 20:46:11,reporting_name=P55A-6A-SFCGSCJ-SN062148H,reporting_mtms=9133-55A/062148H,failing_mtms=9133-55A/062148H,analyzing_hmc=IBMHMC01,event_time=03/29/2013 21:14:30
+problem_num=281,pmh_num=,refcode=B3030001,status=Closed,first_time=03/29/2013 16:07:58,last_time=03/29/2013 16:07:58,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,"text=A connection to a FSP,BPA or BPC was dropped",created_time=03/29/2013 16:07:58,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=03/29/2013 16:07:58
+problem_num=280,pmh_num=,refcode=B3030007,status=Closed,first_time=12/10/2012 13:38:44,last_time=12/10/2012 13:38:44,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,"text=HMC to FSP,BPA, or BPC failure detected",created_time=12/10/2012 13:38:44,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=12/10/2012 13:38:44
+problem_num=279,pmh_num=,refcode=#25C3902,status=Closed,first_time=10/31/2012 05:07:35,last_time=10/31/2012 05:07:35,sys_name=P55A-5B-SFHC-B-SN0639EAH,sys_mtms=9133-55A/0639EAH,enclosure_mtms=9133-55A/0639EAH,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/31/2012 05:07:35,reporting_name=P55A-5B-SFHC-B-SN0639EAH,reporting_mtms=9133-55A/0639EAH,failing_mtms=9133-55A/0639EAH,analyzing_hmc=IBMHMC01,event_time=10/31/2012 18:03:16
+problem_num=278,pmh_num=,refcode=1100152F,status=Closed,first_time=09/29/2012 19:43:45,last_time=09/29/2012 19:43:45,sys_name=P570-3B-hxbj2-SN067336F,sys_mtms=9117-570/067336F,enclosure_mtms=9117-570/067336F,firmware_fix=,text=Power/Cooling subsystem & control (0x61): Unrecoverable Error (0x44),created_time=09/29/2012 19:43:45,reporting_name=P570-3B-hxbj2-SN067336F,reporting_mtms=9117-570/067336F,failing_mtms=9117-570/067336F,analyzing_hmc=IBMHMC01,event_time=09/29/2012 20:04:28
+problem_num=277,pmh_num=,refcode=1100152E,status=Closed,first_time=09/29/2012 19:42:48,last_time=09/30/2012 09:22:52,sys_name=P570-3B-hxbj2-SN067336F,sys_mtms=9117-570/067336F,enclosure_mtms=9117-570/067336F,firmware_fix=,text=Power/Cooling subsystem & control (0x61): Unrecoverable Error (0x44),created_time=09/29/2012 19:42:48,reporting_name=P570-3B-hxbj2-SN067336F,reporting_mtms=9117-570/067336F,failing_mtms=9117-570/067336F,analyzing_hmc=IBMHMC01,event_time=09/29/2012 20:03:34
+problem_num=276,pmh_num=,refcode=E3550046,status=Closed,first_time=09/15/2012 07:42:25,last_time=09/15/2012 07:42:25,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=7310-CR4/062C41B,firmware_fix=,text=Licensed internal code has detected a problem.,created_time=09/15/2012 07:42:25,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=7310-CR4/062C41B,analyzing_hmc=IBMHMC01,event_time=09/15/2012 07:42:25
+problem_num=275,pmh_num=,refcode=B3030007,status=Closed,first_time=09/15/2012 05:57:25,last_time=09/15/2012 05:57:25,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9117-570/6549A9C,firmware_fix=,"text=HMC to FSP,BPA, or BPC failure detected",created_time=09/15/2012 05:57:25,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9117-570/6549A9C,analyzing_hmc=IBMHMC01,event_time=09/15/2012 05:57:25
+problem_num=274,pmh_num=,refcode=B303000F,status=Closed,first_time=07/17/2012 15:33:28,last_time=07/17/2012 15:33:28,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=07/17/2012 15:33:28,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=07/17/2012 15:33:28
+problem_num=273,pmh_num=,refcode=777127,status=Closed,first_time=06/06/2012 15:42:47,last_time=05/18/2013 17:23:31,sys_name=P55A-14B-zhylqz2-SN067E87H,sys_mtms=9133-55A/067E87H,enclosure_mtms=9133-55A/067E87H,firmware_fix=,"text=Error Log Analysis indicates an array controller cache battery failure.
+Refer to the 2102 Model F10 Service Guide for more information.",created_time=06/06/2012 15:42:47,reporting_name=P55A-14B-zhylqz2-SN067E87H,reporting_mtms=9133-55A/067E87H,failing_mtms=9133-55A/067E87H,analyzing_hmc=IBMHMC01,event_time=06/06/2012 16:06:36
+problem_num=272,pmh_num=,refcode=777127,status=Closed,first_time=06/06/2012 15:32:16,last_time=12/07/2012 22:44:29,sys_name=P55A-14A-zhylqz1-SN067E62H,sys_mtms=9133-55A/067E62H,enclosure_mtms=9133-55A/067E62H,firmware_fix=,"text=Error Log Analysis indicates an array controller cache battery failure.
+Refer to the 2102 Model F10 Service Guide for more information.",created_time=06/06/2012 15:32:16,reporting_name=P55A-14A-zhylqz1-SN067E62H,reporting_mtms=9133-55A/067E62H,failing_mtms=9133-55A/067E62H,analyzing_hmc=IBMHMC01,event_time=06/06/2012 15:56:28
+problem_num=271,pmh_num=,refcode=777127,status=Closed,first_time=06/06/2012 15:32:15,last_time=12/07/2012 22:41:07,sys_name=P550-01B-zhylqs2-SN06E18DB,sys_mtms=9113-550/06E18DB,enclosure_mtms=9113-550/06E18DB,firmware_fix=,"text=Error Log Analysis indicates an array controller cache battery failure.
+Refer to the 2102 Model F10 Service Guide for more information.",created_time=06/06/2012 15:32:15,reporting_name=P550-01B-zhylqs2-SN06E18DB,reporting_mtms=9113-550/06E18DB,failing_mtms=9113-550/06E18DB,analyzing_hmc=IBMHMC01,event_time=06/06/2012 15:56:17
+problem_num=270,pmh_num=,refcode=777127,status=Closed,first_time=06/06/2012 15:25:54,last_time=05/18/2013 17:23:01,sys_name=P550-01A-zhylqs1-SN06E17DB,sys_mtms=9113-550/06E17DB,enclosure_mtms=9113-550/06E17DB,firmware_fix=,"text=Error Log Analysis indicates an array controller cache battery failure.
+Refer to the 2102 Model F10 Service Guide for more information.",created_time=06/06/2012 15:25:54,reporting_name=P550-01A-zhylqs1-SN06E17DB,reporting_mtms=9113-550/06E17DB,failing_mtms=9113-550/06E17DB,analyzing_hmc=IBMHMC01,event_time=06/06/2012 15:49:51
+problem_num=269,pmh_num=,refcode=B3030001,status=Closed,first_time=02/18/2012 10:32:14,last_time=02/18/2012 10:32:14,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/066709H,firmware_fix=,"text=A connection to a FSP,BPA or BPC was dropped",created_time=02/18/2012 10:32:14,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/066709H,analyzing_hmc=IBMHMC01,event_time=02/18/2012 10:32:14
+problem_num=268,pmh_num=,refcode=11001510,status=Closed,first_time=02/07/2012 18:49:31,last_time=02/07/2012 18:49:31,sys_name=IBMHMC01,sys_mtms=9133-55A/066709H,enclosure_mtms=9133-55A/066709H,firmware_fix=,text=Power/Cooling subsystem & control (0x61): Unrecoverable Error (0x44),created_time=02/07/2012 18:49:31,reporting_name=IBMHMC01,reporting_mtms=9133-55A/066709H,failing_mtms=9133-55A/066709H,analyzing_hmc=IBMHMC01,event_time=02/07/2012 18:56:38
+problem_num=267,pmh_num=,refcode=B3030001,status=Closed,first_time=01/31/2012 16:16:50,last_time=01/31/2012 16:16:50,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/066709H,firmware_fix=,"text=FSP,BPA or BPC did not respond",created_time=01/31/2012 16:16:50,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/066709H,analyzing_hmc=IBMHMC01,event_time=01/31/2012 16:16:50
+problem_num=266,pmh_num=,refcode=B131E500,status=Closed,first_time=01/28/2012 18:48:51,last_time=01/28/2012 18:48:51,sys_name=P570-3B-hxbj2-SN067336F,sys_mtms=9117-570/067336F,enclosure_mtms=9117-570/067336F,firmware_fix=,text=I/O subsystem (0x31): Unrecoverable Error (0x41),created_time=01/28/2012 18:48:51,reporting_name=P570-3B-hxbj2-SN067336F,reporting_mtms=9117-570/067336F,failing_mtms=9117-570/067336F,analyzing_hmc=IBMHMC01,event_time=01/28/2012 19:10:09
+problem_num=264,pmh_num=,refcode=B157F131,status=Closed,first_time=01/28/2012 18:47:51,last_time=01/28/2012 18:47:51,sys_name=P570-3B-hxbj2-SN067336F,sys_mtms=9117-570/067336F,enclosure_mtms=9117-570/067336F,firmware_fix=,text=CEC hardware (0x57): Predictive Error (0x20),created_time=01/28/2012 18:47:51,reporting_name=P570-3B-hxbj2-SN067336F,reporting_mtms=9117-570/067336F,failing_mtms=9117-570/067336F,analyzing_hmc=IBMHMC01,event_time=01/28/2012 19:09:17
+problem_num=263,pmh_num=,refcode=E3D43104,status=Closed,first_time=01/28/2012 01:23:56,last_time=01/28/2012 19:34:16,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=7310-CR4/062C41B,firmware_fix=,text=Licensed internal code has detected a problem.,created_time=01/28/2012 01:23:56,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=7310-CR4/062C41B,analyzing_hmc=IBMHMC01,event_time=01/28/2012 01:23:56
+problem_num=262,pmh_num=,refcode=1100151F,status=Closed,first_time=01/28/2012 01:22:31,last_time=01/28/2012 01:22:31,sys_name=P570-3B-hxbj2-SN067336F,sys_mtms=9117-570/067336F,enclosure_mtms=9117-570/067336F,firmware_fix=,text=Power/Cooling subsystem & control (0x61): Unrecoverable Error (0x44),created_time=01/28/2012 01:22:31,reporting_name=P570-3B-hxbj2-SN067336F,reporting_mtms=9117-570/067336F,failing_mtms=9117-570/067336F,analyzing_hmc=IBMHMC01,event_time=01/28/2012 01:43:54
+problem_num=261,pmh_num=,refcode=1100151E,status=Closed,first_time=01/28/2012 01:21:25,last_time=01/28/2012 01:21:25,sys_name=P570-3B-hxbj2-SN067336F,sys_mtms=9117-570/067336F,enclosure_mtms=9117-570/067336F,firmware_fix=,text=Power/Cooling subsystem & control (0x61): Unrecoverable Error (0x44),created_time=01/28/2012 01:21:25,reporting_name=P570-3B-hxbj2-SN067336F,reporting_mtms=9117-570/067336F,failing_mtms=9117-570/067336F,analyzing_hmc=IBMHMC01,event_time=01/28/2012 01:42:50
+problem_num=260,pmh_num=,refcode=#25C3902,status=Closed,first_time=01/07/2012 02:50:27,last_time=01/07/2012 02:50:27,sys_name=P550-01B-zhylqs2-SN06E18DB,sys_mtms=9113-550/06E18DB,enclosure_mtms=9113-550/06E18DB,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=01/07/2012 02:50:27,reporting_name=P550-01B-zhylqs2-SN06E18DB,reporting_mtms=9113-550/06E18DB,failing_mtms=9113-550/06E18DB,analyzing_hmc=IBMHMC01,event_time=01/07/2012 02:35:22
+problem_num=259,pmh_num=,refcode=B3030001,status=Closed,first_time=01/05/2012 21:04:21,last_time=01/05/2012 21:04:21,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9131-52A/06A1E5G,firmware_fix=,"text=A connection to a FSP,BPA or BPC was dropped",created_time=01/05/2012 21:04:21,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9131-52A/06A1E5G,analyzing_hmc=IBMHMC01,event_time=01/05/2012 21:04:21
+problem_num=258,pmh_num=,refcode=E355004D,status=Closed,first_time=12/25/2011 01:45:12,last_time=12/25/2011 01:45:12,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=7310-CR4/062C41B,firmware_fix=,text=Licensed internal code has detected a problem.,created_time=12/25/2011 01:45:12,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=7310-CR4/062C41B,analyzing_hmc=IBMHMC01,event_time=12/25/2011 01:45:12
+problem_num=257,pmh_num=,refcode=#25C3902,status=Closed,first_time=12/02/2011 20:04:24,last_time=12/02/2011 20:04:24,sys_name=P570-3B-hxbj2-SN067336F,sys_mtms=9117-570/067336F,enclosure_mtms=9117-570/067336F,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/02/2011 20:04:24,reporting_name=P570-3B-hxbj2-SN067336F,reporting_mtms=9117-570/067336F,failing_mtms=9117-570/067336F,analyzing_hmc=IBMHMC01,event_time=12/02/2011 19:49:08
+problem_num=256,pmh_num=,refcode=#25C0902,status=Closed,first_time=12/02/2011 20:04:23,last_time=12/02/2011 20:04:23,sys_name=P570-3B-hxbj2-SN067336F,sys_mtms=9117-570/067336F,enclosure_mtms=9117-570/067336F,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/02/2011 20:04:23,reporting_name=P570-3B-hxbj2-SN067336F,reporting_mtms=9117-570/067336F,failing_mtms=9117-570/067336F,analyzing_hmc=IBMHMC01,event_time=12/02/2011 12:40:01
+problem_num=255,pmh_num=,refcode=#25C3902,status=Closed,first_time=11/30/2011 15:26:58,last_time=12/02/2012 04:23:49,sys_name=P55A-6A-SFCGSCJ-SN062148H,sys_mtms=9133-55A/062148H,enclosure_mtms=9133-55A/062148H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=11/30/2011 15:26:58,reporting_name=P55A-6A-SFCGSCJ-SN062148H,reporting_mtms=9133-55A/062148H,failing_mtms=9133-55A/062148H,analyzing_hmc=IBMHMC01,event_time=09/09/2011 22:35:26
+problem_num=254,pmh_num=,refcode=#25C1902,status=Closed,first_time=11/30/2011 15:26:57,last_time=10/31/2012 04:43:16,sys_name=P55A-6A-SFCGSCJ-SN062148H,sys_mtms=9133-55A/062148H,enclosure_mtms=9133-55A/062148H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=11/30/2011 15:26:57,reporting_name=P55A-6A-SFCGSCJ-SN062148H,reporting_mtms=9133-55A/062148H,failing_mtms=9133-55A/062148H,analyzing_hmc=IBMHMC01,event_time=09/09/2011 22:37:01
+problem_num=253,pmh_num=,refcode=#25C1902,status=Closed,first_time=11/30/2011 15:26:27,last_time=10/31/2012 04:43:17,sys_name=P55A-6B-SFCGBJ-SN06210FH,sys_mtms=9133-55A/06210FH,enclosure_mtms=9133-55A/06210FH,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=11/30/2011 15:26:27,reporting_name=P55A-6B-SFCGBJ-SN06210FH,reporting_mtms=9133-55A/06210FH,failing_mtms=9133-55A/06210FH,analyzing_hmc=IBMHMC01,event_time=10/23/2011 01:43:18
+problem_num=252,pmh_num=,refcode=#25C3902,status=Closed,first_time=11/30/2011 15:26:25,last_time=12/02/2012 04:23:45,sys_name=P55A-6B-SFCGBJ-SN06210FH,sys_mtms=9133-55A/06210FH,enclosure_mtms=9133-55A/06210FH,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=11/30/2011 15:26:25,reporting_name=P55A-6B-SFCGBJ-SN06210FH,reporting_mtms=9133-55A/06210FH,failing_mtms=9133-55A/06210FH,analyzing_hmc=IBMHMC01,event_time=09/09/2011 13:12:31
+problem_num=251,pmh_num=,refcode=B303000F,status=Closed,first_time=10/28/2011 19:21:40,last_time=10/28/2011 19:21:40,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=10/28/2011 19:21:40,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=10/28/2011 19:21:40
+problem_num=250,pmh_num=,refcode=#25C3902,status=Closed,first_time=10/23/2011 02:15:38,last_time=12/02/2012 05:34:08,sys_name=P55A-14B-zhylqz2-SN067E87H,sys_mtms=9133-55A/067E87H,enclosure_mtms=9133-55A/067E87H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/23/2011 02:15:38,reporting_name=P55A-14B-zhylqz2-SN067E87H,reporting_mtms=9133-55A/067E87H,failing_mtms=9133-55A/067E87H,analyzing_hmc=IBMHMC01,event_time=10/23/2011 02:07:52
+problem_num=249,pmh_num=,refcode=#25C1902,status=Closed,first_time=10/23/2011 02:07:54,last_time=03/30/2013 02:55:50,sys_name=P55A-14A-zhylqz1-SN067E62H,sys_mtms=9133-55A/067E62H,enclosure_mtms=9133-55A/067E62H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/23/2011 02:07:54,reporting_name=P55A-14A-zhylqz1-SN067E62H,reporting_mtms=9133-55A/067E62H,failing_mtms=9133-55A/067E62H,analyzing_hmc=IBMHMC01,event_time=10/23/2011 02:07:54
+problem_num=248,pmh_num=,refcode=B3010002,status=Closed,first_time=10/23/2011 02:02:24,last_time=10/23/2011 02:02:24,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=10/23/2011 02:02:24,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=10/23/2011 02:02:24
+problem_num=247,pmh_num=,refcode=#25C0902,status=Closed,first_time=10/23/2011 02:04:40,last_time=10/23/2011 02:04:40,sys_name=P570-3A-itmdata-SN067335F,sys_mtms=9117-570/067335F,enclosure_mtms=9117-570/067335F,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/23/2011 02:04:40,reporting_name=P570-3A-itmdata-SN067335F,reporting_mtms=9117-570/067335F,failing_mtms=9117-570/067335F,analyzing_hmc=IBMHMC01,event_time=10/22/2011 01:42:49
+problem_num=246,pmh_num=,refcode=#25C3902,status=Closed,first_time=10/23/2011 02:04:01,last_time=03/30/2013 02:50:04,sys_name=P55A-14A-zhylqz1-SN067E62H,sys_mtms=9133-55A/067E62H,enclosure_mtms=9133-55A/067E62H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/23/2011 02:04:01,reporting_name=P55A-14A-zhylqz1-SN067E62H,reporting_mtms=9133-55A/067E62H,failing_mtms=9133-55A/067E62H,analyzing_hmc=IBMHMC01,event_time=10/23/2011 01:43:32
+problem_num=245,pmh_num=,refcode=#25C3902,status=Closed,first_time=10/23/2011 02:04:00,last_time=12/02/2012 04:23:57,sys_name=P55A-5A-SFHC-A-SN063A35H,sys_mtms=9133-55A/063A35H,enclosure_mtms=9133-55A/063A35H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/23/2011 02:04:00,reporting_name=P55A-5A-SFHC-A-SN063A35H,reporting_mtms=9133-55A/063A35H,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=10/23/2011 01:43:30
+problem_num=244,pmh_num=,refcode=#25C1902,status=Closed,first_time=10/23/2011 02:03:59,last_time=11/21/2012 10:55:44,sys_name=P55A-5A-SFHC-A-SN063A35H,sys_mtms=9133-55A/063A35H,enclosure_mtms=9133-55A/063A35H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/23/2011 02:03:59,reporting_name=P55A-5A-SFHC-A-SN063A35H,reporting_mtms=9133-55A/063A35H,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=10/23/2011 01:43:32
+problem_num=243,pmh_num=,refcode=#25C1902,status=Closed,first_time=10/23/2011 02:03:42,last_time=03/30/2013 04:24:24,sys_name=P550-01A-zhylqs1-SN06E17DB,sys_mtms=9113-550/06E17DB,enclosure_mtms=9113-550/06E17DB,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/23/2011 02:03:42,reporting_name=P550-01A-zhylqs1-SN06E17DB,reporting_mtms=9113-550/06E17DB,failing_mtms=9113-550/06E17DB,analyzing_hmc=IBMHMC01,event_time=10/23/2011 01:43:30
+problem_num=242,pmh_num=,refcode=#25C3902,status=Closed,first_time=10/23/2011 02:03:39,last_time=03/30/2013 03:31:44,sys_name=P550-01A-zhylqs1-SN06E17DB,sys_mtms=9113-550/06E17DB,enclosure_mtms=9113-550/06E17DB,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/23/2011 02:03:39,reporting_name=P550-01A-zhylqs1-SN06E17DB,reporting_mtms=9113-550/06E17DB,failing_mtms=9113-550/06E17DB,analyzing_hmc=IBMHMC01,event_time=10/23/2011 01:43:31
+problem_num=241,pmh_num=,refcode=#25C1902,status=Closed,first_time=10/23/2011 02:03:29,last_time=10/24/2012 15:32:24,sys_name=P55A-5B-SFHC-B-SN0639EAH,sys_mtms=9133-55A/0639EAH,enclosure_mtms=9133-55A/0639EAH,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/23/2011 02:03:29,reporting_name=P55A-5B-SFHC-B-SN0639EAH,reporting_mtms=9133-55A/0639EAH,failing_mtms=9133-55A/0639EAH,analyzing_hmc=IBMHMC01,event_time=10/23/2011 01:43:31
+problem_num=240,pmh_num=,refcode=#25C1902,status=Closed,first_time=10/23/2011 02:03:28,last_time=10/23/2011 02:08:03,sys_name=192.168.0.118,sys_mtms=9117-570/6549A9C,enclosure_mtms=9117-570/6549A9C,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/23/2011 02:03:28,reporting_name=192.168.0.118,reporting_mtms=9117-570/6549A9C,failing_mtms=9117-570/6549A9C,analyzing_hmc=IBMHMC01,event_time=10/23/2011 01:43:33
+problem_num=239,pmh_num=,refcode=#25C1902,status=Closed,first_time=10/23/2011 02:03:26,last_time=10/23/2011 02:14:32,sys_name=192.168.0.218,sys_mtms=9117-570/6549BBC,enclosure_mtms=9117-570/6549BBC,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/23/2011 02:03:26,reporting_name=192.168.0.218,reporting_mtms=9117-570/6549BBC,failing_mtms=9117-570/6549BBC,analyzing_hmc=IBMHMC01,event_time=10/23/2011 01:43:32
+problem_num=238,pmh_num=,refcode=#25C1902,status=Closed,first_time=10/23/2011 02:03:26,last_time=03/30/2013 04:38:27,sys_name=P550-01B-zhylqs2-SN06E18DB,sys_mtms=9113-550/06E18DB,enclosure_mtms=9113-550/06E18DB,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/23/2011 02:03:26,reporting_name=P550-01B-zhylqs2-SN06E18DB,reporting_mtms=9113-550/06E18DB,failing_mtms=9113-550/06E18DB,analyzing_hmc=IBMHMC01,event_time=10/23/2011 01:43:31
+problem_num=237,pmh_num=,refcode=#25C1902,status=Closed,first_time=10/23/2011 02:03:25,last_time=03/30/2013 03:07:04,sys_name=P55A-14B-zhylqz2-SN067E87H,sys_mtms=9133-55A/067E87H,enclosure_mtms=9133-55A/067E87H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/23/2011 02:03:25,reporting_name=P55A-14B-zhylqz2-SN067E87H,reporting_mtms=9133-55A/067E87H,failing_mtms=9133-55A/067E87H,analyzing_hmc=IBMHMC01,event_time=10/23/2011 01:43:31
+problem_num=236,pmh_num=,refcode=B3100500,status=Closed,first_time=10/23/2011 01:43:28,last_time=03/30/2013 02:43:00,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=7310-CR4/062C41B,firmware_fix=,"text=Device Driver Message: Oct 23 01:43:27 IBMHMC01 kernel: e1000: eth0: e1000_watchdog: NIC Link is Down
+",created_time=10/23/2011 01:43:28,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=7310-CR4/062C41B,analyzing_hmc=IBMHMC01,event_time=10/23/2011 01:43:28
+problem_num=235,pmh_num=,refcode=B3030001,status=Closed,first_time=09/09/2011 15:25:00,last_time=09/09/2011 15:25:00,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/062148H,firmware_fix=,"text=A connection to a FSP,BPA or BPC was dropped",created_time=09/09/2011 15:25:00,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/062148H,analyzing_hmc=IBMHMC01,event_time=09/09/2011 15:25:00
+problem_num=234,pmh_num=,refcode=B181C008,status=Closed,first_time=09/08/2011 15:35:43,last_time=09/08/2011 15:35:43,sys_name=P55A-6A-SFCGSCJ-SN062148H,sys_mtms=9133-55A/062148H,enclosure_mtms=9133-55A/062148H,firmware_fix=,text=Platform firmware (0x81): Unrecoverable Error (0x40),created_time=09/08/2011 15:35:43,reporting_name=P55A-6A-SFCGSCJ-SN062148H,reporting_mtms=9133-55A/062148H,failing_mtms=9133-55A/062148H,analyzing_hmc=IBMHMC01,event_time=09/08/2011 15:39:24
+problem_num=233,pmh_num=,refcode=B3030001,status=Closed,first_time=09/06/2011 17:08:55,last_time=09/06/2011 17:08:55,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/062148H,firmware_fix=,text=An HMC connect failed,created_time=09/06/2011 17:08:55,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/062148H,analyzing_hmc=IBMHMC01,event_time=09/06/2011 17:08:54
+problem_num=232,pmh_num=,refcode=B3030001,status=Closed,first_time=09/04/2011 19:22:22,last_time=09/04/2011 19:22:22,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/062148H,firmware_fix=,"text=A connection to a FSP,BPA or BPC was dropped",created_time=09/04/2011 19:22:22,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/062148H,analyzing_hmc=IBMHMC01,event_time=09/04/2011 19:22:22
+problem_num=231,pmh_num=,refcode=B3030007,status=Closed,first_time=08/27/2011 02:11:39,last_time=08/27/2011 02:11:39,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/062148H,firmware_fix=,"text=HMC to FSP,BPA, or BPC failure detected",created_time=08/27/2011 02:11:39,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/062148H,analyzing_hmc=IBMHMC01,event_time=08/27/2011 02:11:39
+problem_num=230,pmh_num=,refcode=11001514,status=Closed,first_time=07/11/2011 13:47:34,last_time=07/11/2011 22:48:12,sys_name=P570-3A-itmdata-SN067335F,sys_mtms=9117-570/067335F,enclosure_mtms=9117-570/067335F,firmware_fix=,text=Power/Cooling subsystem & control (0x61): Unrecoverable Error (0x44),created_time=07/11/2011 13:47:34,reporting_name=P570-3A-itmdata-SN067335F,reporting_mtms=9117-570/067335F,failing_mtms=9117-570/067335F,analyzing_hmc=IBMHMC01,event_time=07/11/2011 13:40:07
+problem_num=229,pmh_num=,refcode=2654-130,status=Closed,first_time=06/06/2011 17:07:31,last_time=06/06/2011 17:07:31,sys_name=P570-3B-hxbj2-SN067336F,sys_mtms=9117-570/067336F,enclosure_mtms=9117-570/067336F,firmware_fix=,"text=Error log analysis indicates problem reported by disk drive's
+self monitoring function.",created_time=06/06/2011 17:07:31,reporting_name=P570-3B-hxbj2-SN067336F,reporting_mtms=9117-570/067336F,failing_mtms=9117-570/067336F,analyzing_hmc=IBMHMC01,event_time=06/06/2011 16:49:58
+problem_num=228,pmh_num=,refcode=#2654021,status=Closed,first_time=06/06/2011 17:07:13,last_time=06/08/2011 13:52:31,sys_name=P570-3B-hxbj2-SN067336F,sys_mtms=9117-570/067336F,enclosure_mtms=9117-570/067336F,firmware_fix=,"text=Error Log Analysis indicates a problem reported by disk drive
+hdisk3 in location U7879.001.DQDWLTW-P1-T12-L5-L0.  The drive's self montoring function
+has reported an error.
+
+BACKUP...the data in the disk.
+REPLACE...the disk.
+RESTORE...the data to the new disk.
+
+To continue, press Enter.",created_time=06/06/2011 17:07:13,reporting_name=P570-3B-hxbj2-SN067336F,reporting_mtms=9117-570/067336F,failing_mtms=9117-570/067336F,analyzing_hmc=IBMHMC01,event_time=06/06/2011 16:50:05
+problem_num=227,pmh_num=,refcode=25C1-703,status=Closed,first_time=05/13/2011 22:51:03,last_time=05/13/2011 22:51:03,sys_name=IBMHMC01,sys_mtms=9133-55A/066709H,enclosure_mtms=9133-55A/066709H,firmware_fix=,text=Failure to initialize due to a problem while reading the EEPROM on the adapter.,created_time=05/13/2011 22:51:03,reporting_name=IBMHMC01,reporting_mtms=9133-55A/066709H,failing_mtms=9133-55A/066709H,analyzing_hmc=IBMHMC01,event_time=05/13/2011 22:50:02
+problem_num=226,pmh_num=,refcode=B303000F,status=Closed,first_time=05/12/2011 20:10:51,last_time=05/12/2011 20:10:51,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=05/12/2011 20:10:51,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=05/12/2011 20:10:50
+problem_num=225,pmh_num=,refcode=888 102,status=Closed,first_time=04/18/2011 22:16:56,last_time=04/18/2011 22:16:56,sys_name=P55A-6A-SFCGSCJ-SN062148H,sys_mtms=9133-55A/062148H,enclosure_mtms=9133-55A/062148H,firmware_fix=,text=Software (0x91): Unrecoverable Error (0x40),created_time=04/18/2011 22:16:56,reporting_name=P55A-6A-SFCGSCJ-SN062148H,reporting_mtms=9133-55A/062148H,failing_mtms=9133-55A/062148H,analyzing_hmc=IBMHMC01,event_time=04/18/2011 22:20:42
+problem_num=224,pmh_num=,refcode=2654-130,status=Closed,first_time=01/30/2011 10:01:21,last_time=01/30/2011 10:01:21,sys_name=P570-3A-itmdata-SN067335F,sys_mtms=9117-570/067335F,enclosure_mtms=9117-570/067335F,firmware_fix=,"text=Error log analysis indicates problem reported by disk drive's
+self monitoring function.",created_time=01/30/2011 10:01:21,reporting_name=P570-3A-itmdata-SN067335F,reporting_mtms=9117-570/067335F,failing_mtms=9117-570/067335F,analyzing_hmc=IBMHMC01,event_time=01/30/2011 09:58:27
+problem_num=223,pmh_num=,refcode=#2654021,status=Closed,first_time=01/30/2011 10:01:00,last_time=01/30/2011 10:01:00,sys_name=P570-3A-itmdata-SN067335F,sys_mtms=9117-570/067335F,enclosure_mtms=9117-570/067335F,firmware_fix=,"text=Error Log Analysis indicates a problem reported by disk drive
+hdisk2 in location U7879.001.DQDWLVG-P1-T14-L5-L0.  The drive's self montoring function
+has reported an error.
+
+BACKUP...the data in the disk.
+REPLACE...the disk.
+RESTORE...the data to the new disk.
+
+To continue, press Enter.",created_time=01/30/2011 10:01:00,reporting_name=P570-3A-itmdata-SN067335F,reporting_mtms=9117-570/067335F,failing_mtms=9117-570/067335F,analyzing_hmc=IBMHMC01,event_time=01/30/2011 09:58:35
+problem_num=222,pmh_num=,refcode=E3550046,status=Closed,first_time=01/22/2011 08:15:42,last_time=04/27/2011 11:01:11,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=7310-CR4/062C41B,firmware_fix=,text=Licensed internal code has detected a problem.,created_time=01/22/2011 08:15:42,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=7310-CR4/062C41B,analyzing_hmc=IBMHMC01,event_time=01/22/2011 08:15:42
+problem_num=221,pmh_num=,refcode=2654-128,status=Closed,first_time=01/15/2011 20:02:22,last_time=01/30/2011 09:58:58,sys_name=P570-3A-itmdata-SN067335F,sys_mtms=9117-570/067335F,enclosure_mtms=9117-570/067335F,firmware_fix=,text=Error log analysis indicates a hardware failure.,created_time=01/15/2011 20:02:22,reporting_name=P570-3A-itmdata-SN067335F,reporting_mtms=9117-570/067335F,failing_mtms=9117-570/067335F,analyzing_hmc=IBMHMC01,event_time=01/15/2011 19:59:35
+problem_num=220,pmh_num=,refcode=2522-721,status=Closed,first_time=12/14/2010 02:13:57,last_time=12/14/2010 02:13:57,sys_name=P550-01B-zhylqs2-SN06E18DB,sys_mtms=9113-550/06E18DB,enclosure_mtms=9113-550/06E18DB,firmware_fix=,text=Temporary adapter detected device bus failure.,created_time=12/14/2010 02:13:57,reporting_name=P550-01B-zhylqs2-SN06E18DB,reporting_mtms=9113-550/06E18DB,failing_mtms=9113-550/06E18DB,analyzing_hmc=IBMHMC01,event_time=12/10/2010 02:10:07
+problem_num=219,pmh_num=,refcode=B303000F,status=Closed,first_time=12/10/2010 21:46:39,last_time=12/10/2010 21:46:39,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=12/10/2010 21:46:39,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=12/10/2010 21:46:38
+problem_num=218,pmh_num=,refcode=B303000F,status=Closed,first_time=12/10/2010 20:36:58,last_time=12/10/2010 20:36:58,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=12/10/2010 20:36:58,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=12/10/2010 20:36:58
+problem_num=217,pmh_num=,refcode=#25C1902,status=Closed,first_time=12/10/2010 19:01:52,last_time=12/10/2010 19:02:11,sys_name=P55A-6A-SFCGSCJ-SN062148H,sys_mtms=9133-55A/062148H,enclosure_mtms=9133-55A/062148H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/10/2010 19:01:52,reporting_name=P55A-6A-SFCGSCJ-SN062148H,reporting_mtms=9133-55A/062148H,failing_mtms=9133-55A/062148H,analyzing_hmc=IBMHMC01,event_time=12/04/2010 02:15:39
+problem_num=216,pmh_num=,refcode=#25C3902,status=Closed,first_time=12/04/2010 03:18:30,last_time=05/31/2011 02:27:27,sys_name=P550-01B-zhylqs2-SN06E18DB,sys_mtms=9113-550/06E18DB,enclosure_mtms=9113-550/06E18DB,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/04/2010 03:18:30,reporting_name=P550-01B-zhylqs2-SN06E18DB,reporting_mtms=9113-550/06E18DB,failing_mtms=9113-550/06E18DB,analyzing_hmc=IBMHMC01,event_time=12/04/2010 03:14:33
+problem_num=215,pmh_num=,refcode=#25C3902,status=Closed,first_time=12/04/2010 03:18:28,last_time=12/04/2010 03:18:28,sys_name=IBMHMC01,sys_mtms=9131-52A/06A1E5G,enclosure_mtms=9131-52A/06A1E5G,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/04/2010 03:18:28,reporting_name=IBMHMC01,reporting_mtms=9131-52A/06A1E5G,failing_mtms=9131-52A/06A1E5G,analyzing_hmc=IBMHMC01,event_time=12/04/2010 03:09:41
+problem_num=214,pmh_num=,refcode=#25C1902,status=Closed,first_time=12/04/2010 03:14:40,last_time=12/04/2010 03:14:40,sys_name=IBMHMC01,sys_mtms=9133-55A/066709H,enclosure_mtms=9133-55A/066709H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/04/2010 03:14:40,reporting_name=IBMHMC01,reporting_mtms=9133-55A/066709H,failing_mtms=9133-55A/066709H,analyzing_hmc=IBMHMC01,event_time=12/04/2010 03:16:05
+problem_num=213,pmh_num=,refcode=#25C1902,status=Closed,first_time=12/04/2010 03:13:16,last_time=12/04/2010 03:14:33,sys_name=P550-01A-zhylqs1-SN06E17DB,sys_mtms=9113-550/06E17DB,enclosure_mtms=9113-550/06E17DB,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/04/2010 03:13:16,reporting_name=P550-01A-zhylqs1-SN06E17DB,reporting_mtms=9113-550/06E17DB,failing_mtms=9113-550/06E17DB,analyzing_hmc=IBMHMC01,event_time=12/04/2010 03:08:15
+problem_num=212,pmh_num=,refcode=#25C3902,status=Closed,first_time=12/04/2010 03:12:58,last_time=12/04/2010 03:12:58,sys_name=IBMHMC01,sys_mtms=9133-55A/066709H,enclosure_mtms=9133-55A/066709H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/04/2010 03:12:58,reporting_name=IBMHMC01,reporting_mtms=9133-55A/066709H,failing_mtms=9133-55A/066709H,analyzing_hmc=IBMHMC01,event_time=12/04/2010 03:10:46
+problem_num=211,pmh_num=,refcode=#25C1902,status=Closed,first_time=12/04/2010 03:09:21,last_time=12/04/2010 03:09:21,sys_name=P550-01B-zhylqs2-SN06E18DB,sys_mtms=9113-550/06E18DB,enclosure_mtms=9113-550/06E18DB,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/04/2010 03:09:21,reporting_name=P550-01B-zhylqs2-SN06E18DB,reporting_mtms=9113-550/06E18DB,failing_mtms=9113-550/06E18DB,analyzing_hmc=IBMHMC01,event_time=12/04/2010 03:09:20
+problem_num=210,pmh_num=,refcode=#25C1902,status=Closed,first_time=12/04/2010 03:09:13,last_time=12/04/2010 03:09:13,sys_name=IBMHMC01,sys_mtms=9131-52A/06A1E5G,enclosure_mtms=9131-52A/06A1E5G,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/04/2010 03:09:13,reporting_name=IBMHMC01,reporting_mtms=9131-52A/06A1E5G,failing_mtms=9131-52A/06A1E5G,analyzing_hmc=IBMHMC01,event_time=12/04/2010 03:04:23
+problem_num=209,pmh_num=,refcode=#25C3902,status=Closed,first_time=12/04/2010 03:02:52,last_time=12/04/2010 03:02:52,sys_name=P55A-14B-zhylqz2-SN067E87H,sys_mtms=9133-55A/067E87H,enclosure_mtms=9133-55A/067E87H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/04/2010 03:02:52,reporting_name=P55A-14B-zhylqz2-SN067E87H,reporting_mtms=9133-55A/067E87H,failing_mtms=9133-55A/067E87H,analyzing_hmc=IBMHMC01,event_time=12/04/2010 02:55:54
+problem_num=208,pmh_num=,refcode=#25C1902,status=Closed,first_time=12/04/2010 02:56:08,last_time=12/04/2010 02:56:08,sys_name=P55A-5A-SFHC-A-SN063A35H,sys_mtms=9133-55A/063A35H,enclosure_mtms=9133-55A/063A35H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/04/2010 02:56:08,reporting_name=P55A-5A-SFHC-A-SN063A35H,reporting_mtms=9133-55A/063A35H,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=12/04/2010 02:55:57
+problem_num=207,pmh_num=,refcode=#25C3902,status=Closed,first_time=12/04/2010 02:51:23,last_time=12/04/2010 02:51:23,sys_name=P55A-14A-zhylqz1-SN067E62H,sys_mtms=9133-55A/067E62H,enclosure_mtms=9133-55A/067E62H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/04/2010 02:51:23,reporting_name=P55A-14A-zhylqz1-SN067E62H,reporting_mtms=9133-55A/067E62H,failing_mtms=9133-55A/067E62H,analyzing_hmc=IBMHMC01,event_time=12/04/2010 02:16:40
+problem_num=206,pmh_num=,refcode=#25C1902,status=Closed,first_time=12/04/2010 02:51:22,last_time=12/04/2010 02:55:56,sys_name=P55A-14A-zhylqz1-SN067E62H,sys_mtms=9133-55A/067E62H,enclosure_mtms=9133-55A/067E62H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/04/2010 02:51:22,reporting_name=P55A-14A-zhylqz1-SN067E62H,reporting_mtms=9133-55A/067E62H,failing_mtms=9133-55A/067E62H,analyzing_hmc=IBMHMC01,event_time=12/04/2010 02:16:43
+problem_num=205,pmh_num=,refcode=#25C3902,status=Closed,first_time=12/04/2010 02:50:55,last_time=12/04/2010 02:50:55,sys_name=P55A-5A-SFHC-A-SN063A35H,sys_mtms=9133-55A/063A35H,enclosure_mtms=9133-55A/063A35H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/04/2010 02:50:55,reporting_name=P55A-5A-SFHC-A-SN063A35H,reporting_mtms=9133-55A/063A35H,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=12/04/2010 02:16:45
+problem_num=204,pmh_num=,refcode=#25C3902,status=Closed,first_time=12/04/2010 02:50:34,last_time=12/04/2010 02:50:34,sys_name=P55A-6B-SFCGBJ-SN06210FH,sys_mtms=9133-55A/06210FH,enclosure_mtms=9133-55A/06210FH,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/04/2010 02:50:34,reporting_name=P55A-6B-SFCGBJ-SN06210FH,reporting_mtms=9133-55A/06210FH,failing_mtms=9133-55A/06210FH,analyzing_hmc=IBMHMC01,event_time=12/04/2010 02:16:39
+problem_num=203,pmh_num=,refcode=#25C1902,status=Closed,first_time=12/04/2010 02:50:32,last_time=12/04/2010 02:56:07,sys_name=P55A-6B-SFCGBJ-SN06210FH,sys_mtms=9133-55A/06210FH,enclosure_mtms=9133-55A/06210FH,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/04/2010 02:50:32,reporting_name=P55A-6B-SFCGBJ-SN06210FH,reporting_mtms=9133-55A/06210FH,failing_mtms=9133-55A/06210FH,analyzing_hmc=IBMHMC01,event_time=12/04/2010 02:16:42
+problem_num=202,pmh_num=,refcode=#25C1902,status=Closed,first_time=12/04/2010 02:50:29,last_time=12/04/2010 02:50:29,sys_name=P55A-14B-zhylqz2-SN067E87H,sys_mtms=9133-55A/067E87H,enclosure_mtms=9133-55A/067E87H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/04/2010 02:50:29,reporting_name=P55A-14B-zhylqz2-SN067E87H,reporting_mtms=9133-55A/067E87H,failing_mtms=9133-55A/067E87H,analyzing_hmc=IBMHMC01,event_time=12/04/2010 02:16:41
+problem_num=201,pmh_num=,refcode=#25C1902,status=Closed,first_time=12/04/2010 02:50:15,last_time=12/04/2010 03:01:43,sys_name=192.168.0.218,sys_mtms=9117-570/6549BBC,enclosure_mtms=9117-570/6549BBC,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/04/2010 02:50:15,reporting_name=192.168.0.218,reporting_mtms=9117-570/6549BBC,failing_mtms=9117-570/6549BBC,analyzing_hmc=IBMHMC01,event_time=12/04/2010 02:16:42
+problem_num=200,pmh_num=,refcode=#25C1902,status=Closed,first_time=12/04/2010 02:50:14,last_time=12/04/2010 02:55:58,sys_name=192.168.0.118,sys_mtms=9117-570/6549A9C,enclosure_mtms=9117-570/6549A9C,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/04/2010 02:50:14,reporting_name=192.168.0.118,reporting_mtms=9117-570/6549A9C,failing_mtms=9117-570/6549A9C,analyzing_hmc=IBMHMC01,event_time=12/04/2010 02:16:46
+problem_num=199,pmh_num=,refcode=#25C3902,status=Closed,first_time=12/04/2010 02:50:14,last_time=12/04/2010 02:50:14,sys_name=P570-3B-hxbj2-SN067336F,sys_mtms=9117-570/067336F,enclosure_mtms=9117-570/067336F,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/04/2010 02:50:14,reporting_name=P570-3B-hxbj2-SN067336F,reporting_mtms=9117-570/067336F,failing_mtms=9117-570/067336F,analyzing_hmc=IBMHMC01,event_time=12/04/2010 02:12:19
+problem_num=198,pmh_num=,refcode=#25C0902,status=Closed,first_time=12/04/2010 02:50:12,last_time=12/04/2010 03:02:48,sys_name=P570-3B-hxbj2-SN067336F,sys_mtms=9117-570/067336F,enclosure_mtms=9117-570/067336F,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/04/2010 02:50:12,reporting_name=P570-3B-hxbj2-SN067336F,reporting_mtms=9117-570/067336F,failing_mtms=9117-570/067336F,analyzing_hmc=IBMHMC01,event_time=12/04/2010 02:12:22
+problem_num=197,pmh_num=,refcode=#25C0902,status=Closed,first_time=12/04/2010 02:50:11,last_time=12/04/2010 02:56:04,sys_name=P570-3A-itmdata-SN067335F,sys_mtms=9117-570/067335F,enclosure_mtms=9117-570/067335F,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/04/2010 02:50:11,reporting_name=P570-3A-itmdata-SN067335F,reporting_mtms=9117-570/067335F,failing_mtms=9117-570/067335F,analyzing_hmc=IBMHMC01,event_time=12/04/2010 02:14:27
+problem_num=196,pmh_num=,refcode=#25C1902,status=Closed,first_time=12/04/2010 02:50:11,last_time=12/04/2010 03:02:34,sys_name=P55A-5B-SFHC-B-SN0639EAH,sys_mtms=9133-55A/0639EAH,enclosure_mtms=9133-55A/0639EAH,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/04/2010 02:50:11,reporting_name=P55A-5B-SFHC-B-SN0639EAH,reporting_mtms=9133-55A/0639EAH,failing_mtms=9133-55A/0639EAH,analyzing_hmc=IBMHMC01,event_time=12/04/2010 02:16:41
+problem_num=195,pmh_num=,refcode=B3010002,status=Closed,first_time=12/04/2010 02:35:28,last_time=12/04/2010 02:35:28,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=12/04/2010 02:35:28,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=12/04/2010 02:35:28
+problem_num=194,pmh_num=,refcode=B3100500,status=Closed,first_time=12/04/2010 02:16:34,last_time=12/04/2010 02:16:34,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=7310-CR4/062C41B,firmware_fix=,"text=Device Driver Message: Dec  4 02:16:34 IBMHMC01 kernel: e1000: eth0: e1000_watchdog: NIC Link is Down
+",created_time=12/04/2010 02:16:34,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=7310-CR4/062C41B,analyzing_hmc=IBMHMC01,event_time=12/04/2010 02:16:34
+problem_num=193,pmh_num=,refcode=B3030001,status=Closed,first_time=12/03/2010 00:27:30,last_time=12/03/2010 00:27:30,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9113-550/06E17DB,firmware_fix=,"text=FSP,BPA or BPC did not respond",created_time=12/03/2010 00:27:30,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9113-550/06E17DB,analyzing_hmc=IBMHMC01,event_time=12/03/2010 00:27:30
+problem_num=192,pmh_num=,refcode=B3030001,status=Closed,first_time=12/02/2010 23:55:57,last_time=12/02/2010 23:55:57,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9113-550/06E17DB,firmware_fix=,"text=FSP,BPA or BPC did not respond",created_time=12/02/2010 23:55:57,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9113-550/06E17DB,analyzing_hmc=IBMHMC01,event_time=12/02/2010 23:55:56
+problem_num=191,pmh_num=,refcode=B3030001,status=Closed,first_time=12/01/2010 22:05:17,last_time=12/01/2010 22:05:17,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9113-550/06E17DB,firmware_fix=,"text=FSP,BPA or BPC did not respond",created_time=12/01/2010 22:05:17,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9113-550/06E17DB,analyzing_hmc=IBMHMC01,event_time=12/01/2010 22:05:17
+problem_num=190,pmh_num=,refcode=B3030001,status=Closed,first_time=10/15/2010 18:47:11,last_time=10/15/2010 18:47:11,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9113-550/06E17DB,firmware_fix=,"text=FSP,BPA or BPC did not respond",created_time=10/15/2010 18:47:11,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9113-550/06E17DB,analyzing_hmc=IBMHMC01,event_time=10/15/2010 18:47:11
+problem_num=189,pmh_num=,refcode=E3D43104,status=Closed,first_time=10/09/2010 02:17:13,last_time=05/13/2011 22:53:35,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=7310-CR4/062C41B,firmware_fix=,text=Licensed internal code has detected a problem.,created_time=10/09/2010 02:17:13,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=7310-CR4/062C41B,analyzing_hmc=IBMHMC01,event_time=10/09/2010 02:17:13
+problem_num=188,pmh_num=,refcode=453-129,status=Closed,first_time=10/09/2010 02:12:28,last_time=12/02/2010 23:44:49,sys_name=P550-01A-zhylqs1-SN06E17DB,sys_mtms=9113-550/06E17DB,enclosure_mtms=9113-550/06E17DB,firmware_fix=,text=Error log analysis indicates a SCSI bus problem.,created_time=10/09/2010 02:12:28,reporting_name=P550-01A-zhylqs1-SN06E17DB,reporting_mtms=9113-550/06E17DB,failing_mtms=9113-550/06E17DB,analyzing_hmc=IBMHMC01,event_time=10/09/2010 02:10:13
+problem_num=187,pmh_num=,refcode=#25C3902,status=Closed,first_time=05/10/2010 02:35:40,last_time=05/20/2010 02:17:51,sys_name=P550-01A-zhylqs1-SN06E17DB,sys_mtms=9113-550/06E17DB,enclosure_mtms=9113-550/06E17DB,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=05/10/2010 02:35:40,reporting_name=P550-01A-zhylqs1-SN06E17DB,reporting_mtms=9113-550/06E17DB,failing_mtms=9113-550/06E17DB,analyzing_hmc=IBMHMC01,event_time=05/10/2010 02:22:16
+problem_num=186,pmh_num=,refcode=2645-129,status=Closed,first_time=04/10/2010 13:10:07,last_time=04/10/2010 13:10:07,sys_name=192.168.0.118,sys_mtms=9117-570/6549A9C,enclosure_mtms=9117-570/6549A9C,firmware_fix=,text=Error log analysis indicates a SCSI bus problem.,created_time=04/10/2010 13:10:07,reporting_name=192.168.0.118,reporting_mtms=9117-570/6549A9C,failing_mtms=9117-570/6549A9C,analyzing_hmc=IBMHMC01,event_time=04/10/2010 12:50:30
+problem_num=185,pmh_num=,refcode=B159A070,status=Closed,first_time=04/03/2010 20:01:03,last_time=04/03/2010 20:01:03,sys_name=P55A-6A-SFCGSCJ-SN062148H,sys_mtms=9133-55A/062148H,enclosure_mtms=9133-55A/062148H,firmware_fix=,text=CEC hardware (0x59): Predictive Error (0x20),created_time=04/03/2010 20:01:03,reporting_name=P55A-6A-SFCGSCJ-SN062148H,reporting_mtms=9133-55A/062148H,failing_mtms=9133-55A/062148H,analyzing_hmc=IBMHMC01,event_time=04/03/2010 19:47:15
+problem_num=184,pmh_num=,refcode=777127,status=Closed,first_time=03/30/2010 17:53:28,last_time=04/03/2010 20:59:52,sys_name=P55A-6A-SFCGSCJ-SN062148H,sys_mtms=9133-55A/062148H,enclosure_mtms=9133-55A/062148H,firmware_fix=,"text=Error Log Analysis indicates an array controller cache battery failure.
+Refer to the 2102 Model F10 Service Guide for more information.",created_time=03/30/2010 17:53:28,reporting_name=P55A-6A-SFCGSCJ-SN062148H,reporting_mtms=9133-55A/062148H,failing_mtms=9133-55A/062148H,analyzing_hmc=IBMHMC01,event_time=02/20/2010 14:46:56
+problem_num=183,pmh_num=,refcode=777127,status=Closed,first_time=02/20/2010 15:10:42,last_time=06/08/2010 10:16:31,sys_name=P55A-6B-SFCGBJ-SN06210FH,sys_mtms=9133-55A/06210FH,enclosure_mtms=9133-55A/06210FH,firmware_fix=,"text=Error Log Analysis indicates an array controller cache battery failure.
+Refer to the 2102 Model F10 Service Guide for more information.",created_time=02/20/2010 15:10:42,reporting_name=P55A-6B-SFCGBJ-SN06210FH,reporting_mtms=9133-55A/06210FH,failing_mtms=9133-55A/06210FH,analyzing_hmc=IBMHMC01,event_time=02/20/2010 14:55:02
+problem_num=182,pmh_num=,refcode=777127,status=Closed,first_time=02/20/2010 15:09:43,last_time=04/03/2010 21:01:53,sys_name=P55A-5B-SFHC-B-SN0639EAH,sys_mtms=9133-55A/0639EAH,enclosure_mtms=9133-55A/0639EAH,firmware_fix=,"text=Error Log Analysis indicates an array controller cache battery failure.
+Refer to the 2102 Model F10 Service Guide for more information.",created_time=02/20/2010 15:09:43,reporting_name=P55A-5B-SFHC-B-SN0639EAH,reporting_mtms=9133-55A/0639EAH,failing_mtms=9133-55A/0639EAH,analyzing_hmc=IBMHMC01,event_time=02/20/2010 14:56:24
+problem_num=181,pmh_num=,refcode=777127,status=Closed,first_time=02/20/2010 15:09:38,last_time=04/03/2010 21:02:46,sys_name=P55A-5A-SFHC-A-SN063A35H,sys_mtms=9133-55A/063A35H,enclosure_mtms=9133-55A/063A35H,firmware_fix=,"text=Error Log Analysis indicates an array controller cache battery failure.
+Refer to the 2102 Model F10 Service Guide for more information.",created_time=02/20/2010 15:09:38,reporting_name=P55A-5A-SFHC-A-SN063A35H,reporting_mtms=9133-55A/063A35H,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=02/20/2010 14:52:33
+problem_num=180,pmh_num=,refcode=B3030001,status=Closed,first_time=02/10/2010 19:33:23,last_time=02/10/2010 19:33:23,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/06210FH,firmware_fix=,"text=FSP,BPA or BPC did not respond",created_time=02/10/2010 19:33:23,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/06210FH,analyzing_hmc=IBMHMC01,event_time=02/10/2010 19:33:23
+problem_num=179,pmh_num=,refcode=2646-129,status=Closed,first_time=02/09/2010 03:55:14,last_time=02/09/2010 03:55:14,sys_name=P55A-6B-SFCGBJ-SN06210FH,sys_mtms=9133-55A/06210FH,enclosure_mtms=9133-55A/06210FH,firmware_fix=,text=Error log analysis indicates a SCSI bus problem.,created_time=02/09/2010 03:55:14,reporting_name=P55A-6B-SFCGBJ-SN06210FH,reporting_mtms=9133-55A/06210FH,failing_mtms=9133-55A/06210FH,analyzing_hmc=IBMHMC01,event_time=02/09/2010 03:39:30
+problem_num=178,pmh_num=,refcode=B3030001,status=Closed,first_time=12/09/2009 22:12:07,last_time=12/09/2009 22:12:07,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/06210FH,firmware_fix=,"text=A connection to a FSP,BPA or BPC was dropped",created_time=12/09/2009 22:12:07,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/06210FH,analyzing_hmc=IBMHMC01,event_time=12/09/2009 22:12:07
+problem_num=177,pmh_num=,refcode=2646-129,status=Closed,first_time=12/09/2009 21:56:03,last_time=12/09/2009 21:56:03,sys_name=P55A-6B-SFCGBJ-SN06210FH,sys_mtms=9133-55A/06210FH,enclosure_mtms=9133-55A/06210FH,firmware_fix=,text=Error log analysis indicates a SCSI bus problem.,created_time=12/09/2009 21:56:03,reporting_name=P55A-6B-SFCGBJ-SN06210FH,reporting_mtms=9133-55A/06210FH,failing_mtms=9133-55A/06210FH,analyzing_hmc=IBMHMC01,event_time=12/09/2009 21:38:10
+problem_num=176,pmh_num=,refcode=2522-721,status=Closed,first_time=12/09/2009 21:56:03,last_time=12/09/2009 21:56:03,sys_name=P55A-6B-SFCGBJ-SN06210FH,sys_mtms=9133-55A/06210FH,enclosure_mtms=9133-55A/06210FH,firmware_fix=,text=Temporary adapter detected device bus failure.,created_time=12/09/2009 21:56:03,reporting_name=P55A-6B-SFCGBJ-SN06210FH,reporting_mtms=9133-55A/06210FH,failing_mtms=9133-55A/06210FH,analyzing_hmc=IBMHMC01,event_time=12/09/2009 21:38:04
+problem_num=175,pmh_num=,refcode=B3030001,status=Closed,first_time=12/09/2009 21:34:56,last_time=12/09/2009 21:34:56,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/06210FH,firmware_fix=,"text=FSP,BPA or BPC did not respond",created_time=12/09/2009 21:34:56,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/06210FH,analyzing_hmc=IBMHMC01,event_time=12/09/2009 21:34:56
+problem_num=174,pmh_num=,refcode=459-320,status=Closed,first_time=11/12/2009 22:01:24,last_time=11/12/2009 22:01:24,sys_name=P55A-5A-SFHC-A-SN063A35H,sys_mtms=9133-55A/063A35H,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Error Log Analysis indicates a permanent hardware failure.,created_time=11/12/2009 22:01:24,reporting_name=P55A-5A-SFHC-A-SN063A35H,reporting_mtms=9133-55A/063A35H,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=11/12/2009 21:45:41
+problem_num=173,pmh_num=,refcode=803-25C1,status=Closed,first_time=08/31/2009 23:46:31,last_time=08/31/2009 23:47:44,sys_name=IBMHMC01,sys_mtms=9131-52A/06A1E5G,enclosure_mtms=9131-52A/06A1E5G,firmware_fix=,text=A software error was encountered while running the Diagnostic Application on ent0.,created_time=08/31/2009 23:46:31,reporting_name=IBMHMC01,reporting_mtms=9131-52A/06A1E5G,failing_mtms=9131-52A/06A1E5G,analyzing_hmc=IBMHMC01,event_time=09/01/2009 00:25:42
+problem_num=172,pmh_num=,refcode=803-25C1,status=Closed,first_time=08/31/2009 23:45:52,last_time=08/31/2009 23:49:02,sys_name=IBMHMC01,sys_mtms=9133-55A/066709H,enclosure_mtms=9133-55A/066709H,firmware_fix=,text=A software error was encountered while running the Diagnostic Application on ent3.,created_time=08/31/2009 23:45:52,reporting_name=IBMHMC01,reporting_mtms=9133-55A/066709H,failing_mtms=9133-55A/066709H,analyzing_hmc=IBMHMC01,event_time=08/13/2009 09:28:08
+problem_num=171,pmh_num=,refcode=#25C3902,status=Closed,first_time=08/31/2009 16:40:06,last_time=08/31/2009 16:40:06,sys_name=IBMHMC01,sys_mtms=9131-52A/06A1E5G,enclosure_mtms=9131-52A/06A1E5G,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=08/31/2009 16:40:06,reporting_name=IBMHMC01,reporting_mtms=9131-52A/06A1E5G,failing_mtms=9131-52A/06A1E5G,analyzing_hmc=IBMHMC01,event_time=08/31/2009 17:11:33
+problem_num=170,pmh_num=,refcode=#25C1902,status=Closed,first_time=08/31/2009 16:40:06,last_time=08/31/2009 16:40:06,sys_name=IBMHMC01,sys_mtms=9131-52A/06A1E5G,enclosure_mtms=9131-52A/06A1E5G,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=08/31/2009 16:40:06,reporting_name=IBMHMC01,reporting_mtms=9131-52A/06A1E5G,failing_mtms=9131-52A/06A1E5G,analyzing_hmc=IBMHMC01,event_time=08/31/2009 17:08:01
+problem_num=169,pmh_num=,refcode=#25C3902,status=Closed,first_time=08/31/2009 16:39:22,last_time=08/31/2009 16:39:22,sys_name=IBMHMC01,sys_mtms=9133-55A/066709H,enclosure_mtms=9133-55A/066709H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=08/31/2009 16:39:22,reporting_name=IBMHMC01,reporting_mtms=9133-55A/066709H,failing_mtms=9133-55A/066709H,analyzing_hmc=IBMHMC01,event_time=08/13/2009 02:14:20
+problem_num=168,pmh_num=,refcode=11001520,status=Closed,first_time=08/31/2009 15:58:28,last_time=08/31/2009 15:58:28,sys_name=IBMHMC01,sys_mtms=9133-55A/066709H,enclosure_mtms=9133-55A/066709H,firmware_fix=,text=Power/Cooling subsystem & control (0x61): Unrecoverable Error (0x44),created_time=08/31/2009 15:58:28,reporting_name=IBMHMC01,reporting_mtms=9133-55A/066709H,failing_mtms=9133-55A/066709H,analyzing_hmc=IBMHMC01,event_time=08/31/2009 15:35:59
+problem_num=167,pmh_num=,refcode=B3030007,status=Closed,first_time=08/31/2009 14:53:04,last_time=08/31/2009 14:53:04,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/066709H,firmware_fix=,"text=HMC to FSP,BPA, or BPC failure detected",created_time=08/31/2009 14:53:04,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/066709H,analyzing_hmc=IBMHMC01,event_time=08/31/2009 14:53:04
+problem_num=166,pmh_num=,refcode=11001510,status=Closed,first_time=08/31/2009 14:49:21,last_time=08/31/2009 15:57:27,sys_name=IBMHMC01,sys_mtms=9133-55A/066709H,enclosure_mtms=9133-55A/066709H,firmware_fix=,text=Power/Cooling subsystem & control (0x61): Unrecoverable Error (0x44),created_time=08/31/2009 14:49:21,reporting_name=IBMHMC01,reporting_mtms=9133-55A/066709H,failing_mtms=9133-55A/066709H,analyzing_hmc=IBMHMC01,event_time=08/31/2009 14:26:52
+problem_num=165,pmh_num=,refcode=B3030007,status=Closed,first_time=08/28/2009 13:53:13,last_time=08/28/2009 13:53:13,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/066709H,firmware_fix=,"text=HMC to FSP,BPA, or BPC failure detected",created_time=08/28/2009 13:53:13,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/066709H,analyzing_hmc=IBMHMC01,event_time=08/28/2009 13:53:13
+problem_num=164,pmh_num=,refcode=B200E0AA,status=Closed,first_time=08/27/2009 10:58:59,last_time=08/27/2009 10:58:59,sys_name=IBMHMC01,sys_mtms=9131-52A/06A1E5G,enclosure_mtms=9131-52A/06A1E5G,firmware_fix=,text=Platform firmware (0x82): Unrecoverable Error (0x40),created_time=08/27/2009 10:58:59,reporting_name=IBMHMC01,reporting_mtms=9131-52A/06A1E5G,failing_mtms=9131-52A/06A1E5G,analyzing_hmc=IBMHMC01,event_time=08/28/2009 00:38:38
+problem_num=163,pmh_num=,refcode=B3030001,status=Closed,first_time=08/25/2009 15:05:35,last_time=08/25/2009 15:05:35,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/066709H,firmware_fix=,"text=FSP,BPA or BPC did not respond",created_time=08/25/2009 15:05:35,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/066709H,analyzing_hmc=IBMHMC01,event_time=08/25/2009 15:05:35
+problem_num=162,pmh_num=,refcode=B3030001,status=Closed,first_time=08/25/2009 11:07:04,last_time=08/25/2009 11:07:04,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/066709H,firmware_fix=,"text=FSP,BPA or BPC did not respond",created_time=08/25/2009 11:07:04,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/066709H,analyzing_hmc=IBMHMC01,event_time=08/25/2009 11:07:04
+problem_num=161,pmh_num=,refcode=#25C3902,status=Closed,first_time=08/22/2009 01:14:49,last_time=12/05/2009 02:47:46,sys_name=P570-3A-itmdata-SN067335F,sys_mtms=9117-570/067335F,enclosure_mtms=9117-570/067335F,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=08/22/2009 01:14:49,reporting_name=P570-3A-itmdata-SN067335F,reporting_mtms=9117-570/067335F,failing_mtms=9117-570/067335F,analyzing_hmc=IBMHMC01,event_time=08/22/2009 00:59:03
+problem_num=160,pmh_num=,refcode=2522-721,status=Closed,first_time=08/12/2009 20:53:46,last_time=08/12/2009 20:53:46,sys_name=P550-01A-zhylqs1-SN06E17DB,sys_mtms=9113-550/06E17DB,enclosure_mtms=9113-550/06E17DB,firmware_fix=,text=Temporary adapter detected device bus failure.,created_time=08/12/2009 20:53:46,reporting_name=P550-01A-zhylqs1-SN06E17DB,reporting_mtms=9113-550/06E17DB,failing_mtms=9113-550/06E17DB,analyzing_hmc=IBMHMC01,event_time=08/12/2009 20:31:11
+problem_num=159,pmh_num=,refcode=453-129,status=Closed,first_time=08/12/2009 20:51:33,last_time=09/30/2010 02:12:32,sys_name=P550-01A-zhylqs1-SN06E17DB,sys_mtms=9113-550/06E17DB,enclosure_mtms=9113-550/06E17DB,firmware_fix=,text=Error log analysis indicates a SCSI bus problem.,created_time=08/12/2009 20:51:33,reporting_name=P550-01A-zhylqs1-SN06E17DB,reporting_mtms=9113-550/06E17DB,failing_mtms=9113-550/06E17DB,analyzing_hmc=IBMHMC01,event_time=08/12/2009 20:31:02
+problem_num=158,pmh_num=,refcode=B3030007,status=Closed,first_time=08/12/2009 11:26:40,last_time=08/12/2009 11:26:40,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9113-550/06E18DB,firmware_fix=,"text=HMC to FSP,BPA, or BPC failure detected",created_time=08/12/2009 11:26:40,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9113-550/06E18DB,analyzing_hmc=IBMHMC01,event_time=08/12/2009 11:26:40
+problem_num=157,pmh_num=,refcode=#25C3902,status=Closed,first_time=08/11/2009 17:54:02,last_time=12/05/2009 02:47:58,sys_name=P55A-14A-zhylqz1-SN067E62H,sys_mtms=9133-55A/067E62H,enclosure_mtms=9133-55A/067E62H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=08/11/2009 17:54:02,reporting_name=P55A-14A-zhylqz1-SN067E62H,reporting_mtms=9133-55A/067E62H,failing_mtms=9133-55A/067E62H,analyzing_hmc=IBMHMC01,event_time=08/11/2009 17:34:43
+problem_num=156,pmh_num=,refcode=#25C3902,status=Closed,first_time=08/11/2009 17:31:43,last_time=08/11/2009 17:31:43,sys_name=P55A-14B-zhylqz2-SN067E87H,sys_mtms=9133-55A/067E87H,enclosure_mtms=9133-55A/067E87H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=08/11/2009 17:31:43,reporting_name=P55A-14B-zhylqz2-SN067E87H,reporting_mtms=9133-55A/067E87H,failing_mtms=9133-55A/067E87H,analyzing_hmc=IBMHMC01,event_time=08/11/2009 17:11:22
+problem_num=155,pmh_num=,refcode=B3030001,status=Closed,first_time=08/11/2009 17:07:31,last_time=08/11/2009 17:07:31,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/066709H,firmware_fix=,text=An HMC connect failed,created_time=08/11/2009 17:07:31,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/066709H,analyzing_hmc=IBMHMC01,event_time=08/11/2009 17:07:31
+problem_num=154,pmh_num=,refcode=11001520,status=Closed,first_time=08/11/2009 16:54:41,last_time=08/11/2009 16:54:41,sys_name=P55A-14A-zhylqz1-SN067E62H,sys_mtms=9133-55A/067E62H,enclosure_mtms=9133-55A/067E62H,firmware_fix=,text=Power/Cooling subsystem & control (0x61): Unrecoverable Error (0x44),created_time=08/11/2009 16:54:41,reporting_name=P55A-14A-zhylqz1-SN067E62H,reporting_mtms=9133-55A/067E62H,failing_mtms=9133-55A/067E62H,analyzing_hmc=IBMHMC01,event_time=08/11/2009 16:43:06
+problem_num=153,pmh_num=,refcode=B181201B,status=Closed,first_time=08/11/2009 16:48:39,last_time=08/11/2009 16:48:39,sys_name=P55A-14A-zhylqz1-SN067E62H,sys_mtms=9133-55A/067E62H,enclosure_mtms=9133-55A/067E62H,firmware_fix=,text=Platform firmware (0x81): Predictive Error (0x20),created_time=08/11/2009 16:48:39,reporting_name=P55A-14A-zhylqz1-SN067E62H,reporting_mtms=9133-55A/067E62H,failing_mtms=9133-55A/067E62H,analyzing_hmc=IBMHMC01,event_time=08/11/2009 16:36:58
+problem_num=152,pmh_num=,refcode=11001510,status=Closed,first_time=08/11/2009 16:48:27,last_time=08/11/2009 16:48:27,sys_name=P55A-14A-zhylqz1-SN067E62H,sys_mtms=9133-55A/067E62H,enclosure_mtms=9133-55A/067E62H,firmware_fix=,text=Power/Cooling subsystem & control (0x61): Unrecoverable Error (0x44),created_time=08/11/2009 16:48:27,reporting_name=P55A-14A-zhylqz1-SN067E62H,reporting_mtms=9133-55A/067E62H,failing_mtms=9133-55A/067E62H,analyzing_hmc=IBMHMC01,event_time=08/11/2009 16:36:43
+problem_num=151,pmh_num=,refcode=B303000F,status=Closed,first_time=07/10/2009 20:29:46,last_time=07/10/2009 20:29:46,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=07/10/2009 20:29:46,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=07/10/2009 20:29:46
+problem_num=150,pmh_num=,refcode=B303000F,status=Closed,first_time=07/09/2009 18:09:52,last_time=07/09/2009 18:09:52,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=07/09/2009 18:09:52,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=07/09/2009 18:09:52
+problem_num=149,pmh_num=,refcode=B303000F,status=Closed,first_time=07/05/2009 01:38:42,last_time=07/05/2009 01:38:42,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=07/05/2009 01:38:42,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=07/05/2009 01:38:42
+problem_num=148,pmh_num=,refcode=B303000F,status=Closed,first_time=07/05/2009 01:13:42,last_time=07/05/2009 01:13:42,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=07/05/2009 01:13:42,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=07/05/2009 01:13:42
+problem_num=147,pmh_num=,refcode=B303000F,status=Closed,first_time=07/05/2009 00:30:33,last_time=07/05/2009 00:30:33,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=07/05/2009 00:30:33,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=07/05/2009 00:30:33
+problem_num=146,pmh_num=,refcode=B303000F,status=Closed,first_time=06/28/2009 18:21:08,last_time=06/28/2009 18:21:08,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=06/28/2009 18:21:08,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=06/28/2009 18:21:08
+problem_num=145,pmh_num=,refcode=B3010002,status=Closed,first_time=06/28/2009 16:58:10,last_time=06/28/2009 16:58:10,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=06/28/2009 16:58:10,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=06/28/2009 16:58:09
+problem_num=144,pmh_num=,refcode=B303000F,status=Closed,first_time=06/28/2009 07:46:44,last_time=06/28/2009 07:46:44,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=06/28/2009 07:46:44,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=06/28/2009 07:46:44
+problem_num=143,pmh_num=,refcode=B303000F,status=Closed,first_time=06/28/2009 03:30:28,last_time=06/28/2009 03:30:28,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=06/28/2009 03:30:28,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=06/28/2009 03:30:28
+problem_num=142,pmh_num=,refcode=B3010002,status=Closed,first_time=06/28/2009 00:56:40,last_time=06/28/2009 00:56:40,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=06/28/2009 00:56:40,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=06/28/2009 00:56:40
+problem_num=141,pmh_num=,refcode=B303000F,status=Closed,first_time=06/28/2009 00:27:53,last_time=06/28/2009 00:27:53,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=06/28/2009 00:27:53,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=06/28/2009 00:27:53
+problem_num=140,pmh_num=,refcode=11001520,status=Closed,first_time=06/25/2009 14:39:05,last_time=06/25/2009 14:39:05,sys_name=P55A-14B-zhylqz2-SN067E87H,sys_mtms=9133-55A/067E87H,enclosure_mtms=9133-55A/067E87H,firmware_fix=,text=Power/Cooling subsystem & control (0x61): Unrecoverable Error (0x44),created_time=06/25/2009 14:39:05,reporting_name=P55A-14B-zhylqz2-SN067E87H,reporting_mtms=9133-55A/067E87H,failing_mtms=9133-55A/067E87H,analyzing_hmc=IBMHMC01,event_time=06/25/2009 14:24:47
+problem_num=139,pmh_num=,refcode=11001520,status=Closed,first_time=06/25/2009 14:37:28,last_time=06/25/2009 14:37:28,sys_name=P55A-14A-zhylqz1-SN067E62H,sys_mtms=9133-55A/067E62H,enclosure_mtms=9133-55A/067E62H,firmware_fix=,text=Power/Cooling subsystem & control (0x61): Unrecoverable Error (0x44),created_time=06/25/2009 14:37:28,reporting_name=P55A-14A-zhylqz1-SN067E62H,reporting_mtms=9133-55A/067E62H,failing_mtms=9133-55A/067E62H,analyzing_hmc=IBMHMC01,event_time=06/25/2009 14:26:57
+problem_num=138,pmh_num=,refcode=11001510,status=Closed,first_time=06/25/2009 14:35:13,last_time=06/25/2009 14:35:13,sys_name=IBMHMC01,sys_mtms=9133-55A/066709H,enclosure_mtms=9133-55A/066709H,firmware_fix=,text=Power/Cooling subsystem & control (0x61): Unrecoverable Error (0x44),created_time=06/25/2009 14:35:13,reporting_name=IBMHMC01,reporting_mtms=9133-55A/066709H,failing_mtms=9133-55A/066709H,analyzing_hmc=IBMHMC01,event_time=06/25/2009 14:14:12
+problem_num=137,pmh_num=,refcode=11001510,status=Closed,first_time=06/25/2009 14:32:04,last_time=06/25/2009 14:32:04,sys_name=P55A-14B-zhylqz2-SN067E87H,sys_mtms=9133-55A/067E87H,enclosure_mtms=9133-55A/067E87H,firmware_fix=,text=Power/Cooling subsystem & control (0x61): Unrecoverable Error (0x44),created_time=06/25/2009 14:32:04,reporting_name=P55A-14B-zhylqz2-SN067E87H,reporting_mtms=9133-55A/067E87H,failing_mtms=9133-55A/067E87H,analyzing_hmc=IBMHMC01,event_time=06/25/2009 14:17:28
+problem_num=136,pmh_num=,refcode=B3030001,status=Closed,first_time=06/25/2009 14:25:58,last_time=06/25/2009 14:25:58,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/067E87H,firmware_fix=,text=An HMC connect failed,created_time=06/25/2009 14:25:58,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/067E87H,analyzing_hmc=IBMHMC01,event_time=06/25/2009 14:25:58
+problem_num=135,pmh_num=,refcode=B3030001,status=Closed,first_time=06/25/2009 14:06:26,last_time=06/25/2009 14:06:26,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/067E62H,firmware_fix=,"text=A connection to a FSP,BPA or BPC was dropped",created_time=06/25/2009 14:06:26,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/067E62H,analyzing_hmc=IBMHMC01,event_time=06/25/2009 14:06:26
+problem_num=134,pmh_num=,refcode=B303000F,status=Closed,first_time=02/28/2009 10:35:16,last_time=02/28/2009 10:35:16,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=02/28/2009 10:35:16,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=02/28/2009 10:35:16
+problem_num=133,pmh_num=,refcode=B3030001,status=Closed,first_time=02/06/2009 23:22:38,last_time=02/06/2009 23:30:29,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=0-0/0,firmware_fix=,text=An HMC connect failed,created_time=02/06/2009 23:22:38,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=0-0/0,analyzing_hmc=IBMHMC01,event_time=02/06/2009 23:22:38
+problem_num=132,pmh_num=,refcode=#25C3902,status=Closed,first_time=11/29/2008 12:41:49,last_time=12/05/2009 03:36:04,sys_name=P55A-6B-SFCGBJ-SN06210FH,sys_mtms=9133-55A/06210FH,enclosure_mtms=9133-55A/06210FH,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=11/29/2008 12:41:49,reporting_name=P55A-6B-SFCGBJ-SN06210FH,reporting_mtms=9133-55A/06210FH,failing_mtms=9133-55A/06210FH,analyzing_hmc=IBMHMC01,event_time=11/29/2008 12:34:06
+problem_num=131,pmh_num=,refcode=#25C3902,status=Closed,first_time=11/17/2008 20:33:58,last_time=08/22/2009 01:25:04,sys_name=P55A-5B-SFHC-B-SN0639EAH,sys_mtms=9133-55A/0639EAH,enclosure_mtms=9133-55A/0639EAH,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=11/17/2008 20:33:58,reporting_name=P55A-5B-SFHC-B-SN0639EAH,reporting_mtms=9133-55A/0639EAH,failing_mtms=9133-55A/0639EAH,analyzing_hmc=IBMHMC01,event_time=11/17/2008 20:26:57
+problem_num=130,pmh_num=,refcode=B303000F,status=Closed,first_time=11/17/2008 20:28:27,last_time=11/17/2008 20:28:27,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=11/17/2008 20:28:27,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=11/17/2008 20:28:27
+problem_num=129,pmh_num=,refcode=#25C3902,status=Closed,first_time=11/17/2008 20:05:46,last_time=07/03/2009 13:15:18,sys_name=P55A-5A-SFHC-A-SN063A35H,sys_mtms=9133-55A/063A35H,enclosure_mtms=9133-55A/063A35H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=11/17/2008 20:05:46,reporting_name=P55A-5A-SFHC-A-SN063A35H,reporting_mtms=9133-55A/063A35H,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=11/17/2008 19:58:38
+problem_num=128,pmh_num=,refcode=E3D43104,status=Closed,first_time=10/08/2008 21:07:23,last_time=04/10/2010 13:21:46,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=7310-CR4/062C41B,firmware_fix=,text=Licensed internal code has detected a problem.,created_time=10/08/2008 21:07:23,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=7310-CR4/062C41B,analyzing_hmc=IBMHMC01,event_time=10/08/2008 21:07:23
+problem_num=127,pmh_num=,refcode=B3030001,status=Closed,first_time=10/08/2008 20:41:17,last_time=10/08/2008 20:41:17,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9117-570/6549BBC,firmware_fix=,"text=FSP,BPA or BPC did not respond",created_time=10/08/2008 20:41:17,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9117-570/6549BBC,analyzing_hmc=IBMHMC01,event_time=10/08/2008 20:41:17
+problem_num=126,pmh_num=,refcode=B3100500,status=Closed,first_time=07/19/2008 02:19:17,last_time=12/05/2009 02:40:47,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=7310-CR4/062C41B,firmware_fix=,"text=Device Driver Message: Jul 19 02:19:17 IBMHMC01 kernel: e1000: eth0: e1000_watchdog: NIC Link is Down
+",created_time=07/19/2008 02:19:17,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=7310-CR4/062C41B,analyzing_hmc=IBMHMC01,event_time=07/19/2008 02:19:17
+problem_num=125,pmh_num=,refcode=#25C1902,status=Closed,first_time=07/19/2008 02:05:32,last_time=12/05/2009 02:47:11,sys_name=P55A-14B-zhylqz2-SN067E87H,sys_mtms=9133-55A/067E87H,enclosure_mtms=9133-55A/067E87H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=07/19/2008 02:05:32,reporting_name=P55A-14B-zhylqz2-SN067E87H,reporting_mtms=9133-55A/067E87H,failing_mtms=9133-55A/067E87H,analyzing_hmc=IBMHMC01,event_time=07/19/2008 01:52:49
+problem_num=124,pmh_num=,refcode=#25C0902,status=Closed,first_time=07/19/2008 02:05:32,last_time=12/05/2009 02:48:07,sys_name=P570-3B-hxbj2-SN067336F,sys_mtms=9117-570/067336F,enclosure_mtms=9117-570/067336F,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=07/19/2008 02:05:32,reporting_name=P570-3B-hxbj2-SN067336F,reporting_mtms=9117-570/067336F,failing_mtms=9117-570/067336F,analyzing_hmc=IBMHMC01,event_time=07/19/2008 01:49:58
+problem_num=123,pmh_num=,refcode=#25C3902,status=Closed,first_time=07/19/2008 02:05:31,last_time=12/05/2009 02:48:07,sys_name=P570-3B-hxbj2-SN067336F,sys_mtms=9117-570/067336F,enclosure_mtms=9117-570/067336F,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=07/19/2008 02:05:31,reporting_name=P570-3B-hxbj2-SN067336F,reporting_mtms=9117-570/067336F,failing_mtms=9117-570/067336F,analyzing_hmc=IBMHMC01,event_time=07/19/2008 01:49:59
+problem_num=122,pmh_num=,refcode=#25C1902,status=Closed,first_time=07/19/2008 02:05:24,last_time=12/05/2009 02:47:59,sys_name=P55A-14A-zhylqz1-SN067E62H,sys_mtms=9133-55A/067E62H,enclosure_mtms=9133-55A/067E62H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=07/19/2008 02:05:24,reporting_name=P55A-14A-zhylqz1-SN067E62H,reporting_mtms=9133-55A/067E62H,failing_mtms=9133-55A/067E62H,analyzing_hmc=IBMHMC01,event_time=07/19/2008 01:53:43
+problem_num=121,pmh_num=,refcode=#25C1902,status=Closed,first_time=07/19/2008 02:04:12,last_time=12/05/2009 02:47:59,sys_name=192.168.0.218,sys_mtms=9117-570/6549BBC,enclosure_mtms=9117-570/6549BBC,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=07/19/2008 02:04:12,reporting_name=192.168.0.218,reporting_mtms=9117-570/6549BBC,failing_mtms=9117-570/6549BBC,analyzing_hmc=IBMHMC01,event_time=07/19/2008 01:45:20
+problem_num=120,pmh_num=,refcode=#25C1902,status=Closed,first_time=07/19/2008 02:04:11,last_time=08/31/2009 16:39:22,sys_name=IBMHMC01,sys_mtms=9133-55A/066709H,enclosure_mtms=9133-55A/066709H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=07/19/2008 02:04:11,reporting_name=IBMHMC01,reporting_mtms=9133-55A/066709H,failing_mtms=9133-55A/066709H,analyzing_hmc=IBMHMC01,event_time=07/10/2008 01:50:31
+problem_num=119,pmh_num=,refcode=#25C1902,status=Closed,first_time=07/19/2008 02:00:49,last_time=12/05/2009 19:10:32,sys_name=P55A-6A-SFCGSCJ-SN062148H,sys_mtms=9133-55A/062148H,enclosure_mtms=9133-55A/062148H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=07/19/2008 02:00:49,reporting_name=P55A-6A-SFCGSCJ-SN062148H,reporting_mtms=9133-55A/062148H,failing_mtms=9133-55A/062148H,analyzing_hmc=IBMHMC01,event_time=07/19/2008 01:51:43
+problem_num=118,pmh_num=,refcode=#25C1902,status=Closed,first_time=07/19/2008 01:58:13,last_time=03/30/2010 18:27:30,sys_name=P55A-6B-SFCGBJ-SN06210FH,sys_mtms=9133-55A/06210FH,enclosure_mtms=9133-55A/06210FH,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=07/19/2008 01:58:13,reporting_name=P55A-6B-SFCGBJ-SN06210FH,reporting_mtms=9133-55A/06210FH,failing_mtms=9133-55A/06210FH,analyzing_hmc=IBMHMC01,event_time=07/19/2008 01:52:52
+problem_num=117,pmh_num=,refcode=#25C1902,status=Closed,first_time=07/19/2008 01:57:54,last_time=12/05/2009 02:47:30,sys_name=192.168.0.118,sys_mtms=9117-570/6549A9C,enclosure_mtms=9117-570/6549A9C,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=07/19/2008 01:57:54,reporting_name=192.168.0.118,reporting_mtms=9117-570/6549A9C,failing_mtms=9117-570/6549A9C,analyzing_hmc=IBMHMC01,event_time=07/19/2008 01:47:48
+problem_num=116,pmh_num=,refcode=#25C1902,status=Closed,first_time=07/19/2008 01:57:53,last_time=12/05/2009 02:47:58,sys_name=P55A-5A-SFHC-A-SN063A35H,sys_mtms=9133-55A/063A35H,enclosure_mtms=9133-55A/063A35H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=07/19/2008 01:57:53,reporting_name=P55A-5A-SFHC-A-SN063A35H,reporting_mtms=9133-55A/063A35H,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=07/19/2008 01:53:09
+problem_num=115,pmh_num=,refcode=#25C1902,status=Closed,first_time=07/19/2008 01:57:53,last_time=12/05/2009 02:47:16,sys_name=P55A-5B-SFHC-B-SN0639EAH,sys_mtms=9133-55A/0639EAH,enclosure_mtms=9133-55A/0639EAH,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=07/19/2008 01:57:53,reporting_name=P55A-5B-SFHC-B-SN0639EAH,reporting_mtms=9133-55A/0639EAH,failing_mtms=9133-55A/0639EAH,analyzing_hmc=IBMHMC01,event_time=07/19/2008 01:53:04
+problem_num=114,pmh_num=,refcode=#25C0902,status=Closed,first_time=07/19/2008 01:57:52,last_time=12/05/2009 02:47:46,sys_name=P570-3A-itmdata-SN067335F,sys_mtms=9117-570/067335F,enclosure_mtms=9117-570/067335F,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=07/19/2008 01:57:52,reporting_name=P570-3A-itmdata-SN067335F,reporting_mtms=9117-570/067335F,failing_mtms=9117-570/067335F,analyzing_hmc=IBMHMC01,event_time=07/19/2008 01:50:12
+problem_num=113,pmh_num=,refcode=A25-001,status=Closed,first_time=06/29/2008 18:15:18,last_time=10/07/2008 07:30:11,sys_name=192.168.0.218,sys_mtms=9117-570/6549BBC,enclosure_mtms=9117-570/6549BBC,firmware_fix=,"text=Platform error, switch network interface extended error data is available.",created_time=06/29/2008 18:15:18,reporting_name=192.168.0.218,reporting_mtms=9117-570/6549BBC,failing_mtms=9117-570/6549BBC,analyzing_hmc=IBMHMC01,event_time=06/29/2008 18:08:31
+problem_num=112,pmh_num=,refcode=B123E500,status=Closed,first_time=06/29/2008 18:13:52,last_time=10/07/2008 07:28:31,sys_name=192.168.0.218,sys_mtms=9117-570/6549BBC,enclosure_mtms=9117-570/6549BBC,firmware_fix=,text=Memory subsystem (0x23): Predictive Error (0x20),created_time=06/29/2008 18:13:52,reporting_name=192.168.0.218,reporting_mtms=9117-570/6549BBC,failing_mtms=9117-570/6549BBC,analyzing_hmc=IBMHMC01,event_time=06/29/2008 18:05:07
+problem_num=111,pmh_num=,refcode=B303000F,status=Closed,first_time=06/20/2008 19:46:19,last_time=06/20/2008 19:46:19,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=06/20/2008 19:46:19,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=06/20/2008 19:46:19
+problem_num=110,pmh_num=,refcode=B303000F,status=Closed,first_time=06/20/2008 01:39:58,last_time=06/20/2008 01:39:58,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=06/20/2008 01:39:58,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=06/20/2008 01:39:58
+problem_num=109,pmh_num=,refcode=B303000F,status=Closed,first_time=06/19/2008 22:50:06,last_time=06/19/2008 22:50:06,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=06/19/2008 22:50:06,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=06/19/2008 22:50:06
+problem_num=108,pmh_num=,refcode=B303000F,status=Closed,first_time=06/19/2008 03:53:21,last_time=06/19/2008 03:53:21,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=06/19/2008 03:53:21,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=06/19/2008 03:53:21
+problem_num=107,pmh_num=,refcode=B303000F,status=Closed,first_time=06/19/2008 00:57:20,last_time=06/19/2008 00:57:20,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=06/19/2008 00:57:20,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=06/19/2008 00:57:20
+problem_num=106,pmh_num=,refcode=B303000F,status=Closed,first_time=06/19/2008 00:34:56,last_time=06/19/2008 00:34:56,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=06/19/2008 00:34:56,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=06/19/2008 00:34:56
+problem_num=105,pmh_num=,refcode=B303000F,status=Closed,first_time=06/18/2008 21:09:56,last_time=06/18/2008 21:09:56,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=06/18/2008 21:09:56,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=06/18/2008 21:09:56
+problem_num=104,pmh_num=,refcode=B303000F,status=Closed,first_time=06/18/2008 19:14:01,last_time=06/18/2008 19:14:01,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=06/18/2008 19:14:01,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=06/18/2008 19:14:01
+problem_num=103,pmh_num=,refcode=B303000F,status=Closed,first_time=06/18/2008 01:50:36,last_time=06/18/2008 01:50:36,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=06/18/2008 01:50:36,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=06/18/2008 01:50:36
+problem_num=102,pmh_num=,refcode=B303000F,status=Closed,first_time=06/17/2008 22:57:21,last_time=06/17/2008 22:57:21,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=06/17/2008 22:57:21,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=06/17/2008 22:57:21
+problem_num=101,pmh_num=,refcode=B303000F,status=Closed,first_time=06/17/2008 18:07:55,last_time=06/17/2008 18:07:55,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=06/17/2008 18:07:55,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=06/17/2008 18:07:55
+problem_num=100,pmh_num=,refcode=B303000F,status=Closed,first_time=05/27/2008 21:01:47,last_time=05/27/2008 21:16:26,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=9133-55A/063A35H,firmware_fix=,text=Communications to the SFP component on partition SFHC-A are unavailable.,created_time=05/27/2008 21:01:47,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=9133-55A/063A35H,analyzing_hmc=IBMHMC01,event_time=05/27/2008 21:01:47
+problem_num=99,pmh_num=,refcode=A25-001,status=Closed,first_time=05/22/2008 01:06:21,last_time=06/24/2008 05:31:42,sys_name=192.168.0.218,sys_mtms=9117-570/6549BBC,enclosure_mtms=9117-570/6549BBC,firmware_fix=,"text=Platform error, switch network interface extended error data is available.",created_time=05/22/2008 01:06:21,reporting_name=192.168.0.218,reporting_mtms=9117-570/6549BBC,failing_mtms=9117-570/6549BBC,analyzing_hmc=IBMHMC01,event_time=05/22/2008 01:00:31
+problem_num=98,pmh_num=,refcode=B123E500,status=Closed,first_time=05/22/2008 01:04:58,last_time=06/24/2008 05:29:43,sys_name=192.168.0.218,sys_mtms=9117-570/6549BBC,enclosure_mtms=9117-570/6549BBC,firmware_fix=,text=Memory subsystem (0x23): Predictive Error (0x20),created_time=05/22/2008 01:04:58,reporting_name=192.168.0.218,reporting_mtms=9117-570/6549BBC,failing_mtms=9117-570/6549BBC,analyzing_hmc=IBMHMC01,event_time=05/22/2008 00:57:05
+problem_num=97,pmh_num=,refcode=#25C1902,status=Closed,first_time=05/14/2008 19:42:58,last_time=05/14/2008 19:46:09,sys_name=192.168.0.118,sys_mtms=9117-570/6549A9C,enclosure_mtms=9117-570/6549A9C,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=05/14/2008 19:42:58,reporting_name=192.168.0.118,reporting_mtms=9117-570/6549A9C,failing_mtms=9117-570/6549A9C,analyzing_hmc=IBMHMC01,event_time=04/12/2008 00:22:04
+problem_num=96,pmh_num=,refcode=B3030001,status=Closed,first_time=05/14/2008 19:01:10,last_time=05/14/2008 19:01:10,sys_name=192.168.0.118,sys_mtms=9117-570/6549A9C,enclosure_mtms=9117-570/6549A9C,firmware_fix=,text=Other subsystem (0x7C): Predictive Error (0x20),created_time=05/14/2008 19:01:10,reporting_name=192.168.0.118,reporting_mtms=9117-570/6549A9C,failing_mtms=9117-570/6549A9C,analyzing_hmc=IBMHMC01,event_time=05/14/2008 18:54:30
+problem_num=95,pmh_num=,refcode=B3030001,status=Closed,first_time=05/14/2008 17:46:19,last_time=05/14/2008 17:46:19,sys_name=IBMHMC01,sys_mtms=7310-CR4/062C41B,enclosure_mtms=0-0/0,firmware_fix=,"text=A connection to a FSP,BPA or BPC was dropped",created_time=05/14/2008 17:46:19,reporting_name=IBMHMC01,reporting_mtms=7310-CR4/062C41B,failing_mtms=0-0/0,analyzing_hmc=IBMHMC01,event_time=05/14/2008 17:46:19
+problem_num=94,pmh_num=,refcode=B3030001,status=Closed,first_time=05/14/2008 16:36:52,last_time=05/14/2008 16:36:52,sys_name=192.168.0.218,sys_mtms=9117-570/6549BBC,enclosure_mtms=9117-570/6549BBC,firmware_fix=,text=Other subsystem (0x7C): Predictive Error (0x20),created_time=05/14/2008 16:36:52,reporting_name=192.168.0.218,reporting_mtms=9117-570/6549BBC,failing_mtms=9117-570/6549BBC,analyzing_hmc=IBMHMC01,event_time=05/14/2008 16:29:10
+problem_num=93,pmh_num=,refcode=#25C1902,status=Closed,first_time=04/28/2008 17:37:04,last_time=04/28/2008 17:37:04,sys_name=P55A-14B-zhylqz2-SN067E87H,sys_mtms=9133-55A/067E87H,enclosure_mtms=9133-55A/067E87H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=04/28/2008 17:37:04,reporting_name=P55A-14B-zhylqz2-SN067E87H,reporting_mtms=9133-55A/067E87H,failing_mtms=9133-55A/067E87H,analyzing_hmc=IBMHMC01,event_time=04/28/2008 17:33:15
+problem_num=92,pmh_num=,refcode=#25C1902,status=Closed,first_time=04/28/2008 17:35:28,last_time=04/28/2008 17:35:28,sys_name=P55A-14A-zhylqz1-SN067E62H,sys_mtms=9133-55A/067E62H,enclosure_mtms=9133-55A/067E62H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=04/28/2008 17:35:28,reporting_name=P55A-14A-zhylqz1-SN067E62H,reporting_mtms=9133-55A/067E62H,failing_mtms=9133-55A/067E62H,analyzing_hmc=IBMHMC01,event_time=04/28/2008 17:34:08
+problem_num=91,pmh_num=,refcode=11001510,status=Closed,first_time=04/26/2008 12:29:42,last_time=04/26/2008 12:29:42,sys_name=IBMHMC01,sys_mtms=9133-55A/066709H,enclosure_mtms=9133-55A/066709H,firmware_fix=,text=Power/Cooling subsystem & control (0x61): Unrecoverable Error (0x44),created_time=04/26/2008 12:29:42,reporting_name=IBMHMC01,reporting_mtms=9133-55A/066709H,failing_mtms=9133-55A/066709H,analyzing_hmc=IBMHMC01,event_time=04/26/2008 12:18:42

@@ -1,0 +1,613 @@
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Fri Dec  7 00:24:44 BEIST 2012
+Sequence Number: 676
+Machine Id:      0006BB6DD600
+Node Id:         qyzx1
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk5          
+Resource Class:  disk
+Resource Type:   SYMM_RAID5_RDF1
+Location:        U787B.001.DNWGB1L-P1-C2-T1-W50060482D53218C8-L73000000000000
+VPD:             
+        Manufacturer................EMC     
+        Machine Type and Model......SYMMETRIX       
+        ROS Level and ID............5773
+        Serial Number...............9927D000
+        Part Number.................000000000000570008000190
+        EC Level....................105699
+        LIC Node VPD................027D
+        Device Specific.(Z0)........08
+        Device Specific.(Z1)........57
+        Device Specific.(Z2)........000000300D9C09000260019C
+        Device Specific.(Z3)........12008000
+        Device Specific.(Z4)........5412B844
+        Device Specific.(Z5)........3F80
+        Device Specific.(Z6)........4D
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2A00 05B0 1138 0000 1004 0000 0000 0000 0000 0000 0000 0102 0000 7000 0B00 
+0000 000A 0000 0000 4400 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 000A 0BD2 000C 3B80 0000 0000 0000 0000 0000 0000 0000 0083 0000 
+0000 0030 001D 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Fri Dec  7 00:24:44 BEIST 2012
+Sequence Number: 675
+Machine Id:      0006BB6DD600
+Node Id:         qyzx1
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk5          
+Resource Class:  disk
+Resource Type:   SYMM_RAID5_RDF1
+Location:        U787B.001.DNWGB1L-P1-C2-T1-W50060482D53218C8-L73000000000000
+VPD:             
+        Manufacturer................EMC     
+        Machine Type and Model......SYMMETRIX       
+        ROS Level and ID............5773
+        Serial Number...............9927D000
+        Part Number.................000000000000570008000190
+        EC Level....................105699
+        LIC Node VPD................027D
+        Device Specific.(Z0)........08
+        Device Specific.(Z1)........57
+        Device Specific.(Z2)........000000300D9C09000260019C
+        Device Specific.(Z3)........12008000
+        Device Specific.(Z4)........5412B844
+        Device Specific.(Z5)........3F80
+        Device Specific.(Z6)........4D
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2A00 05D0 1138 0000 1004 0000 0000 0000 0000 0000 0000 0102 0000 7000 0B00 
+0000 000A 0000 0000 4400 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 000A 0BD2 000C 3B80 0000 0000 0000 0000 0000 0000 0000 0083 0000 
+0000 0030 001D 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Fri Dec  7 00:24:44 BEIST 2012
+Sequence Number: 674
+Machine Id:      0006BB6DD600
+Node Id:         qyzx1
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk5          
+Resource Class:  disk
+Resource Type:   SYMM_RAID5_RDF1
+Location:        U787B.001.DNWGB1L-P1-C2-T1-W50060482D53218C8-L73000000000000
+VPD:             
+        Manufacturer................EMC     
+        Machine Type and Model......SYMMETRIX       
+        ROS Level and ID............5773
+        Serial Number...............9927D000
+        Part Number.................000000000000570008000190
+        EC Level....................105699
+        LIC Node VPD................027D
+        Device Specific.(Z0)........08
+        Device Specific.(Z1)........57
+        Device Specific.(Z2)........000000300D9C09000260019C
+        Device Specific.(Z3)........12008000
+        Device Specific.(Z4)........5412B844
+        Device Specific.(Z5)........3F80
+        Device Specific.(Z6)........4D
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2A00 05C0 1138 0000 1004 0000 0000 0000 0000 0000 0000 0102 0000 7000 0B00 
+0000 000A 0000 0000 4400 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 000A 0BD2 000C 3B80 0000 0000 0000 0000 0000 0000 0000 0083 0000 
+0000 0030 001D 
+---------------------------------------------------------------------------
+LABEL:          GOENT_RCVRY_EXIT
+IDENTIFIER:     F3931284
+
+Date/Time:       Sun Dec  2 05:59:16 BEIST 2012
+Sequence Number: 673
+Machine Id:      0006BB6DD600
+Node Id:         qyzx1
+Class:           H
+Type:            INFO
+Resource Name:   ent1            
+Resource Class:  adapter
+Resource Type:   14108902
+Location:        U787B.001.DNWGB1L-P1-T9
+VPD:             
+      2-Port 10/100/1000 Base-TX PCI-X Adapter:
+        Network Address.............001A64AD19EA
+        ROM Level.(alterable).......DV0210
+
+Description
+ETHERNET NETWORK RECOVERY MODE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 328 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0031 8558 0063 0853 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0081 4F8C 0000 0000 4DA3 CBB0 0000 0000 0076 0180 0000 0001 0035 806C 
+0000 0000 0049 C510 0000 0000 24EF 771A 0000 0000 0000 0000 0000 0001 0000 08A7 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 000E 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB83 00F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 C9E1 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+001A 64AD 19EA 
+---------------------------------------------------------------------------
+LABEL:          GOENT_LINK_DOWN
+IDENTIFIER:     EC0BCCD4
+
+Date/Time:       Sun Dec  2 05:27:14 BEIST 2012
+Sequence Number: 671
+Machine Id:      0006BB6DD600
+Node Id:         qyzx1
+Class:           H
+Type:            TEMP
+Resource Name:   ent1            
+Resource Class:  adapter
+Resource Type:   14108902
+Location:        U787B.001.DNWGB1L-P1-T9
+VPD:             
+      2-Port 10/100/1000 Base-TX PCI-X Adapter:
+        Network Address.............001A64AD19EA
+        ROM Level.(alterable).......DV0210
+
+Description
+ETHERNET DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 258 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0031 7DD6 0063 081B 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 
+0000 0000 0081 4F8C 0000 0000 4DA3 CBB0 0000 0000 0076 0180 0000 0001 0035 6B2A 
+0000 0000 0049 C50F 0000 0000 24EF 76A4 0000 0000 0000 0000 0000 0001 0000 05F0 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 0000 000E 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB80 08F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+2222 2222 0000 0000 0000 0000 
+SOURCE ADDRESS
+001A 64AD 19EA 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	259
+Resource tested:	ent1
+Menu Number:		25C3902
+Description:
+
+
+No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.
+
+---------------------------------------------------------------------------
+LABEL:          GOENT_RCVRY_EXIT
+IDENTIFIER:     F3931284
+
+Date/Time:       Sun Dec  2 04:46:32 BEIST 2012
+Sequence Number: 670
+Machine Id:      0006BB6DD600
+Node Id:         qyzx1
+Class:           H
+Type:            INFO
+Resource Name:   ent2            
+Resource Class:  adapter
+Resource Type:   14108902
+Location:        U787B.001.DNWGB1L-P1-T10
+VPD:             
+      2-Port 10/100/1000 Base-TX PCI-X Adapter:
+        Network Address.............001A64AD19EB
+        ROM Level.(alterable).......DV0210
+
+Description
+ETHERNET NETWORK RECOVERY MODE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 328 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0031 744C 0063 0853 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 019B 61BB 0000 0000 6BAD 2FFF 0000 0000 010C 1A91 0000 0024 0195 7C71 
+0000 0000 000A 67C1 0000 0000 11CA BF8A 0000 0000 0000 0000 0000 0001 0000 1585 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 000F 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB87 003C 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 C9E1 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+001A 64AD 19EB 
+---------------------------------------------------------------------------
+LABEL:          GOENT_RCVRY_EXIT
+IDENTIFIER:     F3931284
+
+Date/Time:       Sun Dec  2 04:46:32 BEIST 2012
+Sequence Number: 669
+Machine Id:      0006BB6DD600
+Node Id:         qyzx1
+Class:           H
+Type:            INFO
+Resource Name:   ent0            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U787B.001.DNWGB1L-P1-C4-T1
+VPD:             
+      10/100/1000 Base-TX PCI-X Adapter:
+        Part Number.................03N6525
+        FRU Number..................03N6525
+        EC Level....................H14007$
+        Brand.......................H0
+        Manufacture ID..............YL1021
+        Network Address.............00145EB8402D
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET NETWORK RECOVERY MODE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 328 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0031 744C 0063 0853 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 007C 4840 0000 0000 5132 76DC 0000 0000 0070 9DF7 0000 0001 0035 B973 
+0000 0000 0043 2BF6 0000 0000 24B3 8F47 0000 0000 0000 0000 0000 0000 0000 1028 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 001B 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB83 00F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 C9E1 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB8 402D 
+---------------------------------------------------------------------------
+LABEL:          GOENT_LINK_DOWN
+IDENTIFIER:     EC0BCCD4
+
+Date/Time:       Sun Dec  2 04:39:58 BEIST 2012
+Sequence Number: 667
+Machine Id:      0006BB6DD600
+Node Id:         qyzx1
+Class:           H
+Type:            TEMP
+Resource Name:   ent0            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U787B.001.DNWGB1L-P1-C4-T1
+VPD:             
+      10/100/1000 Base-TX PCI-X Adapter:
+        Part Number.................03N6525
+        FRU Number..................03N6525
+        EC Level....................H14007$
+        Brand.......................H0
+        Manufacture ID..............YL1021
+        Network Address.............00145EB8402D
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 258 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0031 72C2 0063 081B 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 
+0000 0000 007C 4840 0000 0000 5132 76DC 0000 0000 0070 9DF7 0000 0001 0035 A305 
+0000 0000 0043 2BF5 0000 0000 24B3 8ED1 0000 0000 0000 0000 0000 0000 0000 1026 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 0000 001B 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB80 08F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+2222 2222 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB8 402D 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	256
+Resource tested:	ent0
+Menu Number:		25C1902
+Description:
+
+
+No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.
+
+---------------------------------------------------------------------------
+LABEL:          GOENT_LINK_DOWN
+IDENTIFIER:     EC0BCCD4
+
+Date/Time:       Sun Dec  2 04:39:58 BEIST 2012
+Sequence Number: 666
+Machine Id:      0006BB6DD600
+Node Id:         qyzx1
+Class:           H
+Type:            TEMP
+Resource Name:   ent2            
+Resource Class:  adapter
+Resource Type:   14108902
+Location:        U787B.001.DNWGB1L-P1-T10
+VPD:             
+      2-Port 10/100/1000 Base-TX PCI-X Adapter:
+        Network Address.............001A64AD19EB
+        ROM Level.(alterable).......DV0210
+
+Description
+ETHERNET DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 258 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0031 72C2 0063 081B 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 019B 61BB 0000 0000 6BAD 2FFF 0000 0000 010C 1A91 0000 0024 0195 7C71 
+0000 0000 000A 67C1 0000 0000 11CA BF8A 0000 0000 0000 0000 0000 0001 0000 1585 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 000F 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB84 083C 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+2222 2222 0000 0000 0000 0000 
+SOURCE ADDRESS
+001A 64AD 19EB 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	253
+Resource tested:	ent2
+Menu Number:		25C3902
+Description:
+
+
+No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.
+
+---------------------------------------------------------------------------
+LABEL:          GOENT_RCVRY_EXIT
+IDENTIFIER:     F3931284
+
+Date/Time:       Wed Oct 31 05:32:37 BEIST 2012
+Sequence Number: 665
+Machine Id:      0006BB6DD600
+Node Id:         qyzx1
+Class:           H
+Type:            INFO
+Resource Name:   ent1            
+Resource Class:  adapter
+Resource Type:   14108902
+Location:        U787B.001.DNWGB1L-P1-T9
+VPD:             
+      2-Port 10/100/1000 Base-TX PCI-X Adapter:
+        Network Address.............001A64AD19EA
+        ROM Level.(alterable).......DV0210
+
+Description
+ETHERNET NETWORK RECOVERY MODE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 328 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0007 4F14 0063 0853 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 000F 67CB 0000 0000 0924 F0A2 0000 0000 000F 1238 0000 0000 0004 2942 
+0000 0000 000A EC50 0000 0000 05B2 88A1 0000 0000 0000 0000 0000 0001 0000 013F 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 000E 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB83 00F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 C9E1 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+001A 64AD 19EA 
+---------------------------------------------------------------------------
+LABEL:          GOENT_LINK_DOWN
+IDENTIFIER:     EC0BCCD4
+
+Date/Time:       Wed Oct 31 05:07:41 BEIST 2012
+Sequence Number: 664
+Machine Id:      0006BB6DD600
+Node Id:         qyzx1
+Class:           H
+Type:            TEMP
+Resource Name:   ent1            
+Resource Class:  adapter
+Resource Type:   14108902
+Location:        U787B.001.DNWGB1L-P1-T9
+VPD:             
+      2-Port 10/100/1000 Base-TX PCI-X Adapter:
+        Network Address.............001A64AD19EA
+        ROM Level.(alterable).......DV0210
+
+Description
+ETHERNET DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 258 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0007 493C 0063 081B 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 
+0000 0000 000F 67CB 0000 0000 0924 F0A2 0000 0000 000F 1238 0000 0000 0004 2942 
+0000 0000 000A EC4F 0000 0000 05B2 8840 0000 0000 0000 0000 0000 0001 0000 013F 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 0000 000E 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB80 08F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+2222 2222 0000 0000 0000 0000 
+SOURCE ADDRESS
+001A 64AD 19EA 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	250
+Resource tested:	ent1
+Menu Number:		25C3902
+Description:
+
+
+No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.
+

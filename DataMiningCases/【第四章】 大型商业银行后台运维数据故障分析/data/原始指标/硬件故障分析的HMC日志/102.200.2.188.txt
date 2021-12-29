@@ -1,0 +1,306 @@
+problem_num=29,pmh_num=,refcode=E3D4310A,status=Open,first_time=06/07/2012 01:03:07,last_time=10/30/2013 04:21:56,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=7042-CR6/0665C5C,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/07/2012 01:03:07,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=7042-CR6/0665C5C,analyzing_hmc=421hmc01,event_time=06/07/2012 01:03:07
+problem_num=85,pmh_num=,refcode=B3030007,status=Open,first_time=10/06/2013 10:50:39,last_time=10/06/2013 10:50:39,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=8204-E8A/06BF616,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=10/06/2013 10:50:39,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=8204-E8A/06BF616,analyzing_hmc=421hmc01,event_time=10/06/2013 10:50:39
+problem_num=81,pmh_num=,refcode=B181F141,status=Open,first_time=10/05/2013 16:45:52,last_time=10/06/2013 10:20:50,sys_name=XA059-czxdimg2-55A-SN06D38EG,sys_mtms=9133-55A/06D38EG,enclosure_mtms=9133-55A/06D38EG,firmware_fix=,text=ACT04293I Platform firmware (0x81) reported an error.,created_time=10/05/2013 16:45:52,reporting_name=XA059-czxdimg2-55A-SN06D38EG,reporting_mtms=9133-55A/06D38EG,failing_mtms=9133-55A/06D38EG,analyzing_hmc=421hmc01,event_time=10/05/2013 07:34:20
+problem_num=80,pmh_num=,refcode=B181F142,status=Open,first_time=10/05/2013 16:45:51,last_time=10/06/2013 10:20:49,sys_name=XA059-czxdimg2-55A-SN06D38EG,sys_mtms=9133-55A/06D38EG,enclosure_mtms=9133-55A/06D38EG,firmware_fix=,text=ACT04293I Platform firmware (0x81) reported an error.,created_time=10/05/2013 16:45:51,reporting_name=XA059-czxdimg2-55A-SN06D38EG,reporting_mtms=9133-55A/06D38EG,failing_mtms=9133-55A/06D38EG,analyzing_hmc=421hmc01,event_time=10/05/2013 07:35:12
+problem_num=79,pmh_num=,refcode=B181F22C,status=Open,first_time=10/05/2013 16:45:51,last_time=10/06/2013 10:20:47,sys_name=XA059-czxdimg2-55A-SN06D38EG,sys_mtms=9133-55A/06D38EG,enclosure_mtms=9133-55A/06D38EG,firmware_fix=,text=ACT04293I Platform firmware (0x81) reported an error.,created_time=10/05/2013 16:45:51,reporting_name=XA059-czxdimg2-55A-SN06D38EG,reporting_mtms=9133-55A/06D38EG,failing_mtms=9133-55A/06D38EG,analyzing_hmc=421hmc01,event_time=10/05/2013 07:34:46
+problem_num=83,pmh_num=,refcode=B1819509,status=Open,first_time=10/05/2013 17:04:31,last_time=10/06/2013 10:20:42,sys_name=XA059-czxdimg2-55A-SN06D38EG,sys_mtms=9133-55A/06D38EG,enclosure_mtms=9133-55A/06D38EG,firmware_fix=,text=ACT04293I Platform firmware (0x81) reported an error.,created_time=10/05/2013 17:04:31,reporting_name=XA059-czxdimg2-55A-SN06D38EG,reporting_mtms=9133-55A/06D38EG,failing_mtms=9133-55A/06D38EG,analyzing_hmc=421hmc01,event_time=10/05/2013 08:23:51
+problem_num=84,pmh_num=,refcode=B121E500,status=Open,first_time=10/05/2013 22:01:45,last_time=10/06/2013 03:06:11,sys_name=XA059-czxdimg2-55A-SN06D38EG,sys_mtms=9133-55A/06D38EG,enclosure_mtms=9133-55A/06D38EG,firmware_fix=,text=ACT04293I Memory subsystem (0x21) reported an error.,created_time=10/05/2013 22:01:45,reporting_name=XA059-czxdimg2-55A-SN06D38EG,reporting_mtms=9133-55A/06D38EG,failing_mtms=9133-55A/06D38EG,analyzing_hmc=421hmc01,event_time=10/05/2013 13:21:29
+problem_num=82,pmh_num=,refcode=B182951C,status=Open,first_time=10/05/2013 16:46:05,last_time=10/05/2013 16:46:05,sys_name=XA059-czxdimg2-55A-SN06D38EG,sys_mtms=9133-55A/06D38EG,enclosure_mtms=9133-55A/06D38EG,firmware_fix=,text=ACT04293I Platform firmware (0x82) reported an error.,created_time=10/05/2013 16:46:05,reporting_name=XA059-czxdimg2-55A-SN06D38EG,reporting_mtms=9133-55A/06D38EG,failing_mtms=9133-55A/06D38EG,analyzing_hmc=421hmc01,event_time=10/05/2013 08:05:49
+problem_num=78,pmh_num=,refcode=888 102,status=Open,first_time=09/02/2013 15:42:42,last_time=09/02/2013 15:42:42,sys_name=XA060-czxdimg1-55A-SN06D385G,sys_mtms=9133-55A/06D385G,enclosure_mtms=9133-55A/06D385G,firmware_fix=,text=ACT04293I Software (0x91) reported an error.,created_time=09/02/2013 15:42:42,reporting_name=XA060-czxdimg1-55A-SN06D385G,reporting_mtms=9133-55A/06D385G,failing_mtms=9133-55A/06D385G,analyzing_hmc=421hmc01,event_time=09/02/2013 06:58:05
+problem_num=77,pmh_num=,refcode=#25C1902,status=Open,first_time=08/15/2013 16:34:36,last_time=08/15/2013 16:34:36,sys_name=XA060-czxdimg1-55A-SN06D385G,sys_mtms=9133-55A/06D385G,enclosure_mtms=9133-55A/06D385G,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=08/15/2013 16:34:36,reporting_name=XA060-czxdimg1-55A-SN06D385G,reporting_mtms=9133-55A/06D385G,failing_mtms=9133-55A/06D385G,analyzing_hmc=421hmc01,event_time=08/15/2013 15:40:49
+problem_num=76,pmh_num=,refcode=#25C3902,status=Open,first_time=08/15/2013 16:34:35,last_time=08/15/2013 16:34:35,sys_name=XA060-czxdimg1-55A-SN06D385G,sys_mtms=9133-55A/06D385G,enclosure_mtms=9133-55A/06D385G,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=08/15/2013 16:34:35,reporting_name=XA060-czxdimg1-55A-SN06D385G,reporting_mtms=9133-55A/06D385G,failing_mtms=9133-55A/06D385G,analyzing_hmc=421hmc01,event_time=08/15/2013 14:41:07
+problem_num=72,pmh_num=,refcode=B3030007,status=Open,first_time=03/08/2013 13:54:55,last_time=03/08/2013 13:54:55,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=8202-E4B/0653CDR,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=03/08/2013 13:54:55,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=8202-E4B/0653CDR,analyzing_hmc=421hmc01,event_time=03/08/2013 13:54:55
+problem_num=71,pmh_num=,refcode=B3030007,status=Open,first_time=03/04/2013 11:32:31,last_time=03/04/2013 11:32:31,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=8204-E8A/06BF616,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=03/04/2013 11:32:31,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=8204-E8A/06BF616,analyzing_hmc=421hmc01,event_time=03/04/2013 11:32:31
+problem_num=75,pmh_num=,refcode=B3030007,status=Open,first_time=02/07/2013 14:45:26,last_time=02/07/2013 14:45:26,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=8202-E4B/0653B6R,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=02/07/2013 14:45:26,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=8202-E4B/0653B6R,analyzing_hmc=421hmc01,event_time=02/07/2013 14:45:26
+problem_num=74,pmh_num=,refcode=#2603906,status=Open,first_time=01/29/2013 19:56:29,last_time=01/29/2013 19:56:43,sys_name=XA081-czqzdb2-E8A-SN06BF5A6,sys_mtms=8204-E8A/06BF5A6,enclosure_mtms=8204-E8A/06BF5A6,firmware_fix=,"text=Error Log analysis has detected multiple link errors.
+These errors can be caused by loose or defective cables.
+Check all cables and their connections.",created_time=01/29/2013 19:56:29,reporting_name=XA081-czqzdb2-E8A-SN06BF5A6,reporting_mtms=8204-E8A/06BF5A6,failing_mtms=8204-E8A/06BF5A6,analyzing_hmc=421hmc01,event_time=01/25/2013 11:10:48
+problem_num=61,pmh_num=,refcode=#2806,status=Open,first_time=01/21/2013 17:06:54,last_time=01/28/2013 16:02:56,sys_name=XA078-czqztx1-E8A-SN06BF5E6,sys_mtms=8204-E8A/06BF5E6,enclosure_mtms=8204-E8A/06BF5E6,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If this adapter is connected to a network, and if you
+you are experiencing problems with network communications,
+check for a loose or defective cable or connection.
+
+If a switch or another system is directly attached
+to this adapter, verify it is powered up, configured,
+and functioning correctly.",created_time=01/21/2013 17:06:54,reporting_name=XA078-czqztx1-E8A-SN06BF5E6,reporting_mtms=8204-E8A/06BF5E6,failing_mtms=8204-E8A/06BF5E6,analyzing_hmc=421hmc01,event_time=01/21/2013 16:27:07
+problem_num=73,pmh_num=,refcode=110000AC,status=Open,first_time=01/24/2013 14:54:31,last_time=01/24/2013 14:54:31,sys_name=XA081-czqzdb2-E8A-SN06BF5A6,sys_mtms=8204-E8A/06BF5A6,enclosure_mtms=8204-E8A/06BF5A6,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x60) reported an error.,created_time=01/24/2013 14:54:31,reporting_name=XA081-czqzdb2-E8A-SN06BF5A6,reporting_mtms=8204-E8A/06BF5A6,failing_mtms=8204-E8A/06BF5A6,analyzing_hmc=421hmc01,event_time=01/24/2013 06:30:42
+problem_num=72,pmh_num=,refcode=B3030007,status=Open,first_time=01/24/2013 14:29:01,last_time=01/24/2013 14:29:01,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=8202-E4C/0691D0R,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=01/24/2013 14:29:01,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=8202-E4C/0691D0R,analyzing_hmc=421hmc01,event_time=01/24/2013 14:29:01
+problem_num=71,pmh_num=,refcode=B3030001,status=Open,first_time=01/24/2013 14:03:10,last_time=01/24/2013 14:03:10,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=8204-E8A/06BF676,firmware_fix=,"text=ACT04283I A connection to a FSP,BPA or BPC was dropped",created_time=01/24/2013 14:03:10,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=8204-E8A/06BF676,analyzing_hmc=421hmc01,event_time=01/24/2013 14:03:10
+problem_num=70,pmh_num=,refcode=B3030007,status=Open,first_time=01/22/2013 14:16:44,last_time=01/22/2013 14:16:44,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=8202-E4C/0691D0R,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=01/22/2013 14:16:44,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=8202-E4C/0691D0R,analyzing_hmc=421hmc01,event_time=01/22/2013 14:16:44
+problem_num=69,pmh_num=,refcode=#2806,status=Open,first_time=01/22/2013 11:48:53,last_time=01/22/2013 11:48:53,sys_name=XA079-czqztx2-E8A-SN06BF626,sys_mtms=8204-E8A/06BF626,enclosure_mtms=8204-E8A/06BF626,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If this adapter is connected to a network, and if you
+you are experiencing problems with network communications,
+check for a loose or defective cable or connection.
+
+If a switch or another system is directly attached
+to this adapter, verify it is powered up, configured,
+and functioning correctly.",created_time=01/22/2013 11:48:53,reporting_name=XA079-czqztx2-E8A-SN06BF626,reporting_mtms=8204-E8A/06BF626,failing_mtms=8204-E8A/06BF626,analyzing_hmc=421hmc01,event_time=01/22/2013 10:53:39
+problem_num=68,pmh_num=,refcode=B3030003,status=Open,first_time=01/21/2013 21:24:02,last_time=01/21/2013 21:24:02,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=8204-E8A/06BF626,firmware_fix=,text=ACT04254I Management Console to multiple partitions failure detected,created_time=01/21/2013 21:24:02,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=8204-E8A/06BF626,analyzing_hmc=421hmc01,event_time=01/21/2013 21:24:01
+problem_num=66,pmh_num=,refcode=110000AC,status=Open,first_time=01/21/2013 20:18:54,last_time=01/21/2013 20:18:54,sys_name=XA077-czqzap2-E8A-SN06BF5F6,sys_mtms=8204-E8A/06BF5F6,enclosure_mtms=8204-E8A/06BF5F6,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x60) reported an error.,created_time=01/21/2013 20:18:54,reporting_name=XA077-czqzap2-E8A-SN06BF5F6,reporting_mtms=8204-E8A/06BF5F6,failing_mtms=8204-E8A/06BF5F6,analyzing_hmc=421hmc01,event_time=01/21/2013 07:45:44
+problem_num=67,pmh_num=,refcode=B3030007,status=Open,first_time=01/21/2013 20:13:56,last_time=01/21/2013 20:13:56,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=8202-E4C/0691BBR,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=01/21/2013 20:13:56,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=8202-E4C/0691BBR,analyzing_hmc=421hmc01,event_time=01/21/2013 20:13:56
+problem_num=65,pmh_num=,refcode=B3030007,status=Open,first_time=01/21/2013 17:47:48,last_time=01/21/2013 17:47:48,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=8204-E8A/06BF5F6,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=01/21/2013 17:47:48,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=8204-E8A/06BF5F6,analyzing_hmc=421hmc01,event_time=01/21/2013 17:47:48
+problem_num=64,pmh_num=,refcode=B3030001,status=Open,first_time=01/21/2013 17:29:32,last_time=01/21/2013 17:29:32,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=8204-E8A/06BF626,firmware_fix=,"text=ACT04283I A connection to a FSP,BPA or BPC was dropped",created_time=01/21/2013 17:29:32,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=8204-E8A/06BF626,analyzing_hmc=421hmc01,event_time=01/21/2013 17:29:32
+problem_num=62,pmh_num=,refcode=110000AC,status=Open,first_time=01/21/2013 17:25:42,last_time=01/21/2013 17:25:42,sys_name=XA079-czqztx2-E8A-SN06BF626,sys_mtms=8204-E8A/06BF626,enclosure_mtms=8204-E8A/06BF626,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x60) reported an error.,created_time=01/21/2013 17:25:42,reporting_name=XA079-czqztx2-E8A-SN06BF626,reporting_mtms=8204-E8A/06BF626,failing_mtms=8204-E8A/06BF626,analyzing_hmc=421hmc01,event_time=01/21/2013 07:46:39
+problem_num=63,pmh_num=,refcode=B3030001,status=Open,first_time=01/21/2013 17:12:23,last_time=01/21/2013 17:12:23,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=::ffff:169.254.2.147,firmware_fix=,text=ACT04284I A Management Console connect failed,created_time=01/21/2013 17:12:23,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=::ffff:169.254.2.147,analyzing_hmc=421hmc01,event_time=01/21/2013 17:12:23
+problem_num=60,pmh_num=,refcode=110000AC,status=Open,first_time=01/21/2013 16:59:26,last_time=01/21/2013 16:59:26,sys_name=8204-E8A/06BF676,sys_mtms=8204-E8A/06BF676,enclosure_mtms=8204-E8A/06BF676,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x60) reported an error.,created_time=01/21/2013 16:59:26,reporting_name=8204-E8A/06BF676,reporting_mtms=8204-E8A/06BF676,failing_mtms=8204-E8A/06BF676,analyzing_hmc=421hmc01,event_time=01/21/2013 07:51:42
+problem_num=59,pmh_num=,refcode=110000AC,status=Open,first_time=01/21/2013 14:32:31,last_time=01/21/2013 14:32:31,sys_name=XA076-czqzap1-E8A-SN06BF636,sys_mtms=8204-E8A/06BF636,enclosure_mtms=8204-E8A/06BF636,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x60) reported an error.,created_time=01/21/2013 14:32:31,reporting_name=XA076-czqzap1-E8A-SN06BF636,reporting_mtms=8204-E8A/06BF636,failing_mtms=8204-E8A/06BF636,analyzing_hmc=421hmc01,event_time=01/21/2013 05:29:34
+problem_num=58,pmh_num=,refcode=11001510,status=Open,first_time=01/21/2013 13:57:18,last_time=01/21/2013 13:57:18,sys_name=XA078-czqztx1-E8A-SN06BF5E6,sys_mtms=8204-E8A/06BF5E6,enclosure_mtms=8204-E8A/06BF5E6,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=01/21/2013 13:57:18,reporting_name=XA078-czqztx1-E8A-SN06BF5E6,reporting_mtms=8204-E8A/06BF5E6,failing_mtms=8204-E8A/06BF5E6,analyzing_hmc=421hmc01,event_time=01/21/2013 05:36:14
+problem_num=57,pmh_num=,refcode=110000AC,status=Open,first_time=01/21/2013 13:56:29,last_time=01/21/2013 13:56:29,sys_name=XA078-czqztx1-E8A-SN06BF5E6,sys_mtms=8204-E8A/06BF5E6,enclosure_mtms=8204-E8A/06BF5E6,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x60) reported an error.,created_time=01/21/2013 13:56:29,reporting_name=XA078-czqztx1-E8A-SN06BF5E6,reporting_mtms=8204-E8A/06BF5E6,failing_mtms=8204-E8A/06BF5E6,analyzing_hmc=421hmc01,event_time=01/21/2013 05:30:31
+problem_num=56,pmh_num=,refcode=B3030001,status=Open,first_time=01/21/2013 11:49:00,last_time=01/21/2013 11:49:00,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=8204-E8A/06BF616,firmware_fix=,"text=ACT04283I A connection to a FSP,BPA or BPC was dropped",created_time=01/21/2013 11:49:00,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=8204-E8A/06BF616,analyzing_hmc=421hmc01,event_time=01/21/2013 11:49:00
+problem_num=55,pmh_num=,refcode=110000AC,status=Open,first_time=01/21/2013 11:41:07,last_time=01/21/2013 11:41:07,sys_name=XA080-czqzdb1-E8A-SN06BF616,sys_mtms=8204-E8A/06BF616,enclosure_mtms=8204-E8A/06BF616,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x60) reported an error.,created_time=01/21/2013 11:41:07,reporting_name=XA080-czqzdb1-E8A-SN06BF616,reporting_mtms=8204-E8A/06BF616,failing_mtms=8204-E8A/06BF616,analyzing_hmc=421hmc01,event_time=01/21/2013 03:11:07
+problem_num=54,pmh_num=,refcode=B3030007,status=Open,first_time=01/21/2013 10:44:58,last_time=01/21/2013 10:44:58,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=9133-55A/068526H,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=01/21/2013 10:44:58,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=9133-55A/068526H,analyzing_hmc=421hmc01,event_time=01/21/2013 10:44:58
+problem_num=53,pmh_num=,refcode=E212E111,status=Open,first_time=01/21/2013 10:36:12,last_time=01/21/2013 10:36:12,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=7042-CR6/0665C5C,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=01/21/2013 10:36:12,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=7042-CR6/0665C5C,analyzing_hmc=421hmc01,event_time=01/21/2013 10:36:12
+problem_num=52,pmh_num=,refcode=B181F011,status=Open,first_time=01/16/2013 19:37:00,last_time=01/16/2013 19:37:00,sys_name=8202-E4B/0653CER,sys_mtms=8202-E4B/0653CER,enclosure_mtms=8202-E4B/0653CER,firmware_fix=,text=ACT04293I Platform firmware (0x81) reported an error.,created_time=01/16/2013 19:37:00,reporting_name=8202-E4B/0653CER,reporting_mtms=8202-E4B/0653CER,failing_mtms=8202-E4B/0653CER,analyzing_hmc=421hmc01,event_time=01/16/2013 11:15:37
+problem_num=51,pmh_num=,refcode=#25C1902,status=Open,first_time=01/16/2013 12:23:04,last_time=01/16/2013 12:23:04,sys_name=9133-55A/068A94H,sys_mtms=9133-55A/068A94H,enclosure_mtms=9133-55A/068A94H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=01/16/2013 12:23:04,reporting_name=9133-55A/068A94H,reporting_mtms=9133-55A/068A94H,failing_mtms=9133-55A/068A94H,analyzing_hmc=421hmc01,event_time=01/14/2013 16:25:40
+problem_num=50,pmh_num=,refcode=#25C3902,status=Open,first_time=01/16/2013 12:22:45,last_time=01/16/2013 12:22:54,sys_name=9133-55A/068A94H,sys_mtms=9133-55A/068A94H,enclosure_mtms=9133-55A/068A94H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=01/16/2013 12:22:45,reporting_name=9133-55A/068A94H,reporting_mtms=9133-55A/068A94H,failing_mtms=9133-55A/068A94H,analyzing_hmc=421hmc01,event_time=01/14/2013 16:25:17
+problem_num=48,pmh_num=,refcode=#25C1902,status=Open,first_time=01/16/2013 12:21:35,last_time=01/16/2013 12:22:00,sys_name=9133-55A/068526H,sys_mtms=9133-55A/068526H,enclosure_mtms=9133-55A/068526H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=01/16/2013 12:21:35,reporting_name=9133-55A/068526H,reporting_mtms=9133-55A/068526H,failing_mtms=9133-55A/068526H,analyzing_hmc=421hmc01,event_time=01/14/2013 16:39:50
+problem_num=49,pmh_num=,refcode=#25C3902,status=Open,first_time=01/16/2013 12:21:36,last_time=01/16/2013 12:21:36,sys_name=9133-55A/068526H,sys_mtms=9133-55A/068526H,enclosure_mtms=9133-55A/068526H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=01/16/2013 12:21:36,reporting_name=9133-55A/068526H,reporting_mtms=9133-55A/068526H,failing_mtms=9133-55A/068526H,analyzing_hmc=421hmc01,event_time=01/14/2013 16:40:09
+problem_num=47,pmh_num=,refcode=#25C3902,status=Open,first_time=01/16/2013 12:13:55,last_time=01/16/2013 12:21:26,sys_name=9133-55A/068A99H,sys_mtms=9133-55A/068A99H,enclosure_mtms=9133-55A/068A99H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=01/16/2013 12:13:55,reporting_name=9133-55A/068A99H,reporting_mtms=9133-55A/068A99H,failing_mtms=9133-55A/068A99H,analyzing_hmc=421hmc01,event_time=01/16/2013 10:18:04
+problem_num=46,pmh_num=,refcode=#25C1902,status=Open,first_time=01/16/2013 12:13:55,last_time=01/16/2013 12:13:55,sys_name=9133-55A/068A99H,sys_mtms=9133-55A/068A99H,enclosure_mtms=9133-55A/068A99H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=01/16/2013 12:13:55,reporting_name=9133-55A/068A99H,reporting_mtms=9133-55A/068A99H,failing_mtms=9133-55A/068A99H,analyzing_hmc=421hmc01,event_time=01/14/2013 16:27:39
+problem_num=45,pmh_num=,refcode=#25C1902,status=Open,first_time=01/16/2013 11:45:35,last_time=01/16/2013 12:13:50,sys_name=9133-55A/068508H,sys_mtms=9133-55A/068508H,enclosure_mtms=9133-55A/068508H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=01/16/2013 11:45:35,reporting_name=9133-55A/068508H,reporting_mtms=9133-55A/068508H,failing_mtms=9133-55A/068508H,analyzing_hmc=421hmc01,event_time=01/14/2013 16:42:41
+problem_num=44,pmh_num=,refcode=#25C3902,status=Open,first_time=01/16/2013 11:45:34,last_time=01/16/2013 11:45:34,sys_name=9133-55A/068508H,sys_mtms=9133-55A/068508H,enclosure_mtms=9133-55A/068508H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=01/16/2013 11:45:34,reporting_name=9133-55A/068508H,reporting_mtms=9133-55A/068508H,failing_mtms=9133-55A/068508H,analyzing_hmc=421hmc01,event_time=01/14/2013 16:42:41
+problem_num=43,pmh_num=,refcode=B3030001,status=Open,first_time=01/09/2013 16:49:42,last_time=01/09/2013 16:49:42,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=::ffff:192.161.0.115,firmware_fix=,text=ACT04284I A Management Console connect failed,created_time=01/09/2013 16:49:42,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=::ffff:192.161.0.115,analyzing_hmc=421hmc01,event_time=01/09/2013 16:49:42
+problem_num=42,pmh_num=,refcode=110000AC,status=Open,first_time=01/09/2013 16:42:01,last_time=01/09/2013 16:42:01,sys_name=9133-55A/068526H,sys_mtms=9133-55A/068526H,enclosure_mtms=9133-55A/068526H,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x60) reported an error.,created_time=01/09/2013 16:42:01,reporting_name=9133-55A/068526H,reporting_mtms=9133-55A/068526H,failing_mtms=9133-55A/068526H,analyzing_hmc=421hmc01,event_time=01/09/2013 08:13:52
+problem_num=41,pmh_num=,refcode=B3030001,status=Open,first_time=01/09/2013 15:04:13,last_time=01/09/2013 15:04:13,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=::ffff:192.161.0.217,firmware_fix=,text=ACT04284I A Management Console connect failed,created_time=01/09/2013 15:04:13,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=::ffff:192.161.0.217,analyzing_hmc=421hmc01,event_time=01/09/2013 15:04:13
+problem_num=40,pmh_num=,refcode=B3030007,status=Open,first_time=01/09/2013 14:04:53,last_time=01/09/2013 14:04:53,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=9133-55A/068A94H,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=01/09/2013 14:04:53,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=9133-55A/068A94H,analyzing_hmc=421hmc01,event_time=01/09/2013 14:04:53
+problem_num=39,pmh_num=,refcode=11001520,status=Open,first_time=01/09/2013 14:00:30,last_time=01/09/2013 14:00:30,sys_name=9133-55A/068A94H,sys_mtms=9133-55A/068A94H,enclosure_mtms=9133-55A/068A94H,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=01/09/2013 14:00:30,reporting_name=9133-55A/068A94H,reporting_mtms=9133-55A/068A94H,failing_mtms=9133-55A/068A94H,analyzing_hmc=421hmc01,event_time=01/09/2013 03:41:18
+problem_num=38,pmh_num=,refcode=11001520,status=Open,first_time=01/09/2013 13:57:29,last_time=01/09/2013 13:57:29,sys_name=9133-55A/068A99H,sys_mtms=9133-55A/068A99H,enclosure_mtms=9133-55A/068A99H,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=01/09/2013 13:57:29,reporting_name=9133-55A/068A99H,reporting_mtms=9133-55A/068A99H,failing_mtms=9133-55A/068A99H,analyzing_hmc=421hmc01,event_time=01/09/2013 03:37:09
+problem_num=37,pmh_num=,refcode=11001520,status=Open,first_time=01/09/2013 12:07:20,last_time=01/09/2013 12:07:20,sys_name=9133-55A/068508H,sys_mtms=9133-55A/068508H,enclosure_mtms=9133-55A/068508H,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=01/09/2013 12:07:20,reporting_name=9133-55A/068508H,reporting_mtms=9133-55A/068508H,failing_mtms=9133-55A/068508H,analyzing_hmc=421hmc01,event_time=01/09/2013 03:54:15
+problem_num=36,pmh_num=,refcode=11001510,status=Open,first_time=01/09/2013 11:45:48,last_time=01/09/2013 11:46:49,sys_name=9133-55A/068508H,sys_mtms=9133-55A/068508H,enclosure_mtms=9133-55A/068508H,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=01/09/2013 11:45:48,reporting_name=9133-55A/068508H,reporting_mtms=9133-55A/068508H,failing_mtms=9133-55A/068508H,analyzing_hmc=421hmc01,event_time=01/09/2013 03:14:14
+problem_num=35,pmh_num=,refcode=B3030007,status=Open,first_time=09/24/2012 10:54:36,last_time=09/24/2012 10:54:36,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=8202-E4C/0691D0R,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=09/24/2012 10:54:36,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=8202-E4C/0691D0R,analyzing_hmc=421hmc01,event_time=09/24/2012 10:54:36
+problem_num=34,pmh_num=,refcode=B3030007,status=Open,first_time=07/11/2012 14:35:43,last_time=07/11/2012 14:35:43,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=8202-E4B/1053CFR,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=07/11/2012 14:35:43,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=8202-E4B/1053CFR,analyzing_hmc=421hmc01,event_time=07/11/2012 14:35:43
+problem_num=33,pmh_num=,refcode=#2603905,status=Open,first_time=07/06/2012 15:09:57,last_time=07/06/2012 15:09:57,sys_name=8202-E4B/0674EBR,sys_mtms=8202-E4B/0674EBR,enclosure_mtms=8202-E4B/0674EBR,firmware_fix=,"text=Error Log Analysis has detected multiple link errors.
+These errors can be caused by loose or defective cables
+or the Fibre Channel adapter.
+
+Check all cables and their connections.  Run advanced
+diagnostics including wrap tests, on the fibre channel
+adapter to ensure the adapter link module is functioning
+properly.",created_time=07/06/2012 15:09:57,reporting_name=8202-E4B/0674EBR,reporting_mtms=8202-E4B/0674EBR,failing_mtms=8202-E4B/0674EBR,analyzing_hmc=421hmc01,event_time=07/03/2012 15:25:37
+problem_num=32,pmh_num=,refcode=B3030007,status=Open,first_time=06/27/2012 14:14:06,last_time=06/27/2012 14:14:06,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=8202-E4C/0691D0R,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=06/27/2012 14:14:06,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=8202-E4C/0691D0R,analyzing_hmc=421hmc01,event_time=06/27/2012 14:14:06
+problem_num=31,pmh_num=,refcode=B3030007,status=Open,first_time=06/12/2012 18:27:27,last_time=06/12/2012 18:27:27,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=8202-E4C/0691D0R,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=06/12/2012 18:27:27,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=8202-E4C/0691D0R,analyzing_hmc=421hmc01,event_time=06/12/2012 18:27:27
+problem_num=30,pmh_num=,refcode=B3030001,status=Open,first_time=06/12/2012 11:44:18,last_time=06/12/2012 11:44:18,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=::ffff:192.161.0.109,firmware_fix=,text=ACT04284I A Management Console connect failed,created_time=06/12/2012 11:44:18,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=::ffff:192.161.0.109,analyzing_hmc=421hmc01,event_time=06/12/2012 11:44:18
+problem_num=11,pmh_num=,refcode=E3D4310A,status=Closed,first_time=03/29/2012 14:40:52,last_time=05/31/2012 03:23:53,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=7042-CR6/0665C5C,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=03/29/2012 14:40:52,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=7042-CR6/0665C5C,analyzing_hmc=421hmc01,event_time=03/29/2012 14:40:52
+problem_num=28,pmh_num=,refcode=E212E121,status=Closed,first_time=05/22/2012 09:06:44,last_time=05/22/2012 09:06:44,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=7042-CR6/0665C5C,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=05/22/2012 09:06:44,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=7042-CR6/0665C5C,analyzing_hmc=421hmc01,event_time=05/22/2012 09:06:44
+problem_num=26,pmh_num=,refcode=#2806,status=Closed,first_time=05/05/2012 20:10:13,last_time=05/21/2012 19:26:04,sys_name=XA205-czzx1-E4B-SN0653B6R,sys_mtms=8202-E4B/0653B6R,enclosure_mtms=8202-E4B/0653B6R,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If this adapter is connected to a network, and if you
+you are experiencing problems with network communications,
+check for a loose or defective cable or connection.
+
+If a switch or another system is directly attached
+to this adapter, verify it is powered up, configured,
+and functioning correctly.",created_time=05/05/2012 20:10:13,reporting_name=XA205-czzx1-E4B-SN0653B6R,reporting_mtms=8202-E4B/0653B6R,failing_mtms=8202-E4B/0653B6R,analyzing_hmc=421hmc01,event_time=04/11/2012 02:30:30
+problem_num=16,pmh_num=,refcode=#2806,status=Closed,first_time=04/11/2012 11:26:15,last_time=05/21/2012 19:26:04,sys_name=8202-E4B/062E00R,sys_mtms=8202-E4B/062E00R,enclosure_mtms=8202-E4B/062E00R,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If this adapter is connected to a network, and if you
+you are experiencing problems with network communications,
+check for a loose or defective cable or connection.
+
+If a switch or another system is directly attached
+to this adapter, verify it is powered up, configured,
+and functioning correctly.",created_time=04/11/2012 11:26:15,reporting_name=8202-E4B/062E00R,reporting_mtms=8202-E4B/062E00R,failing_mtms=8202-E4B/062E00R,analyzing_hmc=421hmc01,event_time=04/11/2012 11:12:47
+problem_num=18,pmh_num=,refcode=#2806,status=Closed,first_time=04/11/2012 13:19:28,last_time=05/21/2012 19:26:04,sys_name=8202-E4B/0653BAR,sys_mtms=8202-E4B/0653BAR,enclosure_mtms=8202-E4B/0653BAR,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If this adapter is connected to a network, and if you
+you are experiencing problems with network communications,
+check for a loose or defective cable or connection.
+
+If a switch or another system is directly attached
+to this adapter, verify it is powered up, configured,
+and functioning correctly.",created_time=04/11/2012 13:19:28,reporting_name=8202-E4B/0653BAR,reporting_mtms=8202-E4B/0653BAR,failing_mtms=8202-E4B/0653BAR,analyzing_hmc=421hmc01,event_time=04/11/2012 04:15:14
+problem_num=23,pmh_num=,refcode=#2806,status=Closed,first_time=05/05/2012 20:09:26,last_time=05/21/2012 19:26:04,sys_name=XA204-czzx2-E4B-SN0653DAR,sys_mtms=8202-E4B/0653DAR,enclosure_mtms=8202-E4B/0653DAR,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If this adapter is connected to a network, and if you
+you are experiencing problems with network communications,
+check for a loose or defective cable or connection.
+
+If a switch or another system is directly attached
+to this adapter, verify it is powered up, configured,
+and functioning correctly.",created_time=05/05/2012 20:09:26,reporting_name=XA204-czzx2-E4B-SN0653DAR,reporting_mtms=8202-E4B/0653DAR,failing_mtms=8202-E4B/0653DAR,analyzing_hmc=421hmc01,event_time=04/12/2012 05:19:55
+problem_num=22,pmh_num=,refcode=#2806,status=Closed,first_time=05/05/2012 20:09:05,last_time=05/21/2012 19:26:04,sys_name=8202-E4B/0653B5R,sys_mtms=8202-E4B/0653B5R,enclosure_mtms=8202-E4B/0653B5R,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If this adapter is connected to a network, and if you
+you are experiencing problems with network communications,
+check for a loose or defective cable or connection.
+
+If a switch or another system is directly attached
+to this adapter, verify it is powered up, configured,
+and functioning correctly.",created_time=05/05/2012 20:09:05,reporting_name=8202-E4B/0653B5R,reporting_mtms=8202-E4B/0653B5R,failing_mtms=8202-E4B/0653B5R,analyzing_hmc=421hmc01,event_time=04/12/2012 05:14:02
+problem_num=25,pmh_num=,refcode=#2806,status=Closed,first_time=05/05/2012 20:10:01,last_time=05/21/2012 19:26:04,sys_name=8202-E4B/0653CER,sys_mtms=8202-E4B/0653CER,enclosure_mtms=8202-E4B/0653CER,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If this adapter is connected to a network, and if you
+you are experiencing problems with network communications,
+check for a loose or defective cable or connection.
+
+If a switch or another system is directly attached
+to this adapter, verify it is powered up, configured,
+and functioning correctly.",created_time=05/05/2012 20:10:01,reporting_name=8202-E4B/0653CER,reporting_mtms=8202-E4B/0653CER,failing_mtms=8202-E4B/0653CER,analyzing_hmc=421hmc01,event_time=04/11/2012 02:45:12
+problem_num=24,pmh_num=,refcode=#2806,status=Closed,first_time=05/05/2012 20:09:57,last_time=05/21/2012 19:26:04,sys_name=8202-E4B/0653D9R,sys_mtms=8202-E4B/0653D9R,enclosure_mtms=8202-E4B/0653D9R,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If this adapter is connected to a network, and if you
+you are experiencing problems with network communications,
+check for a loose or defective cable or connection.
+
+If a switch or another system is directly attached
+to this adapter, verify it is powered up, configured,
+and functioning correctly.",created_time=05/05/2012 20:09:57,reporting_name=8202-E4B/0653D9R,reporting_mtms=8202-E4B/0653D9R,failing_mtms=8202-E4B/0653D9R,analyzing_hmc=421hmc01,event_time=04/12/2012 05:21:38
+problem_num=27,pmh_num=,refcode=#2806,status=Closed,first_time=05/21/2012 19:26:04,last_time=05/21/2012 19:26:04,sys_name=8202-E4B/0653CDR,sys_mtms=8202-E4B/0653CDR,enclosure_mtms=8202-E4B/0653CDR,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If this adapter is connected to a network, and if you
+you are experiencing problems with network communications,
+check for a loose or defective cable or connection.
+
+If a switch or another system is directly attached
+to this adapter, verify it is powered up, configured,
+and functioning correctly.",created_time=05/21/2012 19:26:04,reporting_name=8202-E4B/0653CDR,reporting_mtms=8202-E4B/0653CDR,failing_mtms=8202-E4B/0653CDR,analyzing_hmc=421hmc01,event_time=05/16/2012 01:56:49
+problem_num=21,pmh_num=,refcode=E3D60003,status=Closed,first_time=05/03/2012 15:42:48,last_time=05/03/2012 15:42:48,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=7042-CR6/0665C5C,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=05/03/2012 15:42:48,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=7042-CR6/0665C5C,analyzing_hmc=421hmc01,event_time=05/03/2012 15:42:48
+problem_num=20,pmh_num=,refcode=BA210000,status=Closed,first_time=04/11/2012 13:42:18,last_time=04/11/2012 13:42:18,sys_name=8202-E4B/0653CDR,sys_mtms=8202-E4B/0653CDR,enclosure_mtms=8202-E4B/0653CDR,firmware_fix=,text=ACT04293I Platform firmware (0x83) reported an error.,created_time=04/11/2012 13:42:18,reporting_name=8202-E4B/0653CDR,reporting_mtms=8202-E4B/0653CDR,failing_mtms=8202-E4B/0653CDR,analyzing_hmc=421hmc01,event_time=04/11/2012 05:41:19
+problem_num=19,pmh_num=,refcode=BA210003,status=Closed,first_time=04/11/2012 13:32:54,last_time=04/11/2012 13:42:10,sys_name=8202-E4B/0653CDR,sys_mtms=8202-E4B/0653CDR,enclosure_mtms=8202-E4B/0653CDR,firmware_fix=,text=ACT04293I Platform firmware (0x83) reported an error.,created_time=04/11/2012 13:32:54,reporting_name=8202-E4B/0653CDR,reporting_mtms=8202-E4B/0653CDR,failing_mtms=8202-E4B/0653CDR,analyzing_hmc=421hmc01,event_time=04/11/2012 05:31:54
+problem_num=17,pmh_num=,refcode=E212E122,status=Closed,first_time=04/11/2012 13:09:45,last_time=04/11/2012 13:09:45,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=7042-CR6/0665C5C,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/11/2012 13:09:45,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=7042-CR6/0665C5C,analyzing_hmc=421hmc01,event_time=04/11/2012 13:09:45
+problem_num=15,pmh_num=,refcode=BA210003,status=Closed,first_time=03/29/2012 15:34:35,last_time=03/29/2012 15:37:40,sys_name=8202-E4B/0653B5R,sys_mtms=8202-E4B/0653B5R,enclosure_mtms=8202-E4B/0653B5R,firmware_fix=,text=ACT04293I Platform firmware (0x83) reported an error.,created_time=03/29/2012 15:34:35,reporting_name=8202-E4B/0653B5R,reporting_mtms=8202-E4B/0653B5R,failing_mtms=8202-E4B/0653B5R,analyzing_hmc=421hmc01,event_time=03/29/2012 07:34:34
+problem_num=14,pmh_num=,refcode=BA210003,status=Closed,first_time=03/29/2012 15:21:54,last_time=03/29/2012 15:21:54,sys_name=8202-E4B/0653B5R,sys_mtms=8202-E4B/0653B5R,enclosure_mtms=8202-E4B/0653B5R,firmware_fix=,text=ACT04293I Platform firmware (0x83) reported an error.,created_time=03/29/2012 15:21:54,reporting_name=8202-E4B/0653B5R,reporting_mtms=8202-E4B/0653B5R,failing_mtms=8202-E4B/0653B5R,analyzing_hmc=421hmc01,event_time=03/29/2012 07:21:52
+problem_num=13,pmh_num=,refcode=BA350000,status=Closed,first_time=03/29/2012 15:04:15,last_time=03/29/2012 15:04:15,sys_name=8202-E4B/0653CER,sys_mtms=8202-E4B/0653CER,enclosure_mtms=8202-E4B/0653CER,firmware_fix=,text=ACT04293I Platform firmware (0x83) reported an error.,created_time=03/29/2012 15:04:15,reporting_name=8202-E4B/0653CER,reporting_mtms=8202-E4B/0653CER,failing_mtms=8202-E4B/0653CER,analyzing_hmc=421hmc01,event_time=03/29/2012 07:04:15
+problem_num=12,pmh_num=,refcode=B3030003,status=Closed,first_time=03/29/2012 14:42:28,last_time=03/29/2012 14:42:28,sys_name=421hmc01,sys_mtms=7042-CR6/0665C5C,enclosure_mtms=8202-E4B/0653CER,firmware_fix=,text=ACT04254I Management Console to multiple partitions failure detected,created_time=03/29/2012 14:42:28,reporting_name=421hmc01,reporting_mtms=7042-CR6/0665C5C,failing_mtms=8202-E4B/0653CER,analyzing_hmc=421hmc01,event_time=03/29/2012 14:42:28
+problem_num=10,pmh_num=,refcode=BA210003,status=Closed,first_time=03/29/2012 14:39:41,last_time=03/29/2012 14:39:41,sys_name=8202-E4B/062E00R,sys_mtms=8202-E4B/062E00R,enclosure_mtms=8202-E4B/062E00R,firmware_fix=,text=ACT04293I Platform firmware (0x83) reported an error.,created_time=03/29/2012 14:39:41,reporting_name=8202-E4B/062E00R,reporting_mtms=8202-E4B/062E00R,failing_mtms=8202-E4B/062E00R,analyzing_hmc=421hmc01,event_time=03/29/2012 06:39:41
+problem_num=9,pmh_num=,refcode=BA350000,status=Closed,first_time=03/29/2012 14:37:54,last_time=03/29/2012 14:37:54,sys_name=8202-E4B/0653D9R,sys_mtms=8202-E4B/0653D9R,enclosure_mtms=8202-E4B/0653D9R,firmware_fix=,text=ACT04293I Platform firmware (0x83) reported an error.,created_time=03/29/2012 14:37:54,reporting_name=8202-E4B/0653D9R,reporting_mtms=8202-E4B/0653D9R,failing_mtms=8202-E4B/0653D9R,analyzing_hmc=421hmc01,event_time=03/29/2012 06:37:51
+problem_num=8,pmh_num=,refcode=BA350000,status=Closed,first_time=03/29/2012 14:37:26,last_time=03/29/2012 14:37:26,sys_name=8202-E4B/0653CDR,sys_mtms=8202-E4B/0653CDR,enclosure_mtms=8202-E4B/0653CDR,firmware_fix=,text=ACT04293I Platform firmware (0x83) reported an error.,created_time=03/29/2012 14:37:26,reporting_name=8202-E4B/0653CDR,reporting_mtms=8202-E4B/0653CDR,failing_mtms=8202-E4B/0653CDR,analyzing_hmc=421hmc01,event_time=03/29/2012 06:37:25
+problem_num=2,pmh_num=,refcode=11001520,status=Closed,first_time=03/29/2012 14:08:09,last_time=03/29/2012 14:37:04,sys_name=8202-E4B/0653D9R,sys_mtms=8202-E4B/0653D9R,enclosure_mtms=8202-E4B/0653D9R,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=03/29/2012 14:08:09,reporting_name=8202-E4B/0653D9R,reporting_mtms=8202-E4B/0653D9R,failing_mtms=8202-E4B/0653D9R,analyzing_hmc=421hmc01,event_time=03/29/2012 06:08:05
+problem_num=7,pmh_num=,refcode=BA350000,status=Closed,first_time=03/29/2012 14:29:53,last_time=03/29/2012 14:29:53,sys_name=8202-E4B/0653BAR,sys_mtms=8202-E4B/0653BAR,enclosure_mtms=8202-E4B/0653BAR,firmware_fix=,text=ACT04293I Platform firmware (0x83) reported an error.,created_time=03/29/2012 14:29:53,reporting_name=8202-E4B/0653BAR,reporting_mtms=8202-E4B/0653BAR,failing_mtms=8202-E4B/0653BAR,analyzing_hmc=421hmc01,event_time=03/29/2012 06:29:52
+problem_num=6,pmh_num=,refcode=BA350000,status=Closed,first_time=03/29/2012 14:29:52,last_time=03/29/2012 14:29:52,sys_name=XA205-czzx1-E4B-SN0653B6R,sys_mtms=8202-E4B/0653B6R,enclosure_mtms=8202-E4B/0653B6R,firmware_fix=,text=ACT04293I Platform firmware (0x83) reported an error.,created_time=03/29/2012 14:29:52,reporting_name=XA205-czzx1-E4B-SN0653B6R,reporting_mtms=8202-E4B/0653B6R,failing_mtms=8202-E4B/0653B6R,analyzing_hmc=421hmc01,event_time=03/29/2012 06:29:50
+problem_num=5,pmh_num=,refcode=BA350000,status=Closed,first_time=03/29/2012 14:29:43,last_time=03/29/2012 14:29:43,sys_name=8202-E4B/0653B5R,sys_mtms=8202-E4B/0653B5R,enclosure_mtms=8202-E4B/0653B5R,firmware_fix=,text=ACT04293I Platform firmware (0x83) reported an error.,created_time=03/29/2012 14:29:43,reporting_name=8202-E4B/0653B5R,reporting_mtms=8202-E4B/0653B5R,failing_mtms=8202-E4B/0653B5R,analyzing_hmc=421hmc01,event_time=03/29/2012 06:29:42
+problem_num=4,pmh_num=,refcode=11001520,status=Closed,first_time=03/29/2012 14:21:24,last_time=03/29/2012 14:21:24,sys_name=8202-E4B/0653B5R,sys_mtms=8202-E4B/0653B5R,enclosure_mtms=8202-E4B/0653B5R,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=03/29/2012 14:21:24,reporting_name=8202-E4B/0653B5R,reporting_mtms=8202-E4B/0653B5R,failing_mtms=8202-E4B/0653B5R,analyzing_hmc=421hmc01,event_time=03/29/2012 06:21:23
+problem_num=3,pmh_num=,refcode=11001510,status=Closed,first_time=03/29/2012 14:08:21,last_time=03/29/2012 14:08:21,sys_name=XA204-czzx2-E4B-SN0653DAR,sys_mtms=8202-E4B/0653DAR,enclosure_mtms=8202-E4B/0653DAR,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=03/29/2012 14:08:21,reporting_name=XA204-czzx2-E4B-SN0653DAR,reporting_mtms=8202-E4B/0653DAR,failing_mtms=8202-E4B/0653DAR,analyzing_hmc=421hmc01,event_time=03/29/2012 06:08:18
+problem_num=1,pmh_num=,refcode=11001520,status=Closed,first_time=03/29/2012 14:08:01,last_time=03/29/2012 14:08:01,sys_name=8202-E4B/0653CER,sys_mtms=8202-E4B/0653CER,enclosure_mtms=8202-E4B/0653CER,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=03/29/2012 14:08:01,reporting_name=8202-E4B/0653CER,reporting_mtms=8202-E4B/0653CER,failing_mtms=8202-E4B/0653CER,analyzing_hmc=421hmc01,event_time=03/29/2012 06:08:00

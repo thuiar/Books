@@ -1,0 +1,194 @@
+LABEL:          CORE_DUMP
+IDENTIFIER:     C69F5C9B
+
+Date/Time:       Mon Jul 15 11:24:32 BEIST 2013
+Sequence Number: 128
+Machine Id:      00CA2F564C00
+Node Id:         dcmsap3
+Class:           S
+Type:            PERM
+Resource Name:   SYSPROC         
+
+Description
+SOFTWARE PROGRAM ABNORMALLY TERMINATED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+User Causes
+USER GENERATED SIGNAL
+
+	Recommended Actions
+	CORRECT THEN RETRY
+
+Failure Causes
+SOFTWARE PROGRAM
+
+	Recommended Actions
+	RERUN THE APPLICATION PROGRAM
+	IF PROBLEM PERSISTS THEN DO THE FOLLOWING
+	CONTACT APPROPRIATE SERVICE REPRESENTATIVE
+
+Detail Data
+SIGNAL NUMBER
+          11
+USER'S PROCESS ID:
+                454936
+FILE SYSTEM SERIAL NUMBER
+          14
+INODE NUMBER
+           0           5
+CORE FILE NAME
+/u01/WebSphere/AppServer/core
+PROGRAM NAME
+java
+STACK EXECUTION DISABLED
+           0
+COME FROM ADDRESS REGISTER
+call_v_ad FFFFF890
+
+PROCESSOR ID
+  hw_fru_id: 1
+  hw_cpu_id: 2
+
+ADDITIONAL INFORMATION
+lkMonitor 18
+monitorEx 50
+
+Symptom Data
+REPORTABLE
+1
+INTERNAL ERROR
+0
+SYMPTOM CODE
+PCSS/SPI2 FLDS/java SIG/11 FLDS/lkMonitor VALU/18 FLDS/monitorEx
+---------------------------------------------------------------------------
+LABEL:          CORE_DUMP
+IDENTIFIER:     C69F5C9B
+
+Date/Time:       Mon Jul  8 16:42:44 BEIST 2013
+Sequence Number: 127
+Machine Id:      00CA2F564C00
+Node Id:         dcmsap3
+Class:           S
+Type:            PERM
+Resource Name:   SYSPROC         
+
+Description
+SOFTWARE PROGRAM ABNORMALLY TERMINATED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+User Causes
+USER GENERATED SIGNAL
+
+	Recommended Actions
+	CORRECT THEN RETRY
+
+Failure Causes
+SOFTWARE PROGRAM
+
+	Recommended Actions
+	RERUN THE APPLICATION PROGRAM
+	IF PROBLEM PERSISTS THEN DO THE FOLLOWING
+	CONTACT APPROPRIATE SERVICE REPRESENTATIVE
+
+Detail Data
+SIGNAL NUMBER
+          11
+USER'S PROCESS ID:
+                290954
+FILE SYSTEM SERIAL NUMBER
+          14
+INODE NUMBER
+           0           5
+CORE FILE NAME
+/u01/WebSphere/AppServer/core
+PROGRAM NAME
+java
+STACK EXECUTION DISABLED
+           0
+COME FROM ADDRESS REGISTER
+call_v_ad FFFFF890
+
+PROCESSOR ID
+  hw_fru_id: 0
+  hw_cpu_id: 0
+
+ADDITIONAL INFORMATION
+release_n 124
+release_n 108
+
+Symptom Data
+REPORTABLE
+1
+INTERNAL ERROR
+0
+SYMPTOM CODE
+PCSS/SPI2 FLDS/java SIG/11 FLDS/release_n VALU/124 FLDS/call_v_ad
+---------------------------------------------------------------------------
+LABEL:          CORE_DUMP
+IDENTIFIER:     C69F5C9B
+
+Date/Time:       Fri Jun 21 10:32:37 BEIST 2013
+Sequence Number: 126
+Machine Id:      00CA2F564C00
+Node Id:         dcmsap3
+Class:           S
+Type:            PERM
+Resource Name:   SYSPROC         
+
+Description
+SOFTWARE PROGRAM ABNORMALLY TERMINATED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+User Causes
+USER GENERATED SIGNAL
+
+	Recommended Actions
+	CORRECT THEN RETRY
+
+Failure Causes
+SOFTWARE PROGRAM
+
+	Recommended Actions
+	RERUN THE APPLICATION PROGRAM
+	IF PROBLEM PERSISTS THEN DO THE FOLLOWING
+	CONTACT APPROPRIATE SERVICE REPRESENTATIVE
+
+Detail Data
+SIGNAL NUMBER
+          11
+USER'S PROCESS ID:
+                385310
+FILE SYSTEM SERIAL NUMBER
+          14
+INODE NUMBER
+           0           5
+CORE FILE NAME
+/u01/WebSphere/AppServer/core
+PROGRAM NAME
+java
+STACK EXECUTION DISABLED
+           0
+COME FROM ADDRESS REGISTER
+call_v_ad FFFFF890
+
+PROCESSOR ID
+  hw_fru_id: 1
+  hw_cpu_id: 2
+
+ADDITIONAL INFORMATION
+lkMonitor 18
+monitorEx 50
+
+Symptom Data
+REPORTABLE
+1
+INTERNAL ERROR
+0
+SYMPTOM CODE
+PCSS/SPI2 FLDS/java SIG/11 FLDS/lkMonitor VALU/18 FLDS/monitorEx

@@ -1,0 +1,2418 @@
+LABEL:          SRC_SVKO
+IDENTIFIER:     BC3BE5A3
+
+Date/Time:       Tue May 14 21:30:05  2013
+Sequence Number: 19817
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           S
+Type:            PERM
+Resource Name:   SRC             
+
+Description
+SOFTWARE PROGRAM ERROR
+
+Probable Causes
+APPLICATION PROGRAM
+
+Failure Causes
+SOFTWARE PROGRAM
+
+	Recommended Actions
+	MANUALLY RESTART SUBSYSTEM IF NEEDED
+
+Detail Data
+SYMPTOM CODE
+         256
+SOFTWARE ERROR CODE
+       -9017
+ERROR CODE
+           0
+DETECTING MODULE
+'srchevn.c'@line:'350'
+FAILING MODULE
+xntpd
+Duplicates
+Number of duplicates
+           1
+Time of first duplicate
+Tue May 14 21:04:01  2013
+Time of last duplicate
+Tue May 14 21:30:05  2013
+---------------------------------------------------------------------------
+LABEL:          GS_START_ST
+IDENTIFIER:     AFA89905
+
+Date/Time:       Tue May 14 20:59:07  2013
+Sequence Number: 19815
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           O
+Type:            INFO
+Resource Name:   grpsvcs         
+
+Description
+Group Services daemon started
+
+Probable Causes
+Daemon started during system startup
+Daemon re-started automatically by SRC
+Daemon started during installation
+Daemon started manually by user
+
+User Causes
+Daemon started manually by user
+
+	Recommended Actions
+	Check that Group Services daemon is running
+
+Detail Data
+DETECTING MODULE
+RSCT,pgsd.C,1.62.1.10,613                     
+ERROR ID 
+63Y7ej0PKeYF/1r7.O4k2i/...................
+REFERENCE CODE
+                                          
+DIAGNOSTIC EXPLANATION
+HAGS daemon started by SRC. Log file is /var/ha/log/grpsvcs_trace.
+---------------------------------------------------------------------------
+LABEL:          TS_START_ST
+IDENTIFIER:     97419D60
+
+Date/Time:       Tue May 14 20:59:03  2013
+Sequence Number: 19814
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           O
+Type:            INFO
+Resource Name:   topsvcs         
+
+Description
+Topology Services daemon started
+
+Probable Causes
+Daemon started during system start-up
+Daemon re-started automatically by SRC
+Daemon started during installation
+Daemon started manually by user
+
+User Causes
+Daemon started manually by user
+
+	Recommended Actions
+	Confirm that this is desirable
+
+Detail Data
+DETECTING MODULE
+rsct,bootstrp.C,1.215.1.3,4848                
+ERROR ID 
+6UpNEL0LKeYF///X1O4k2i/...................
+REFERENCE CODE
+                                          
+Topology Services daemon started by:
+SRC
+Topology Services daemon log file location
+/var/ha/log/topsvcs.14.205903.clu_HQ_BEAI.en_US
+Topology Services daemon run directory
+/var/ha/run/topsvcs.clu_HQ_BEAI/
+---------------------------------------------------------------------------
+LABEL:          REPLACED_FRU
+IDENTIFIER:     2F3E09A4
+
+Date/Time:       Tue May 14 20:55:48  2013
+Sequence Number: 19813
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            INFO
+Resource Name:   sys0            
+Resource Class:  sys
+Resource Type:   chrp
+Location:        
+
+Description
+REPAIR ACTION
+
+User Causes
+PARTS REPLACEMENT
+
+	Recommended Actions
+	NONE
+
+---------------------------------------------------------------------------
+LABEL:          SCAN_ERROR_CHRP
+IDENTIFIER:     BFE4C025
+
+Date/Time:       Tue May 14 20:40:15  2013
+Sequence Number: 19812
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            PERM
+Resource Name:   sysplanar0      
+Resource Class:  planar
+Resource Type:   sysplanar_rspc
+Location:        
+
+Description
+UNDETERMINED ERROR
+
+Failure Causes
+UNDETERMINED
+
+	Recommended Actions
+	RUN SYSTEM DIAGNOSTICS.
+
+Detail Data
+PROBLEM DATA
+0644 00E0 0000 02A4 C600 8E00 0000 0000 0000 0000 4942 4D00 5048 0030 0100 4346 
+2013 0514 1229 1604 2013 0514 1230 0767 4800 0105 0000 0000 0000 0000 0000 0000 
+8200 02DE 506E 6F80 5548 0018 0100 0000 8203 4000 0000 0000 0000 A000 0000 0000 
+5053 0068 0100 4346 0201 0009 0000 0060 0000 0062 0006 0000 0000 026A 0000 0C0D 
+0000 0500 0000 0000 0000 0000 0000 0000 4137 3030 3437 3132 2020 2020 2020 2020 
+2020 2020 2020 2020 2020 2020 2020 2020 C000 0006 1428 4D04 0000 0000 4944 0CC8 
+5356 4344 4F43 5300 4D54 001C 0100 4346 3931 3333 2D35 3541 3036 3534 3041 4820 
+0000 0000 5544 01C8 0000 4346 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 4D41 
+524B 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 3732 3530 3232 3035 3331 3744 3234 3344 0000 0000 0000 0000 0000 
+0000 3030 3030 0000 0000 0000 EAF7 7DA1 718A 97D4 0000 0000 0000 0000 0040 0000 
+0000 0040 0000 0000 0040 FFFF 0040 FFFF 0040 FFFF 0062 0001 60CC 0000 0000 0000 
+0000 0000 1508 8770 860F 7DAD 3931 3333 2D35 3541 3036 2D35 3430 4148 5637 3031 
+2020 2032 3030 2D30 3030 3030 3037 2D37 3030 3731 3239 0006 3532 4131 0001 60CB 
+0000 2B5B 0000 B244 4062 4000 3733 3233 0004 0004 0041 98A7 3714 F629 DD5C 0000 
+0000 0000 0000 0000 0000 0000 4D4F 4444 0000 0000 0040 0000 0000 0000 0000 3030 
+3030 0000 0000 0000 0000 0000 3739 3330 0000 0000 0040 0000 0000 0000 0000 3030 
+3030 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 544D 4F44 0000 0000 0000 0000 0000 0000 EAF7 7DA1 
+718A 97D4 5745 9776 74C8 AA44 1508 8770 860F 7DAD 1508 8770 860F 7DAD 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	527
+Resource tested:	sysplanar0
+Resource Description:	System Planar
+Location:		
+SRC:			A7004712
+Description:		Platform Firmware Unrecovered Error, general. Refer to
+                        the system service documentation for more information.
+Additional Words: 	2-00000062 3-00060000 4-0000026A 5-00000C0D
+			6-00000500 7-00000000 8-00000000 9-00000000
+Possible FRUs:
+    Priority: M FRU: SVCDOCS 
+    Location: n/a
+
+---------------------------------------------------------------------------
+LABEL:          RMCD_INFO_0_ST
+IDENTIFIER:     A6DF45AA
+
+Date/Time:       Tue May 14 20:37:49  2013
+Sequence Number: 19811
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           O
+Type:            INFO
+Resource Name:   RMCdaemon       
+
+Description
+The daemon is started.
+
+Probable Causes
+The Resource Monitoring and Control daemon has been started.
+
+User Causes
+The startsrc -s ctrmc command has been executed or
+the rmcctrl -s command has been executed.
+
+	Recommended Actions
+	Confirm that the daemon should be started.
+
+Detail Data
+DETECTING MODULE
+RSCT,rmcd.c,1.62,213                          
+ERROR ID 
+6eKora0R0eYF/flG/O4k2i/...................
+REFERENCE CODE
+                                          
+---------------------------------------------------------------------------
+LABEL:          J2_LOG_EIO
+IDENTIFIER:     C1348779
+
+Date/Time:       Tue May 14 20:36:01  2013
+Sequence Number: 19809
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           O
+Type:            INFO
+Resource Name:   SYSJ2           
+
+Description
+LOG I/O ERROR
+
+Probable Causes
+ADAPTER HARDWARE OR MICROCODE
+DISK DRIVE HARDWARE OR MICROCODE
+SOFTWARE DEVICE DRIVER
+STORAGE CABLE LOOSE, DEFECTIVE, OR UNTERMINATED
+
+	Recommended Actions
+	CHECK CABLES AND THEIR CONNECTIONS
+	INSTALL LATEST ADAPTER AND DRIVE MICROCODE
+	INSTALL LATEST STORAGE DEVICE DRIVERS
+	IF PROBLEM PERSISTS, CONTACT APPROPRIATE SERVICE REPRESENTATIVE
+
+Detail Data
+JFS2 LOG MAJOR/MINOR DEVICE NUMBER
+000A 0003 
+ERROR CODE
+0000 0006 
+BUF STRUCTURE B_FLAGS
+000C 0404 
+BLOCK NUMBER
+0007 D240 
+Duplicates
+Number of duplicates
+           3
+Time of first duplicate
+Tue May 14 20:07:39  2013
+Time of last duplicate
+Tue May 14 20:36:01  2013
+---------------------------------------------------------------------------
+LABEL:          ERRLOG_ON
+IDENTIFIER:     9DBCFDEE
+
+Date/Time:       Tue May 14 20:37:05  2013
+Sequence Number: 19808
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           O
+Type:            TEMP
+Resource Name:   errdemon        
+
+Description
+ERROR LOGGING TURNED ON
+
+Probable Causes
+ERRDEMON STARTED AUTOMATICALLY
+
+User Causes
+/USR/LIB/ERRDEMON COMMAND
+
+	Recommended Actions
+	NONE
+
+---------------------------------------------------------------------------
+LABEL:          DISK_ERR4
+IDENTIFIER:     49A83216
+
+Date/Time:       Tue May 14 20:03:38  2013
+Sequence Number: 19807
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk1          
+Resource Class:  disk
+Resource Type:   scsd
+Location:        U787B.001.DNWFYYP-P1-T14-L8-L0
+VPD:             
+        Manufacturer................IBM   H0
+        Machine Type and Model......HUS153014VL3800 
+        FRU Number..................03N5288     
+        ROS Level and ID............53343234
+        Serial Number...............00A9BF57
+        EC Level....................H17923Y   
+        Part Number.................03N5287     
+        Device Specific.(Z0)........000004129F00013A
+        Device Specific.(Z1)........VBPSS424    
+        Device Specific.(Z2)........0068
+        Device Specific.(Z3)........08187
+        Device Specific.(Z4)........0001
+        Device Specific.(Z5)........22
+        Device Specific.(Z6)........H17923Y   
+        Device Specific.(BR)........H0
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A08 0000 2800 0AD8 1100 0002 0000 0000 0200 0200 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 10CE 000C 
+---------------------------------------------------------------------------
+LABEL:          SCSI_ERR10
+IDENTIFIER:     0BA49C99
+
+Date/Time:       Tue May 14 20:03:37  2013
+Sequence Number: 19806
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   scsi0           
+Resource Class:  driver
+Resource Type:   sisscsi
+Location:        U787B.001.DNWFYYP-P1-T14
+VPD:             
+        ROM Level.(alterable).......070A0011
+        Product Specific.(CC).......570B
+
+Description
+SCSI BUS ERROR
+
+Probable Causes
+CABLE
+CABLE TERMINATOR
+DEVICE
+ADAPTER
+
+Failure Causes
+CABLE LOOSE OR DEFECTIVE
+DEVICE
+ADAPTER
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+	CHECK CABLE AND ITS CONNECTIONS
+
+Detail Data
+SENSE DATA
+0000 0800 1900 0120 0108 0000 0301 0000 070A 0011 0000 0100 570B 0000 0000 0000 
+0408 0000 0080 00D0 0004 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0400 0000 D000 1016 0400 2800 0AD8 1100 0002 0000 0000 0000 8028 00CE 4000 0000 
+0000 0000 0004 0000 00CC DDDD AABB CCCC 0004 0000 0000 0000 0005 F0E8 8300 0000 
+8000 0200 8000 0000 0000 0000 0000 13EE 0000 0000 0000 0000 8C00 000E 0000 0000 
+0000 0000 2432 2800 0AD8 1100 0002 0000 0000 0000 0000 001E 0000 0001 0000 0800 
+0042 00C4 0000 0000 0000 0000 0000 0412 9F00 013A 4942 4D20 2020 4830 4855 5331 
+3533 3031 3456 4C33 3830 3020 5334 3234 3030 4139 4246 3537 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          LVM_IO_FAIL
+IDENTIFIER:     E86653C3
+
+Date/Time:       Tue May 14 20:03:37  2013
+Sequence Number: 19805
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            PERM
+Resource Name:   LVDD            
+Resource Class:  NONE
+Resource Type:   NONE
+Location:        
+
+Description
+I/O ERROR DETECTED BY LVM
+
+Probable Causes
+POWER, DRIVE, ADAPTER, OR CABLE FAILURE
+
+	Recommended Actions
+	RUN DIAGNOSTICS AGAINST THE FAILING DEVICE
+
+Detail Data
+PHYSICAL VOLUME DEVICE MAJOR/MINOR
+8000 0018 0000 0000 
+ERROR CODE AS DEFINED IN sys/errno.h
+           5
+BLOCK NUMBER
+             181849344
+LOGICAL VOLUME DEVICE MAJOR/MINOR
+8000 000A 0000 000F 
+PHYSICAL BUFFER TRANSACTION TIME
+                     0
+RESIDUAL COUNT
+                262144
+NUMBER OF BLOCKS
+                262144
+I/O TYPE
+USER DATA     
+SENSE DATA
+0000 0000 0005 6B66 0004 988D 0000 D600 0000 0134 DFFB 7BF5 0008 D253 876F 2935 
+0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          DISK_ERR2
+IDENTIFIER:     16F35C72
+
+Date/Time:       Tue May 14 20:03:37  2013
+Sequence Number: 19804
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            PERM
+Resource Name:   hdisk0          
+Resource Class:  disk
+Resource Type:   scsd
+Location:        U787B.001.DNWFYYP-P1-T14-L5-L0
+VPD:             
+        Manufacturer................IBM   H0
+        Machine Type and Model......HUS153014VL3800 
+        FRU Number..................03N5288     
+        ROS Level and ID............53343234
+        Serial Number...............00A852AB
+        EC Level....................H17923Y   
+        Part Number.................03N5287     
+        Device Specific.(Z0)........000004129F00013A
+        Device Specific.(Z1)........VBPSS424    
+        Device Specific.(Z2)........0068
+        Device Specific.(Z3)........08187
+        Device Specific.(Z4)........0001
+        Device Specific.(Z5)........22
+        Device Specific.(Z6)........H17923Y   
+        Device Specific.(BR)........H0
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A05 0000 2A00 0AD6 CD00 0002 0000 0000 0102 0000 7000 0B00 0000 0018 0000 0000 
+4703 0000 0000 0000 1543 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 05DD 0002 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	525
+Resource tested:	hdisk0
+Resource Description:	16 Bit LVD SCSI Disk Drive
+Location:		U787B.001.DNWFYYP-P1-T14-L5-L0
+SRN:			2655-140
+Description:		Error log analysis indicates poor signal quality.
+Possible FRUs:
+    n/a              FRU: n/a                  n/a             
+                     SCSI cable/backplane
+    sisscsia0        FRU: 10N6472              U787B.001.DNWFYYP-P1
+                     PCI-X Dual Channel Ultra320 SCSI Adapter
+    hdisk0           FRU: 03N5288             
+    U787B.001.DNWFYYP-P1-T14-L5-L0
+                     16 Bit LVD SCSI Disk Drive
+
+---------------------------------------------------------------------------
+LABEL:          RMCD_INFO_0_ST
+IDENTIFIER:     A6DF45AA
+
+Date/Time:       Tue May 14 19:47:28  2013
+Sequence Number: 19803
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           O
+Type:            INFO
+Resource Name:   RMCdaemon       
+
+Description
+The daemon is started.
+
+Probable Causes
+The Resource Monitoring and Control daemon has been started.
+
+User Causes
+The startsrc -s ctrmc command has been executed or
+the rmcctrl -s command has been executed.
+
+	Recommended Actions
+	Confirm that the daemon should be started.
+
+Detail Data
+DETECTING MODULE
+RSCT,rmcd.c,1.62,213                          
+ERROR ID 
+6eKora0EHdYF/VBj/O4k2i/...................
+REFERENCE CODE
+                                          
+---------------------------------------------------------------------------
+LABEL:          J2_USERDATA_EIO
+IDENTIFIER:     EA88F829
+
+Date/Time:       Tue May 14 19:45:44  2013
+Sequence Number: 19801
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           O
+Type:            INFO
+Resource Name:   SYSJ2           
+
+Description
+USER DATA I/O ERROR
+
+Probable Causes
+ADAPTER HARDWARE OR MICROCODE
+DISK DRIVE HARDWARE OR MICROCODE
+SOFTWARE DEVICE DRIVER
+STORAGE CABLE LOOSE, DEFECTIVE, OR UNTERMINATED
+
+	Recommended Actions
+	CHECK CABLES AND THEIR CONNECTIONS
+	INSTALL LATEST ADAPTER AND DRIVE MICROCODE
+	INSTALL LATEST STORAGE DEVICE DRIVERS
+	IF PROBLEM PERSISTS, CONTACT APPROPRIATE SERVICE REPRESENTATIVE
+
+Detail Data
+JFS2 MAJOR/MINOR DEVICE NUMBER
+000A 0006 
+FILE SYSTEM DEVICE AND MOUNT POINT
+/dev/hd9var, /var
+---------------------------------------------------------------------------
+LABEL:          ERRLOG_ON
+IDENTIFIER:     9DBCFDEE
+
+Date/Time:       Tue May 14 19:46:46  2013
+Sequence Number: 19800
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           O
+Type:            TEMP
+Resource Name:   errdemon        
+
+Description
+ERROR LOGGING TURNED ON
+
+Probable Causes
+ERRDEMON STARTED AUTOMATICALLY
+
+User Causes
+/USR/LIB/ERRDEMON COMMAND
+
+	Recommended Actions
+	NONE
+
+---------------------------------------------------------------------------
+LABEL:          J2_USERDATA_EIO
+IDENTIFIER:     EA88F829
+
+Date/Time:       Tue May 14 15:37:37  2013
+Sequence Number: 19799
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           O
+Type:            INFO
+Resource Name:   SYSJ2           
+
+Description
+USER DATA I/O ERROR
+
+Probable Causes
+ADAPTER HARDWARE OR MICROCODE
+DISK DRIVE HARDWARE OR MICROCODE
+SOFTWARE DEVICE DRIVER
+STORAGE CABLE LOOSE, DEFECTIVE, OR UNTERMINATED
+
+	Recommended Actions
+	CHECK CABLES AND THEIR CONNECTIONS
+	INSTALL LATEST ADAPTER AND DRIVE MICROCODE
+	INSTALL LATEST STORAGE DEVICE DRIVERS
+	IF PROBLEM PERSISTS, CONTACT APPROPRIATE SERVICE REPRESENTATIVE
+
+Detail Data
+JFS2 MAJOR/MINOR DEVICE NUMBER
+000A 0006 
+FILE SYSTEM DEVICE AND MOUNT POINT
+/dev/hd9var, /var
+---------------------------------------------------------------------------
+LABEL:          LVM_SA_STALEPP
+IDENTIFIER:     EAA3D429
+
+Date/Time:       Tue May 14 15:37:37  2013
+Sequence Number: 19798
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           S
+Type:            UNKN
+Resource Name:   LVDD            
+
+Description
+PHYSICAL PARTITION MARKED STALE
+
+Detail Data
+PHYSICAL VOLUME DEVICE MAJOR/MINOR
+8000 0018 0000 0001 
+PHYSICAL PARTITION NUMBER (DECIMAL)
+                   247
+LOGICAL VOLUME DEVICE MAJOR/MINOR
+8000 000A 0000 0006 
+SENSE DATA
+0004 988D 0000 D600 0000 0134 DFFB 7BF5 0008 D2ED AD6B 6680 0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          LVM_IO_FAIL
+IDENTIFIER:     E86653C3
+
+Date/Time:       Tue May 14 15:37:36  2013
+Sequence Number: 19797
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            PERM
+Resource Name:   LVDD            
+Resource Class:  NONE
+Resource Type:   NONE
+Location:        
+
+Description
+I/O ERROR DETECTED BY LVM
+
+Probable Causes
+POWER, DRIVE, ADAPTER, OR CABLE FAILURE
+
+	Recommended Actions
+	RUN DIAGNOSTICS AGAINST THE FAILING DEVICE
+
+Detail Data
+PHYSICAL VOLUME DEVICE MAJOR/MINOR
+8000 0018 0000 0001 
+ERROR CODE AS DEFINED IN sys/errno.h
+           5
+BLOCK NUMBER
+             129027840
+LOGICAL VOLUME DEVICE MAJOR/MINOR
+8000 000A 0000 0006 
+PHYSICAL BUFFER TRANSACTION TIME
+                     5
+RESIDUAL COUNT
+                  4096
+NUMBER OF BLOCKS
+                  4096
+I/O TYPE
+USER DATA     
+SENSE DATA
+0000 0000 0003 D867 0004 988D 0000 D600 0000 0134 DFFB 7BF5 0008 D2ED AD6B 6680 
+0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          DISK_ERR2
+IDENTIFIER:     16F35C72
+
+Date/Time:       Tue May 14 15:37:36  2013
+Sequence Number: 19796
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            PERM
+Resource Name:   hdisk1          
+Resource Class:  disk
+Resource Type:   scsd
+Location:        U787B.001.DNWFYYP-P1-T14-L8-L0
+VPD:             
+        Manufacturer................IBM   H0
+        Machine Type and Model......HUS153014VL3800 
+        FRU Number..................03N5288     
+        ROS Level and ID............53343234
+        Serial Number...............00A9BF57
+        EC Level....................H17923Y   
+        Part Number.................03N5287     
+        Device Specific.(Z0)........000004129F00013A
+        Device Specific.(Z1)........VBPSS424    
+        Device Specific.(Z2)........0068
+        Device Specific.(Z3)........08187
+        Device Specific.(Z4)........0001
+        Device Specific.(Z5)........22
+        Device Specific.(Z6)........H17923Y   
+        Device Specific.(BR)........H0
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A08 0000 2A00 07B0 CF00 0000 0800 0000 0102 0000 7000 0B00 0000 0018 0000 0000 
+4703 0000 0000 0000 1543 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00AD 0005 
+---------------------------------------------------------------------------
+LABEL:          LVM_IO_FAIL
+IDENTIFIER:     E86653C3
+
+Date/Time:       Tue May 14 15:37:35  2013
+Sequence Number: 19795
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            PERM
+Resource Name:   LVDD            
+Resource Class:  NONE
+Resource Type:   NONE
+Location:        
+
+Description
+I/O ERROR DETECTED BY LVM
+
+Probable Causes
+POWER, DRIVE, ADAPTER, OR CABLE FAILURE
+
+	Recommended Actions
+	RUN DIAGNOSTICS AGAINST THE FAILING DEVICE
+
+Detail Data
+PHYSICAL VOLUME DEVICE MAJOR/MINOR
+8000 0018 0000 0000 
+ERROR CODE AS DEFINED IN sys/errno.h
+           5
+BLOCK NUMBER
+             129027840
+LOGICAL VOLUME DEVICE MAJOR/MINOR
+8000 000A 0000 0006 
+PHYSICAL BUFFER TRANSACTION TIME
+                     4
+RESIDUAL COUNT
+                  4096
+NUMBER OF BLOCKS
+                  4096
+I/O TYPE
+USER DATA     
+SENSE DATA
+0000 0000 0003 D867 0004 988D 0000 D600 0000 0134 DFFB 7BF5 0008 D253 876F 2935 
+0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          DISK_ERR2
+IDENTIFIER:     16F35C72
+
+Date/Time:       Tue May 14 15:37:35  2013
+Sequence Number: 19794
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            PERM
+Resource Name:   hdisk0          
+Resource Class:  disk
+Resource Type:   scsd
+Location:        U787B.001.DNWFYYP-P1-T14-L5-L0
+VPD:             
+        Manufacturer................IBM   H0
+        Machine Type and Model......HUS153014VL3800 
+        FRU Number..................03N5288     
+        ROS Level and ID............53343234
+        Serial Number...............00A852AB
+        EC Level....................H17923Y   
+        Part Number.................03N5287     
+        Device Specific.(Z0)........000004129F00013A
+        Device Specific.(Z1)........VBPSS424    
+        Device Specific.(Z2)........0068
+        Device Specific.(Z3)........08187
+        Device Specific.(Z4)........0001
+        Device Specific.(Z5)........22
+        Device Specific.(Z6)........H17923Y   
+        Device Specific.(BR)........H0
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A05 0000 2A00 07B0 CF00 0000 0800 0000 0102 0000 7000 0B00 0000 0018 0000 0000 
+4703 0000 0000 0000 1543 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 16DE 000A 
+---------------------------------------------------------------------------
+LABEL:          LVM_SA_STALEPP
+IDENTIFIER:     EAA3D429
+
+Date/Time:       Tue May 14 15:37:35  2013
+Sequence Number: 19793
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           S
+Type:            UNKN
+Resource Name:   LVDD            
+
+Description
+PHYSICAL PARTITION MARKED STALE
+
+Detail Data
+PHYSICAL VOLUME DEVICE MAJOR/MINOR
+8000 0018 0000 0001 
+PHYSICAL PARTITION NUMBER (DECIMAL)
+                   281
+LOGICAL VOLUME DEVICE MAJOR/MINOR
+8000 000A 0000 0007 
+SENSE DATA
+0004 988D 0000 D600 0000 0134 DFFB 7BF5 0008 D2ED AD6B 6680 0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          LVM_IO_FAIL
+IDENTIFIER:     E86653C3
+
+Date/Time:       Tue May 14 15:37:35  2013
+Sequence Number: 19792
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            PERM
+Resource Name:   LVDD            
+Resource Class:  NONE
+Resource Type:   NONE
+Location:        
+
+Description
+I/O ERROR DETECTED BY LVM
+
+Probable Causes
+POWER, DRIVE, ADAPTER, OR CABLE FAILURE
+
+	Recommended Actions
+	RUN DIAGNOSTICS AGAINST THE FAILING DEVICE
+
+Detail Data
+PHYSICAL VOLUME DEVICE MAJOR/MINOR
+8000 0018 0000 0001 
+ERROR CODE AS DEFINED IN sys/errno.h
+           5
+BLOCK NUMBER
+             147007032
+LOGICAL VOLUME DEVICE MAJOR/MINOR
+8000 000A 0000 0007 
+PHYSICAL BUFFER TRANSACTION TIME
+                     4
+RESIDUAL COUNT
+                  4096
+NUMBER OF BLOCKS
+                  4096
+I/O TYPE
+USER DATA     
+SENSE DATA
+0000 0000 0004 6193 0004 988D 0000 D600 0000 0134 DFFB 7BF5 0008 D2ED AD6B 6680 
+0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          DISK_ERR3
+IDENTIFIER:     8647C4E2
+
+Date/Time:       Tue May 14 15:37:35  2013
+Sequence Number: 19791
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            PERM
+Resource Name:   hdisk1          
+Resource Class:  disk
+Resource Type:   scsd
+Location:        U787B.001.DNWFYYP-P1-T14-L8-L0
+VPD:             
+        Manufacturer................IBM   H0
+        Machine Type and Model......HUS153014VL3800 
+        FRU Number..................03N5288     
+        ROS Level and ID............53343234
+        Serial Number...............00A9BF57
+        EC Level....................H17923Y   
+        Part Number.................03N5287     
+        Device Specific.(Z0)........000004129F00013A
+        Device Specific.(Z1)........VBPSS424    
+        Device Specific.(Z2)........0068
+        Device Specific.(Z3)........08187
+        Device Specific.(Z4)........0001
+        Device Specific.(Z5)........22
+        Device Specific.(Z6)........H17923Y   
+        Device Specific.(BR)........H0
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+STORAGE DEVICE CABLE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+STORAGE DEVICE CABLE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A08 0000 2A00 08C3 2638 0000 0800 0000 0200 0200 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00AD 0005 
+---------------------------------------------------------------------------
+LABEL:          SCSI_ERR2
+IDENTIFIER:     C14C511C
+
+Date/Time:       Tue May 14 15:37:32  2013
+Sequence Number: 19790
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   sisscsia0       
+Resource Class:  adapter
+Resource Type:   14106602
+Location:        U787B.001.DNWFYYP-P1
+
+Description
+ADAPTER ERROR
+
+Probable Causes
+ADAPTER HARDWARE
+CABLE
+CABLE TERMINATOR
+DEVICE
+
+Failure Causes
+ADAPTER
+CABLE LOOSE OR DEFECTIVE
+DEVICE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+	CHECK CABLE AND ITS CONNECTIONS
+
+Detail Data
+SENSE DATA
+00FF FFFF 1900 00F0 0444 8200 0301 0000 070A 0011 0000 00FF 570B 0000 0000 0000 
+E210 0040 FF00 0000 0530 0002 0B72 F082 0000 0000 0000 03E8 0444 8200 00FF FFFF 
+FFFF FFFF 1001 1034 0000 0000 0444 8200 1001 1034 003B C4B4 9000 FFFF 0444 8200 
+0000 0000 0000 0000 003B C4B4 0000 0000 0000 0000 0000 0000 4445 5252 0000 0011 
+1001 1034 0F00 0086 0000 0020 2037 BC94 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 01D9 0B72 F072 1500 01D9 0000 01D9 0000 0000 0B72 F070 2200 01D9 000A 2690 
+003B C4B4 0B72 F070 FFFF FFFF 0444 8200 0000 0020 0B72 F070 1600 01D9 000A 2690 
+0F00 0086 0B72 F070 FF00 01D9 003B C4B4 4000 01D9 0B72 F06F 2000 01D9 000A 2690 
+003B C4B4 0B72 F06F 1000 01D9 000A 2690 0F00 0000 0B72 F06E 1500 01A5 0000 01A5 
+0000 0000 0B72 F06D 2200 01A5 000A 2690 003B C4B4 0B72 F06D FFFF FFFF 0444 8200 
+0000 0020 0B72 F06C 1600 01A5 000A 2690 0F00 0086 0B72 F06C FF00 01A5 003B C4B4 
+4000 01A5 0B72 F06B 2000 01A5 000A 2690 003B C4B4 0B72 F06B 1000 01A5 000A 2690 
+0F00 0000 0B72 F06A 1500 0030 0000 0030 0000 0000 0B72 F069 2200 0030 000A 2690 
+003B C4B4 0B72 F069 FFFF FFFF 0444 8200 0000 0020 0B72 F068 1600 0030 000A 2690 
+0F00 0086 0B72 F068 FF00 0030 003B C4B4 4000 0030 0B72 F068 2000 0030 000A 2690 
+003B C4B4 0B72 F067 1000 0030 000A 2690 0F00 0000 0B72 F066 1500 0099 0000 0099 
+0000 0000 0B72 F065 2200 0099 000A 2690 003B C4B4 0B72 F065 FFFF FFFF 0444 8200 
+0000 0020 0B72 F065 1600 0099 000A 2690 0F00 0086 0B72 F065 FF00 0099 003B C4B4 
+4000 0099 0B72 F064 2000 0099 000A 2690 003B C4B4 0B72 F064 1000 0099 000A 2690 
+0F00 0000 0B72 F062 1500 011F 0000 011F 0000 0000 0B72 F061 2200 011F 000A 2690 
+003B C4B4 0B72 F061 FFFF FFFF 0444 8200 0000 0020 0B72 F061 1600 011F 000A 2690 
+0F00 0086 0B72 F061 FF00 011F 003B C4B4 4000 011F 0B72 F060 2000 011F 000A 2690 
+003B C4B4 0B72 F060 1000 011F 000A 2690 0F00 0000 0B72 F05F 1500 01E6 0000 01E6 
+0000 0000 0B72 F05D 2200 01E6 000A 2690 003B C4B4 0B72 F05D FFFF FFFF 0444 8200 
+0000 0020 0B72 F05D 1600 01E6 000A 2690 0F00 0086 0B72 F05D FF00 01E6 003B C4B4 
+4000 01E6 0B72 F05C 2000 01E6 000A 2690 003B C4B4 0B72 F05C 1000 01E6 000A 2690 
+0F00 0000 0B72 F05B 1500 0117 0000 0117 0000 0000 0B72 F059 2200 0117 000A 2690 
+003B C4B4 0B72 F05A FFFF FFFF 0444 8200 0000 0020 0B72 F059 1600 0117 000A 2690 
+0F00 0086 0B72 F059 FF00 0117 003B C4B4 4000 0117 0B72 F058 2000 0117 000A 2690 
+003B C4B4 0B72 F058 1000 0117 000A 2690 0F00 0000 0B72 F057 1500 004F 0000 004F 
+0000 0000 0B72 F056 2200 004F 000A 2690 003B C4B4 0B72 F056 FFFF FFFF 0444 8200 
+---------------------------------------------------------------------------
+LABEL:          SCSI_ERR2
+IDENTIFIER:     C14C511C
+
+Date/Time:       Tue May 14 15:37:32  2013
+Sequence Number: 19789
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   scsi0           
+Resource Class:  driver
+Resource Type:   sisscsi
+Location:        U787B.001.DNWFYYP-P1-T14
+VPD:             
+        ROM Level.(alterable).......070A0011
+        Product Specific.(CC).......570B
+
+Description
+ADAPTER ERROR
+
+Probable Causes
+ADAPTER HARDWARE
+CABLE
+CABLE TERMINATOR
+DEVICE
+
+Failure Causes
+ADAPTER
+CABLE LOOSE OR DEFECTIVE
+DEVICE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+	CHECK CABLE AND ITS CONNECTIONS
+
+Detail Data
+SENSE DATA
+0000 0500 1900 0120 0444 8200 0301 0000 070A 0011 0000 0100 570B 0000 0000 0000 
+0444 8200 0080 00D0 0000 0020 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 3430 0300 0000 FF00 0000 0000 0000 0000 0000 001E 0000 0001 0000 0500 
+0031 E0E4 0000 0000 0000 0000 0000 0412 9F00 013A 4942 4D20 2020 4830 4855 5331 
+3533 3031 3456 4C33 3830 3020 5334 3234 3030 4138 3532 4142 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          SCSI_ERR2
+IDENTIFIER:     C14C511C
+
+Date/Time:       Tue May 14 15:37:32  2013
+Sequence Number: 19788
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   sisscsia0       
+Resource Class:  adapter
+Resource Type:   14106602
+Location:        U787B.001.DNWFYYP-P1
+
+Description
+ADAPTER ERROR
+
+Probable Causes
+ADAPTER HARDWARE
+CABLE
+CABLE TERMINATOR
+DEVICE
+
+Failure Causes
+ADAPTER
+CABLE LOOSE OR DEFECTIVE
+DEVICE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+	CHECK CABLE AND ITS CONNECTIONS
+
+Detail Data
+SENSE DATA
+00FF FFFF 1900 00F0 0444 8200 0301 0000 070A 0011 0000 00FF 570B 0000 0000 0000 
+E210 0040 FF00 0000 0530 0001 0B72 E96D 0000 0000 0000 03E8 0444 8200 00FF FFFF 
+FFFF FFFF 1001 1034 0000 0000 0444 8200 1001 1034 003B 8624 9000 FFFF 0444 8200 
+0000 0000 0000 0000 003B 8624 0000 0000 0000 0000 0000 0000 4445 5252 0000 0011 
+1001 1034 0F00 0086 0000 0020 2037 BC94 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 01DD 0B72 E95C 1500 01DD 0000 01DD 0000 0000 0B72 E95B 2200 01DD 000A 42A0 
+003B 8624 0B72 E95B FFFF FFFF 0444 8200 0000 0020 0B72 E95A 1600 01DD 000A 42A0 
+0F00 0086 0B72 E95A FF00 01DD 003B 8624 4000 01DD 0B72 E95A 2000 01DD 000A 42A0 
+003B 8624 0B72 E959 1000 01DD 000A 42A0 0F00 0000 0B72 E958 1500 01F7 0000 01F7 
+0000 0000 0B72 E956 2200 01F7 000A 42A0 003B 8624 0B72 E956 FFFF FFFF 0444 8200 
+0000 0020 0B72 E956 1600 01F7 000A 42A0 0F00 0086 0B72 E956 FF00 01F7 003B 8624 
+4000 01F7 0B72 E955 2000 01F7 000A 42A0 003B 8624 0B72 E955 1000 01F7 000A 42A0 
+0F00 0000 0B72 E953 1500 0001 0000 0001 0000 0000 0B72 E952 2200 0001 000A 42A0 
+003B 8624 0B72 E952 FFFF FFFF 0444 8200 0000 0020 0B72 E951 1600 0001 000A 42A0 
+0F00 0086 0B72 E951 FF00 0001 003B 8624 4000 0001 0B72 E951 2000 0001 000A 42A0 
+003B 8624 0B72 E950 1000 0001 000A 42A0 0F00 0000 0B72 E94F 1500 015A 0000 015A 
+0000 0000 0B72 E94D 2200 015A 000A 42A0 003B 8624 0B72 E94D FFFF FFFF 0444 8200 
+0000 0020 0B72 E94D 1600 015A 000A 42A0 0F00 0086 0B72 E94D FF00 015A 003B 8624 
+4000 015A 0B72 E94C 2000 015A 000A 42A0 003B 8624 0B72 E94C 1000 015A 000A 42A0 
+0F00 0000 0B72 E94A 1500 0057 0000 0057 0000 0000 0B72 E949 2200 0057 000A 42A0 
+003B 8624 0B72 E949 FFFF FFFF 0444 8200 0000 0020 0B72 E948 1600 0057 000A 42A0 
+0F00 0086 0B72 E948 FF00 0057 003B 8624 4000 0057 0B72 E948 2000 0057 000A 42A0 
+003B 8624 0B72 E947 1000 0057 000A 42A0 0F00 0000 0B72 E946 1500 0185 0000 0185 
+0000 0000 0B72 E944 2200 0185 000A 42A0 003B 8624 0B72 E944 FFFF FFFF 0444 8200 
+0000 0020 0B72 E944 1600 0185 000A 42A0 0F00 0086 0B72 E944 FF00 0185 003B 8624 
+4000 0185 0B72 E943 2000 0185 000A 42A0 003B 8624 0B72 E943 1000 0185 000A 42A0 
+0F00 0000 0B72 E941 1500 0012 0000 0012 0000 0000 0B72 E940 2200 0012 000A 42A0 
+003B 8624 0B72 E940 FFFF FFFF 0444 8200 0000 0020 0B72 E93F 1600 0012 000A 42A0 
+0F00 0086 0B72 E940 FF00 0012 003B 8624 4000 0012 0B72 E93F 2000 0012 000A 42A0 
+003B 8624 0B72 E93F 1000 0012 000A 42A0 0F00 0000 0B72 E93D 1500 01F9 0000 01F9 
+0000 0000 0B72 E93B 2200 01F9 000A 42A0 003B 8624 0B72 E93C FFFF FFFF 0444 8200 
+---------------------------------------------------------------------------
+LABEL:          SCSI_ERR2
+IDENTIFIER:     C14C511C
+
+Date/Time:       Tue May 14 15:37:32  2013
+Sequence Number: 19787
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   scsi0           
+Resource Class:  driver
+Resource Type:   sisscsi
+Location:        U787B.001.DNWFYYP-P1-T14
+VPD:             
+        ROM Level.(alterable).......070A0011
+        Product Specific.(CC).......570B
+
+Description
+ADAPTER ERROR
+
+Probable Causes
+ADAPTER HARDWARE
+CABLE
+CABLE TERMINATOR
+DEVICE
+
+Failure Causes
+ADAPTER
+CABLE LOOSE OR DEFECTIVE
+DEVICE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+	CHECK CABLE AND ITS CONNECTIONS
+
+Detail Data
+SENSE DATA
+0000 0500 1900 0120 0444 8200 0301 0000 070A 0011 0000 0100 570B 0000 0000 0000 
+0444 8200 0080 00D0 0000 0020 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 3430 0300 0000 FF00 0000 0000 0000 0000 0000 001E 0000 0001 0000 0500 
+0031 E0E4 0000 0000 0000 0000 0000 0412 9F00 013A 4942 4D20 2020 4830 4855 5331 
+3533 3031 3456 4C33 3830 3020 5334 3234 3030 4138 3532 4142 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          SCSI_ERR10
+IDENTIFIER:     0BA49C99
+
+Date/Time:       Tue May 14 15:37:31  2013
+Sequence Number: 19786
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   scsi0           
+Resource Class:  driver
+Resource Type:   sisscsi
+Location:        U787B.001.DNWFYYP-P1-T14
+VPD:             
+        ROM Level.(alterable).......070A0011
+        Product Specific.(CC).......570B
+
+Description
+SCSI BUS ERROR
+
+Probable Causes
+CABLE
+CABLE TERMINATOR
+DEVICE
+ADAPTER
+
+Failure Causes
+CABLE LOOSE OR DEFECTIVE
+DEVICE
+ADAPTER
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+	CHECK CABLE AND ITS CONNECTIONS
+
+Detail Data
+SENSE DATA
+0000 0800 1900 0120 0108 0000 0301 0000 070A 0011 0000 0100 570B 0000 0000 0000 
+0408 0000 0080 00D0 0000 1000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0400 0000 D000 1016 0400 2A00 08C3 2638 0000 0800 0000 0000 8038 00E8 4000 0000 
+0000 0000 0004 0000 00CC DDDD AABB CCCC 0000 1000 0000 0000 0006 2000 8400 0000 
+8000 0200 8000 0000 0000 0000 0000 13EE 0000 0000 0000 0000 8C00 000E 0000 0000 
+0000 0000 A432 2A00 08C3 2638 0000 0800 0000 0000 0000 001E 0000 0001 0000 0800 
+0042 00C4 0000 0000 0000 0000 0000 0412 9F00 013A 4942 4D20 2020 4830 4855 5331 
+3533 3031 3456 4C33 3830 3020 5334 3234 3030 4139 4246 3537 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          DISK_ERR4
+IDENTIFIER:     49A83216
+
+Date/Time:       Tue May 14 15:37:02  2013
+Sequence Number: 19785
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk1          
+Resource Class:  disk
+Resource Type:   scsd
+Location:        U787B.001.DNWFYYP-P1-T14-L8-L0
+VPD:             
+        Manufacturer................IBM   H0
+        Machine Type and Model......HUS153014VL3800 
+        FRU Number..................03N5288     
+        ROS Level and ID............53343234
+        Serial Number...............00A9BF57
+        EC Level....................H17923Y   
+        Part Number.................03N5287     
+        Device Specific.(Z0)........000004129F00013A
+        Device Specific.(Z1)........VBPSS424    
+        Device Specific.(Z2)........0068
+        Device Specific.(Z3)........08187
+        Device Specific.(Z4)........0001
+        Device Specific.(Z5)........22
+        Device Specific.(Z6)........H17923Y   
+        Device Specific.(BR)........H0
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A08 0000 2A00 07B0 CF10 0000 0800 0000 0102 0000 7000 0B00 0000 0018 0000 0000 
+4703 0000 0000 0000 1543 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00AD 0003 
+---------------------------------------------------------------------------
+LABEL:          J2_USERDATA_EIO
+IDENTIFIER:     EA88F829
+
+Date/Time:       Tue May 14 15:36:59  2013
+Sequence Number: 19784
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           O
+Type:            INFO
+Resource Name:   SYSJ2           
+
+Description
+USER DATA I/O ERROR
+
+Probable Causes
+ADAPTER HARDWARE OR MICROCODE
+DISK DRIVE HARDWARE OR MICROCODE
+SOFTWARE DEVICE DRIVER
+STORAGE CABLE LOOSE, DEFECTIVE, OR UNTERMINATED
+
+	Recommended Actions
+	CHECK CABLES AND THEIR CONNECTIONS
+	INSTALL LATEST ADAPTER AND DRIVE MICROCODE
+	INSTALL LATEST STORAGE DEVICE DRIVERS
+	IF PROBLEM PERSISTS, CONTACT APPROPRIATE SERVICE REPRESENTATIVE
+
+Detail Data
+JFS2 MAJOR/MINOR DEVICE NUMBER
+000A 0006 
+FILE SYSTEM DEVICE AND MOUNT POINT
+/dev/hd9var, /var
+---------------------------------------------------------------------------
+LABEL:          LVM_SA_STALEPP
+IDENTIFIER:     EAA3D429
+
+Date/Time:       Tue May 14 15:36:59  2013
+Sequence Number: 19783
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           S
+Type:            UNKN
+Resource Name:   LVDD            
+
+Description
+PHYSICAL PARTITION MARKED STALE
+
+Detail Data
+PHYSICAL VOLUME DEVICE MAJOR/MINOR
+8000 0018 0000 0001 
+PHYSICAL PARTITION NUMBER (DECIMAL)
+                   246
+LOGICAL VOLUME DEVICE MAJOR/MINOR
+8000 000A 0000 0006 
+SENSE DATA
+0004 988D 0000 D600 0000 0134 DFFB 7BF5 0008 D2ED AD6B 6680 0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          LVM_IO_FAIL
+IDENTIFIER:     E86653C3
+
+Date/Time:       Tue May 14 15:36:59  2013
+Sequence Number: 19782
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            PERM
+Resource Name:   LVDD            
+Resource Class:  NONE
+Resource Type:   NONE
+Location:        
+
+Description
+I/O ERROR DETECTED BY LVM
+
+Probable Causes
+POWER, DRIVE, ADAPTER, OR CABLE FAILURE
+
+	Recommended Actions
+	RUN DIAGNOSTICS AGAINST THE FAILING DEVICE
+
+Detail Data
+PHYSICAL VOLUME DEVICE MAJOR/MINOR
+8000 0018 0000 0001 
+ERROR CODE AS DEFINED IN sys/errno.h
+           5
+BLOCK NUMBER
+             128880896
+LOGICAL VOLUME DEVICE MAJOR/MINOR
+8000 000A 0000 0006 
+PHYSICAL BUFFER TRANSACTION TIME
+                     2
+RESIDUAL COUNT
+                 57344
+NUMBER OF BLOCKS
+                 57344
+I/O TYPE
+USER DATA     
+SENSE DATA
+0000 0000 0003 D748 0004 988D 0000 D600 0000 0134 DFFB 7BF5 0008 D2ED AD6B 6680 
+0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          LVM_IO_FAIL
+IDENTIFIER:     E86653C3
+
+Date/Time:       Tue May 14 15:36:59  2013
+Sequence Number: 19781
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            PERM
+Resource Name:   LVDD            
+Resource Class:  NONE
+Resource Type:   NONE
+Location:        
+
+Description
+I/O ERROR DETECTED BY LVM
+
+Probable Causes
+POWER, DRIVE, ADAPTER, OR CABLE FAILURE
+
+	Recommended Actions
+	RUN DIAGNOSTICS AGAINST THE FAILING DEVICE
+
+Detail Data
+PHYSICAL VOLUME DEVICE MAJOR/MINOR
+8000 0018 0000 0000 
+ERROR CODE AS DEFINED IN sys/errno.h
+           5
+BLOCK NUMBER
+             128880896
+LOGICAL VOLUME DEVICE MAJOR/MINOR
+8000 000A 0000 0006 
+PHYSICAL BUFFER TRANSACTION TIME
+                     2
+RESIDUAL COUNT
+                 57344
+NUMBER OF BLOCKS
+                 57344
+I/O TYPE
+USER DATA     
+SENSE DATA
+0000 0000 0003 D748 0004 988D 0000 D600 0000 0134 DFFB 7BF5 0008 D253 876F 2935 
+0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          DISK_ERR2
+IDENTIFIER:     16F35C72
+
+Date/Time:       Tue May 14 15:36:59  2013
+Sequence Number: 19780
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            PERM
+Resource Name:   hdisk1          
+Resource Class:  disk
+Resource Type:   scsd
+Location:        U787B.001.DNWFYYP-P1-T14-L8-L0
+VPD:             
+        Manufacturer................IBM   H0
+        Machine Type and Model......HUS153014VL3800 
+        FRU Number..................03N5288     
+        ROS Level and ID............53343234
+        Serial Number...............00A9BF57
+        EC Level....................H17923Y   
+        Part Number.................03N5287     
+        Device Specific.(Z0)........000004129F00013A
+        Device Specific.(Z1)........VBPSS424    
+        Device Specific.(Z2)........0068
+        Device Specific.(Z3)........08187
+        Device Specific.(Z4)........0001
+        Device Specific.(Z5)........22
+        Device Specific.(Z6)........H17923Y   
+        Device Specific.(BR)........H0
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A08 0000 2A00 07AE 9100 0000 7000 0000 0102 0000 7000 0B00 0000 0018 0000 0000 
+4703 0000 0000 0000 1543 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00AD 0003 
+---------------------------------------------------------------------------
+LABEL:          DISK_ERR2
+IDENTIFIER:     16F35C72
+
+Date/Time:       Tue May 14 15:36:59  2013
+Sequence Number: 19779
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            PERM
+Resource Name:   hdisk0          
+Resource Class:  disk
+Resource Type:   scsd
+Location:        U787B.001.DNWFYYP-P1-T14-L5-L0
+VPD:             
+        Manufacturer................IBM   H0
+        Machine Type and Model......HUS153014VL3800 
+        FRU Number..................03N5288     
+        ROS Level and ID............53343234
+        Serial Number...............00A852AB
+        EC Level....................H17923Y   
+        Part Number.................03N5287     
+        Device Specific.(Z0)........000004129F00013A
+        Device Specific.(Z1)........VBPSS424    
+        Device Specific.(Z2)........0068
+        Device Specific.(Z3)........08187
+        Device Specific.(Z4)........0001
+        Device Specific.(Z5)........22
+        Device Specific.(Z6)........H17923Y   
+        Device Specific.(BR)........H0
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A05 0000 2A00 07AE 9100 0000 7000 0000 0102 0000 7000 0B00 0000 0018 0000 0000 
+4703 0000 0000 0000 1543 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 16D0 000D 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	525
+Resource tested:	hdisk0
+Resource Description:	16 Bit LVD SCSI Disk Drive
+Location:		U787B.001.DNWFYYP-P1-T14-L5-L0
+SRN:			2655-140
+Description:		Error log analysis indicates poor signal quality.
+Possible FRUs:
+    n/a              FRU: n/a                  n/a             
+                     SCSI cable/backplane
+    sisscsia0        FRU: 10N6472              U787B.001.DNWFYYP-P1
+                     PCI-X Dual Channel Ultra320 SCSI Adapter
+    hdisk0           FRU: 03N5288             
+    U787B.001.DNWFYYP-P1-T14-L5-L0
+                     16 Bit LVD SCSI Disk Drive
+
+---------------------------------------------------------------------------
+LABEL:          TS_LOC_DOWN_ST
+IDENTIFIER:     173C787F
+
+Date/Time:       Sat Apr 20 19:06:33  2013
+Sequence Number: 19778
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           S
+Type:            INFO
+Resource Name:   topsvcs         
+
+Description
+Possible malfunction on local adapter
+
+Probable Causes
+Local adapter mal-functioned
+Local adapter lost connection to network
+Local adapter mis-configured
+
+Failure Causes
+Local adapter mal-functioned
+Local adapter lost connection to network
+Local adapter mis-configured
+
+	Recommended Actions
+	Verify adapter configuration
+	Verify network connectivity
+
+Detail Data
+DETECTING MODULE
+rsct,nim_control.C,1.39.1.26,4626             
+ERROR ID 
+6zV5DL.tQiQF/Zb2.O4k2i/...................
+REFERENCE CODE
+                                          
+Adapter interface name
+tty0
+Adapter offset
+           2
+Adapter IP address
+255.255.0.1
+---------------------------------------------------------------------------
+LABEL:          SRC_SVKO
+IDENTIFIER:     BC3BE5A3
+
+Date/Time:       Sat Apr 20 18:40:17  2013
+Sequence Number: 19777
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           S
+Type:            PERM
+Resource Name:   SRC             
+
+Description
+SOFTWARE PROGRAM ERROR
+
+Probable Causes
+APPLICATION PROGRAM
+
+Failure Causes
+SOFTWARE PROGRAM
+
+	Recommended Actions
+	MANUALLY RESTART SUBSYSTEM IF NEEDED
+
+Detail Data
+SYMPTOM CODE
+         256
+SOFTWARE ERROR CODE
+       -9017
+ERROR CODE
+           0
+DETECTING MODULE
+'srchevn.c'@line:'350'
+FAILING MODULE
+xntpd
+---------------------------------------------------------------------------
+LABEL:          GS_START_ST
+IDENTIFIER:     AFA89905
+
+Date/Time:       Sat Apr 20 18:36:38  2013
+Sequence Number: 19776
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           O
+Type:            INFO
+Resource Name:   grpsvcs         
+
+Description
+Group Services daemon started
+
+Probable Causes
+Daemon started during system startup
+Daemon re-started automatically by SRC
+Daemon started during installation
+Daemon started manually by user
+
+User Causes
+Daemon started manually by user
+
+	Recommended Actions
+	Check that Group Services daemon is running
+
+Detail Data
+DETECTING MODULE
+RSCT,pgsd.C,1.62.1.10,613                     
+ERROR ID 
+63Y7ej0q.iQF/baC.O4k2i/...................
+REFERENCE CODE
+                                          
+DIAGNOSTIC EXPLANATION
+HAGS daemon started by SRC. Log file is /var/ha/log/grpsvcs_trace.
+---------------------------------------------------------------------------
+LABEL:          TS_START_ST
+IDENTIFIER:     97419D60
+
+Date/Time:       Sat Apr 20 18:36:34  2013
+Sequence Number: 19775
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           O
+Type:            INFO
+Resource Name:   topsvcs         
+
+Description
+Topology Services daemon started
+
+Probable Causes
+Daemon started during system start-up
+Daemon re-started automatically by SRC
+Daemon started during installation
+Daemon started manually by user
+
+User Causes
+Daemon started manually by user
+
+	Recommended Actions
+	Confirm that this is desirable
+
+Detail Data
+DETECTING MODULE
+rsct,bootstrp.C,1.215.1.3,4848                
+ERROR ID 
+6UpNEL0m.iQF/BCI1O4k2i/...................
+REFERENCE CODE
+                                          
+Topology Services daemon started by:
+SRC
+Topology Services daemon log file location
+/var/ha/log/topsvcs.20.183634.clu_HQ_BEAI.en_US
+Topology Services daemon run directory
+/var/ha/run/topsvcs.clu_HQ_BEAI/
+---------------------------------------------------------------------------
+LABEL:          RMCD_INFO_0_ST
+IDENTIFIER:     A6DF45AA
+
+Date/Time:       Sat Apr 20 18:29:02  2013
+Sequence Number: 19774
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           O
+Type:            INFO
+Resource Name:   RMCdaemon       
+
+Description
+The daemon is started.
+
+Probable Causes
+The Resource Monitoring and Control daemon has been started.
+
+User Causes
+The startsrc -s ctrmc command has been executed or
+the rmcctrl -s command has been executed.
+
+	Recommended Actions
+	Confirm that the daemon should be started.
+
+Detail Data
+DETECTING MODULE
+RSCT,rmcd.c,1.62,213                          
+ERROR ID 
+6eKora0ithQF//Cb/O4k2i/...................
+REFERENCE CODE
+                                          
+---------------------------------------------------------------------------
+LABEL:          FSCSI_ERR4
+IDENTIFIER:     3074FEB7
+
+Date/Time:       Sat Apr 20 18:28:05  2013
+Sequence Number: 19772
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   fscsi1          
+Resource Class:  driver
+Resource Type:   efscsi
+Location:        U787B.001.DNWFYYP-P1-C2-T1
+
+Description
+ADAPTER ERROR
+
+Probable Causes
+ADAPTER HARDWARE OR CABLE
+ADAPTER MICROCODE
+FIBRE CHANNEL SWITCH OR FC-AL HUB
+
+Failure Causes
+ADAPTER
+CABLES AND CONNECTIONS
+DEVICE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+	CHECK CABLES AND THEIR CONNECTIONS
+	VERIFY DEVICE CONFIGURATION
+
+Detail Data
+SENSE DATA
+0000 0000 0000 0003 0000 0080 0200 0000 0000 0000 4026 4000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0005 0C00 0000 0000 
+0005 1300 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0004 0B00 0000 0000 0000 0000 0000 0000 
+0000 0000 002F 0000 0012 0002 0000 0000 0000 0000 0001 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0002 5005 0763 
+0610 C405 5005 0763 06FF C405 0B00 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+39FE 1000 
+---------------------------------------------------------------------------
+LABEL:          REBOOT_ID
+IDENTIFIER:     2BFA76F6
+
+Date/Time:       Sat Apr 20 18:27:04  2013
+Sequence Number: 19771
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           S
+Type:            TEMP
+Resource Name:   SYSPROC         
+
+Description
+SYSTEM SHUTDOWN BY USER
+
+Probable Causes
+SYSTEM SHUTDOWN
+
+Detail Data
+USER ID
+           0
+0=SOFT IPL 1=HALT 2=TIME REBOOT
+           0
+TIME TO REBOOT (FOR TIMED REBOOT ONLY)
+           0
+---------------------------------------------------------------------------
+LABEL:          ERRLOG_ON
+IDENTIFIER:     9DBCFDEE
+
+Date/Time:       Sat Apr 20 18:28:21  2013
+Sequence Number: 19770
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           O
+Type:            TEMP
+Resource Name:   errdemon        
+
+Description
+ERROR LOGGING TURNED ON
+
+Probable Causes
+ERRDEMON STARTED AUTOMATICALLY
+
+User Causes
+/USR/LIB/ERRDEMON COMMAND
+
+	Recommended Actions
+	NONE
+
+---------------------------------------------------------------------------
+LABEL:          ERRLOG_OFF
+IDENTIFIER:     192AC071
+
+Date/Time:       Sat Apr 20 18:24:57  2013
+Sequence Number: 19769
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           O
+Type:            TEMP
+Resource Name:   errdemon        
+
+Description
+ERROR LOGGING TURNED OFF
+
+Probable Causes
+ERRSTOP COMMAND
+
+User Causes
+ERRSTOP COMMAND
+
+	Recommended Actions
+	RUN ERRDEAD COMMAND
+	TURN ERROR LOGGING ON
+
+---------------------------------------------------------------------------
+LABEL:          TS_STOP_ST
+IDENTIFIER:     6D19271E
+
+Date/Time:       Sat Apr 20 18:23:05  2013
+Sequence Number: 19768
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           O
+Type:            INFO
+Resource Name:   topsvcs         
+
+Description
+Topology Services daemon stopped
+
+Probable Causes
+Daemon stopped by SRC
+Daemon stopped by signal
+
+User Causes
+Daemon stopped by user
+
+	Recommended Actions
+	Confirm that this is desirable
+
+Detail Data
+DETECTING MODULE
+rsct,comm.C,1.152,691                         
+ERROR ID 
+6SQG4h/7ohQF/eo60O4k2i/...................
+REFERENCE CODE
+6UpNEL0mKxdE/LQl1O4k2i/...................
+Topology Services daemon stopped by:
+Signal SIGTERM
+---------------------------------------------------------------------------
+LABEL:          GS_STOP_ST
+IDENTIFIER:     28854E81
+
+Date/Time:       Sat Apr 20 18:23:03  2013
+Sequence Number: 19767
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           O
+Type:            INFO
+Resource Name:   grpsvcs         
+
+Description
+Group Services daemon stopped
+
+Probable Causes
+Daemon stopped by SRC
+Daemon stopped by signal
+
+User Causes
+Daemon stopped manually by user
+
+	Recommended Actions
+	Check that Group Services daemon is stopped
+
+Detail Data
+DETECTING MODULE
+RSCT,SRCSocket.C,1.75,482                     
+ERROR ID 
+6/uIVc.5ohQF/PgV1O4k2i/...................
+REFERENCE CODE
+                                          
+DIAGNOSTIC EXPLANATION
+Received signal[SIGTERM]. Converted to normal stop
+---------------------------------------------------------------------------
+LABEL:          HA001_TR
+IDENTIFIER:     99FA80C7
+
+Date/Time:       Sat Apr 20 18:23:03  2013
+Sequence Number: 19766
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           S
+Type:            UNKN
+Resource Name:   haemd           
+
+Description
+SOFTWARE
+
+Probable Causes
+SUBSYSTEM
+
+Failure Causes
+SUBSYSTEM
+
+	Recommended Actions
+	NONE
+
+Detail Data
+DETECTING MODULE
+LPP=PSSP,Fn=emd.c,SID=1.47,L#=478,                                              
+DIAGNOSTIC EXPLANATION
+haemd: Received termination signal SIGTERM, program is exiting.
+
+---------------------------------------------------------------------------
+LABEL:          OPMSG
+IDENTIFIER:     AA8AB241
+
+Date/Time:       Sat Apr 20 18:23:01  2013
+Sequence Number: 19765
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           O
+Type:            TEMP
+Resource Name:   OPERATOR        
+
+Description
+OPERATOR NOTIFICATION
+
+User Causes
+ERRLOGGER COMMAND
+
+	Recommended Actions
+	REVIEW DETAILED DATA
+
+Detail Data
+MESSAGE FROM ERRLOGGER COMMAND
+clexit.rc : Normal termination of clstrmgrES. Restart now.
+---------------------------------------------------------------------------
+LABEL:          SRC_SVKO
+IDENTIFIER:     BC3BE5A3
+
+Date/Time:       Sat Apr 20 18:23:01  2013
+Sequence Number: 19764
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           S
+Type:            PERM
+Resource Name:   SRC             
+
+Description
+SOFTWARE PROGRAM ERROR
+
+Probable Causes
+APPLICATION PROGRAM
+
+Failure Causes
+SOFTWARE PROGRAM
+
+	Recommended Actions
+	MANUALLY RESTART SUBSYSTEM IF NEEDED
+
+Detail Data
+SYMPTOM CODE
+         256
+SOFTWARE ERROR CODE
+       -9017
+ERROR CODE
+           0
+DETECTING MODULE
+'srchevn.c'@line:'350'
+FAILING MODULE
+clstrmgrES
+---------------------------------------------------------------------------
+LABEL:          GOENT_RCVRY_EXIT
+IDENTIFIER:     F3931284
+
+Date/Time:       Sat Mar 30 03:27:43  2013
+Sequence Number: 19763
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            INFO
+Resource Name:   ent2            
+Resource Class:  adapter
+Resource Type:   14108902
+Location:        U787B.001.DNWFYYP-P1-T9
+VPD:             
+        Product Specific.(  ).......2-Port 10/100/1000 Base-TX PCI-X
+                                    Adapter
+        Network Address.............00145ED26B5E
+        ROM Level.(alterable).......DV0210
+
+Description
+ETHERNET NETWORK RECOVERY MODE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 449 file: goent_intr.c
+PCI ETHERNET STATISTICS
+00AE 86DD 0063 0853 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0597 CF3B 0000 0001 74A8 5939 0000 0000 03A1 5C54 0000 0014 057B EF00 
+0000 0000 001A 4CD1 0000 0000 1AFF CE8E 0000 0000 0000 0000 0000 0001 0000 0251 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 0000 0013 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB83 00F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 C9E1 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5ED2 6B5E 
+---------------------------------------------------------------------------
+LABEL:          GOENT_RCVRY_EXIT
+IDENTIFIER:     F3931284
+
+Date/Time:       Sat Mar 30 03:27:43  2013
+Sequence Number: 19762
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            INFO
+Resource Name:   ent1            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U787B.001.DNWFYYP-P1-C4-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6525
+        FRU Number..................03N6525
+        EC Level....................H14007$
+        Product Specific.(BR).......H0
+        Manufacture ID..............YL1021
+        Network Address.............00145EB7FC2F
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET NETWORK RECOVERY MODE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 449 file: goent_intr.c
+PCI ETHERNET STATISTICS
+009B 74EB 0063 0853 0000 0000 0000 0000 0000 0000 0000 701C 0000 0000 0000 0000 
+0000 0000 0304 B3DF 0000 0000 DEBC 8470 0000 0000 02A8 480B 0000 0000 0290 080B 
+0000 0000 0078 A56C 0000 0000 386E A618 0000 0000 0000 0000 0000 0000 0000 11EB 
+0002 2B37 0000 0000 0000 0000 0000 0000 0000 0000 0000 000C 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB83 00F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 C9E1 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB7 FC2F 
+---------------------------------------------------------------------------
+LABEL:          GOENT_LINK_DOWN
+IDENTIFIER:     EC0BCCD4
+
+Date/Time:       Sat Mar 30 03:16:45  2013
+Sequence Number: 19759
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   ent2            
+Resource Class:  adapter
+Resource Type:   14108902
+Location:        U787B.001.DNWFYYP-P1-T9
+VPD:             
+        Product Specific.(  ).......2-Port 10/100/1000 Base-TX PCI-X
+                                    Adapter
+        Network Address.............00145ED26B5E
+        ROM Level.(alterable).......DV0210
+
+Description
+ETHERNET DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 393 file: goent_intr.c
+PCI ETHERNET STATISTICS
+00AE 844B 0063 081B 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0597 CF3B 0000 0001 74A8 5939 0000 0000 03A1 5C54 0000 0014 057B EF00 
+0000 0000 001A 4CD1 0000 0000 1AFF CE8E 0000 0000 0000 0000 0000 0001 0000 0251 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 0000 0013 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB80 08F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+2222 2222 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5ED2 6B5E 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	521
+Resource tested:	ent2
+Menu Number:		25C3902
+Description:
+
+
+No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.
+
+---------------------------------------------------------------------------
+LABEL:          GOENT_LINK_DOWN
+IDENTIFIER:     EC0BCCD4
+
+Date/Time:       Sat Mar 30 03:16:45  2013
+Sequence Number: 19758
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   ent1            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U787B.001.DNWFYYP-P1-C4-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6525
+        FRU Number..................03N6525
+        EC Level....................H14007$
+        Product Specific.(BR).......H0
+        Manufacture ID..............YL1021
+        Network Address.............00145EB7FC2F
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 393 file: goent_intr.c
+PCI ETHERNET STATISTICS
+009B 7259 0063 081B 0000 0000 0000 0000 0000 0000 0000 701C 0000 0000 0000 0001 
+0000 0000 0304 B3DF 0000 0000 DEBC 8470 0000 0000 02A8 480B 0000 0000 028F EF52 
+0000 0000 0078 A56B 0000 0000 386E A576 0000 0000 0000 0000 0000 0000 0000 112F 
+0002 2B37 0000 0000 0000 0000 0000 0000 0000 0000 0000 000C 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB80 08F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+2222 2222 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB7 FC2F 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	519
+Resource tested:	ent1
+Menu Number:		25C1902
+Description:
+
+
+No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.
+
+---------------------------------------------------------------------------
+LABEL:          GOENT_RCVRY_EXIT
+IDENTIFIER:     F3931284
+
+Date/Time:       Sat Mar 30 03:09:21  2013
+Sequence Number: 19757
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            INFO
+Resource Name:   ent0            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U787B.001.DNWFYYP-P1-C3-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6525
+        FRU Number..................03N6525
+        EC Level....................H14007$
+        Product Specific.(BR).......H0
+        Manufacture ID..............YL1021
+        Network Address.............00145EB7FC29
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET NETWORK RECOVERY MODE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 449 file: goent_intr.c
+PCI ETHERNET STATISTICS
+009B 709E 0063 0853 0000 0000 0000 0000 0000 0000 0000 0142 0000 0000 0000 0000 
+0000 0000 030E 53C2 0000 0000 F14B 8D7A 0000 0000 02AE 7037 0000 0000 0292 205A 
+0000 0000 007F AF42 0000 0000 43BD A763 0000 0000 0000 0000 0000 0000 0000 1648 
+0000 09C7 0000 0000 0000 0000 0000 0000 0000 0000 0000 000E 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB83 00F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 C9E1 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB7 FC29 
+---------------------------------------------------------------------------
+LABEL:          GOENT_LINK_DOWN
+IDENTIFIER:     EC0BCCD4
+
+Date/Time:       Sat Mar 30 03:03:59  2013
+Sequence Number: 19755
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   ent0            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U787B.001.DNWFYYP-P1-C3-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6525
+        FRU Number..................03N6525
+        EC Level....................H14007$
+        Product Specific.(BR).......H0
+        Manufacture ID..............YL1021
+        Network Address.............00145EB7FC29
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 393 file: goent_intr.c
+PCI ETHERNET STATISTICS
+009B 6F5B 0063 081B 0000 0000 0000 0000 0000 0000 0000 0142 0000 0000 0000 0000 
+0000 0000 030E 53C2 0000 0000 F14B 8D7A 0000 0000 02AE 7037 0000 0000 028E C075 
+0000 0000 007F AF42 0000 0000 43BD A763 0000 0000 0000 0000 0000 0000 0000 1633 
+0000 09C7 0000 0000 0000 0000 0000 0000 0000 0001 0000 000E 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB80 08F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+2222 2222 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB7 FC29 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	515
+Resource tested:	ent0
+Menu Number:		25C1902
+Description:
+
+
+No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.

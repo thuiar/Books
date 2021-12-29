@@ -1,0 +1,472 @@
+problem_num=103,pmh_num=,refcode=E3D4310A,status=Open,first_time=09/04/2012 01:25:17,last_time=10/29/2013 07:42:01,sys_name=HMCA05,sys_mtms=7042-CR5/06F33AB,enclosure_mtms=7042-CR5/06F33AB,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=09/04/2012 01:25:17,reporting_name=HMCA05,reporting_mtms=7042-CR5/06F33AB,failing_mtms=7042-CR5/06F33AB,analyzing_hmc=HMCA05,event_time=09/04/2012 01:25:17
+problem_num=117,pmh_num=,refcode=B3030007,status=Open,first_time=08/14/2013 03:02:59,last_time=08/14/2013 03:02:59,sys_name=HMCA05,sys_mtms=7042-CR5/06F33AB,enclosure_mtms=9133-55A/06D38EG,firmware_fix=,"text=ACT04251I HMC to FSP,BPA, or BPC failure detected",created_time=08/14/2013 03:02:59,reporting_name=HMCA05,reporting_mtms=7042-CR5/06F33AB,failing_mtms=9133-55A/06D38EG,analyzing_hmc=HMCA05,event_time=08/14/2013 03:02:59
+problem_num=116,pmh_num=,refcode=2556-128,status=Open,first_time=07/13/2013 16:34:38,last_time=07/13/2013 16:34:38,sys_name=XA027-wmsrpt1-E8A-SN06ED5D4,sys_mtms=8204-E8A/06ED5D4,enclosure_mtms=8204-E8A/06ED5D4,firmware_fix=,text=Error log analysis indicates a hardware failure.,created_time=07/13/2013 16:34:38,reporting_name=XA027-wmsrpt1-E8A-SN06ED5D4,reporting_mtms=8204-E8A/06ED5D4,failing_mtms=8204-E8A/06ED5D4,analyzing_hmc=HMCA05,event_time=07/14/2013 00:34:11
+problem_num=115,pmh_num=,refcode=B110F138,status=Open,first_time=07/10/2013 06:37:00,last_time=07/10/2013 06:37:00,sys_name=XA061-eport1-550-SN06F0A6F,sys_mtms=9113-550/06F0A6F,enclosure_mtms=9113-550/06F0A6F,firmware_fix=,text=ACT04293I Processor subsystem (0x10) reported an error.,created_time=07/10/2013 06:37:00,reporting_name=XA061-eport1-550-SN06F0A6F,reporting_mtms=9113-550/06F0A6F,failing_mtms=9113-550/06F0A6F,analyzing_hmc=HMCA05,event_time=07/10/2013 06:29:37
+problem_num=114,pmh_num=,refcode=B110F138,status=Open,first_time=07/10/2013 06:34:21,last_time=07/10/2013 06:34:21,sys_name=XA061-eport1-550-SN06F0A6F,sys_mtms=9113-550/06F0A6F,enclosure_mtms=9113-550/06F0A6F,firmware_fix=,text=ACT04293I Processor subsystem (0x10) reported an error.,created_time=07/10/2013 06:34:21,reporting_name=XA061-eport1-550-SN06F0A6F,reporting_mtms=9113-550/06F0A6F,failing_mtms=9113-550/06F0A6F,analyzing_hmc=HMCA05,event_time=07/10/2013 06:26:58
+problem_num=113,pmh_num=,refcode=B181F12E,status=Open,first_time=07/10/2013 06:33:55,last_time=07/10/2013 06:33:55,sys_name=XA061-eport1-550-SN06F0A6F,sys_mtms=9113-550/06F0A6F,enclosure_mtms=9113-550/06F0A6F,firmware_fix=,text=ACT04293I Platform firmware (0x81) reported an error.,created_time=07/10/2013 06:33:55,reporting_name=XA061-eport1-550-SN06F0A6F,reporting_mtms=9113-550/06F0A6F,failing_mtms=9113-550/06F0A6F,analyzing_hmc=HMCA05,event_time=07/10/2013 06:26:32
+problem_num=112,pmh_num=,refcode=B110F138,status=Open,first_time=07/10/2013 06:33:26,last_time=07/10/2013 06:33:26,sys_name=XA061-eport1-550-SN06F0A6F,sys_mtms=9113-550/06F0A6F,enclosure_mtms=9113-550/06F0A6F,firmware_fix=,text=ACT04293I Processor subsystem (0x10) reported an error.,created_time=07/10/2013 06:33:26,reporting_name=XA061-eport1-550-SN06F0A6F,reporting_mtms=9113-550/06F0A6F,failing_mtms=9113-550/06F0A6F,analyzing_hmc=HMCA05,event_time=07/10/2013 06:25:33
+problem_num=111,pmh_num=,refcode=B124E500,status=Open,first_time=07/10/2013 06:33:26,last_time=07/10/2013 06:33:26,sys_name=XA061-eport1-550-SN06F0A6F,sys_mtms=9113-550/06F0A6F,enclosure_mtms=9113-550/06F0A6F,firmware_fix=,text=ACT04293I Memory subsystem (0x24) reported an error.,created_time=07/10/2013 06:33:26,reporting_name=XA061-eport1-550-SN06F0A6F,reporting_mtms=9113-550/06F0A6F,failing_mtms=9113-550/06F0A6F,analyzing_hmc=HMCA05,event_time=07/10/2013 06:25:07
+problem_num=110,pmh_num=,refcode=2556-128,status=Open,first_time=05/29/2013 16:12:51,last_time=05/29/2013 16:12:51,sys_name=XA034-kjys2-E8A-SN06E36D4,sys_mtms=8204-E8A/06E36D4,enclosure_mtms=8204-E8A/06E36D4,firmware_fix=,text=Error log analysis indicates a hardware failure.,created_time=05/29/2013 16:12:51,reporting_name=XA034-kjys2-E8A-SN06E36D4,reporting_mtms=8204-E8A/06E36D4,failing_mtms=8204-E8A/06E36D4,analyzing_hmc=HMCA05,event_time=05/30/2013 00:12:19
+problem_num=107,pmh_num=,refcode=777127,status=Open,first_time=01/17/2013 05:37:59,last_time=04/12/2013 16:18:08,sys_name=XA063-WHPJ1-55A-SN06CF45G,sys_mtms=9133-55A/06CF45G,enclosure_mtms=9133-55A/06CF45G,firmware_fix=,"text=Error Log Analysis indicates an array controller cache battery failure.
+Refer to the 2102 Model F10 Service Guide for more information.",created_time=01/17/2013 05:37:59,reporting_name=XA063-WHPJ1-55A-SN06CF45G,reporting_mtms=9133-55A/06CF45G,failing_mtms=9133-55A/06CF45G,analyzing_hmc=HMCA05,event_time=01/17/2013 13:37:29
+problem_num=106,pmh_num=,refcode=777127,status=Open,first_time=01/17/2013 05:30:11,last_time=04/12/2013 11:09:51,sys_name=XA064-WHPJ2-55A-SN06D506G,sys_mtms=9133-55A/06D506G,enclosure_mtms=9133-55A/06D506G,firmware_fix=,"text=Error Log Analysis indicates an array controller cache battery failure.
+Refer to the 2102 Model F10 Service Guide for more information.",created_time=01/17/2013 05:30:11,reporting_name=XA064-WHPJ2-55A-SN06D506G,reporting_mtms=9133-55A/06D506G,failing_mtms=9133-55A/06D506G,analyzing_hmc=HMCA05,event_time=01/17/2013 13:29:47
+problem_num=109,pmh_num=,refcode=#2601902,status=Open,first_time=02/06/2013 06:30:42,last_time=02/06/2013 10:15:23,sys_name=XA032-grzx2-550-SN06882EA,sys_mtms=9113-550/06882EA,enclosure_mtms=9113-550/06882EA,firmware_fix=,"text=Error Log Analysis has detected multiple communication
+errors.  These errors can be caused by attached devices,
+a switch, a hub, or a SCSI-to-FC convertor.
+
+If connected to a switch, refer to the Storage Area
+Network (SAN) problem determination procedures for
+additional problem resolution.
+
+If not connected to a switch, run diagnostics on the
+attached devices.  If a hub or SCSI-to-FC convertor is
+attached, refer to the product documentation for problem
+resolution.",created_time=02/06/2013 06:30:42,reporting_name=XA032-grzx2-550-SN06882EA,reporting_mtms=9113-550/06882EA,failing_mtms=9113-550/06882EA,analyzing_hmc=HMCA05,event_time=02/06/2013 14:30:41
+problem_num=108,pmh_num=,refcode=#2601902,status=Open,first_time=02/06/2013 06:00:52,last_time=02/06/2013 09:14:06,sys_name=XA031-grzx1-550-SN06887EA,sys_mtms=9113-550/06887EA,enclosure_mtms=9113-550/06887EA,firmware_fix=,"text=Error Log Analysis has detected multiple communication
+errors.  These errors can be caused by attached devices,
+a switch, a hub, or a SCSI-to-FC convertor.
+
+If connected to a switch, refer to the Storage Area
+Network (SAN) problem determination procedures for
+additional problem resolution.
+
+If not connected to a switch, run diagnostics on the
+attached devices.  If a hub or SCSI-to-FC convertor is
+attached, refer to the product documentation for problem
+resolution.",created_time=02/06/2013 06:00:52,reporting_name=XA031-grzx1-550-SN06887EA,reporting_mtms=9113-550/06887EA,failing_mtms=9113-550/06887EA,analyzing_hmc=HMCA05,event_time=02/06/2013 14:00:51
+problem_num=105,pmh_num=,refcode=777127,status=Open,first_time=11/20/2012 16:53:25,last_time=11/27/2012 16:18:11,sys_name=XA031-grzx1-550-SN06887EA,sys_mtms=9113-550/06887EA,enclosure_mtms=9113-550/06887EA,firmware_fix=,"text=Error Log Analysis indicates an array controller cache battery failure.
+Refer to the 2102 Model F10 Service Guide for more information.",created_time=11/20/2012 16:53:25,reporting_name=XA031-grzx1-550-SN06887EA,reporting_mtms=9113-550/06887EA,failing_mtms=9113-550/06887EA,analyzing_hmc=HMCA05,event_time=11/21/2012 00:52:34
+problem_num=104,pmh_num=,refcode=777127,status=Open,first_time=11/20/2012 16:49:58,last_time=11/21/2012 09:07:22,sys_name=XA032-grzx2-550-SN06882EA,sys_mtms=9113-550/06882EA,enclosure_mtms=9113-550/06882EA,firmware_fix=,"text=Error Log Analysis indicates an array controller cache battery failure.
+Refer to the 2102 Model F10 Service Guide for more information.",created_time=11/20/2012 16:49:58,reporting_name=XA032-grzx2-550-SN06882EA,reporting_mtms=9113-550/06882EA,failing_mtms=9113-550/06882EA,analyzing_hmc=HMCA05,event_time=11/21/2012 00:49:03
+problem_num=99,pmh_num=,refcode=E3D4310A,status=Closed,first_time=10/04/2011 01:24:04,last_time=09/02/2012 03:03:05,sys_name=HMCA05,sys_mtms=7042-CR5/06F33AB,enclosure_mtms=7042-CR5/06F33AB,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=10/04/2011 01:24:04,reporting_name=HMCA05,reporting_mtms=7042-CR5/06F33AB,failing_mtms=7042-CR5/06F33AB,analyzing_hmc=HMCA05,event_time=10/04/2011 01:24:04
+problem_num=102,pmh_num=,refcode=2556-128,status=Closed,first_time=09/02/2012 02:54:12,last_time=09/02/2012 02:54:12,sys_name=XA030-wmsdb2-E8A-SN06ED5F4,sys_mtms=8204-E8A/06ED5F4,enclosure_mtms=8204-E8A/06ED5F4,firmware_fix=,text=Error log analysis indicates a hardware failure.,created_time=09/02/2012 02:54:12,reporting_name=XA030-wmsdb2-E8A-SN06ED5F4,reporting_mtms=8204-E8A/06ED5F4,failing_mtms=8204-E8A/06ED5F4,analyzing_hmc=HMCA05,event_time=09/02/2012 10:53:39
+problem_num=100,pmh_num=,refcode=777127,status=Closed,first_time=12/06/2011 05:37:45,last_time=08/28/2012 11:26:42,sys_name=XA061-eport1-550-SN06F0A6F,sys_mtms=9113-550/06F0A6F,enclosure_mtms=9113-550/06F0A6F,firmware_fix=,"text=Error Log Analysis indicates an array controller cache battery failure.
+Refer to the 2102 Model F10 Service Guide for more information.",created_time=12/06/2011 05:37:45,reporting_name=XA061-eport1-550-SN06F0A6F,reporting_mtms=9113-550/06F0A6F,failing_mtms=9113-550/06F0A6F,analyzing_hmc=HMCA05,event_time=12/06/2011 13:37:16
+problem_num=101,pmh_num=,refcode=777127,status=Closed,first_time=12/06/2011 05:37:49,last_time=08/28/2012 11:10:37,sys_name=XA062-eport2-550-SN06F06BF,sys_mtms=9113-550/06F06BF,enclosure_mtms=9113-550/06F06BF,firmware_fix=,"text=Error Log Analysis indicates an array controller cache battery failure.
+Refer to the 2102 Model F10 Service Guide for more information.",created_time=12/06/2011 05:37:49,reporting_name=XA062-eport2-550-SN06F06BF,reporting_mtms=9113-550/06F06BF,failing_mtms=9113-550/06F06BF,analyzing_hmc=HMCA05,event_time=12/06/2011 13:37:20
+problem_num=98,pmh_num=,refcode=E3D4310A,status=Closed,first_time=08/30/2011 01:36:53,last_time=09/27/2011 02:59:08,sys_name=HMCA05,sys_mtms=7042-CR5/06F33AB,enclosure_mtms=7042-CR5/06F33AB,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=08/30/2011 01:36:53,reporting_name=HMCA05,reporting_mtms=7042-CR5/06F33AB,failing_mtms=7042-CR5/06F33AB,analyzing_hmc=HMCA05,event_time=08/30/2011 01:36:53
+problem_num=97,pmh_num=,refcode=B3030001,status=Closed,first_time=08/26/2011 18:00:28,last_time=08/26/2011 18:00:28,sys_name=HMCA05,sys_mtms=7042-CR5/06F33AB,enclosure_mtms=9113-550/06F06BF,firmware_fix=,"text=ACT04283I A connection to a FSP,BPA or BPC was dropped",created_time=08/26/2011 18:00:28,reporting_name=HMCA05,reporting_mtms=7042-CR5/06F33AB,failing_mtms=9113-550/06F06BF,analyzing_hmc=HMCA05,event_time=08/26/2011 18:00:28
+problem_num=96,pmh_num=,refcode=B181F2DF,status=Closed,first_time=08/26/2011 11:51:47,last_time=08/26/2011 15:10:54,sys_name=XA062-eport2-550-SN06F06BF,sys_mtms=9113-550/06F06BF,enclosure_mtms=9113-550/06F06BF,firmware_fix=,text=ACT04293I Platform firmware (0x81) reported an error.,created_time=08/26/2011 11:51:47,reporting_name=XA062-eport2-550-SN06F06BF,reporting_mtms=9113-550/06F06BF,failing_mtms=9113-550/06F06BF,analyzing_hmc=HMCA05,event_time=08/26/2011 10:45:42
+problem_num=19,pmh_num=,refcode=E3D4310A,status=Closed,first_time=08/31/2010 01:31:54,last_time=08/26/2011 12:12:22,sys_name=HMCA05,sys_mtms=7042-CR5/06F33AB,enclosure_mtms=7042-CR5/06F33AB,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=08/31/2010 01:31:54,reporting_name=HMCA05,reporting_mtms=7042-CR5/06F33AB,failing_mtms=7042-CR5/06F33AB,analyzing_hmc=HMCA05,event_time=08/31/2010 01:31:54
+problem_num=95,pmh_num=,refcode=B181F64B,status=Closed,first_time=08/26/2011 11:45:25,last_time=08/26/2011 11:45:25,sys_name=XA062-eport2-550-SN06F06BF,sys_mtms=9113-550/06F06BF,enclosure_mtms=9113-550/06F06BF,firmware_fix=,text=ACT04293I Platform firmware (0x81) reported an error.,created_time=08/26/2011 11:45:25,reporting_name=XA062-eport2-550-SN06F06BF,reporting_mtms=9113-550/06F06BF,failing_mtms=9113-550/06F06BF,analyzing_hmc=HMCA05,event_time=08/26/2011 10:39:19
+problem_num=94,pmh_num=,refcode=B114E500,status=Closed,first_time=08/25/2011 21:19:58,last_time=08/26/2011 11:32:07,sys_name=XA062-eport2-550-SN06F06BF,sys_mtms=9113-550/06F06BF,enclosure_mtms=9113-550/06F06BF,firmware_fix=,text=ACT04293I Processor subsystem (0x14) reported an error.,created_time=08/25/2011 21:19:58,reporting_name=XA062-eport2-550-SN06F06BF,reporting_mtms=9113-550/06F06BF,failing_mtms=9113-550/06F06BF,analyzing_hmc=HMCA05,event_time=08/25/2011 20:13:52
+problem_num=92,pmh_num=,refcode=B3030001,status=Closed,first_time=07/26/2011 02:49:53,last_time=07/26/2011 02:49:53,sys_name=XA063-WHPJ1-55A-SN06CF45G,sys_mtms=9133-55A/06CF45G,enclosure_mtms=9133-55A/06CF45G,firmware_fix=,text=ACT04293I Other subsystem (0x7C) reported an error.,created_time=07/26/2011 02:49:53,reporting_name=XA063-WHPJ1-55A-SN06CF45G,reporting_mtms=9133-55A/06CF45G,failing_mtms=9133-55A/06CF45G,analyzing_hmc=HMCA05,event_time=07/26/2011 02:44:02
+problem_num=90,pmh_num=,refcode=B3030001,status=Closed,first_time=07/26/2011 02:49:37,last_time=07/26/2011 02:49:37,sys_name=XA064-WHPJ2-55A-SN06D506G,sys_mtms=9133-55A/06D506G,enclosure_mtms=9133-55A/06D506G,firmware_fix=,text=ACT04293I Other subsystem (0x7C) reported an error.,created_time=07/26/2011 02:49:37,reporting_name=XA064-WHPJ2-55A-SN06D506G,reporting_mtms=9133-55A/06D506G,failing_mtms=9133-55A/06D506G,analyzing_hmc=HMCA05,event_time=07/26/2011 02:38:00
+problem_num=93,pmh_num=,refcode=B3030001,status=Closed,first_time=07/26/2011 02:47:23,last_time=07/26/2011 02:47:23,sys_name=XA062-eport2-550-SN06F06BF,sys_mtms=9113-550/06F06BF,enclosure_mtms=9113-550/06F06BF,firmware_fix=,text=ACT04293I Other subsystem (0x7C) reported an error.,created_time=07/26/2011 02:47:23,reporting_name=XA062-eport2-550-SN06F06BF,reporting_mtms=9113-550/06F06BF,failing_mtms=9113-550/06F06BF,analyzing_hmc=HMCA05,event_time=07/26/2011 01:38:45
+problem_num=91,pmh_num=,refcode=B3030001,status=Closed,first_time=07/26/2011 02:46:53,last_time=07/26/2011 02:46:53,sys_name=XA061-eport1-550-SN06F0A6F,sys_mtms=9113-550/06F0A6F,enclosure_mtms=9113-550/06F0A6F,firmware_fix=,text=ACT04293I Other subsystem (0x7C) reported an error.,created_time=07/26/2011 02:46:53,reporting_name=XA061-eport1-550-SN06F0A6F,reporting_mtms=9113-550/06F0A6F,failing_mtms=9113-550/06F0A6F,analyzing_hmc=HMCA05,event_time=07/26/2011 02:43:01
+problem_num=88,pmh_num=,refcode=B3030001,status=Closed,first_time=07/26/2011 02:46:49,last_time=07/26/2011 02:46:49,sys_name=XA031-grzx1-550-SN06887EA,sys_mtms=9113-550/06887EA,enclosure_mtms=9113-550/06887EA,firmware_fix=,text=ACT04293I Other subsystem (0x7C) reported an error.,created_time=07/26/2011 02:46:49,reporting_name=XA031-grzx1-550-SN06887EA,reporting_mtms=9113-550/06887EA,failing_mtms=9113-550/06887EA,analyzing_hmc=HMCA05,event_time=07/26/2011 02:27:09
+problem_num=89,pmh_num=,refcode=B3030001,status=Closed,first_time=07/26/2011 02:46:48,last_time=07/26/2011 02:46:48,sys_name=XA032-grzx2-550-SN06882EA,sys_mtms=9113-550/06882EA,enclosure_mtms=9113-550/06882EA,firmware_fix=,text=ACT04293I Other subsystem (0x7C) reported an error.,created_time=07/26/2011 02:46:48,reporting_name=XA032-grzx2-550-SN06882EA,reporting_mtms=9113-550/06882EA,failing_mtms=9113-550/06882EA,analyzing_hmc=HMCA05,event_time=07/26/2011 02:23:01
+problem_num=87,pmh_num=,refcode=2556-128,status=Closed,first_time=06/08/2011 00:03:34,last_time=06/08/2011 00:03:34,sys_name=XA030-wmsdb2-E8A-SN06ED5F4,sys_mtms=8204-E8A/06ED5F4,enclosure_mtms=8204-E8A/06ED5F4,firmware_fix=,text=Error log analysis indicates a hardware failure.,created_time=06/08/2011 00:03:34,reporting_name=XA030-wmsdb2-E8A-SN06ED5F4,reporting_mtms=8204-E8A/06ED5F4,failing_mtms=8204-E8A/06ED5F4,analyzing_hmc=HMCA05,event_time=06/08/2011 08:03:03
+problem_num=86,pmh_num=,refcode=777127,status=Closed,first_time=04/02/2011 06:16:24,last_time=04/02/2011 07:22:04,sys_name=XA031-grzx1-550-SN06887EA,sys_mtms=9113-550/06887EA,enclosure_mtms=9113-550/06887EA,firmware_fix=,"text=Error Log Analysis indicates an array controller cache battery failure.
+Refer to the 2102 Model F10 Service Guide for more information.",created_time=04/02/2011 06:16:24,reporting_name=XA031-grzx1-550-SN06887EA,reporting_mtms=9113-550/06887EA,failing_mtms=9113-550/06887EA,analyzing_hmc=HMCA05,event_time=04/02/2011 14:15:32
+problem_num=49,pmh_num=,refcode=#2538902,status=Closed,first_time=10/10/2010 04:30:14,last_time=01/27/2011 18:16:33,sys_name=XA034-kjys2-E8A-SN06E36D4,sys_mtms=8204-E8A/06E36D4,enclosure_mtms=8204-E8A/06E36D4,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/10/2010 04:30:14,reporting_name=XA034-kjys2-E8A-SN06E36D4,reporting_mtms=8204-E8A/06E36D4,failing_mtms=8204-E8A/06E36D4,analyzing_hmc=HMCA05,event_time=10/10/2010 04:23:08
+problem_num=60,pmh_num=,refcode=#25C3902,status=Closed,first_time=01/17/2011 03:38:28,last_time=01/27/2011 18:16:18,sys_name=9133-55A/063226H,sys_mtms=9133-55A/063226H,enclosure_mtms=9133-55A/063226H,firmware_fix=,"text=No trouble was found with this adapter.  However Error Log Analysis indicates that there recently may have been a network problem.  If your Ethernet adapter is connected to a network, and if you are experiencing problems with network communications, check for a loose or defective cable or connection.  If a switch or another system is directly attached to the Ethernet adapter, verify it is powered up, configured, and functioning correctly.",created_time=01/17/2011 03:38:28,reporting_name=9133-55A/063226H,reporting_mtms=9133-55A/063226H,failing_mtms=9133-55A/063226H,analyzing_hmc=7042-CR5/06F333B,event_time=01/17/2011 11:09:28
+problem_num=85,pmh_num=,refcode=#25C1902,status=Closed,first_time=01/27/2011 18:08:37,last_time=01/27/2011 18:16:18,sys_name=XA060-zhatmm2-55A-SN06D385G,sys_mtms=9133-55A/06D385G,enclosure_mtms=9133-55A/06D385G,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=01/27/2011 18:08:37,reporting_name=XA060-zhatmm2-55A-SN06D385G,reporting_mtms=9133-55A/06D385G,failing_mtms=9133-55A/06D385G,analyzing_hmc=HMCA05,event_time=01/28/2011 02:05:16
+problem_num=63,pmh_num=,refcode=#25C1902,status=Closed,first_time=01/27/2011 18:16:13,last_time=01/27/2011 18:16:13,sys_name=9133-55A/063226H,sys_mtms=9133-55A/063226H,enclosure_mtms=9133-55A/063226H,firmware_fix=,"text=No trouble was found with this adapter.  However Error Log Analysis indicates that there recently may have been a network problem.  If your Ethernet adapter is connected to a network, and if you are experiencing problems with network communications, check for a loose or defective cable or connection.  If a switch or another system is directly attached to the Ethernet adapter, verify it is powered up, configured, and functioning correctly.",created_time=01/27/2011 18:16:13,reporting_name=9133-55A/063226H,reporting_mtms=9133-55A/063226H,failing_mtms=9133-55A/063226H,analyzing_hmc=7042-CR5/06F333B,event_time=01/26/2011 02:13:09
+problem_num=45,pmh_num=,refcode=#25C1902,status=Closed,first_time=10/10/2010 04:30:04,last_time=01/27/2011 18:16:13,sys_name=XA032-grzx2-550-SN06882EA,sys_mtms=9113-550/06882EA,enclosure_mtms=9113-550/06882EA,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/10/2010 04:30:04,reporting_name=XA032-grzx2-550-SN06882EA,reporting_mtms=9113-550/06882EA,failing_mtms=9113-550/06882EA,analyzing_hmc=HMCA05,event_time=10/10/2010 04:23:12
+problem_num=28,pmh_num=,refcode=#25C1902,status=Closed,first_time=09/11/2010 18:28:56,last_time=01/27/2011 18:16:11,sys_name=XA064-WHPJ2-55A-SN06D506G,sys_mtms=9133-55A/06D506G,enclosure_mtms=9133-55A/06D506G,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=09/11/2010 18:28:56,reporting_name=XA064-WHPJ2-55A-SN06D506G,reporting_mtms=9133-55A/06D506G,failing_mtms=9133-55A/06D506G,analyzing_hmc=HMCA05,event_time=09/11/2010 17:06:11
+problem_num=26,pmh_num=,refcode=#25C1902,status=Closed,first_time=09/11/2010 18:23:02,last_time=01/27/2011 18:16:09,sys_name=XA063-WHPJ1-55A-SN06CF45G,sys_mtms=9133-55A/06CF45G,enclosure_mtms=9133-55A/06CF45G,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=09/11/2010 18:23:02,reporting_name=XA063-WHPJ1-55A-SN06CF45G,reporting_mtms=9133-55A/06CF45G,failing_mtms=9133-55A/06CF45G,analyzing_hmc=HMCA05,event_time=09/11/2010 17:31:35
+problem_num=84,pmh_num=,refcode=#25C1902,status=Closed,first_time=01/27/2011 18:05:20,last_time=01/27/2011 18:16:05,sys_name=XA059-zhatmm1-55A-SN06D38EG,sys_mtms=9133-55A/06D38EG,enclosure_mtms=9133-55A/06D38EG,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=01/27/2011 18:05:20,reporting_name=XA059-zhatmm1-55A-SN06D38EG,reporting_mtms=9133-55A/06D38EG,failing_mtms=9133-55A/06D38EG,analyzing_hmc=HMCA05,event_time=01/28/2011 02:05:16
+problem_num=27,pmh_num=,refcode=#25C3902,status=Closed,first_time=09/11/2010 18:23:03,last_time=01/27/2011 18:16:04,sys_name=XA063-WHPJ1-55A-SN06CF45G,sys_mtms=9133-55A/06CF45G,enclosure_mtms=9133-55A/06CF45G,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=09/11/2010 18:23:03,reporting_name=XA063-WHPJ1-55A-SN06CF45G,reporting_mtms=9133-55A/06CF45G,failing_mtms=9133-55A/06CF45G,analyzing_hmc=HMCA05,event_time=09/11/2010 17:41:03
+problem_num=46,pmh_num=,refcode=#2538902,status=Closed,first_time=10/10/2010 04:30:05,last_time=01/27/2011 18:16:04,sys_name=XA033-kjys1-E8A-SN06E3824,sys_mtms=8204-E8A/06E3824,enclosure_mtms=8204-E8A/06E3824,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/10/2010 04:30:05,reporting_name=XA033-kjys1-E8A-SN06E3824,reporting_mtms=8204-E8A/06E3824,failing_mtms=8204-E8A/06E3824,analyzing_hmc=HMCA05,event_time=10/10/2010 04:23:08
+problem_num=7,pmh_num=,refcode=#25C3902,status=Closed,first_time=07/17/2010 11:55:49,last_time=01/27/2011 18:16:01,sys_name=XA031-grzx1-550-SN06887EA,sys_mtms=9113-550/06887EA,enclosure_mtms=9113-550/06887EA,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=07/17/2010 11:55:49,reporting_name=XA031-grzx1-550-SN06887EA,reporting_mtms=9113-550/06887EA,failing_mtms=9113-550/06887EA,analyzing_hmc=HMCA05,event_time=07/17/2010 11:39:52
+problem_num=62,pmh_num=,refcode=#25C1902,status=Closed,first_time=01/27/2011 18:13:14,last_time=01/27/2011 18:13:14,sys_name=9133-55A/063201H,sys_mtms=9133-55A/063201H,enclosure_mtms=9133-55A/063201H,firmware_fix=,"text=No trouble was found with this adapter.  However Error Log Analysis indicates that there recently may have been a network problem.  If your Ethernet adapter is connected to a network, and if you are experiencing problems with network communications, check for a loose or defective cable or connection.  If a switch or another system is directly attached to the Ethernet adapter, verify it is powered up, configured, and functioning correctly.",created_time=01/27/2011 18:13:14,reporting_name=9133-55A/063201H,reporting_mtms=9133-55A/063201H,failing_mtms=9133-55A/063201H,analyzing_hmc=7042-CR5/06F333B,event_time=01/28/2011 02:14:08
+problem_num=44,pmh_num=,refcode=#25C1902,status=Closed,first_time=10/10/2010 03:34:03,last_time=01/27/2011 18:08:38,sys_name=XA034-kjys2-E8A-SN06E36D4,sys_mtms=8204-E8A/06E36D4,enclosure_mtms=8204-E8A/06E36D4,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/10/2010 03:34:03,reporting_name=XA034-kjys2-E8A-SN06E36D4,reporting_mtms=8204-E8A/06E36D4,failing_mtms=8204-E8A/06E36D4,analyzing_hmc=HMCA05,event_time=10/10/2010 03:26:43
+problem_num=8,pmh_num=,refcode=#25C3902,status=Closed,first_time=07/17/2010 12:45:01,last_time=01/27/2011 18:08:21,sys_name=XA032-grzx2-550-SN06882EA,sys_mtms=9113-550/06882EA,enclosure_mtms=9113-550/06882EA,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=07/17/2010 12:45:01,reporting_name=XA032-grzx2-550-SN06882EA,reporting_mtms=9113-550/06882EA,failing_mtms=9113-550/06882EA,analyzing_hmc=HMCA05,event_time=07/17/2010 12:26:22
+problem_num=61,pmh_num=,refcode=#25C3902,status=Closed,first_time=01/17/2011 03:41:12,last_time=01/27/2011 18:08:18,sys_name=9133-55A/063201H,sys_mtms=9133-55A/063201H,enclosure_mtms=9133-55A/063201H,firmware_fix=,"text=No trouble was found with this adapter.  However Error Log Analysis indicates that there recently may have been a network problem.  If your Ethernet adapter is connected to a network, and if you are experiencing problems with network communications, check for a loose or defective cable or connection.  If a switch or another system is directly attached to the Ethernet adapter, verify it is powered up, configured, and functioning correctly.",created_time=01/17/2011 03:41:12,reporting_name=9133-55A/063201H,reporting_mtms=9133-55A/063201H,failing_mtms=9133-55A/063201H,analyzing_hmc=7042-CR5/06F333B,event_time=01/17/2011 10:30:41
+problem_num=41,pmh_num=,refcode=#25C1902,status=Closed,first_time=10/10/2010 03:30:59,last_time=01/27/2011 18:05:23,sys_name=XA033-kjys1-E8A-SN06E3824,sys_mtms=8204-E8A/06E3824,enclosure_mtms=8204-E8A/06E3824,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/10/2010 03:30:59,reporting_name=XA033-kjys1-E8A-SN06E3824,reporting_mtms=8204-E8A/06E3824,failing_mtms=8204-E8A/06E3824,analyzing_hmc=HMCA05,event_time=10/10/2010 03:26:43
+problem_num=83,pmh_num=,refcode=B3030007,status=Closed,first_time=01/14/2011 06:31:22,last_time=01/14/2011 06:31:22,sys_name=HMCA05,sys_mtms=7042-CR5/06F33AB,enclosure_mtms=9133-55A/063201H,firmware_fix=,"text=ACT04251I HMC to FSP,BPA, or BPC failure detected",created_time=01/14/2011 06:31:22,reporting_name=HMCA05,reporting_mtms=7042-CR5/06F33AB,failing_mtms=9133-55A/063201H,analyzing_hmc=HMCA05,event_time=01/14/2011 06:31:22
+problem_num=82,pmh_num=,refcode=B1813012,status=Closed,first_time=12/31/2010 16:52:17,last_time=12/31/2010 16:52:17,sys_name=XA060-zhatmm2-55A-SN06D385G,sys_mtms=9133-55A/06D385G,enclosure_mtms=9133-55A/06D385G,firmware_fix=,text=ACT04293I Platform firmware (0x81) reported an error.,created_time=12/31/2010 16:52:17,reporting_name=XA060-zhatmm2-55A-SN06D385G,reporting_mtms=9133-55A/06D385G,failing_mtms=9133-55A/06D385G,analyzing_hmc=HMCA05,event_time=12/31/2010 16:46:32
+problem_num=81,pmh_num=,refcode=B1813012,status=Closed,first_time=12/31/2010 16:26:50,last_time=12/31/2010 16:26:50,sys_name=XA059-zhatmm1-55A-SN06D38EG,sys_mtms=9133-55A/06D38EG,enclosure_mtms=9133-55A/06D38EG,firmware_fix=,text=ACT04293I Platform firmware (0x81) reported an error.,created_time=12/31/2010 16:26:50,reporting_name=XA059-zhatmm1-55A-SN06D38EG,reporting_mtms=9133-55A/06D38EG,failing_mtms=9133-55A/06D38EG,analyzing_hmc=HMCA05,event_time=12/31/2010 16:27:43
+problem_num=80,pmh_num=,refcode=2557-128,status=Closed,first_time=12/23/2010 03:24:21,last_time=12/23/2010 03:24:21,sys_name=XA035-zygl1-E8A-SN06EBF05,sys_mtms=8204-E8A/06EBF05,enclosure_mtms=8204-E8A/06EBF05,firmware_fix=,text=Error log analysis indicates a hardware failure.,created_time=12/23/2010 03:24:21,reporting_name=XA035-zygl1-E8A-SN06EBF05,reporting_mtms=8204-E8A/06EBF05,failing_mtms=8204-E8A/06EBF05,analyzing_hmc=HMCA05,event_time=12/22/2010 21:23:19
+problem_num=79,pmh_num=,refcode=#25C3902,status=Closed,first_time=12/16/2010 08:13:50,last_time=12/16/2010 08:13:50,sys_name=XA059-zhatmm1-55A-SN06D38EG,sys_mtms=9133-55A/06D38EG,enclosure_mtms=9133-55A/06D38EG,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/16/2010 08:13:50,reporting_name=XA059-zhatmm1-55A-SN06D38EG,reporting_mtms=9133-55A/06D38EG,failing_mtms=9133-55A/06D38EG,analyzing_hmc=HMCA05,event_time=12/15/2010 19:01:37
+problem_num=78,pmh_num=,refcode=#25C3902,status=Closed,first_time=12/16/2010 08:11:13,last_time=12/16/2010 08:11:13,sys_name=XA060-zhatmm2-55A-SN06D385G,sys_mtms=9133-55A/06D385G,enclosure_mtms=9133-55A/06D385G,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=12/16/2010 08:11:13,reporting_name=XA060-zhatmm2-55A-SN06D385G,reporting_mtms=9133-55A/06D385G,failing_mtms=9133-55A/06D385G,analyzing_hmc=HMCA05,event_time=12/08/2010 06:34:44
+problem_num=77,pmh_num=,refcode=B3030001,status=Closed,first_time=12/07/2010 09:54:26,last_time=12/07/2010 09:54:26,sys_name=XA059-zhatmm1-55A-SN06D38EG,sys_mtms=9133-55A/06D38EG,enclosure_mtms=9133-55A/06D38EG,firmware_fix=,text=ACT04293I Other subsystem (0x7C) reported an error.,created_time=12/07/2010 09:54:26,reporting_name=XA059-zhatmm1-55A-SN06D38EG,reporting_mtms=9133-55A/06D38EG,failing_mtms=9133-55A/06D38EG,analyzing_hmc=HMCA05,event_time=12/07/2010 09:54:34
+problem_num=76,pmh_num=,refcode=B3030001,status=Closed,first_time=12/07/2010 09:31:09,last_time=12/07/2010 09:31:09,sys_name=XA060-zhatmm2-55A-SN06D385G,sys_mtms=9133-55A/06D385G,enclosure_mtms=9133-55A/06D385G,firmware_fix=,text=ACT04293I Other subsystem (0x7C) reported an error.,created_time=12/07/2010 09:31:09,reporting_name=XA060-zhatmm2-55A-SN06D385G,reporting_mtms=9133-55A/06D385G,failing_mtms=9133-55A/06D385G,analyzing_hmc=HMCA05,event_time=12/07/2010 09:23:28
+problem_num=75,pmh_num=,refcode=B3030001,status=Closed,first_time=12/06/2010 12:02:21,last_time=12/06/2010 12:02:21,sys_name=HMCA05,sys_mtms=7042-CR5/06F33AB,enclosure_mtms=9133-55A/06D38EG,firmware_fix=,"text=ACT04285I FSP,BPA or BPC did not respond",created_time=12/06/2010 12:02:21,reporting_name=HMCA05,reporting_mtms=7042-CR5/06F33AB,failing_mtms=9133-55A/06D38EG,analyzing_hmc=HMCA05,event_time=12/06/2010 12:02:21
+problem_num=56,pmh_num=,refcode=777127,status=Closed,first_time=11/10/2010 00:07:37,last_time=11/25/2010 16:01:02,sys_name=XA064-WHPJ2-55A-SN06D506G,sys_mtms=9133-55A/06D506G,enclosure_mtms=9133-55A/06D506G,firmware_fix=,"text=Error Log Analysis indicates an array controller cache battery failure.
+Refer to the 2102 Model F10 Service Guide for more information.",created_time=11/10/2010 00:07:37,reporting_name=XA064-WHPJ2-55A-SN06D506G,reporting_mtms=9133-55A/06D506G,failing_mtms=9133-55A/06D506G,analyzing_hmc=HMCA05,event_time=11/10/2010 08:07:12
+problem_num=55,pmh_num=,refcode=777127,status=Closed,first_time=11/09/2010 23:52:44,last_time=11/25/2010 07:45:59,sys_name=XA063-WHPJ1-55A-SN06CF45G,sys_mtms=9133-55A/06CF45G,enclosure_mtms=9133-55A/06CF45G,firmware_fix=,"text=Error Log Analysis indicates an array controller cache battery failure.
+Refer to the 2102 Model F10 Service Guide for more information.",created_time=11/09/2010 23:52:44,reporting_name=XA063-WHPJ1-55A-SN06CF45G,reporting_mtms=9133-55A/06CF45G,failing_mtms=9133-55A/06CF45G,analyzing_hmc=HMCA05,event_time=11/10/2010 07:52:18
+problem_num=74,pmh_num=,refcode=11001520,status=Closed,first_time=11/20/2010 16:18:48,last_time=11/20/2010 16:18:48,sys_name=XA035-zygl1-E8A-SN06EBF05,sys_mtms=8204-E8A/06EBF05,enclosure_mtms=8204-E8A/06EBF05,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:48,reporting_name=XA035-zygl1-E8A-SN06EBF05,reporting_mtms=8204-E8A/06EBF05,failing_mtms=8204-E8A/06EBF05,analyzing_hmc=HMCA05,event_time=11/20/2010 16:17:02
+problem_num=73,pmh_num=,refcode=11001520,status=Closed,first_time=11/20/2010 16:18:47,last_time=11/20/2010 16:18:47,sys_name=XA036-zygl2-E8A-SN06EC065,sys_mtms=8204-E8A/06EC065,enclosure_mtms=8204-E8A/06EC065,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:47,reporting_name=XA036-zygl2-E8A-SN06EC065,reporting_mtms=8204-E8A/06EC065,failing_mtms=8204-E8A/06EC065,analyzing_hmc=HMCA05,event_time=11/20/2010 16:17:00
+problem_num=72,pmh_num=,refcode=11001520,status=Closed,first_time=11/20/2010 16:18:47,last_time=11/20/2010 16:18:47,sys_name=XA064-WHPJ2-55A-SN06D506G,sys_mtms=9133-55A/06D506G,enclosure_mtms=9133-55A/06D506G,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:47,reporting_name=XA064-WHPJ2-55A-SN06D506G,reporting_mtms=9133-55A/06D506G,failing_mtms=9133-55A/06D506G,analyzing_hmc=HMCA05,event_time=11/20/2010 16:13:06
+problem_num=71,pmh_num=,refcode=11001520,status=Closed,first_time=11/20/2010 16:18:47,last_time=11/20/2010 16:18:47,sys_name=XA024-wmsweb2-E8A-0SN06ED4E4,sys_mtms=8204-E8A/06ED4E4,enclosure_mtms=8204-E8A/06ED4E4,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:47,reporting_name=XA024-wmsweb2-E8A-0SN06ED4E4,reporting_mtms=8204-E8A/06ED4E4,failing_mtms=8204-E8A/06ED4E4,analyzing_hmc=HMCA05,event_time=11/20/2010 16:17:23
+problem_num=70,pmh_num=,refcode=11001520,status=Closed,first_time=11/20/2010 16:18:46,last_time=11/20/2010 16:18:46,sys_name=XA028-wmsrpt2-E8A-SN06ED584,sys_mtms=8204-E8A/06ED584,enclosure_mtms=8204-E8A/06ED584,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:46,reporting_name=XA028-wmsrpt2-E8A-SN06ED584,reporting_mtms=8204-E8A/06ED584,failing_mtms=8204-E8A/06ED584,analyzing_hmc=HMCA05,event_time=11/20/2010 16:19:24
+problem_num=69,pmh_num=,refcode=11001520,status=Closed,first_time=11/20/2010 16:18:45,last_time=11/20/2010 16:18:45,sys_name=XA030-wmsdb2-E8A-SN06ED5F4,sys_mtms=8204-E8A/06ED5F4,enclosure_mtms=8204-E8A/06ED5F4,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:45,reporting_name=XA030-wmsdb2-E8A-SN06ED5F4,reporting_mtms=8204-E8A/06ED5F4,failing_mtms=8204-E8A/06ED5F4,analyzing_hmc=HMCA05,event_time=11/20/2010 16:17:37
+problem_num=68,pmh_num=,refcode=11001520,status=Closed,first_time=11/20/2010 16:18:43,last_time=11/20/2010 16:18:43,sys_name=XA023-wmsweb1-E8A-SN06ED514,sys_mtms=8204-E8A/06ED514,enclosure_mtms=8204-E8A/06ED514,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:43,reporting_name=XA023-wmsweb1-E8A-SN06ED514,reporting_mtms=8204-E8A/06ED514,failing_mtms=8204-E8A/06ED514,analyzing_hmc=HMCA05,event_time=11/20/2010 16:17:36
+problem_num=67,pmh_num=,refcode=11001520,status=Closed,first_time=11/20/2010 16:18:42,last_time=11/20/2010 16:18:42,sys_name=XA025-wmsbat1-E8A-SN06ED554,sys_mtms=8204-E8A/06ED554,enclosure_mtms=8204-E8A/06ED554,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:42,reporting_name=XA025-wmsbat1-E8A-SN06ED554,reporting_mtms=8204-E8A/06ED554,failing_mtms=8204-E8A/06ED554,analyzing_hmc=HMCA05,event_time=11/20/2010 16:17:46
+problem_num=66,pmh_num=,refcode=11001520,status=Closed,first_time=11/20/2010 16:18:39,last_time=11/20/2010 16:18:39,sys_name=XA063-WHPJ1-55A-SN06CF45G,sys_mtms=9133-55A/06CF45G,enclosure_mtms=9133-55A/06CF45G,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:39,reporting_name=XA063-WHPJ1-55A-SN06CF45G,reporting_mtms=9133-55A/06CF45G,failing_mtms=9133-55A/06CF45G,analyzing_hmc=HMCA05,event_time=11/20/2010 16:17:42
+problem_num=65,pmh_num=,refcode=11001520,status=Closed,first_time=11/20/2010 16:18:38,last_time=11/20/2010 16:18:38,sys_name=XA027-wmsrpt1-E8A-SN06ED5D4,sys_mtms=8204-E8A/06ED5D4,enclosure_mtms=8204-E8A/06ED5D4,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:38,reporting_name=XA027-wmsrpt1-E8A-SN06ED5D4,reporting_mtms=8204-E8A/06ED5D4,failing_mtms=8204-E8A/06ED5D4,analyzing_hmc=HMCA05,event_time=11/20/2010 16:17:22
+problem_num=64,pmh_num=,refcode=11001520,status=Closed,first_time=11/20/2010 16:18:35,last_time=11/20/2010 16:18:35,sys_name=XA029-wmsdb1-E8A-SN06ED534,sys_mtms=8204-E8A/06ED534,enclosure_mtms=8204-E8A/06ED534,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:35,reporting_name=XA029-wmsdb1-E8A-SN06ED534,reporting_mtms=8204-E8A/06ED534,failing_mtms=8204-E8A/06ED534,analyzing_hmc=HMCA05,event_time=11/20/2010 16:16:43
+problem_num=63,pmh_num=,refcode=11001510,status=Closed,first_time=11/20/2010 16:18:33,last_time=11/20/2010 16:18:33,sys_name=XA077-jihe1-E8A-SN06481B5,sys_mtms=8204-E8A/06481B5,enclosure_mtms=8204-E8A/06481B5,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:33,reporting_name=XA077-jihe1-E8A-SN06481B5,reporting_mtms=8204-E8A/06481B5,failing_mtms=8204-E8A/06481B5,analyzing_hmc=HMCA05,event_time=11/21/2010 05:18:15
+problem_num=62,pmh_num=,refcode=11001520,status=Closed,first_time=11/20/2010 16:18:33,last_time=11/20/2010 16:18:33,sys_name=XA032-grzx2-550-SN06882EA,sys_mtms=9113-550/06882EA,enclosure_mtms=9113-550/06882EA,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:33,reporting_name=XA032-grzx2-550-SN06882EA,reporting_mtms=9113-550/06882EA,failing_mtms=9113-550/06882EA,analyzing_hmc=HMCA05,event_time=11/20/2010 15:59:24
+problem_num=61,pmh_num=,refcode=11001520,status=Closed,first_time=11/20/2010 16:18:32,last_time=11/20/2010 16:18:32,sys_name=XA031-grzx1-550-SN06887EA,sys_mtms=9113-550/06887EA,enclosure_mtms=9113-550/06887EA,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:32,reporting_name=XA031-grzx1-550-SN06887EA,reporting_mtms=9113-550/06887EA,failing_mtms=9113-550/06887EA,analyzing_hmc=HMCA05,event_time=11/20/2010 16:02:28
+problem_num=60,pmh_num=,refcode=11001520,status=Closed,first_time=11/20/2010 16:18:32,last_time=11/20/2010 16:18:32,sys_name=XA061-eport1-550-SN06F0A6F,sys_mtms=9113-550/06F0A6F,enclosure_mtms=9113-550/06F0A6F,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:32,reporting_name=XA061-eport1-550-SN06F0A6F,reporting_mtms=9113-550/06F0A6F,failing_mtms=9113-550/06F0A6F,analyzing_hmc=HMCA05,event_time=11/20/2010 16:17:58
+problem_num=59,pmh_num=,refcode=11001520,status=Closed,first_time=11/20/2010 16:18:31,last_time=11/20/2010 16:18:31,sys_name=XA062-eport2-550-SN06F06BF,sys_mtms=9113-550/06F06BF,enclosure_mtms=9113-550/06F06BF,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:31,reporting_name=XA062-eport2-550-SN06F06BF,reporting_mtms=9113-550/06F06BF,failing_mtms=9113-550/06F06BF,analyzing_hmc=HMCA05,event_time=11/20/2010 15:14:31
+problem_num=58,pmh_num=,refcode=11001520,status=Closed,first_time=11/20/2010 16:17:12,last_time=11/20/2010 16:17:12,sys_name=XA034-kjys2-E8A-SN06E36D4,sys_mtms=8204-E8A/06E36D4,enclosure_mtms=8204-E8A/06E36D4,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:17:12,reporting_name=XA034-kjys2-E8A-SN06E36D4,reporting_mtms=8204-E8A/06E36D4,failing_mtms=8204-E8A/06E36D4,analyzing_hmc=HMCA05,event_time=11/20/2010 16:16:16
+problem_num=57,pmh_num=,refcode=11001520,status=Closed,first_time=11/20/2010 16:17:12,last_time=11/20/2010 16:17:12,sys_name=XA033-kjys1-E8A-SN06E3824,sys_mtms=8204-E8A/06E3824,enclosure_mtms=8204-E8A/06E3824,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:17:12,reporting_name=XA033-kjys1-E8A-SN06E3824,reporting_mtms=8204-E8A/06E3824,failing_mtms=8204-E8A/06E3824,analyzing_hmc=HMCA05,event_time=11/20/2010 16:16:40
+problem_num=31,pmh_num=,refcode=#2603902,status=Closed,first_time=09/13/2010 02:18:14,last_time=11/09/2010 01:55:57,sys_name=XA033-kjys1-E8A-SN06E3824,sys_mtms=8204-E8A/06E3824,enclosure_mtms=8204-E8A/06E3824,firmware_fix=,"text=Error Log Analysis has detected multiple communication
+errors.  These errors can be caused by attached devices,
+a switch, a hub, or a SCSI-to-FC convertor.
+
+If connected to a switch, refer to the Storage Area
+Network (SAN) problem determination procedures for
+additional problem resolution.
+
+If not connected to a switch, run diagnostics on the
+attached devices.  If a hub or SCSI-to-FC convertor is
+attached, refer to the product documentation for problem
+resolution.",created_time=09/13/2010 02:18:14,reporting_name=XA033-kjys1-E8A-SN06E3824,reporting_mtms=8204-E8A/06E3824,failing_mtms=8204-E8A/06E3824,analyzing_hmc=HMCA05,event_time=09/13/2010 02:16:03
+problem_num=54,pmh_num=,refcode=#25C3902,status=Closed,first_time=10/22/2010 02:56:34,last_time=10/22/2010 02:56:34,sys_name=XA077-jihe1-E8A-SN06481B5,sys_mtms=8204-E8A/06481B5,enclosure_mtms=8204-E8A/06481B5,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/22/2010 02:56:34,reporting_name=XA077-jihe1-E8A-SN06481B5,reporting_mtms=8204-E8A/06481B5,failing_mtms=8204-E8A/06481B5,analyzing_hmc=HMCA05,event_time=10/21/2010 21:24:12
+problem_num=29,pmh_num=,refcode=#25C1903,status=Closed,first_time=09/11/2010 18:37:22,last_time=10/12/2010 14:24:09,sys_name=XA064-WHPJ2-55A-SN06D506G,sys_mtms=9133-55A/06D506G,enclosure_mtms=9133-55A/06D506G,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there may be a
+problem with the connection to the network.
+
+Check for extensive network traffic.  If this is
+not the cause, and if you are still experiencing
+problems, run advanced diagnostics.",created_time=09/11/2010 18:37:22,reporting_name=XA064-WHPJ2-55A-SN06D506G,reporting_mtms=9133-55A/06D506G,failing_mtms=9133-55A/06D506G,analyzing_hmc=HMCA05,event_time=09/11/2010 18:30:01
+problem_num=51,pmh_num=,refcode=#25C3902,status=Closed,first_time=10/12/2010 14:24:08,last_time=10/12/2010 14:24:08,sys_name=XA064-WHPJ2-55A-SN06D506G,sys_mtms=9133-55A/06D506G,enclosure_mtms=9133-55A/06D506G,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/12/2010 14:24:08,reporting_name=XA064-WHPJ2-55A-SN06D506G,reporting_mtms=9133-55A/06D506G,failing_mtms=9133-55A/06D506G,analyzing_hmc=HMCA05,event_time=10/10/2010 03:28:55
+problem_num=53,pmh_num=,refcode=B3030001,status=Closed,first_time=10/12/2010 08:16:43,last_time=10/12/2010 08:16:43,sys_name=HMCA05,sys_mtms=7042-CR5/06F33AB,enclosure_mtms=8204-E8A/06481B5,firmware_fix=,"text=ACT04285I FSP,BPA or BPC did not respond",created_time=10/12/2010 08:16:43,reporting_name=HMCA05,reporting_mtms=7042-CR5/06F33AB,failing_mtms=8204-E8A/06481B5,analyzing_hmc=HMCA05,event_time=10/12/2010 08:16:43
+problem_num=34,pmh_num=,refcode=B150B10C,status=Closed,first_time=10/09/2010 15:19:43,last_time=10/12/2010 07:47:23,sys_name=XA077-jihe1-E8A-SN06481B5,sys_mtms=8204-E8A/06481B5,enclosure_mtms=8204-E8A/06481B5,firmware_fix=,text=ACT04293I CEC hardware (0x50) reported an error.,created_time=10/09/2010 15:19:43,reporting_name=XA077-jihe1-E8A-SN06481B5,reporting_mtms=8204-E8A/06481B5,failing_mtms=8204-E8A/06481B5,analyzing_hmc=HMCA05,event_time=01/04/1970 15:06:59
+problem_num=52,pmh_num=,refcode=B123C04E,status=Closed,first_time=10/12/2010 07:24:54,last_time=10/12/2010 07:46:58,sys_name=XA077-jihe1-E8A-SN06481B5,sys_mtms=8204-E8A/06481B5,enclosure_mtms=8204-E8A/06481B5,firmware_fix=,text=ACT04293I Memory subsystem (0x23) reported an error.,created_time=10/12/2010 07:24:54,reporting_name=XA077-jihe1-E8A-SN06481B5,reporting_mtms=8204-E8A/06481B5,failing_mtms=8204-E8A/06481B5,analyzing_hmc=HMCA05,event_time=10/12/2010 07:26:40
+problem_num=50,pmh_num=,refcode=#2538902,status=Closed,first_time=10/10/2010 04:30:17,last_time=10/10/2010 04:30:17,sys_name=XA026-wmsbat2-E8A-SN06ED524,sys_mtms=8204-E8A/06ED524,enclosure_mtms=8204-E8A/06ED524,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/10/2010 04:30:17,reporting_name=XA026-wmsbat2-E8A-SN06ED524,reporting_mtms=8204-E8A/06ED524,failing_mtms=8204-E8A/06ED524,analyzing_hmc=HMCA05,event_time=10/10/2010 04:23:08
+problem_num=48,pmh_num=,refcode=#25C3902,status=Closed,first_time=10/10/2010 04:30:12,last_time=10/10/2010 04:30:12,sys_name=XA062-eport2-550-SN06F06BF,sys_mtms=9113-550/06F06BF,enclosure_mtms=9113-550/06F06BF,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/10/2010 04:30:12,reporting_name=XA062-eport2-550-SN06F06BF,reporting_mtms=9113-550/06F06BF,failing_mtms=9113-550/06F06BF,analyzing_hmc=HMCA05,event_time=10/10/2010 04:19:25
+problem_num=47,pmh_num=,refcode=#2538902,status=Closed,first_time=10/10/2010 04:30:08,last_time=10/10/2010 04:30:08,sys_name=XA028-wmsrpt2-E8A-SN06ED584,sys_mtms=8204-E8A/06ED584,enclosure_mtms=8204-E8A/06ED584,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/10/2010 04:30:08,reporting_name=XA028-wmsrpt2-E8A-SN06ED584,reporting_mtms=8204-E8A/06ED584,failing_mtms=8204-E8A/06ED584,analyzing_hmc=HMCA05,event_time=10/10/2010 04:23:08
+problem_num=16,pmh_num=,refcode=#25C3902,status=Closed,first_time=08/05/2010 18:08:35,last_time=10/10/2010 04:30:04,sys_name=XA036-zygl2-E8A-SN06EC065,sys_mtms=8204-E8A/06EC065,enclosure_mtms=8204-E8A/06EC065,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=08/05/2010 18:08:35,reporting_name=XA036-zygl2-E8A-SN06EC065,reporting_mtms=8204-E8A/06EC065,failing_mtms=8204-E8A/06EC065,analyzing_hmc=HMCA05,event_time=08/05/2010 04:56:21
+problem_num=9,pmh_num=,refcode=#25C1902,status=Closed,first_time=07/17/2010 13:00:51,last_time=10/10/2010 04:30:03,sys_name=XA031-grzx1-550-SN06887EA,sys_mtms=9113-550/06887EA,enclosure_mtms=9113-550/06887EA,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=07/17/2010 13:00:51,reporting_name=XA031-grzx1-550-SN06887EA,reporting_mtms=9113-550/06887EA,failing_mtms=9113-550/06887EA,analyzing_hmc=HMCA05,event_time=07/17/2010 12:44:54
+problem_num=43,pmh_num=,refcode=#25C3902,status=Closed,first_time=10/10/2010 03:33:46,last_time=10/10/2010 03:33:46,sys_name=XA028-wmsrpt2-E8A-SN06ED584,sys_mtms=8204-E8A/06ED584,enclosure_mtms=8204-E8A/06ED584,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/10/2010 03:33:46,reporting_name=XA028-wmsrpt2-E8A-SN06ED584,reporting_mtms=8204-E8A/06ED584,failing_mtms=8204-E8A/06ED584,analyzing_hmc=HMCA05,event_time=10/10/2010 03:26:43
+problem_num=42,pmh_num=,refcode=#25C3902,status=Closed,first_time=10/10/2010 03:33:46,last_time=10/10/2010 03:33:46,sys_name=XA026-wmsbat2-E8A-SN06ED524,sys_mtms=8204-E8A/06ED524,enclosure_mtms=8204-E8A/06ED524,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/10/2010 03:33:46,reporting_name=XA026-wmsbat2-E8A-SN06ED524,reporting_mtms=8204-E8A/06ED524,failing_mtms=8204-E8A/06ED524,analyzing_hmc=HMCA05,event_time=10/10/2010 03:26:43
+problem_num=40,pmh_num=,refcode=B7000107,status=Closed,first_time=10/09/2010 15:40:13,last_time=10/09/2010 15:40:13,sys_name=XA077-jihe1-E8A-SN06481B5,sys_mtms=8204-E8A/06481B5,enclosure_mtms=8204-E8A/06481B5,firmware_fix=,text=ACT04293I Other subsystem (0x75) reported an error.,created_time=10/09/2010 15:40:13,reporting_name=XA077-jihe1-E8A-SN06481B5,reporting_mtms=8204-E8A/06481B5,failing_mtms=8204-E8A/06481B5,analyzing_hmc=HMCA05,event_time=10/09/2010 07:37:49
+problem_num=39,pmh_num=,refcode=B7000107,status=Closed,first_time=10/09/2010 15:39:39,last_time=10/09/2010 15:39:39,sys_name=XA077-jihe1-E8A-SN06481B5,sys_mtms=8204-E8A/06481B5,enclosure_mtms=8204-E8A/06481B5,firmware_fix=,text=ACT04293I Platform firmware (0x82) reported an error.,created_time=10/09/2010 15:39:39,reporting_name=XA077-jihe1-E8A-SN06481B5,reporting_mtms=8204-E8A/06481B5,failing_mtms=8204-E8A/06481B5,analyzing_hmc=HMCA05,event_time=10/09/2010 07:37:16
+problem_num=38,pmh_num=,refcode=B124E504,status=Closed,first_time=10/09/2010 15:39:18,last_time=10/09/2010 15:39:18,sys_name=XA077-jihe1-E8A-SN06481B5,sys_mtms=8204-E8A/06481B5,enclosure_mtms=8204-E8A/06481B5,firmware_fix=,text=ACT04293I Memory subsystem (0x24) reported an error.,created_time=10/09/2010 15:39:18,reporting_name=XA077-jihe1-E8A-SN06481B5,reporting_mtms=8204-E8A/06481B5,failing_mtms=8204-E8A/06481B5,analyzing_hmc=HMCA05,event_time=10/09/2010 07:36:53
+problem_num=37,pmh_num=,refcode=B124C711,status=Closed,first_time=10/09/2010 15:19:43,last_time=10/09/2010 15:19:43,sys_name=XA077-jihe1-E8A-SN06481B5,sys_mtms=8204-E8A/06481B5,enclosure_mtms=8204-E8A/06481B5,firmware_fix=,text=ACT04293I Memory subsystem (0x24) reported an error.,created_time=10/09/2010 15:19:43,reporting_name=XA077-jihe1-E8A-SN06481B5,reporting_mtms=8204-E8A/06481B5,failing_mtms=8204-E8A/06481B5,analyzing_hmc=HMCA05,event_time=01/29/1970 18:06:43
+problem_num=36,pmh_num=,refcode=B123C029,status=Closed,first_time=10/09/2010 15:19:43,last_time=10/09/2010 15:19:43,sys_name=XA077-jihe1-E8A-SN06481B5,sys_mtms=8204-E8A/06481B5,enclosure_mtms=8204-E8A/06481B5,firmware_fix=,text=ACT04293I Memory subsystem (0x23) reported an error.,created_time=10/09/2010 15:19:43,reporting_name=XA077-jihe1-E8A-SN06481B5,reporting_mtms=8204-E8A/06481B5,failing_mtms=8204-E8A/06481B5,analyzing_hmc=HMCA05,event_time=01/29/1970 18:03:37
+problem_num=35,pmh_num=,refcode=B123E504,status=Closed,first_time=10/09/2010 15:19:43,last_time=10/09/2010 15:19:43,sys_name=XA077-jihe1-E8A-SN06481B5,sys_mtms=8204-E8A/06481B5,enclosure_mtms=8204-E8A/06481B5,firmware_fix=,text=ACT04293I Memory subsystem (0x23) reported an error.,created_time=10/09/2010 15:19:43,reporting_name=XA077-jihe1-E8A-SN06481B5,reporting_mtms=8204-E8A/06481B5,failing_mtms=8204-E8A/06481B5,analyzing_hmc=HMCA05,event_time=01/04/1970 15:18:49
+problem_num=33,pmh_num=,refcode=B150C02A,status=Closed,first_time=10/09/2010 15:19:43,last_time=10/09/2010 15:19:43,sys_name=XA077-jihe1-E8A-SN06481B5,sys_mtms=8204-E8A/06481B5,enclosure_mtms=8204-E8A/06481B5,firmware_fix=,text=ACT04293I CEC hardware (0x50) reported an error.,created_time=10/09/2010 15:19:43,reporting_name=XA077-jihe1-E8A-SN06481B5,reporting_mtms=8204-E8A/06481B5,failing_mtms=8204-E8A/06481B5,analyzing_hmc=HMCA05,event_time=01/04/1970 15:06:33
+problem_num=32,pmh_num=,refcode=E212E161,status=Closed,first_time=10/09/2010 03:53:36,last_time=10/09/2010 03:53:36,sys_name=HMCA05,sys_mtms=7042-CR5/06F33AB,enclosure_mtms=7042-CR5/06F33AB,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=10/09/2010 03:53:36,reporting_name=HMCA05,reporting_mtms=7042-CR5/06F33AB,failing_mtms=7042-CR5/06F33AB,analyzing_hmc=HMCA05,event_time=10/09/2010 03:53:36
+problem_num=30,pmh_num=,refcode=BA188002,status=Closed,first_time=09/11/2010 18:42:51,last_time=09/11/2010 18:42:51,sys_name=XA064-WHPJ2-55A-SN06D506G,sys_mtms=9133-55A/06D506G,enclosure_mtms=9133-55A/06D506G,firmware_fix=,text=ACT04293I Platform firmware (0x83) reported an error.,created_time=09/11/2010 18:42:51,reporting_name=XA064-WHPJ2-55A-SN06D506G,reporting_mtms=9133-55A/06D506G,failing_mtms=9133-55A/06D506G,analyzing_hmc=HMCA05,event_time=09/11/2010 10:35:36
+problem_num=25,pmh_num=,refcode=#25C3902,status=Closed,first_time=09/11/2010 17:55:56,last_time=09/11/2010 18:21:12,sys_name=XA061-eport1-550-SN06F0A6F,sys_mtms=9113-550/06F0A6F,enclosure_mtms=9113-550/06F0A6F,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=09/11/2010 17:55:56,reporting_name=XA061-eport1-550-SN06F0A6F,reporting_mtms=9113-550/06F0A6F,failing_mtms=9113-550/06F0A6F,analyzing_hmc=HMCA05,event_time=09/11/2010 17:53:52
+problem_num=24,pmh_num=,refcode=B2001230,status=Closed,first_time=09/11/2010 17:29:09,last_time=09/11/2010 17:29:09,sys_name=XA063-WHPJ1-55A-SN06CF45G,sys_mtms=9133-55A/06CF45G,enclosure_mtms=9133-55A/06CF45G,firmware_fix=,text=ACT04293I Platform firmware (0x82) reported an error.,created_time=09/11/2010 17:29:09,reporting_name=XA063-WHPJ1-55A-SN06CF45G,reporting_mtms=9133-55A/06CF45G,failing_mtms=9133-55A/06CF45G,analyzing_hmc=HMCA05,event_time=09/11/2010 09:25:32
+problem_num=23,pmh_num=,refcode=B200E0AA,status=Closed,first_time=09/11/2010 17:01:42,last_time=09/11/2010 17:01:42,sys_name=XA062-eport2-550-SN06F06BF,sys_mtms=9113-550/06F06BF,enclosure_mtms=9113-550/06F06BF,firmware_fix=,text=ACT04293I Platform firmware (0x82) reported an error.,created_time=09/11/2010 17:01:42,reporting_name=XA062-eport2-550-SN06F06BF,reporting_mtms=9113-550/06F06BF,failing_mtms=9113-550/06F06BF,analyzing_hmc=HMCA05,event_time=09/11/2010 07:56:12
+problem_num=22,pmh_num=,refcode=B200E0AA,status=Closed,first_time=09/11/2010 16:53:54,last_time=09/11/2010 16:53:54,sys_name=XA063-WHPJ1-55A-SN06CF45G,sys_mtms=9133-55A/06CF45G,enclosure_mtms=9133-55A/06CF45G,firmware_fix=,text=ACT04293I Platform firmware (0x82) reported an error.,created_time=09/11/2010 16:53:54,reporting_name=XA063-WHPJ1-55A-SN06CF45G,reporting_mtms=9133-55A/06CF45G,failing_mtms=9133-55A/06CF45G,analyzing_hmc=HMCA05,event_time=09/11/2010 08:50:55
+problem_num=21,pmh_num=,refcode=B200E0AA,status=Closed,first_time=09/11/2010 16:49:54,last_time=09/11/2010 16:49:54,sys_name=XA061-eport1-550-SN06F0A6F,sys_mtms=9113-550/06F0A6F,enclosure_mtms=9113-550/06F0A6F,firmware_fix=,text=ACT04293I Platform firmware (0x82) reported an error.,created_time=09/11/2010 16:49:54,reporting_name=XA061-eport1-550-SN06F0A6F,reporting_mtms=9113-550/06F0A6F,failing_mtms=9113-550/06F0A6F,analyzing_hmc=HMCA05,event_time=09/11/2010 08:47:49
+problem_num=20,pmh_num=,refcode=B200E0AA,status=Closed,first_time=09/11/2010 16:48:15,last_time=09/11/2010 16:48:15,sys_name=XA064-WHPJ2-55A-SN06D506G,sys_mtms=9133-55A/06D506G,enclosure_mtms=9133-55A/06D506G,firmware_fix=,text=ACT04293I Platform firmware (0x82) reported an error.,created_time=09/11/2010 16:48:15,reporting_name=XA064-WHPJ2-55A-SN06D506G,reporting_mtms=9133-55A/06D506G,failing_mtms=9133-55A/06D506G,analyzing_hmc=HMCA05,event_time=09/11/2010 08:40:58
+problem_num=18,pmh_num=,refcode=B3030007,status=Closed,first_time=08/24/2010 19:57:31,last_time=08/24/2010 19:57:31,sys_name=HMCA05,sys_mtms=7042-CR5/06F33AB,enclosure_mtms=8204-E8A/06ED5F4,firmware_fix=,"text=ACT04251I HMC to FSP,BPA, or BPC failure detected",created_time=08/24/2010 19:57:31,reporting_name=HMCA05,reporting_mtms=7042-CR5/06F33AB,failing_mtms=8204-E8A/06ED5F4,analyzing_hmc=HMCA05,event_time=08/24/2010 19:57:31
+problem_num=17,pmh_num=,refcode=2557-640,status=Closed,first_time=08/06/2010 13:01:44,last_time=08/06/2010 13:01:44,sys_name=XA036-zygl2-E8A-SN06EC065,sys_mtms=8204-E8A/06EC065,enclosure_mtms=8204-E8A/06EC065,firmware_fix=,text=Error Log Analysis indicates a path error.,created_time=08/06/2010 13:01:44,reporting_name=XA036-zygl2-E8A-SN06EC065,reporting_mtms=8204-E8A/06EC065,failing_mtms=8204-E8A/06EC065,analyzing_hmc=HMCA05,event_time=08/05/2010 23:55:03
+problem_num=15,pmh_num=,refcode=#25C3902,status=Closed,first_time=08/02/2010 11:01:54,last_time=08/06/2010 10:20:11,sys_name=XA035-zygl1-E8A-SN06EBF05,sys_mtms=8204-E8A/06EBF05,enclosure_mtms=8204-E8A/06EBF05,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=08/02/2010 11:01:54,reporting_name=XA035-zygl1-E8A-SN06EBF05,reporting_mtms=8204-E8A/06EBF05,failing_mtms=8204-E8A/06EBF05,analyzing_hmc=HMCA05,event_time=08/01/2010 20:21:25
+problem_num=14,pmh_num=,refcode=11001520,status=Closed,first_time=07/17/2010 14:07:15,last_time=07/17/2010 14:07:15,sys_name=XA026-wmsbat2-E8A-SN06ED524,sys_mtms=8204-E8A/06ED524,enclosure_mtms=8204-E8A/06ED524,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=07/17/2010 14:07:15,reporting_name=XA026-wmsbat2-E8A-SN06ED524,reporting_mtms=8204-E8A/06ED524,failing_mtms=8204-E8A/06ED524,analyzing_hmc=HMCA05,event_time=07/17/2010 06:06:48
+problem_num=13,pmh_num=,refcode=#2603905,status=Closed,first_time=07/17/2010 13:13:28,last_time=07/17/2010 13:13:28,sys_name=XA033-kjys1-E8A-SN06E3824,sys_mtms=8204-E8A/06E3824,enclosure_mtms=8204-E8A/06E3824,firmware_fix=,"text=Error Log Analysis has detected multiple link errors.
+These errors can be caused by loose or defective cables
+or the Fibre Channel adapter.
+
+Check all cables and their connections.  Run advanced
+diagnostics including wrap tests, on the fibre channel
+adapter to ensure the adapter link module is functioning
+properly.",created_time=07/17/2010 13:13:28,reporting_name=XA033-kjys1-E8A-SN06E3824,reporting_mtms=8204-E8A/06E3824,failing_mtms=8204-E8A/06E3824,analyzing_hmc=HMCA05,event_time=06/19/2010 18:26:36
+problem_num=12,pmh_num=,refcode=#2603905,status=Closed,first_time=07/17/2010 13:10:30,last_time=07/17/2010 13:10:30,sys_name=XA034-kjys2-E8A-SN06E36D4,sys_mtms=8204-E8A/06E36D4,enclosure_mtms=8204-E8A/06E36D4,firmware_fix=,"text=Error Log Analysis has detected multiple link errors.
+These errors can be caused by loose or defective cables
+or the Fibre Channel adapter.
+
+Check all cables and their connections.  Run advanced
+diagnostics including wrap tests, on the fibre channel
+adapter to ensure the adapter link module is functioning
+properly.",created_time=07/17/2010 13:10:30,reporting_name=XA034-kjys2-E8A-SN06E36D4,reporting_mtms=8204-E8A/06E36D4,failing_mtms=8204-E8A/06E36D4,analyzing_hmc=HMCA05,event_time=06/19/2010 17:34:36
+problem_num=11,pmh_num=,refcode=#2603905,status=Closed,first_time=07/17/2010 13:05:41,last_time=07/17/2010 13:05:41,sys_name=XA028-wmsrpt2-E8A-SN06ED584,sys_mtms=8204-E8A/06ED584,enclosure_mtms=8204-E8A/06ED584,firmware_fix=,"text=Error Log Analysis has detected multiple link errors.
+These errors can be caused by loose or defective cables
+or the Fibre Channel adapter.
+
+Check all cables and their connections.  Run advanced
+diagnostics including wrap tests, on the fibre channel
+adapter to ensure the adapter link module is functioning
+properly.",created_time=07/17/2010 13:05:41,reporting_name=XA028-wmsrpt2-E8A-SN06ED584,reporting_mtms=8204-E8A/06ED584,failing_mtms=8204-E8A/06ED584,analyzing_hmc=HMCA05,event_time=06/19/2010 17:36:37
+problem_num=10,pmh_num=,refcode=#2603905,status=Closed,first_time=07/17/2010 13:05:25,last_time=07/17/2010 13:05:25,sys_name=XA026-wmsbat2-E8A-SN06ED524,sys_mtms=8204-E8A/06ED524,enclosure_mtms=8204-E8A/06ED524,firmware_fix=,"text=Error Log Analysis has detected multiple link errors.
+These errors can be caused by loose or defective cables
+or the Fibre Channel adapter.
+
+Check all cables and their connections.  Run advanced
+diagnostics including wrap tests, on the fibre channel
+adapter to ensure the adapter link module is functioning
+properly.",created_time=07/17/2010 13:05:25,reporting_name=XA026-wmsbat2-E8A-SN06ED524,reporting_mtms=8204-E8A/06ED524,failing_mtms=8204-E8A/06ED524,analyzing_hmc=HMCA05,event_time=06/19/2010 17:36:38
+problem_num=6,pmh_num=,refcode=B200E0AA,status=Closed,first_time=07/17/2010 11:48:37,last_time=07/17/2010 11:48:37,sys_name=XA032-grzx2-550-SN06882EA,sys_mtms=9113-550/06882EA,enclosure_mtms=9113-550/06882EA,firmware_fix=,text=ACT04293I Platform firmware (0x82) reported an error.,created_time=07/17/2010 11:48:37,reporting_name=XA032-grzx2-550-SN06882EA,reporting_mtms=9113-550/06882EA,failing_mtms=9113-550/06882EA,analyzing_hmc=HMCA05,event_time=07/17/2010 03:29:57
+problem_num=4,pmh_num=,refcode=B200E0AA,status=Closed,first_time=07/17/2010 11:46:44,last_time=07/17/2010 11:46:44,sys_name=XA031-grzx1-550-SN06887EA,sys_mtms=9113-550/06887EA,enclosure_mtms=9113-550/06887EA,firmware_fix=,text=ACT04293I Platform firmware (0x82) reported an error.,created_time=07/17/2010 11:46:44,reporting_name=XA031-grzx1-550-SN06887EA,reporting_mtms=9113-550/06887EA,failing_mtms=9113-550/06887EA,analyzing_hmc=HMCA05,event_time=07/17/2010 03:30:45
+problem_num=5,pmh_num=,refcode=B3030001,status=Closed,first_time=07/17/2010 11:33:03,last_time=07/17/2010 11:33:03,sys_name=HMCA05,sys_mtms=7042-CR5/06F33AB,enclosure_mtms=::ffff:192.161.0.31,firmware_fix=,text=ACT04284I An HMC connect failed,created_time=07/17/2010 11:33:03,reporting_name=HMCA05,reporting_mtms=7042-CR5/06F33AB,failing_mtms=::ffff:192.161.0.31,analyzing_hmc=HMCA05,event_time=07/17/2010 11:33:03
+problem_num=1,pmh_num=,refcode=E3550046,status=Closed,first_time=05/05/2010 14:24:42,last_time=07/09/2010 14:30:56,sys_name=HMCA05,sys_mtms=7042-CR5/06F33AB,enclosure_mtms=7042-CR5/06F33AB,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=05/05/2010 14:24:42,reporting_name=HMCA05,reporting_mtms=7042-CR5/06F33AB,failing_mtms=7042-CR5/06F33AB,analyzing_hmc=HMCA05,event_time=05/05/2010 14:24:42
+problem_num=3,pmh_num=,refcode=E3551121,status=Closed,first_time=07/09/2010 13:57:14,last_time=07/09/2010 13:57:14,sys_name=HMCA05,sys_mtms=7042-CR5/06F33AB,enclosure_mtms=7042-CR5/06F33AB,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=07/09/2010 13:57:14,reporting_name=HMCA05,reporting_mtms=7042-CR5/06F33AB,failing_mtms=7042-CR5/06F33AB,analyzing_hmc=HMCA05,event_time=07/09/2010 13:57:14
+problem_num=2,pmh_num=,refcode=E212E113,status=Closed,first_time=05/05/2010 14:31:46,last_time=05/05/2010 14:33:46,sys_name=HMCA05,sys_mtms=7042-CR5/06F33AB,enclosure_mtms=7042-CR5/06F33AB,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=05/05/2010 14:31:46,reporting_name=HMCA05,reporting_mtms=7042-CR5/06F33AB,failing_mtms=7042-CR5/06F33AB,analyzing_hmc=HMCA05,event_time=05/05/2010 14:31:46

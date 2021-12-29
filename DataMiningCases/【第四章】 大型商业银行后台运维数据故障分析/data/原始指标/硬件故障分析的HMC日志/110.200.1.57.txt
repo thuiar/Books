@@ -1,0 +1,146 @@
+problem_num=47,pmh_num=,refcode=11001524,status=Closed,first_time=09/26/2013 15:30:20,last_time=09/26/2013 16:55:46,sys_name=Server-9117-570-SN65D05DE_JGA05,sys_mtms=9117-570/65D05DE,enclosure_mtms=9117-570/65D05DE,firmware_fix=,text=Power/Cooling subsystem & control (0x61): Unrecoverable Error (0x44),created_time=09/26/2013 15:30:20,reporting_name=Server-9117-570-SN65D05DE_JGA05,reporting_mtms=9117-570/65D05DE,failing_mtms=9117-570/65D05DE,analyzing_hmc=P570-HMC,event_time=09/26/2013 23:25:07
+problem_num=46,pmh_num=,refcode=11007611,status=Closed,first_time=09/19/2013 16:04:06,last_time=09/19/2013 16:04:06,sys_name=Server-9117-570-SN65D05DE_JGA05,sys_mtms=9117-570/65D05DE,enclosure_mtms=9117-570/65D05DE,firmware_fix=,text=Power/Cooling subsystem & control (0x63): Unrecoverable Error (0x44),created_time=09/19/2013 16:04:06,reporting_name=Server-9117-570-SN65D05DE_JGA05,reporting_mtms=9117-570/65D05DE,failing_mtms=9117-570/65D05DE,analyzing_hmc=P570-HMC,event_time=09/19/2013 23:58:48
+problem_num=45,pmh_num=,refcode=11007610,status=Closed,first_time=09/18/2013 18:34:37,last_time=09/18/2013 18:34:37,sys_name=Server-9117-570-SN65D05DE_JGA05,sys_mtms=9117-570/65D05DE,enclosure_mtms=9117-570/65D05DE,firmware_fix=,text=Power/Cooling subsystem & control (0x63): Unrecoverable Error (0x44),created_time=09/18/2013 18:34:37,reporting_name=Server-9117-570-SN65D05DE_JGA05,reporting_mtms=9117-570/65D05DE,failing_mtms=9117-570/65D05DE,analyzing_hmc=P570-HMC,event_time=09/19/2013 02:29:19
+problem_num=44,pmh_num=,refcode=11007610,status=Closed,first_time=08/30/2013 13:44:03,last_time=08/30/2013 13:44:03,sys_name=Server-9117-570-SN65D05DE_JGA05,sys_mtms=9117-570/65D05DE,enclosure_mtms=9117-570/65D05DE,firmware_fix=,text=Power/Cooling subsystem & control (0x63): Unrecoverable Error (0x44),created_time=08/30/2013 13:44:03,reporting_name=Server-9117-570-SN65D05DE_JGA05,reporting_mtms=9117-570/65D05DE,failing_mtms=9117-570/65D05DE,analyzing_hmc=P570-HMC,event_time=08/30/2013 21:38:35
+problem_num=43,pmh_num=,refcode=11001514,status=Closed,first_time=08/19/2013 15:45:16,last_time=08/20/2013 19:00:09,sys_name=Server-9117-570-SN65D05CE_JGA04,sys_mtms=9117-570/65D05CE,enclosure_mtms=9117-570/65D05CE,firmware_fix=,text=Power/Cooling subsystem & control (0x61): Unrecoverable Error (0x44),created_time=08/19/2013 15:45:16,reporting_name=Server-9117-570-SN65D05CE_JGA04,reporting_mtms=9117-570/65D05CE,failing_mtms=9117-570/65D05CE,analyzing_hmc=P570-HMC,event_time=08/19/2013 15:37:55
+problem_num=42,pmh_num=,refcode=B2006006,status=Open,first_time=05/18/2013 12:04:12,last_time=05/18/2013 12:04:12,sys_name=Server-9117-570-SN65D05DE_JGA05,sys_mtms=9117-570/65D05DE,enclosure_mtms=9117-570/65D05DE,firmware_fix=,text=Platform firmware (0x82): Unrecoverable Error (0x40),created_time=05/18/2013 12:04:12,reporting_name=Server-9117-570-SN65D05DE_JGA05,reporting_mtms=9117-570/65D05DE,failing_mtms=9117-570/65D05DE,analyzing_hmc=P570-HMC,event_time=05/18/2013 19:57:47
+problem_num=41,pmh_num=,refcode=B3030007,status=Open,first_time=03/29/2013 21:30:41,last_time=03/29/2013 21:30:41,sys_name=P570-HMC,sys_mtms=7310-C05/650E7CB,enclosure_mtms=9133-55A/06FF43G,firmware_fix=,text=HMC to multiple systems failure detected,created_time=03/29/2013 21:30:41,reporting_name=P570-HMC,reporting_mtms=7310-C05/650E7CB,failing_mtms=9133-55A/06FF43G,analyzing_hmc=P570-HMC,event_time=03/29/2013 21:30:41
+problem_num=40,pmh_num=,refcode=11007621,status=Open,first_time=02/21/2013 23:33:35,last_time=02/21/2013 23:33:35,sys_name=Server-9117-570-SN65D05DE_JGA05,sys_mtms=9117-570/65D05DE,enclosure_mtms=9117-570/65D05DE,firmware_fix=,text=Power/Cooling subsystem & control (0x63): Unrecoverable Error (0x44),created_time=02/21/2013 23:33:35,reporting_name=Server-9117-570-SN65D05DE_JGA05,reporting_mtms=9117-570/65D05DE,failing_mtms=9117-570/65D05DE,analyzing_hmc=P570-HMC,event_time=02/22/2013 07:26:26
+problem_num=39,pmh_num=,refcode=11007620,status=Closed,first_time=02/21/2013 17:54:23,last_time=02/21/2013 17:54:23,sys_name=Server-9117-570-SN65D05DE_JGA05,sys_mtms=9117-570/65D05DE,enclosure_mtms=9117-570/65D05DE,firmware_fix=,text=Power/Cooling subsystem & control (0x63): Unrecoverable Error (0x44),created_time=02/21/2013 17:54:23,reporting_name=Server-9117-570-SN65D05DE_JGA05,reporting_mtms=9117-570/65D05DE,failing_mtms=9117-570/65D05DE,analyzing_hmc=P570-HMC,event_time=02/22/2013 01:47:13
+problem_num=38,pmh_num=,refcode=11007611,status=Open,first_time=02/05/2013 21:42:13,last_time=09/02/2013 13:26:12,sys_name=Server-9117-570-SN65D05DE_JGA05,sys_mtms=9117-570/65D05DE,enclosure_mtms=9117-570/65D05DE,firmware_fix=,text=Power/Cooling subsystem & control (0x63): Unrecoverable Error (0x44),created_time=02/05/2013 21:42:13,reporting_name=Server-9117-570-SN65D05DE_JGA05,reporting_mtms=9117-570/65D05DE,failing_mtms=9117-570/65D05DE,analyzing_hmc=P570-HMC,event_time=02/06/2013 05:34:53
+problem_num=37,pmh_num=,refcode=11007621,status=Open,first_time=02/05/2013 21:41:44,last_time=02/05/2013 21:41:44,sys_name=Server-9117-570-SN65D05DE_JGA05,sys_mtms=9117-570/65D05DE,enclosure_mtms=9117-570/65D05DE,firmware_fix=,text=Power/Cooling subsystem & control (0x63): Unrecoverable Error (0x44),created_time=02/05/2013 21:41:44,reporting_name=Server-9117-570-SN65D05DE_JGA05,reporting_mtms=9117-570/65D05DE,failing_mtms=9117-570/65D05DE,analyzing_hmc=P570-HMC,event_time=02/06/2013 05:34:25
+problem_num=36,pmh_num=,refcode=B181E911,status=Open,first_time=02/05/2013 20:34:06,last_time=02/05/2013 20:34:06,sys_name=Server-9117-570-SN65D05DE_JGA05,sys_mtms=9117-570/65D05DE,enclosure_mtms=9117-570/65D05DE,firmware_fix=,text=Platform firmware (0x81): Unrecoverable Error (0x40),created_time=02/05/2013 20:34:06,reporting_name=Server-9117-570-SN65D05DE_JGA05,reporting_mtms=9117-570/65D05DE,failing_mtms=9117-570/65D05DE,analyzing_hmc=P570-HMC,event_time=02/06/2013 04:26:46
+problem_num=35,pmh_num=,refcode=B1817201,status=Open,first_time=02/05/2013 20:32:06,last_time=02/05/2013 20:32:06,sys_name=Server-9117-570-SN65D05DE_JGA05,sys_mtms=9117-570/65D05DE,enclosure_mtms=9117-570/65D05DE,firmware_fix=,text=Platform firmware (0x81): Unrecoverable Error (0x40),created_time=02/05/2013 20:32:06,reporting_name=Server-9117-570-SN65D05DE_JGA05,reporting_mtms=9117-570/65D05DE,failing_mtms=9117-570/65D05DE,analyzing_hmc=P570-HMC,event_time=02/06/2013 04:22:07
+problem_num=34,pmh_num=,refcode=B3030007,status=Open,first_time=02/05/2013 20:28:30,last_time=02/05/2013 20:28:30,sys_name=P570-HMC,sys_mtms=7310-C05/650E7CB,enclosure_mtms=9117-570/65D05DE,firmware_fix=,text=HMC to multiple systems failure detected,created_time=02/05/2013 20:28:30,reporting_name=P570-HMC,reporting_mtms=7310-C05/650E7CB,failing_mtms=9117-570/65D05DE,analyzing_hmc=P570-HMC,event_time=02/05/2013 20:28:30
+problem_num=33,pmh_num=,refcode=11007621,status=Closed,first_time=11/22/2012 19:44:22,last_time=11/22/2012 19:44:22,sys_name=Server-9117-570-SN65D05CE_JGA04,sys_mtms=9117-570/65D05CE,enclosure_mtms=9117-570/65D05CE,firmware_fix=,text=Power/Cooling subsystem & control (0x63): Unrecoverable Error (0x44),created_time=11/22/2012 19:44:22,reporting_name=Server-9117-570-SN65D05CE_JGA04,reporting_mtms=9117-570/65D05CE,failing_mtms=9117-570/65D05CE,analyzing_hmc=P570-HMC,event_time=11/22/2012 19:34:54
+problem_num=32,pmh_num=,refcode=11007620,status=Closed,first_time=11/22/2012 15:11:17,last_time=11/22/2012 15:11:17,sys_name=Server-9117-570-SN65D05CE_JGA04,sys_mtms=9117-570/65D05CE,enclosure_mtms=9117-570/65D05CE,firmware_fix=,text=Power/Cooling subsystem & control (0x63): Unrecoverable Error (0x44),created_time=11/22/2012 15:11:17,reporting_name=Server-9117-570-SN65D05CE_JGA04,reporting_mtms=9117-570/65D05CE,failing_mtms=9117-570/65D05CE,analyzing_hmc=P570-HMC,event_time=11/22/2012 15:01:49
+problem_num=31,pmh_num=,refcode=11001524,status=Closed,first_time=10/30/2012 21:21:44,last_time=11/01/2012 19:03:11,sys_name=Server-9117-570-SN65D05CE_JGA04,sys_mtms=9117-570/65D05CE,enclosure_mtms=9117-570/65D05CE,firmware_fix=,text=Power/Cooling subsystem & control (0x61): Unrecoverable Error (0x44),created_time=10/30/2012 21:21:44,reporting_name=Server-9117-570-SN65D05CE_JGA04,reporting_mtms=9117-570/65D05CE,failing_mtms=9117-570/65D05CE,analyzing_hmc=P570-HMC,event_time=10/30/2012 21:12:03
+problem_num=30,pmh_num=,refcode=11001514,status=Closed,first_time=08/31/2012 09:15:51,last_time=08/31/2012 19:20:32,sys_name=Server-9117-570-SN65D05DE_JGA05,sys_mtms=9117-570/65D05DE,enclosure_mtms=9117-570/65D05DE,firmware_fix=,text=Power/Cooling subsystem & control (0x61): Unrecoverable Error (0x44),created_time=08/31/2012 09:15:51,reporting_name=Server-9117-570-SN65D05DE_JGA05,reporting_mtms=9117-570/65D05DE,failing_mtms=9117-570/65D05DE,analyzing_hmc=P570-HMC,event_time=08/31/2012 17:07:10
+problem_num=29,pmh_num=,refcode=E3D43103,status=Open,first_time=06/19/2012 09:37:24,last_time=06/19/2012 09:37:24,sys_name=P570-HMC,sys_mtms=7310-C05/650E7CB,enclosure_mtms=7310-C05/650E7CB,firmware_fix=,text=Licensed internal code has detected a problem.,created_time=06/19/2012 09:37:24,reporting_name=P570-HMC,reporting_mtms=7310-C05/650E7CB,failing_mtms=7310-C05/650E7CB,analyzing_hmc=P570-HMC,event_time=06/19/2012 09:37:24
+problem_num=28,pmh_num=,refcode=E332FFFF,status=Open,first_time=05/04/2012 01:51:09,last_time=05/04/2012 01:51:09,sys_name=P570-HMC,sys_mtms=7310-C05/650E7CB,enclosure_mtms=7310-C05/650E7CB,firmware_fix=,text=Licensed internal code has detected a problem.,created_time=05/04/2012 01:51:09,reporting_name=P570-HMC,reporting_mtms=7310-C05/650E7CB,failing_mtms=7310-C05/650E7CB,analyzing_hmc=P570-HMC,event_time=05/04/2012 01:51:09
+problem_num=27,pmh_num=,refcode=B3030001,status=Open,first_time=02/09/2012 15:51:17,last_time=02/09/2012 15:51:17,sys_name=P570-HMC,sys_mtms=7310-C05/650E7CB,enclosure_mtms=9117-570/65D05DE,firmware_fix=,"text=FSP,BPA or BPC did not respond",created_time=02/09/2012 15:51:17,reporting_name=P570-HMC,reporting_mtms=7310-C05/650E7CB,failing_mtms=9117-570/65D05DE,analyzing_hmc=P570-HMC,event_time=02/09/2012 15:51:17
+problem_num=26,pmh_num=,refcode=E332FFFF,status=Open,first_time=11/28/2011 03:37:30,last_time=11/28/2011 03:37:30,sys_name=P570-HMC,sys_mtms=7310-C05/650E7CB,enclosure_mtms=7310-C05/650E7CB,firmware_fix=,text=Licensed internal code has detected a problem.,created_time=11/28/2011 03:37:30,reporting_name=P570-HMC,reporting_mtms=7310-C05/650E7CB,failing_mtms=7310-C05/650E7CB,analyzing_hmc=P570-HMC,event_time=11/28/2011 03:37:30
+problem_num=25,pmh_num=,refcode=E355004D,status=Open,first_time=05/25/2011 01:23:02,last_time=02/10/2013 23:13:27,sys_name=P570-HMC,sys_mtms=7310-C05/650E7CB,enclosure_mtms=7310-C05/650E7CB,firmware_fix=,text=Licensed internal code has detected a problem.,created_time=05/25/2011 01:23:02,reporting_name=P570-HMC,reporting_mtms=7310-C05/650E7CB,failing_mtms=7310-C05/650E7CB,analyzing_hmc=P570-HMC,event_time=05/25/2011 01:23:02
+problem_num=24,pmh_num=,refcode=11001524,status=Closed,first_time=05/20/2011 02:44:24,last_time=05/24/2011 02:17:33,sys_name=Server-9117-570-SN65D05DE_JGA05,sys_mtms=9117-570/65D05DE,enclosure_mtms=9117-570/65D05DE,firmware_fix=,text=Power/Cooling subsystem & control (0x61): Unrecoverable Error (0x44),created_time=05/20/2011 02:44:24,reporting_name=Server-9117-570-SN65D05DE_JGA05,reporting_mtms=9117-570/65D05DE,failing_mtms=9117-570/65D05DE,analyzing_hmc=P570-HMC,event_time=05/20/2011 10:43:25
+problem_num=23,pmh_num=,refcode=11007621,status=Closed,first_time=05/03/2011 13:15:18,last_time=05/03/2011 13:15:18,sys_name=Server-9117-570-SN65D05CE_JGA04,sys_mtms=9117-570/65D05CE,enclosure_mtms=9117-570/65D05CE,firmware_fix=,text=Power/Cooling subsystem & control (0x63): Unrecoverable Error (0x44),created_time=05/03/2011 13:15:18,reporting_name=Server-9117-570-SN65D05CE_JGA04,reporting_mtms=9117-570/65D05CE,failing_mtms=9117-570/65D05CE,analyzing_hmc=P570-HMC,event_time=05/03/2011 13:13:14
+problem_num=22,pmh_num=,refcode=11007620,status=Closed,first_time=05/02/2011 18:37:36,last_time=05/02/2011 18:37:36,sys_name=Server-9117-570-SN65D05CE_JGA04,sys_mtms=9117-570/65D05CE,enclosure_mtms=9117-570/65D05CE,firmware_fix=,text=Power/Cooling subsystem & control (0x63): Unrecoverable Error (0x44),created_time=05/02/2011 18:37:36,reporting_name=Server-9117-570-SN65D05CE_JGA04,reporting_mtms=9117-570/65D05CE,failing_mtms=9117-570/65D05CE,analyzing_hmc=P570-HMC,event_time=05/02/2011 18:35:28
+problem_num=21,pmh_num=,refcode=2645-128,status=Closed,first_time=02/04/2010 14:53:27,last_time=02/04/2010 14:53:27,sys_name=Server-9117-570-SN65D05CE_JGA04,sys_mtms=9117-570/65D05CE,enclosure_mtms=9117-570/65D05CE,firmware_fix=,text=Error log analysis indicates a hardware failure.,created_time=02/04/2010 14:53:27,reporting_name=Server-9117-570-SN65D05CE_JGA04,reporting_mtms=9117-570/65D05CE,failing_mtms=9117-570/65D05CE,analyzing_hmc=P570-HMC,event_time=02/04/2010 14:49:45
+problem_num=20,pmh_num=,refcode=#2601902,status=Open,first_time=05/27/2008 01:51:48,last_time=05/27/2008 01:51:48,sys_name=Server-9117-570-SN65D05DE_JGA05,sys_mtms=9117-570/65D05DE,enclosure_mtms=9117-570/65D05DE,firmware_fix=,"text=Error Log Analysis has detected multiple communication
+errors.  These errors can be caused by attached devices,
+a switch, a hub, or a SCSI-to-FC convertor.
+
+If connected to a switch, refer to the Storage Area
+Network (SAN) problem determination procedures for
+additional problem resolution.
+
+If not connected to a switch, run diagnostics on the
+attached devices.  If a hub or SCSI-to-FC convertor is
+attached, refer to the product documentation for problem
+resolution.",created_time=05/27/2008 01:51:48,reporting_name=Server-9117-570-SN65D05DE_JGA05,reporting_mtms=9117-570/65D05DE,failing_mtms=9117-570/65D05DE,analyzing_hmc=P570-HMC,event_time=05/27/2008 01:42:02
+problem_num=19,pmh_num=,refcode=#2601902,status=Open,first_time=05/27/2008 01:50:25,last_time=05/27/2008 01:52:26,sys_name=Server-9117-570-SN65D05CE_JGA04,sys_mtms=9117-570/65D05CE,enclosure_mtms=9117-570/65D05CE,firmware_fix=,"text=Error Log Analysis has detected multiple communication
+errors.  These errors can be caused by attached devices,
+a switch, a hub, or a SCSI-to-FC convertor.
+
+If connected to a switch, refer to the Storage Area
+Network (SAN) problem determination procedures for
+additional problem resolution.
+
+If not connected to a switch, run diagnostics on the
+attached devices.  If a hub or SCSI-to-FC convertor is
+attached, refer to the product documentation for problem
+resolution.",created_time=05/27/2008 01:50:25,reporting_name=Server-9117-570-SN65D05CE_JGA04,reporting_mtms=9117-570/65D05CE,failing_mtms=9117-570/65D05CE,analyzing_hmc=P570-HMC,event_time=05/27/2008 01:40:30
+problem_num=18,pmh_num=,refcode=#2601905,status=Open,first_time=12/24/2007 07:48:52,last_time=12/24/2007 07:48:52,sys_name=Server-9117-570-SN65D05DE_JGA05,sys_mtms=9117-570/65D05DE,enclosure_mtms=9117-570/65D05DE,firmware_fix=,"text=Error Log Analysis has detected multiple link errors.
+These errors can be caused by loose or defective cables
+or the Fibre Channel adapter.
+
+Check all cables and their connections.  Run advanced
+diagnostics including wrap tests, on the fibre channel
+adapter to ensure the adapter link module is functioning
+properly.",created_time=12/24/2007 07:48:52,reporting_name=Server-9117-570-SN65D05DE_JGA05,reporting_mtms=9117-570/65D05DE,failing_mtms=9117-570/65D05DE,analyzing_hmc=P570-HMC,event_time=12/24/2007 07:40:44
+problem_num=17,pmh_num=,refcode=B3030008,status=Open,first_time=04/06/2007 21:02:11,last_time=04/06/2007 21:02:11,sys_name=P570-HMC,sys_mtms=7310-C05/650E7CB,enclosure_mtms=7310-C05/651286B,firmware_fix=,text=HMC to peer HMC failure detected,created_time=04/06/2007 21:02:11,reporting_name=P570-HMC,reporting_mtms=7310-C05/650E7CB,failing_mtms=7310-C05/651286B,analyzing_hmc=P570-HMC,event_time=04/06/2007 21:02:11
+problem_num=16,pmh_num=,refcode=#25C3902,status=Open,first_time=04/06/2007 20:38:27,last_time=10/23/2011 02:11:18,sys_name=Server-9133-55A-SN06FF43G,sys_mtms=9133-55A/06FF43G,enclosure_mtms=9133-55A/06FF43G,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=04/06/2007 20:38:27,reporting_name=Server-9133-55A-SN06FF43G,reporting_mtms=9133-55A/06FF43G,failing_mtms=9133-55A/06FF43G,analyzing_hmc=P570-HMC,event_time=04/07/2007 20:37:43
+problem_num=15,pmh_num=,refcode=252D-720,status=Open,first_time=03/28/2007 18:45:39,last_time=03/28/2007 18:45:39,sys_name=Server-9117-570-SN65D05CE_JGA04,sys_mtms=9117-570/65D05CE,enclosure_mtms=9117-570/65D05CE,firmware_fix=,text=Adapter detected device bus failure.,created_time=03/28/2007 18:45:39,reporting_name=Server-9117-570-SN65D05CE_JGA04,reporting_mtms=9117-570/65D05CE,failing_mtms=9117-570/65D05CE,analyzing_hmc=P570-HMC,event_time=03/23/2007 19:58:24
+problem_num=14,pmh_num=,refcode=2522-720,status=Open,first_time=03/28/2007 18:45:39,last_time=03/28/2007 18:45:39,sys_name=Server-9117-570-SN65D05CE_JGA04,sys_mtms=9117-570/65D05CE,enclosure_mtms=9117-570/65D05CE,firmware_fix=,text=Adapter detected device bus failure.,created_time=03/28/2007 18:45:39,reporting_name=Server-9117-570-SN65D05CE_JGA04,reporting_mtms=9117-570/65D05CE,failing_mtms=9117-570/65D05CE,analyzing_hmc=P570-HMC,event_time=03/23/2007 19:12:14
+problem_num=13,pmh_num=,refcode=E3D43104,status=Open,first_time=03/28/2007 18:44:01,last_time=09/27/2013 17:06:19,sys_name=P570-HMC,sys_mtms=7310-C05/650E7CB,enclosure_mtms=7310-C05/650E7CB,firmware_fix=,text=Licensed internal code has detected a problem.,created_time=03/28/2007 18:44:01,reporting_name=P570-HMC,reporting_mtms=7310-C05/650E7CB,failing_mtms=7310-C05/650E7CB,analyzing_hmc=P570-HMC,event_time=03/28/2007 18:44:01
+problem_num=12,pmh_num=,refcode=#25C1902,status=Open,first_time=03/28/2007 18:39:34,last_time=03/30/2013 03:18:37,sys_name=Server-9133-55A-SN06FF43G,sys_mtms=9133-55A/06FF43G,enclosure_mtms=9133-55A/06FF43G,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=03/28/2007 18:39:34,reporting_name=Server-9133-55A-SN06FF43G,reporting_mtms=9133-55A/06FF43G,failing_mtms=9133-55A/06FF43G,analyzing_hmc=P570-HMC,event_time=03/23/2007 18:39:38
+problem_num=11,pmh_num=,refcode=#25C3902,status=Open,first_time=03/28/2007 18:38:10,last_time=03/30/2013 03:18:38,sys_name=Server-9117-570-SN65D05CE_JGA04,sys_mtms=9117-570/65D05CE,enclosure_mtms=9117-570/65D05CE,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=03/28/2007 18:38:10,reporting_name=Server-9117-570-SN65D05CE_JGA04,reporting_mtms=9117-570/65D05CE,failing_mtms=9117-570/65D05CE,analyzing_hmc=P570-HMC,event_time=03/28/2007 17:54:44
+problem_num=10,pmh_num=,refcode=#25C1902,status=Open,first_time=03/28/2007 18:38:09,last_time=03/30/2013 03:25:24,sys_name=Server-9117-570-SN65D05CE_JGA04,sys_mtms=9117-570/65D05CE,enclosure_mtms=9117-570/65D05CE,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=03/28/2007 18:38:09,reporting_name=Server-9117-570-SN65D05CE_JGA04,reporting_mtms=9117-570/65D05CE,failing_mtms=9117-570/65D05CE,analyzing_hmc=P570-HMC,event_time=03/25/2007 16:27:40
+problem_num=9,pmh_num=,refcode=2522-720,status=Open,first_time=03/28/2007 18:37:53,last_time=03/28/2007 18:37:53,sys_name=Server-9117-570-SN65D05DE_JGA05,sys_mtms=9117-570/65D05DE,enclosure_mtms=9117-570/65D05DE,firmware_fix=,text=Adapter detected device bus failure.,created_time=03/28/2007 18:37:53,reporting_name=Server-9117-570-SN65D05DE_JGA05,reporting_mtms=9117-570/65D05DE,failing_mtms=9117-570/65D05DE,analyzing_hmc=P570-HMC,event_time=03/26/2007 10:57:13
+problem_num=8,pmh_num=,refcode=#25C3902,status=Open,first_time=03/28/2007 18:37:53,last_time=03/30/2013 03:36:50,sys_name=Server-9117-570-SN65D05DE_JGA05,sys_mtms=9117-570/65D05DE,enclosure_mtms=9117-570/65D05DE,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=03/28/2007 18:37:53,reporting_name=Server-9117-570-SN65D05DE_JGA05,reporting_mtms=9117-570/65D05DE,failing_mtms=9117-570/65D05DE,analyzing_hmc=P570-HMC,event_time=03/25/2007 16:40:56
+problem_num=7,pmh_num=,refcode=#25C1902,status=Open,first_time=03/28/2007 18:37:52,last_time=03/30/2013 03:18:36,sys_name=Server-9117-570-SN65D05DE_JGA05,sys_mtms=9117-570/65D05DE,enclosure_mtms=9117-570/65D05DE,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=03/28/2007 18:37:52,reporting_name=Server-9117-570-SN65D05DE_JGA05,reporting_mtms=9117-570/65D05DE,failing_mtms=9117-570/65D05DE,analyzing_hmc=P570-HMC,event_time=03/25/2007 16:26:27
+problem_num=6,pmh_num=,refcode=2522-720,status=Open,first_time=03/28/2007 18:37:52,last_time=03/28/2007 18:39:20,sys_name=Server-9117-570-SN65D05DE_JGA05,sys_mtms=9117-570/65D05DE,enclosure_mtms=9117-570/65D05DE,firmware_fix=,text=Adapter detected device bus failure.,created_time=03/28/2007 18:37:52,reporting_name=Server-9117-570-SN65D05DE_JGA05,reporting_mtms=9117-570/65D05DE,failing_mtms=9117-570/65D05DE,analyzing_hmc=P570-HMC,event_time=03/25/2007 14:59:49
+problem_num=5,pmh_num=,refcode=B3100500,status=Open,first_time=03/28/2007 18:37:14,last_time=03/30/2013 03:12:35,sys_name=P570-HMC,sys_mtms=7310-C05/650E7CB,enclosure_mtms=7310-C05/650E7CB,firmware_fix=,"text=Device Driver Message: Mar 28 18:37:14 P570-HMC kernel: e1000: eth1: e1000_watchdog: NIC Link is Down
+",created_time=03/28/2007 18:37:14,reporting_name=P570-HMC,reporting_mtms=7310-C05/650E7CB,failing_mtms=7310-C05/650E7CB,analyzing_hmc=P570-HMC,event_time=03/28/2007 18:37:14
+problem_num=4,pmh_num=,refcode=0B0F0150,status=Open,first_time=03/28/2007 18:09:07,last_time=03/30/2013 03:17:57,sys_name=P570-HMC,sys_mtms=7310-C05/650E7CB,enclosure_mtms=7310-C05/650E7CB,firmware_fix=,"text=Device Driver Message: Mar 28 18:09:07 P570-HMC kernel: e1000: eth1: e1000_watchdog: NIC Link is Up 1000 Mbps Full Duplex
+",created_time=03/28/2007 18:09:07,reporting_name=P570-HMC,reporting_mtms=7310-C05/650E7CB,failing_mtms=7310-C05/650E7CB,analyzing_hmc=P570-HMC,event_time=03/28/2007 18:09:07
+problem_num=3,pmh_num=,refcode=BA188002,status=Open,first_time=03/26/2007 18:49:15,last_time=03/26/2007 18:49:15,sys_name=Server-9133-55A-SN06FF43G,sys_mtms=9133-55A/06FF43G,enclosure_mtms=9133-55A/06FF43G,firmware_fix=,text=Platform firmware (0x83): Predictive Error (0x20),created_time=03/26/2007 18:49:15,reporting_name=Server-9133-55A-SN06FF43G,reporting_mtms=9133-55A/06FF43G,failing_mtms=9133-55A/06FF43G,analyzing_hmc=P570-HMC,event_time=03/27/2007 18:48:37
+problem_num=2,pmh_num=,refcode=B3100500,status=Closed,first_time=03/22/2007 16:26:40,last_time=03/22/2007 16:26:40,sys_name=P570-HMC,sys_mtms=7310-C05/650E7CB,enclosure_mtms=7310-C05/650E7CB,firmware_fix=,"text=Device Driver Message: Mar 22 16:26:40 localhost kernel: e1000: eth1: e1000_watchdog: NIC Link is Down
+",created_time=03/22/2007 16:26:40,reporting_name=P570-HMC,reporting_mtms=7310-C05/650E7CB,failing_mtms=7310-C05/650E7CB,analyzing_hmc=P570-HMC,event_time=03/22/2007 16:26:40
+problem_num=1,pmh_num=,refcode=0B0F0150,status=Closed,first_time=03/22/2007 16:21:05,last_time=03/22/2007 16:21:05,sys_name=P570-HMC,sys_mtms=7310-C05/650E7CB,enclosure_mtms=7310-C05/650E7CB,firmware_fix=,"text=Device Driver Message: Mar 22 16:21:05 localhost kernel: e1000: eth1: e1000_watchdog: NIC Link is Up 10 Mbps Half Duplex
+",created_time=03/22/2007 16:21:05,reporting_name=P570-HMC,reporting_mtms=7310-C05/650E7CB,failing_mtms=7310-C05/650E7CB,analyzing_hmc=P570-HMC,event_time=03/22/2007 16:21:05

@@ -1,0 +1,393 @@
+problem_num=12,pmh_num=,refcode=E3D4310A,status=Open,first_time=06/22/2012 04:45:27,last_time=09/24/2013 07:36:44,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/22/2012 04:45:27,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/22/2012 04:45:27
+problem_num=17,pmh_num=,refcode=E212E303,status=Open,first_time=07/18/2012 11:18:18,last_time=09/19/2013 07:51:34,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=07/18/2012 11:18:18,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=07/18/2012 11:18:18
+problem_num=151,pmh_num=,refcode=B3030007,status=Open,first_time=09/19/2013 07:50:28,last_time=09/19/2013 07:50:28,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=8233-E8B/06F72AP,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=09/19/2013 07:50:28,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=8233-E8B/06F72AP,analyzing_hmc=localhost,event_time=09/19/2013 07:50:28
+problem_num=150,pmh_num=,refcode=E332FFFF,status=Open,first_time=08/29/2013 12:24:03,last_time=08/29/2013 12:24:03,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=08/29/2013 12:24:03,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=08/29/2013 12:24:03
+problem_num=26,pmh_num=,refcode=E355004D,status=Open,first_time=08/27/2012 16:40:18,last_time=08/29/2013 12:23:38,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=08/27/2012 16:40:18,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=08/27/2012 16:40:18
+problem_num=149,pmh_num=,refcode=E332FFFF,status=Open,first_time=07/17/2013 05:27:34,last_time=07/17/2013 05:27:34,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=07/17/2013 05:27:34,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=07/17/2013 05:27:34
+problem_num=148,pmh_num=,refcode=E332FFFF,status=Open,first_time=07/15/2013 22:12:33,last_time=07/15/2013 22:12:33,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=07/15/2013 22:12:33,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=07/15/2013 22:12:33
+problem_num=147,pmh_num=,refcode=E332FFFF,status=Open,first_time=07/13/2013 17:22:35,last_time=07/13/2013 17:22:35,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=07/13/2013 17:22:35,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=07/13/2013 17:22:35
+problem_num=146,pmh_num=,refcode=E332FFFF,status=Open,first_time=07/12/2013 13:57:44,last_time=07/12/2013 13:57:44,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=07/12/2013 13:57:44,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=07/12/2013 13:57:44
+problem_num=145,pmh_num=,refcode=E332FFFF,status=Open,first_time=07/10/2013 05:27:41,last_time=07/10/2013 05:27:41,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=07/10/2013 05:27:41,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=07/10/2013 05:27:41
+problem_num=144,pmh_num=,refcode=E332FFFF,status=Open,first_time=07/09/2013 22:07:38,last_time=07/09/2013 22:07:38,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=07/09/2013 22:07:38,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=07/09/2013 22:07:38
+problem_num=143,pmh_num=,refcode=E332FFFF,status=Open,first_time=07/08/2013 11:27:32,last_time=07/08/2013 11:27:32,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=07/08/2013 11:27:32,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=07/08/2013 11:27:32
+problem_num=142,pmh_num=,refcode=E332FFFF,status=Open,first_time=07/07/2013 12:22:34,last_time=07/07/2013 12:22:34,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=07/07/2013 12:22:34,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=07/07/2013 12:22:34
+problem_num=141,pmh_num=,refcode=E332FFFF,status=Open,first_time=07/06/2013 12:57:42,last_time=07/06/2013 12:57:42,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=07/06/2013 12:57:42,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=07/06/2013 12:57:42
+problem_num=140,pmh_num=,refcode=E332FFFF,status=Open,first_time=07/06/2013 05:42:32,last_time=07/06/2013 05:42:32,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=07/06/2013 05:42:32,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=07/06/2013 05:42:32
+problem_num=139,pmh_num=,refcode=E332FFFF,status=Open,first_time=07/05/2013 06:07:34,last_time=07/05/2013 06:07:34,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=07/05/2013 06:07:34,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=07/05/2013 06:07:34
+problem_num=138,pmh_num=,refcode=E332FFFF,status=Open,first_time=07/04/2013 23:57:36,last_time=07/04/2013 23:57:36,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=07/04/2013 23:57:36,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=07/04/2013 23:57:36
+problem_num=137,pmh_num=,refcode=E332FFFF,status=Open,first_time=07/04/2013 05:16:56,last_time=07/04/2013 05:16:56,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=07/04/2013 05:16:56,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=07/04/2013 05:16:56
+problem_num=136,pmh_num=,refcode=E332FFFF,status=Open,first_time=07/03/2013 23:48:02,last_time=07/03/2013 23:48:02,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=07/03/2013 23:48:02,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=07/03/2013 23:48:02
+problem_num=135,pmh_num=,refcode=E332FFFF,status=Open,first_time=07/02/2013 02:45:23,last_time=07/02/2013 02:45:23,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=07/02/2013 02:45:23,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=07/02/2013 02:45:23
+problem_num=134,pmh_num=,refcode=E332FFFF,status=Open,first_time=07/01/2013 20:25:22,last_time=07/01/2013 20:25:22,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=07/01/2013 20:25:22,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=07/01/2013 20:25:22
+problem_num=133,pmh_num=,refcode=E332FFFF,status=Open,first_time=07/01/2013 01:10:26,last_time=07/01/2013 01:10:26,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=07/01/2013 01:10:26,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=07/01/2013 01:10:26
+problem_num=132,pmh_num=,refcode=E332FFFF,status=Open,first_time=06/30/2013 17:45:54,last_time=06/30/2013 17:45:54,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/30/2013 17:45:54,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/30/2013 17:45:54
+problem_num=131,pmh_num=,refcode=E332FFFF,status=Open,first_time=06/30/2013 11:30:27,last_time=06/30/2013 11:30:27,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/30/2013 11:30:27,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/30/2013 11:30:27
+problem_num=130,pmh_num=,refcode=E332FFFF,status=Open,first_time=06/28/2013 21:05:26,last_time=06/28/2013 21:05:26,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/28/2013 21:05:26,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/28/2013 21:05:26
+problem_num=129,pmh_num=,refcode=E332FFFF,status=Open,first_time=06/26/2013 01:05:24,last_time=06/26/2013 01:05:24,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/26/2013 01:05:24,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/26/2013 01:05:24
+problem_num=128,pmh_num=,refcode=E332FFFF,status=Open,first_time=06/20/2013 22:40:27,last_time=06/20/2013 22:40:27,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/20/2013 22:40:27,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/20/2013 22:40:27
+problem_num=127,pmh_num=,refcode=E332FFFF,status=Open,first_time=06/20/2013 08:15:27,last_time=06/20/2013 08:15:27,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/20/2013 08:15:27,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/20/2013 08:15:27
+problem_num=126,pmh_num=,refcode=E332FFFF,status=Open,first_time=06/20/2013 00:10:27,last_time=06/20/2013 00:10:27,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/20/2013 00:10:27,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/20/2013 00:10:27
+problem_num=125,pmh_num=,refcode=E332FFFF,status=Open,first_time=06/16/2013 06:50:26,last_time=06/16/2013 06:50:26,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/16/2013 06:50:26,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/16/2013 06:50:26
+problem_num=124,pmh_num=,refcode=E332FFFF,status=Open,first_time=06/16/2013 00:15:26,last_time=06/16/2013 00:15:26,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/16/2013 00:15:26,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/16/2013 00:15:26
+problem_num=123,pmh_num=,refcode=E332FFFF,status=Open,first_time=06/15/2013 11:35:41,last_time=06/15/2013 11:35:41,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/15/2013 11:35:41,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/15/2013 11:35:41
+problem_num=122,pmh_num=,refcode=E332FFFF,status=Open,first_time=06/14/2013 21:20:39,last_time=06/14/2013 21:20:39,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/14/2013 21:20:39,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/14/2013 21:20:39
+problem_num=121,pmh_num=,refcode=E332FFFF,status=Open,first_time=06/14/2013 14:00:26,last_time=06/14/2013 14:00:26,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/14/2013 14:00:26,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/14/2013 14:00:26
+problem_num=120,pmh_num=,refcode=E332FFFF,status=Open,first_time=06/14/2013 06:50:26,last_time=06/14/2013 06:50:26,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/14/2013 06:50:26,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/14/2013 06:50:26
+problem_num=119,pmh_num=,refcode=E332FFFF,status=Open,first_time=06/13/2013 02:25:25,last_time=06/13/2013 02:25:25,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/13/2013 02:25:25,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/13/2013 02:25:25
+problem_num=118,pmh_num=,refcode=E332FFFF,status=Open,first_time=06/11/2013 16:35:20,last_time=06/11/2013 16:35:20,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/11/2013 16:35:20,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/11/2013 16:35:20
+problem_num=117,pmh_num=,refcode=E332FFFF,status=Open,first_time=06/11/2013 10:25:24,last_time=06/11/2013 10:25:24,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/11/2013 10:25:24,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/11/2013 10:25:24
+problem_num=116,pmh_num=,refcode=E332FFFF,status=Open,first_time=06/10/2013 22:30:25,last_time=06/10/2013 22:30:25,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/10/2013 22:30:25,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/10/2013 22:30:25
+problem_num=115,pmh_num=,refcode=E332FFFF,status=Open,first_time=06/10/2013 15:00:24,last_time=06/10/2013 15:00:24,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/10/2013 15:00:24,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/10/2013 15:00:24
+problem_num=114,pmh_num=,refcode=E332FFFF,status=Open,first_time=06/10/2013 06:45:20,last_time=06/10/2013 06:45:20,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/10/2013 06:45:20,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/10/2013 06:45:20
+problem_num=113,pmh_num=,refcode=E332FFFF,status=Open,first_time=06/09/2013 23:15:36,last_time=06/09/2013 23:15:36,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/09/2013 23:15:36,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/09/2013 23:15:36
+problem_num=112,pmh_num=,refcode=E332FFFF,status=Open,first_time=06/09/2013 16:10:36,last_time=06/09/2013 16:10:36,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/09/2013 16:10:36,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/09/2013 16:10:36
+problem_num=111,pmh_num=,refcode=E332FFFF,status=Open,first_time=06/09/2013 08:20:26,last_time=06/09/2013 08:20:26,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/09/2013 08:20:26,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/09/2013 08:20:26
+problem_num=110,pmh_num=,refcode=E332FFFF,status=Open,first_time=05/20/2013 20:10:23,last_time=05/20/2013 20:10:23,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=05/20/2013 20:10:23,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=05/20/2013 20:10:23
+problem_num=109,pmh_num=,refcode=E332FFFF,status=Open,first_time=05/19/2013 01:51:39,last_time=05/19/2013 01:51:39,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=05/19/2013 01:51:39,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=05/19/2013 01:51:39
+problem_num=108,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/24/2013 22:50:21,last_time=04/24/2013 22:50:21,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/24/2013 22:50:21,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/24/2013 22:50:21
+problem_num=107,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/24/2013 09:40:21,last_time=04/24/2013 09:40:21,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/24/2013 09:40:21,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/24/2013 09:40:21
+problem_num=106,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/24/2013 02:40:21,last_time=04/24/2013 02:40:21,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/24/2013 02:40:21,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/24/2013 02:40:21
+problem_num=105,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/23/2013 19:40:21,last_time=04/23/2013 19:40:21,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/23/2013 19:40:21,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/23/2013 19:40:21
+problem_num=104,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/23/2013 13:05:20,last_time=04/23/2013 13:05:20,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/23/2013 13:05:20,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/23/2013 13:05:20
+problem_num=103,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/22/2013 16:45:20,last_time=04/22/2013 16:45:20,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/22/2013 16:45:20,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/22/2013 16:45:20
+problem_num=102,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/21/2013 07:15:17,last_time=04/21/2013 07:15:17,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/21/2013 07:15:17,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/21/2013 07:15:17
+problem_num=101,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/20/2013 03:30:18,last_time=04/20/2013 03:30:18,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/20/2013 03:30:18,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/20/2013 03:30:18
+problem_num=100,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/19/2013 20:50:20,last_time=04/19/2013 20:50:20,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/19/2013 20:50:20,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/19/2013 20:50:20
+problem_num=99,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/19/2013 12:45:21,last_time=04/19/2013 12:45:21,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/19/2013 12:45:21,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/19/2013 12:45:21
+problem_num=98,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/19/2013 05:30:16,last_time=04/19/2013 05:30:16,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/19/2013 05:30:16,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/19/2013 05:30:16
+problem_num=97,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/18/2013 03:00:18,last_time=04/18/2013 03:00:18,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/18/2013 03:00:18,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/18/2013 03:00:18
+problem_num=96,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/17/2013 13:50:20,last_time=04/17/2013 13:50:20,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/17/2013 13:50:20,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/17/2013 13:50:20
+problem_num=95,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/17/2013 06:05:20,last_time=04/17/2013 06:05:20,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/17/2013 06:05:20,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/17/2013 06:05:20
+problem_num=94,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/16/2013 21:45:20,last_time=04/16/2013 21:45:20,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/16/2013 21:45:20,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/16/2013 21:45:20
+problem_num=93,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/15/2013 13:10:20,last_time=04/15/2013 13:10:20,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/15/2013 13:10:20,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/15/2013 13:10:20
+problem_num=92,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/15/2013 00:10:20,last_time=04/15/2013 00:10:20,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/15/2013 00:10:20,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/15/2013 00:10:20
+problem_num=91,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/14/2013 10:05:18,last_time=04/14/2013 10:05:18,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/14/2013 10:05:18,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/14/2013 10:05:18
+problem_num=90,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/12/2013 11:00:20,last_time=04/12/2013 11:00:20,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/12/2013 11:00:20,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/12/2013 11:00:20
+problem_num=89,pmh_num=,refcode=#2603902,status=Open,first_time=04/12/2013 04:47:37,last_time=04/12/2013 04:47:37,sys_name=XA171-ylqzjk1-E4B-SN06E0FEP,sys_mtms=8202-E4B/06E0FEP,enclosure_mtms=8202-E4B/06E0FEP,firmware_fix=,"text=Error Log Analysis has detected multiple communication
+errors.  These errors can be caused by attached devices,
+a switch, a hub, or a SCSI-to-FC convertor.
+
+If connected to a switch, refer to the Storage Area
+Network (SAN) problem determination procedures for
+additional problem resolution.
+
+If not connected to a switch, run diagnostics on the
+attached devices.  If a hub or SCSI-to-FC convertor is
+attached, refer to the product documentation for problem
+resolution.",created_time=04/12/2013 04:47:37,reporting_name=XA171-ylqzjk1-E4B-SN06E0FEP,reporting_mtms=8202-E4B/06E0FEP,failing_mtms=8202-E4B/06E0FEP,analyzing_hmc=localhost,event_time=04/12/2013 04:29:08
+problem_num=88,pmh_num=,refcode=#2603902,status=Open,first_time=04/12/2013 04:47:02,last_time=04/12/2013 04:47:02,sys_name=XA156-topsdb2-E6B-SN06F101P,sys_mtms=8205-E6B/06F101P,enclosure_mtms=8205-E6B/06F101P,firmware_fix=,"text=Error Log Analysis has detected multiple communication
+errors.  These errors can be caused by attached devices,
+a switch, a hub, or a SCSI-to-FC convertor.
+
+If connected to a switch, refer to the Storage Area
+Network (SAN) problem determination procedures for
+additional problem resolution.
+
+If not connected to a switch, run diagnostics on the
+attached devices.  If a hub or SCSI-to-FC convertor is
+attached, refer to the product documentation for problem
+resolution.",created_time=04/12/2013 04:47:02,reporting_name=XA156-topsdb2-E6B-SN06F101P,reporting_mtms=8205-E6B/06F101P,failing_mtms=8205-E6B/06F101P,analyzing_hmc=localhost,event_time=04/12/2013 04:28:33
+problem_num=87,pmh_num=,refcode=#2603902,status=Open,first_time=04/12/2013 04:44:38,last_time=04/12/2013 04:44:38,sys_name=XA170-ylqzjk2-E4B-SN06E11FP,sys_mtms=8202-E4B/06E11FP,enclosure_mtms=8202-E4B/06E11FP,firmware_fix=,"text=Error Log Analysis has detected multiple communication
+errors.  These errors can be caused by attached devices,
+a switch, a hub, or a SCSI-to-FC convertor.
+
+If connected to a switch, refer to the Storage Area
+Network (SAN) problem determination procedures for
+additional problem resolution.
+
+If not connected to a switch, run diagnostics on the
+attached devices.  If a hub or SCSI-to-FC convertor is
+attached, refer to the product documentation for problem
+resolution.",created_time=04/12/2013 04:44:38,reporting_name=XA170-ylqzjk2-E4B-SN06E11FP,reporting_mtms=8202-E4B/06E11FP,failing_mtms=8202-E4B/06E11FP,analyzing_hmc=localhost,event_time=04/12/2013 04:26:09
+problem_num=86,pmh_num=,refcode=#2603902,status=Open,first_time=04/12/2013 04:43:39,last_time=04/12/2013 04:43:39,sys_name=XA172-E4B-SN061698R,sys_mtms=8202-E4B/061698R,enclosure_mtms=8202-E4B/061698R,firmware_fix=,"text=Error Log Analysis has detected multiple communication
+errors.  These errors can be caused by attached devices,
+a switch, a hub, or a SCSI-to-FC convertor.
+
+If connected to a switch, refer to the Storage Area
+Network (SAN) problem determination procedures for
+additional problem resolution.
+
+If not connected to a switch, run diagnostics on the
+attached devices.  If a hub or SCSI-to-FC convertor is
+attached, refer to the product documentation for problem
+resolution.",created_time=04/12/2013 04:43:39,reporting_name=XA172-E4B-SN061698R,reporting_mtms=8202-E4B/061698R,failing_mtms=8202-E4B/061698R,analyzing_hmc=localhost,event_time=04/12/2013 04:24:24
+problem_num=85,pmh_num=,refcode=#2603902,status=Open,first_time=04/12/2013 04:39:39,last_time=04/12/2013 04:39:39,sys_name=XA157-ylqzdb1-E8B-SN06F703P,sys_mtms=8233-E8B/06F703P,enclosure_mtms=8233-E8B/06F703P,firmware_fix=,"text=Error Log Analysis has detected multiple communication
+errors.  These errors can be caused by attached devices,
+a switch, a hub, or a SCSI-to-FC convertor.
+
+If connected to a switch, refer to the Storage Area
+Network (SAN) problem determination procedures for
+additional problem resolution.
+
+If not connected to a switch, run diagnostics on the
+attached devices.  If a hub or SCSI-to-FC convertor is
+attached, refer to the product documentation for problem
+resolution.",created_time=04/12/2013 04:39:39,reporting_name=XA157-ylqzdb1-E8B-SN06F703P,reporting_mtms=8233-E8B/06F703P,failing_mtms=8233-E8B/06F703P,analyzing_hmc=localhost,event_time=04/12/2013 04:21:09
+problem_num=84,pmh_num=,refcode=#2606902,status=Open,first_time=04/12/2013 04:38:57,last_time=04/12/2013 04:38:57,sys_name=XA158-ylqzdb2-E8B-SN06F722P,sys_mtms=8233-E8B/06F722P,enclosure_mtms=8233-E8B/06F722P,firmware_fix=,"text=Error Log Analysis has detected multiple communication
+errors.  These errors can be caused by attached devices,
+a switch, a hub, or a SCSI-to-FC convertor.
+
+If connected to a switch, refer to the Storage Area
+Network (SAN) problem determination procedures for
+additional problem resolution.
+
+If not connected to a switch, run diagnostics on the
+attached devices.  If a hub or SCSI-to-FC convertor is
+attached, refer to the product documentation for problem
+resolution.",created_time=04/12/2013 04:38:57,reporting_name=XA158-ylqzdb2-E8B-SN06F722P,reporting_mtms=8233-E8B/06F722P,failing_mtms=8233-E8B/06F722P,analyzing_hmc=localhost,event_time=04/12/2013 04:20:26
+problem_num=83,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/12/2013 03:10:43,last_time=04/12/2013 03:10:43,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/12/2013 03:10:43,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/12/2013 03:10:43
+problem_num=82,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/11/2013 20:30:20,last_time=04/11/2013 20:30:20,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/11/2013 20:30:20,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/11/2013 20:30:20
+problem_num=81,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/11/2013 14:00:20,last_time=04/11/2013 14:00:20,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/11/2013 14:00:20,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/11/2013 14:00:20
+problem_num=80,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/11/2013 01:25:20,last_time=04/11/2013 01:25:20,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/11/2013 01:25:20,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/11/2013 01:25:20
+problem_num=79,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/10/2013 12:35:20,last_time=04/10/2013 12:35:20,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/10/2013 12:35:20,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/10/2013 12:35:20
+problem_num=78,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/09/2013 04:15:20,last_time=04/09/2013 04:15:20,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/09/2013 04:15:20,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/09/2013 04:15:20
+problem_num=77,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/08/2013 21:30:16,last_time=04/08/2013 21:30:16,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/08/2013 21:30:16,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/08/2013 21:30:16
+problem_num=76,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/07/2013 13:15:19,last_time=04/07/2013 13:15:19,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/07/2013 13:15:19,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/07/2013 13:15:19
+problem_num=75,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/07/2013 06:45:19,last_time=04/07/2013 06:45:19,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/07/2013 06:45:19,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/07/2013 06:45:19
+problem_num=74,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/06/2013 11:40:19,last_time=04/06/2013 11:40:19,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/06/2013 11:40:19,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/06/2013 11:40:19
+problem_num=73,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/03/2013 08:45:19,last_time=04/03/2013 08:45:19,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/03/2013 08:45:19,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/03/2013 08:45:19
+problem_num=72,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/03/2013 02:45:19,last_time=04/03/2013 02:45:19,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/03/2013 02:45:19,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/03/2013 02:45:19
+problem_num=71,pmh_num=,refcode=E332FFFF,status=Open,first_time=04/01/2013 10:50:16,last_time=04/01/2013 10:50:16,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=04/01/2013 10:50:16,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=04/01/2013 10:50:16
+problem_num=13,pmh_num=,refcode=E212E116,status=Open,first_time=06/30/2012 00:16:22,last_time=03/31/2013 07:12:16,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/30/2012 00:16:22,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/30/2012 00:16:22
+problem_num=70,pmh_num=,refcode=E332FFFF,status=Open,first_time=03/31/2013 06:10:19,last_time=03/31/2013 06:10:19,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=03/31/2013 06:10:19,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=03/31/2013 06:10:19
+problem_num=69,pmh_num=,refcode=E332FFFF,status=Open,first_time=03/31/2013 01:30:19,last_time=03/31/2013 01:30:19,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=03/31/2013 01:30:19,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=03/31/2013 01:30:19
+problem_num=68,pmh_num=,refcode=E332FFFF,status=Open,first_time=03/30/2013 21:55:19,last_time=03/30/2013 21:55:19,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=03/30/2013 21:55:19,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=03/30/2013 21:55:19
+problem_num=67,pmh_num=,refcode=E332FFFF,status=Open,first_time=03/30/2013 19:50:19,last_time=03/30/2013 19:50:19,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=03/30/2013 19:50:19,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=03/30/2013 19:50:19
+problem_num=66,pmh_num=,refcode=E332FFFF,status=Open,first_time=03/30/2013 17:30:19,last_time=03/30/2013 17:30:19,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=03/30/2013 17:30:19,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=03/30/2013 17:30:19
+problem_num=65,pmh_num=,refcode=E332FFFF,status=Open,first_time=03/30/2013 15:15:22,last_time=03/30/2013 15:15:22,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=03/30/2013 15:15:22,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=03/30/2013 15:15:22
+problem_num=64,pmh_num=,refcode=E332FFFF,status=Open,first_time=03/25/2013 16:55:19,last_time=03/25/2013 16:55:19,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=03/25/2013 16:55:19,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=03/25/2013 16:55:19
+problem_num=63,pmh_num=,refcode=E332FFFF,status=Open,first_time=03/25/2013 05:10:16,last_time=03/25/2013 05:10:16,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=03/25/2013 05:10:16,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=03/25/2013 05:10:16
+problem_num=62,pmh_num=,refcode=E332FFFF,status=Open,first_time=03/24/2013 22:25:16,last_time=03/24/2013 22:25:16,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=03/24/2013 22:25:16,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=03/24/2013 22:25:16
+problem_num=61,pmh_num=,refcode=E332FFFF,status=Open,first_time=03/24/2013 15:30:19,last_time=03/24/2013 15:30:19,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=03/24/2013 15:30:19,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=03/24/2013 15:30:19
+problem_num=60,pmh_num=,refcode=E332FFFF,status=Open,first_time=03/16/2013 05:20:17,last_time=03/16/2013 05:20:17,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=03/16/2013 05:20:17,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=03/16/2013 05:20:17
+problem_num=59,pmh_num=,refcode=E332FFFF,status=Open,first_time=03/15/2013 22:05:15,last_time=03/15/2013 22:05:15,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=03/15/2013 22:05:15,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=03/15/2013 22:05:15
+problem_num=58,pmh_num=,refcode=E332FFFF,status=Open,first_time=03/14/2013 21:50:17,last_time=03/14/2013 21:50:17,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=03/14/2013 21:50:17,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=03/14/2013 21:50:17
+problem_num=57,pmh_num=,refcode=E332FFFF,status=Open,first_time=03/04/2013 11:40:16,last_time=03/04/2013 11:40:16,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=03/04/2013 11:40:16,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=03/04/2013 11:40:16
+problem_num=56,pmh_num=,refcode=E332FFFF,status=Open,first_time=02/27/2013 16:50:15,last_time=02/27/2013 16:50:15,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=02/27/2013 16:50:15,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=02/27/2013 16:50:15
+problem_num=55,pmh_num=,refcode=E332FFFF,status=Open,first_time=02/26/2013 17:15:16,last_time=02/26/2013 17:15:16,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=02/26/2013 17:15:16,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=02/26/2013 17:15:16
+problem_num=54,pmh_num=,refcode=E332FFFF,status=Open,first_time=01/16/2013 09:55:14,last_time=01/16/2013 09:55:14,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=01/16/2013 09:55:14,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=01/16/2013 09:55:14
+problem_num=53,pmh_num=,refcode=E332FFFF,status=Open,first_time=01/16/2013 05:40:15,last_time=01/16/2013 05:40:15,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=01/16/2013 05:40:15,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=01/16/2013 05:40:15
+problem_num=52,pmh_num=,refcode=E332FFFF,status=Open,first_time=01/15/2013 13:50:15,last_time=01/15/2013 13:50:15,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=01/15/2013 13:50:15,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=01/15/2013 13:50:15
+problem_num=51,pmh_num=,refcode=E332FFFF,status=Open,first_time=01/14/2013 06:55:15,last_time=01/14/2013 06:55:15,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=01/14/2013 06:55:15,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=01/14/2013 06:55:15
+problem_num=50,pmh_num=,refcode=E332FFFF,status=Open,first_time=01/13/2013 06:55:15,last_time=01/13/2013 06:55:15,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=01/13/2013 06:55:15,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=01/13/2013 06:55:15
+problem_num=49,pmh_num=,refcode=E332FFFF,status=Open,first_time=01/12/2013 07:20:15,last_time=01/12/2013 07:20:15,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=01/12/2013 07:20:15,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=01/12/2013 07:20:15
+problem_num=48,pmh_num=,refcode=E332FFFF,status=Open,first_time=01/11/2013 06:45:14,last_time=01/11/2013 06:45:14,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=01/11/2013 06:45:14,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=01/11/2013 06:45:14
+problem_num=47,pmh_num=,refcode=E332FFFF,status=Open,first_time=01/10/2013 15:15:16,last_time=01/10/2013 15:15:16,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=01/10/2013 15:15:16,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=01/10/2013 15:15:16
+problem_num=46,pmh_num=,refcode=E332FFFF,status=Open,first_time=01/10/2013 08:10:15,last_time=01/10/2013 08:10:15,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=01/10/2013 08:10:15,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=01/10/2013 08:10:15
+problem_num=45,pmh_num=,refcode=E332FFFF,status=Open,first_time=01/10/2013 05:35:15,last_time=01/10/2013 05:35:15,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=01/10/2013 05:35:15,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=01/10/2013 05:35:15
+problem_num=44,pmh_num=,refcode=E332FFFF,status=Open,first_time=01/09/2013 11:50:15,last_time=01/09/2013 11:50:15,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=01/09/2013 11:50:15,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=01/09/2013 11:50:15
+problem_num=43,pmh_num=,refcode=E332FFFF,status=Open,first_time=01/09/2013 05:35:15,last_time=01/09/2013 05:35:15,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=01/09/2013 05:35:15,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=01/09/2013 05:35:15
+problem_num=42,pmh_num=,refcode=E332FFFF,status=Open,first_time=01/07/2013 07:05:14,last_time=01/07/2013 07:05:14,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=01/07/2013 07:05:14,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=01/07/2013 07:05:14
+problem_num=41,pmh_num=,refcode=E332FFFF,status=Open,first_time=01/06/2013 08:35:14,last_time=01/06/2013 08:35:14,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=01/06/2013 08:35:14,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=01/06/2013 08:35:14
+problem_num=40,pmh_num=,refcode=E332FFFF,status=Open,first_time=01/05/2013 13:25:15,last_time=01/05/2013 13:25:15,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=01/05/2013 13:25:15,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=01/05/2013 13:25:15
+problem_num=39,pmh_num=,refcode=E332FFFF,status=Open,first_time=01/03/2013 10:40:14,last_time=01/03/2013 10:40:14,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=01/03/2013 10:40:14,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=01/03/2013 10:40:14
+problem_num=38,pmh_num=,refcode=E332FFFF,status=Open,first_time=01/03/2013 06:45:15,last_time=01/03/2013 06:45:15,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=01/03/2013 06:45:15,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=01/03/2013 06:45:15
+problem_num=37,pmh_num=,refcode=E332FFFF,status=Open,first_time=01/03/2013 04:30:15,last_time=01/03/2013 04:30:15,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=01/03/2013 04:30:15,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=01/03/2013 04:30:15
+problem_num=36,pmh_num=,refcode=E332FFFF,status=Open,first_time=01/02/2013 12:05:15,last_time=01/02/2013 12:05:15,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=01/02/2013 12:05:15,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=01/02/2013 12:05:15
+problem_num=35,pmh_num=,refcode=E332FFFF,status=Open,first_time=01/01/2013 07:25:15,last_time=01/01/2013 07:25:15,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=01/01/2013 07:25:15,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=01/01/2013 07:25:15
+problem_num=34,pmh_num=,refcode=E332FFFF,status=Open,first_time=12/29/2012 07:25:15,last_time=12/29/2012 07:25:15,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=12/29/2012 07:25:15,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=12/29/2012 07:25:15
+problem_num=33,pmh_num=,refcode=E332FFFF,status=Open,first_time=12/27/2012 10:35:15,last_time=12/27/2012 10:35:15,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=12/27/2012 10:35:15,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=12/27/2012 10:35:15
+problem_num=32,pmh_num=,refcode=E332FFFF,status=Open,first_time=12/27/2012 07:00:14,last_time=12/27/2012 07:00:14,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=12/27/2012 07:00:14,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=12/27/2012 07:00:14
+problem_num=31,pmh_num=,refcode=2615-321,status=Open,first_time=10/30/2012 15:54:35,last_time=10/30/2012 15:54:35,sys_name=XA166-8233-E8B-SN06F71CP,sys_mtms=8233-E8B/06F71CP,enclosure_mtms=8233-E8B/06F71CP,firmware_fix=,text=Error Log Analysis indicates a permanent hardware failure.,created_time=10/30/2012 15:54:35,reporting_name=XA166-8233-E8B-SN06F71CP,reporting_mtms=8233-E8B/06F71CP,failing_mtms=8233-E8B/06F71CP,analyzing_hmc=localhost,event_time=10/30/2012 15:45:23
+problem_num=30,pmh_num=,refcode=#2615014,status=Open,first_time=10/30/2012 15:52:38,last_time=10/30/2012 15:52:38,sys_name=XA170-ylqzjk2-E4B-SN06E11FP,sys_mtms=8202-E4B/06E11FP,enclosure_mtms=8202-E4B/06E11FP,firmware_fix=,"text=No trouble was found, however, Error Log Analysis
+indicates this tape drive has one or more temporary media
+error entries in the System Error Log.
+
+The following service procedures are recommended.
+
+CLEAN..........the tape drive read/write head and tape path.
+	       For instructions on cleaning, refer to the
+	       documentation for this tape drive.
+
+TRANSFER.......data on old media to new media.
+	       NOTE: Old or worn out media may continue to cause
+	             media errors.
+
+RUN............Advanced Diagnostics, in System Verification mode,
+	       to ensure this tape drive is functioning properly.",created_time=10/30/2012 15:52:38,reporting_name=XA170-ylqzjk2-E4B-SN06E11FP,reporting_mtms=8202-E4B/06E11FP,failing_mtms=8202-E4B/06E11FP,analyzing_hmc=localhost,event_time=10/30/2012 15:44:05
+problem_num=28,pmh_num=,refcode=E212E11C,status=Open,first_time=10/23/2012 10:35:04,last_time=10/23/2012 10:35:04,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=10/23/2012 10:35:04,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=10/23/2012 10:35:04
+problem_num=29,pmh_num=,refcode=B3030007,status=Open,first_time=10/23/2012 10:33:16,last_time=10/23/2012 10:33:16,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=8233-E8B/06F71CP,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=10/23/2012 10:33:16,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=8233-E8B/06F71CP,analyzing_hmc=localhost,event_time=10/23/2012 10:33:16
+problem_num=27,pmh_num=,refcode=E23D040A,status=Open,first_time=08/27/2012 16:40:27,last_time=08/27/2012 16:40:27,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=08/27/2012 16:40:27,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=08/27/2012 16:40:27
+problem_num=25,pmh_num=,refcode=E212E30B,status=Open,first_time=07/25/2012 00:33:46,last_time=07/25/2012 00:33:46,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=07/25/2012 00:33:46,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=07/25/2012 00:33:46
+problem_num=24,pmh_num=,refcode=#2538902,status=Open,first_time=07/24/2012 14:20:04,last_time=07/24/2012 14:20:04,sys_name=XA161-E4B-SN06E0EFP,sys_mtms=8202-E4B/06E0EFP,enclosure_mtms=8202-E4B/06E0EFP,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=07/24/2012 14:20:04,reporting_name=XA161-E4B-SN06E0EFP,reporting_mtms=8202-E4B/06E0EFP,failing_mtms=8202-E4B/06E0EFP,analyzing_hmc=localhost,event_time=07/24/2012 14:17:04
+problem_num=23,pmh_num=,refcode=#2538902,status=Open,first_time=07/24/2012 14:00:46,last_time=07/24/2012 14:00:46,sys_name=XA162-8202-E4B-SN06E10DP,sys_mtms=8202-E4B/06E10DP,enclosure_mtms=8202-E4B/06E10DP,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=07/24/2012 14:00:46,reporting_name=XA162-8202-E4B-SN06E10DP,reporting_mtms=8202-E4B/06E10DP,failing_mtms=8202-E4B/06E10DP,analyzing_hmc=localhost,event_time=07/24/2012 13:57:14
+problem_num=22,pmh_num=,refcode=#2538902,status=Open,first_time=07/24/2012 13:46:46,last_time=07/24/2012 13:46:46,sys_name=XA166-8233-E8B-SN06F71CP,sys_mtms=8233-E8B/06F71CP,enclosure_mtms=8233-E8B/06F71CP,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=07/24/2012 13:46:46,reporting_name=XA166-8233-E8B-SN06F71CP,reporting_mtms=8233-E8B/06F71CP,failing_mtms=8233-E8B/06F71CP,analyzing_hmc=localhost,event_time=07/24/2012 13:44:11
+problem_num=21,pmh_num=,refcode=#2806,status=Open,first_time=07/24/2012 13:45:31,last_time=07/24/2012 13:45:31,sys_name=XA164-8205-E6B-SN06F100P,sys_mtms=8205-E6B/06F100P,enclosure_mtms=8205-E6B/06F100P,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If this adapter is connected to a network, and if you
+you are experiencing problems with network communications,
+check for a loose or defective cable or connection.
+
+If a switch or another system is directly attached
+to this adapter, verify it is powered up, configured,
+and functioning correctly.",created_time=07/24/2012 13:45:31,reporting_name=XA164-8205-E6B-SN06F100P,reporting_mtms=8205-E6B/06F100P,failing_mtms=8205-E6B/06F100P,analyzing_hmc=localhost,event_time=07/24/2012 13:42:52
+problem_num=20,pmh_num=,refcode=#2538902,status=Open,first_time=07/24/2012 13:44:36,last_time=07/24/2012 13:44:36,sys_name=XA160-8202-E4B-SN06E100P,sys_mtms=8202-E4B/06E100P,enclosure_mtms=8202-E4B/06E100P,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=07/24/2012 13:44:36,reporting_name=XA160-8202-E4B-SN06E100P,reporting_mtms=8202-E4B/06E100P,failing_mtms=8202-E4B/06E100P,analyzing_hmc=localhost,event_time=07/24/2012 13:41:54
+problem_num=15,pmh_num=,refcode=#2806,status=Open,first_time=07/12/2012 09:07:32,last_time=07/24/2012 11:43:49,sys_name=XA163-8205-E6B-SN06F103P,sys_mtms=8205-E6B/06F103P,enclosure_mtms=8205-E6B/06F103P,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If this adapter is connected to a network, and if you
+you are experiencing problems with network communications,
+check for a loose or defective cable or connection.
+
+If a switch or another system is directly attached
+to this adapter, verify it is powered up, configured,
+and functioning correctly.",created_time=07/12/2012 09:07:32,reporting_name=XA163-8205-E6B-SN06F103P,reporting_mtms=8205-E6B/06F103P,failing_mtms=8205-E6B/06F103P,analyzing_hmc=localhost,event_time=07/12/2012 09:04:25
+problem_num=18,pmh_num=,refcode=E332FFFF,status=Open,first_time=07/18/2012 11:18:38,last_time=07/18/2012 11:18:38,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=07/18/2012 11:18:38,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=07/18/2012 11:18:38
+problem_num=19,pmh_num=,refcode=B3030007,status=Open,first_time=07/18/2012 11:17:12,last_time=07/18/2012 11:17:12,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=8202-E4B/06E100P,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=07/18/2012 11:17:12,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=8202-E4B/06E100P,analyzing_hmc=localhost,event_time=07/18/2012 11:17:12
+problem_num=16,pmh_num=,refcode=#2538902,status=Open,first_time=07/12/2012 09:58:17,last_time=07/12/2012 09:58:17,sys_name=XA172-E4B-SN061698R,sys_mtms=8202-E4B/061698R,enclosure_mtms=8202-E4B/061698R,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=07/12/2012 09:58:17,reporting_name=XA172-E4B-SN061698R,reporting_mtms=8202-E4B/061698R,failing_mtms=8202-E4B/061698R,analyzing_hmc=localhost,event_time=07/11/2012 20:55:05
+problem_num=14,pmh_num=,refcode=E212E306,status=Open,first_time=06/30/2012 15:55:12,last_time=06/30/2012 15:55:12,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/30/2012 15:55:12,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/30/2012 15:55:12
+problem_num=11,pmh_num=,refcode=#2538902,status=Closed,first_time=06/21/2012 09:47:01,last_time=06/21/2012 09:47:01,sys_name=XA166-8233-E8B-SN06F71CP,sys_mtms=8233-E8B/06F71CP,enclosure_mtms=8233-E8B/06F71CP,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=06/21/2012 09:47:01,reporting_name=XA166-8233-E8B-SN06F71CP,reporting_mtms=8233-E8B/06F71CP,failing_mtms=8233-E8B/06F71CP,analyzing_hmc=localhost,event_time=05/30/2012 10:33:43
+problem_num=10,pmh_num=,refcode=#2538902,status=Closed,first_time=06/21/2012 09:47:00,last_time=06/21/2012 09:47:00,sys_name=XA172-E4B-SN061698R,sys_mtms=8202-E4B/061698R,enclosure_mtms=8202-E4B/061698R,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=06/21/2012 09:47:00,reporting_name=XA172-E4B-SN061698R,reporting_mtms=8202-E4B/061698R,failing_mtms=8202-E4B/061698R,analyzing_hmc=localhost,event_time=06/18/2012 01:33:26
+problem_num=9,pmh_num=,refcode=E212E30B,status=Closed,first_time=06/19/2012 12:25:38,last_time=06/19/2012 12:25:38,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/19/2012 12:25:38,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/19/2012 12:25:38
+problem_num=8,pmh_num=,refcode=E212E116,status=Closed,first_time=06/16/2012 11:13:45,last_time=06/16/2012 11:16:47,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/16/2012 11:13:45,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/16/2012 11:13:45
+problem_num=7,pmh_num=,refcode=E3D4310A,status=Closed,first_time=06/12/2012 04:45:49,last_time=06/14/2012 06:06:30,sys_name=localhost,sys_mtms=7042-CR4/068A39B,enclosure_mtms=7042-CR4/068A39B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/12/2012 04:45:49,reporting_name=localhost,reporting_mtms=7042-CR4/068A39B,failing_mtms=7042-CR4/068A39B,analyzing_hmc=localhost,event_time=06/12/2012 04:45:49
+problem_num=6,pmh_num=,refcode=#2806,status=Closed,first_time=06/11/2012 17:17:36,last_time=06/11/2012 17:17:36,sys_name=XA158-ylqzdb2-E8B-SN06F722P,sys_mtms=8233-E8B/06F722P,enclosure_mtms=8233-E8B/06F722P,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If this adapter is connected to a network, and if you
+you are experiencing problems with network communications,
+check for a loose or defective cable or connection.
+
+If a switch or another system is directly attached
+to this adapter, verify it is powered up, configured,
+and functioning correctly.",created_time=06/11/2012 17:17:36,reporting_name=XA158-ylqzdb2-E8B-SN06F722P,reporting_mtms=8233-E8B/06F722P,failing_mtms=8233-E8B/06F722P,analyzing_hmc=localhost,event_time=05/25/2012 22:35:53
+problem_num=5,pmh_num=,refcode=#2538902,status=Closed,first_time=06/11/2012 17:16:09,last_time=06/11/2012 17:16:09,sys_name=XA161-E4B-SN06E0EFP,sys_mtms=8202-E4B/06E0EFP,enclosure_mtms=8202-E4B/06E0EFP,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=06/11/2012 17:16:09,reporting_name=XA161-E4B-SN06E0EFP,reporting_mtms=8202-E4B/06E0EFP,failing_mtms=8202-E4B/06E0EFP,analyzing_hmc=localhost,event_time=05/29/2012 16:56:25
+problem_num=4,pmh_num=,refcode=#2538902,status=Closed,first_time=06/11/2012 17:16:06,last_time=06/11/2012 17:16:06,sys_name=XA172-E4B-SN061698R,sys_mtms=8202-E4B/061698R,enclosure_mtms=8202-E4B/061698R,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=06/11/2012 17:16:06,reporting_name=XA172-E4B-SN061698R,reporting_mtms=8202-E4B/061698R,failing_mtms=8202-E4B/061698R,analyzing_hmc=localhost,event_time=05/30/2012 10:26:36
+problem_num=3,pmh_num=,refcode=#2806,status=Closed,first_time=06/11/2012 17:15:33,last_time=06/11/2012 17:15:33,sys_name=XA157-ylqzdb1-E8B-SN06F703P,sys_mtms=8233-E8B/06F703P,enclosure_mtms=8233-E8B/06F703P,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If this adapter is connected to a network, and if you
+you are experiencing problems with network communications,
+check for a loose or defective cable or connection.
+
+If a switch or another system is directly attached
+to this adapter, verify it is powered up, configured,
+and functioning correctly.",created_time=06/11/2012 17:15:33,reporting_name=XA157-ylqzdb1-E8B-SN06F703P,reporting_mtms=8233-E8B/06F703P,failing_mtms=8233-E8B/06F703P,analyzing_hmc=localhost,event_time=03/18/2012 02:13:51
+problem_num=2,pmh_num=,refcode=#2538902,status=Closed,first_time=06/11/2012 17:14:51,last_time=06/11/2012 17:14:51,sys_name=XA173-ylqzap1-E8B-SN06F71DP,sys_mtms=8233-E8B/06F71DP,enclosure_mtms=8233-E8B/06F71DP,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=06/11/2012 17:14:51,reporting_name=XA173-ylqzap1-E8B-SN06F71DP,reporting_mtms=8233-E8B/06F71DP,failing_mtms=8233-E8B/06F71DP,analyzing_hmc=localhost,event_time=05/19/2012 22:17:20
+problem_num=1,pmh_num=,refcode=#2538902,status=Closed,first_time=06/11/2012 17:14:41,last_time=06/11/2012 17:14:41,sys_name=XA174-ylqzap2-E8B-SN06F72AP,sys_mtms=8233-E8B/06F72AP,enclosure_mtms=8233-E8B/06F72AP,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=06/11/2012 17:14:41,reporting_name=XA174-ylqzap2-E8B-SN06F72AP,reporting_mtms=8233-E8B/06F72AP,failing_mtms=8233-E8B/06F72AP,analyzing_hmc=localhost,event_time=03/18/2012 02:21:34

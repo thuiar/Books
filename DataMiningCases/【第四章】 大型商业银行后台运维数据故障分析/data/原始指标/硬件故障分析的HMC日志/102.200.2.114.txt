@@ -1,0 +1,32 @@
+problem_num=6,pmh_num=,refcode=B3030007,status=Open,first_time=11/22/2012 18:16:57,last_time=11/22/2012 18:16:57,sys_name=HMCA14,sys_mtms=7042-CR6/06396FC,enclosure_mtms=8233-E8B/06B48EP,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=11/22/2012 18:16:57,reporting_name=HMCA14,reporting_mtms=7042-CR6/06396FC,failing_mtms=8233-E8B/06B48EP,analyzing_hmc=HMCA14,event_time=11/22/2012 18:16:57
+problem_num=5,pmh_num=,refcode=BA201002,status=Open,first_time=01/17/2012 22:27:34,last_time=01/17/2012 22:27:34,sys_name=XA186-ONB2C-55A-06A1E5G,sys_mtms=9131-52A/06A1E5G,enclosure_mtms=9131-52A/06A1E5G,firmware_fix=,text=ACT04293I Platform firmware (0x83) reported an error.,created_time=01/17/2012 22:27:34,reporting_name=XA186-ONB2C-55A-06A1E5G,reporting_mtms=9131-52A/06A1E5G,failing_mtms=9131-52A/06A1E5G,analyzing_hmc=HMCA14,event_time=01/18/2012 04:05:08
+problem_num=4,pmh_num=,refcode=BA201002,status=Open,first_time=01/17/2012 22:26:14,last_time=01/17/2012 22:26:39,sys_name=XA186-ONB2C-55A-06A1E5G,sys_mtms=9131-52A/06A1E5G,enclosure_mtms=9131-52A/06A1E5G,firmware_fix=,text=ACT04293I Platform firmware (0x83) reported an error.,created_time=01/17/2012 22:26:14,reporting_name=XA186-ONB2C-55A-06A1E5G,reporting_mtms=9131-52A/06A1E5G,failing_mtms=9131-52A/06A1E5G,analyzing_hmc=HMCA14,event_time=01/18/2012 04:03:48
+problem_num=3,pmh_num=,refcode=B3030001,status=Open,first_time=09/27/2011 15:46:21,last_time=09/27/2011 15:46:21,sys_name=HMCA14,sys_mtms=7042-CR6/06396FC,enclosure_mtms=8233-E8B/06B48EP,firmware_fix=,"text=ACT04283I A connection to a FSP,BPA or BPC was dropped",created_time=09/27/2011 15:46:21,reporting_name=HMCA14,reporting_mtms=7042-CR6/06396FC,failing_mtms=8233-E8B/06B48EP,analyzing_hmc=HMCA14,event_time=09/27/2011 15:46:21
+problem_num=2,pmh_num=,refcode=#2615014,status=Closed,first_time=07/20/2011 20:26:00,last_time=07/20/2011 20:26:00,sys_name=XA084-NNBDB2-E8B-SN06B490P,sys_mtms=8233-E8B/06B490P,enclosure_mtms=8233-E8B/06B490P,firmware_fix=,"text=No trouble was found, however, Error Log Analysis
+indicates this tape drive has one or more temporary media
+error entries in the System Error Log.
+
+The following service procedures are recommended.
+
+CLEAN..........the tape drive read/write head and tape path.
+	       For instructions on cleaning, refer to the
+	       documentation for this tape drive.
+
+TRANSFER.......data on old media to new media.
+	       NOTE: Old or worn out media may continue to cause
+	             media errors.
+
+RUN............Advanced Diagnostics, in System Verification mode,
+	       to ensure this tape drive is functioning properly.",created_time=07/20/2011 20:26:00,reporting_name=XA084-NNBDB2-E8B-SN06B490P,reporting_mtms=8233-E8B/06B490P,failing_mtms=8233-E8B/06B490P,analyzing_hmc=HMCA14,event_time=07/11/2011 04:41:48
+problem_num=1,pmh_num=,refcode=#2538902,status=Closed,first_time=07/13/2011 12:42:45,last_time=07/13/2011 12:42:45,sys_name=XA084-NNBDB2-E8B-SN06B490P,sys_mtms=8233-E8B/06B490P,enclosure_mtms=8233-E8B/06B490P,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=07/13/2011 12:42:45,reporting_name=XA084-NNBDB2-E8B-SN06B490P,reporting_mtms=8233-E8B/06B490P,failing_mtms=8233-E8B/06B490P,analyzing_hmc=HMCA14,event_time=07/13/2011 03:38:09

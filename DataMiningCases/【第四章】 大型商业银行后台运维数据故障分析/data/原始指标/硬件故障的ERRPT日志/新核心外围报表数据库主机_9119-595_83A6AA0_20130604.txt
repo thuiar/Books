@@ -1,0 +1,4475 @@
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Tue Jun  4 09:33:58 BEIST 2013
+Sequence Number: 14349
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk505        
+Resource Class:  disk
+Resource Type:   2107
+Location:        U5791.001.99B0ZB7-P1-C08-T1-W5005076306108405-L4014400900000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48211409
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0202
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2A00 16F7 EF00 0001 0004 0000 0000 0000 0000 0000 0000 0200 0200 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 1976 0003 0080 0000 0002 0000 0000 0000 0000 0000 0000 0000 
+0000 0034 001D 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Tue Jun  4 09:33:36 BEIST 2013
+Sequence Number: 14348
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk505        
+Resource Class:  disk
+Resource Type:   2107
+Location:        U5791.001.99B0ZB7-P1-C08-T1-W5005076306108405-L4014400900000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48211409
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0202
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2A00 16F7 1E00 0001 0004 0000 0000 0000 0000 0000 0000 0200 0200 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 1976 0003 0080 0000 0002 0000 0000 0000 0000 0000 0000 0000 
+0000 0034 001D 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Tue Jun  4 05:01:45 BEIST 2013
+Sequence Number: 14347
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PEND
+Resource Name:   vpath125        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 007D 0000 0001 0000 0000 0000 0000 0000 007D 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Tue Jun  4 05:01:45 BEIST 2013
+Sequence Number: 14346
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PEND
+Resource Name:   vpath124        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 007C 0000 0001 0000 0000 0000 0000 0000 007C 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Tue Jun  4 05:01:45 BEIST 2013
+Sequence Number: 14345
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PEND
+Resource Name:   vpath123        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 007B 0000 0001 0000 0000 0000 0000 0000 007B 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Tue Jun  4 05:01:45 BEIST 2013
+Sequence Number: 14344
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PEND
+Resource Name:   vpath122        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 007A 0000 0001 0000 0000 0000 0000 0000 007A 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Tue Jun  4 05:01:45 BEIST 2013
+Sequence Number: 14343
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PEND
+Resource Name:   vpath121        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0079 0000 0001 0000 0000 0000 0000 0000 0079 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Tue Jun  4 05:01:45 BEIST 2013
+Sequence Number: 14342
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PEND
+Resource Name:   vpath120        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0078 0000 0001 0000 0000 0000 0000 0000 0078 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Tue Jun  4 05:01:45 BEIST 2013
+Sequence Number: 14341
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PEND
+Resource Name:   vpath119        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0077 0000 0001 0000 0000 0000 0000 0000 0077 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Tue Jun  4 05:01:28 BEIST 2013
+Sequence Number: 14340
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PEND
+Resource Name:   vpath125        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 007D 0000 0001 0000 0000 0000 0000 0000 007D 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Tue Jun  4 05:01:28 BEIST 2013
+Sequence Number: 14339
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PEND
+Resource Name:   vpath124        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 007C 0000 0001 0000 0000 0000 0000 0000 007C 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Tue Jun  4 05:01:28 BEIST 2013
+Sequence Number: 14338
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PEND
+Resource Name:   vpath123        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 007B 0000 0001 0000 0000 0000 0000 0000 007B 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Tue Jun  4 05:01:28 BEIST 2013
+Sequence Number: 14337
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PEND
+Resource Name:   vpath122        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 007A 0000 0001 0000 0000 0000 0000 0000 007A 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Tue Jun  4 05:01:28 BEIST 2013
+Sequence Number: 14336
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PEND
+Resource Name:   vpath121        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0079 0000 0001 0000 0000 0000 0000 0000 0079 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Tue Jun  4 05:01:28 BEIST 2013
+Sequence Number: 14335
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PEND
+Resource Name:   vpath120        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0078 0000 0001 0000 0000 0000 0000 0000 0078 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Tue Jun  4 05:01:28 BEIST 2013
+Sequence Number: 14334
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PEND
+Resource Name:   vpath119        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0077 0000 0001 0000 0000 0000 0000 0000 0077 
+---------------------------------------------------------------------------
+LABEL:          GS_START_ST
+IDENTIFIER:     AFA89905
+
+Date/Time:       Tue Jun  4 04:55:32 BEIST 2013
+Sequence Number: 14333
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           O
+Type:            INFO
+Resource Name:   grpsvcs         
+
+Description
+Group Services daemon started
+
+Probable Causes
+Daemon started during system startup
+Daemon re-started automatically by SRC
+Daemon started during installation
+Daemon started manually by user
+
+User Causes
+Daemon started manually by user
+
+	Recommended Actions
+	Check that Group Services daemon is running
+
+Detail Data
+DETECTING MODULE
+RSCT,pgsd.C,1.62.1.8,606                      
+ERROR ID 
+63Y7ej029EfF/Uvo.c3.mi/...................
+REFERENCE CODE
+                                          
+DIAGNOSTIC EXPLANATION
+HAGS daemon started by SRC. Log file is /var/ha/log/grpsvcs_trace_1_56.
+---------------------------------------------------------------------------
+LABEL:          TS_START_ST
+IDENTIFIER:     97419D60
+
+Date/Time:       Tue Jun  4 04:55:29 BEIST 2013
+Sequence Number: 14332
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           O
+Type:            INFO
+Resource Name:   topsvcs         
+
+Description
+Topology Services daemon started
+
+Probable Causes
+Daemon started during system start-up
+Daemon re-started automatically by SRC
+Daemon started during installation
+Daemon started manually by user
+
+User Causes
+Daemon started manually by user
+
+	Recommended Actions
+	Confirm that this is desirable
+
+Detail Data
+DETECTING MODULE
+rsct,bootstrp.C,1.211,4459                    
+ERROR ID 
+6UpNEL0/9EfF/aK8/c3.mi/...................
+REFERENCE CODE
+                                          
+Topology Services daemon started by:
+SRC
+Topology Services daemon log file location
+/var/ha/log/topsvcs.04.045529.CLU_REP_DB.en_U
+Topology Services daemon run directory
+/var/ha/run/topsvcs.CLU_REP_DB/
+---------------------------------------------------------------------------
+LABEL:          RMCD_INFO_0_ST
+IDENTIFIER:     A6DF45AA
+
+Date/Time:       Tue Jun  4 04:49:07 BEIST 2013
+Sequence Number: 14331
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           O
+Type:            INFO
+Resource Name:   RMCdaemon       
+
+Description
+The daemon is started.
+
+Probable Causes
+The Resource Monitoring and Control daemon has been started.
+
+User Causes
+The startsrc -s ctrmc command has been executed or
+the rmcctrl -s command has been executed.
+
+	Recommended Actions
+	Confirm that the daemon should be started.
+
+Detail Data
+DETECTING MODULE
+RSCT,rmcd.c,1.52,211                          
+ERROR ID 
+6eKora013EfF/6ul.c3.mi/...................
+REFERENCE CODE
+                                          
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Tue Jun  4 04:48:45 BEIST 2013
+Sequence Number: 14330
+Machine Id:      00CA6AA04C00
+Node Id:         localhost
+Class:           H
+Type:            PEND
+Resource Name:   vpath125        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 007D 0000 0001 0000 0000 0000 0000 0000 007D 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Tue Jun  4 04:48:45 BEIST 2013
+Sequence Number: 14329
+Machine Id:      00CA6AA04C00
+Node Id:         localhost
+Class:           H
+Type:            PEND
+Resource Name:   vpath124        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 007C 0000 0001 0000 0000 0000 0000 0000 007C 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Tue Jun  4 04:48:45 BEIST 2013
+Sequence Number: 14328
+Machine Id:      00CA6AA04C00
+Node Id:         localhost
+Class:           H
+Type:            PEND
+Resource Name:   vpath123        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 007B 0000 0001 0000 0000 0000 0000 0000 007B 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Tue Jun  4 04:48:45 BEIST 2013
+Sequence Number: 14327
+Machine Id:      00CA6AA04C00
+Node Id:         localhost
+Class:           H
+Type:            PEND
+Resource Name:   vpath122        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 007A 0000 0001 0000 0000 0000 0000 0000 007A 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Tue Jun  4 04:48:45 BEIST 2013
+Sequence Number: 14326
+Machine Id:      00CA6AA04C00
+Node Id:         localhost
+Class:           H
+Type:            PEND
+Resource Name:   vpath121        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0079 0000 0001 0000 0000 0000 0000 0000 0079 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Tue Jun  4 04:48:45 BEIST 2013
+Sequence Number: 14325
+Machine Id:      00CA6AA04C00
+Node Id:         localhost
+Class:           H
+Type:            PEND
+Resource Name:   vpath120        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0078 0000 0001 0000 0000 0000 0000 0000 0078 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Tue Jun  4 04:48:45 BEIST 2013
+Sequence Number: 14324
+Machine Id:      00CA6AA04C00
+Node Id:         localhost
+Class:           H
+Type:            PEND
+Resource Name:   vpath119        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0077 0000 0001 0000 0000 0000 0000 0000 0077 
+---------------------------------------------------------------------------
+LABEL:          JAS_RST
+IDENTIFIER:     F6FDF227
+
+Date/Time:       Tue Jun  4 04:46:09 BEIST 2013
+Sequence Number: 14322
+Machine Id:      00CA6AA04C00
+Node Id:         localhost
+Class:           S
+Type:            TEMP
+Resource Name:   tty0            
+
+Description
+FAILURE CAUSED AUTOMATIC RESET
+
+Failure Causes
+DEVICE DRIVER ERROR.
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+	CONTACT APPROPRIATE SERVICE REPRESENTATIVE
+
+Detail Data
+ERROR DATA
+0BA6 0BAA 0BB1 11A3 0FE6 1011 0BA6 0BAA 0BB1 11A3 0FE6 1011 0BA6 0BAA 0BB1 11A3 
+0FE6 1011 0BA6 0BAA 0BB1 11A3 0FE6 1011 0BA6 0BAA 0BB1 11A3 0FE6 11B1 11B1 11B1 
+11B1 11B1 11B1 11BF 11B1 11B1 11B1 11B1 11B1 11B1 11BF 0BA6 0BB1 11A3 0FE6 1011 
+0BA6 0BAA 0BB1 11A3 0FE6 1011 0BA6 0BAA 0BB1 11A3 0FE6 1011 0BA6 0BAA 0BB1 11A3 
+0FE6 1011 0BA6 0BAA 0BB1 11A3 0FE6 1011 0BA6 0BAA 0BB1 11A3 0FE6 0BA6 0BB1 11A3 
+0FE6 1011 0BA6 0BAA 0BB1 11A3 0FE6 1011 0BA6 0BAA 0BB1 11A3 0FE6 1011 0BA6 0BAA 
+0BB1 11A3 0FE6 1011 0BA6 0BAA 0BB1 11A3 0FE6 1011 0BA6 0BAA FFFF FFFF FFFF FFFF 
+FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF 
+FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF 
+FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF 
+FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF 
+FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF 
+FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF 
+FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF 
+FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF 
+FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF FFFF 
+---------------------------------------------------------------------------
+LABEL:          ERRLOG_ON
+IDENTIFIER:     9DBCFDEE
+
+Date/Time:       Tue Jun  4 04:48:42 BEIST 2013
+Sequence Number: 14321
+Machine Id:      00CA6AA04C00
+Node Id:         localhost
+Class:           O
+Type:            TEMP
+Resource Name:   errdemon        
+
+Description
+ERROR LOGGING TURNED ON
+
+Probable Causes
+ERRDEMON STARTED AUTOMATICALLY
+
+User Causes
+/USR/LIB/ERRDEMON COMMAND
+
+	Recommended Actions
+	NONE
+
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon Jun  3 21:53:07 BEIST 2013
+Sequence Number: 14320
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk88         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U5791.001.99B0ZB7-P1-C08-T1-W5005076306108405-L4015400400000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48211504
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0202
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2A00 1C51 8200 0001 0004 0000 0000 0000 0000 0000 0000 0200 0200 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0004 65F8 0003 5C00 0000 0001 0000 0000 0000 0000 0000 0000 0000 
+0000 0034 001D 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Sun Jun  2 02:37:54 BEIST 2013
+Sequence Number: 14319
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk83         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U5791.001.99B0ZB7-P1-C08-T1-W5005076306108405-L4014400500000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48211405
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0202
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2A00 1BA6 C100 0001 0004 0000 0000 0000 0000 0000 0000 0200 0200 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0003 D005 0008 B4C0 0000 0001 0000 0000 0000 0000 0000 0000 0000 
+0000 0034 001D 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Sun Jun  2 02:35:10 BEIST 2013
+Sequence Number: 14318
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk84         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U5791.001.99B0ZB7-P1-C08-T1-W5005076306108405-L4015400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48211500
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0202
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2A00 1BA0 C200 0001 0004 0000 0000 0000 0000 0000 0000 0200 0200 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0003 2565 000E CEC0 0000 0001 0000 0000 0000 0000 0000 0000 0000 
+0000 0034 001D 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Sun Jun  2 02:33:38 BEIST 2013
+Sequence Number: 14317
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk84         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U5791.001.99B0ZB7-P1-C08-T1-W5005076306108405-L4015400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48211500
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0202
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2A00 1BA3 3500 0001 0004 0000 0000 0000 0000 0000 0000 0200 0200 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0003 2565 0008 BEC0 0000 0001 0000 0000 0000 0000 0000 0000 0000 
+0000 0034 001D 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Sat Jun  1 23:51:01 BEIST 2013
+Sequence Number: 14316
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk504        
+Resource Class:  disk
+Resource Type:   2107
+Location:        U5791.001.99B0ZB7-P1-C08-T1-W5005076306108405-L4014400800000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48211408
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0202
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2A00 0781 C200 0001 0004 0000 0000 0000 0000 0000 0000 0200 0200 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 000A 2B4D 000D BCC0 0000 0001 0000 0000 0000 0000 0000 0000 0000 
+0000 0034 001D 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Sat Jun  1 23:49:50 BEIST 2013
+Sequence Number: 14315
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk504        
+Resource Class:  disk
+Resource Type:   2107
+Location:        U5791.001.99B0ZB7-P1-C08-T1-W5005076306108405-L4014400800000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48211408
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0202
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2A00 0770 8D00 0001 0004 0000 0000 0000 0000 0000 0000 0200 0200 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 000A 2B3F 000D FC40 0000 0001 0000 0000 0000 0000 0000 0000 0000 
+0000 0034 001D 
+---------------------------------------------------------------------------
+LABEL:          SCAN_ERROR_CHRP
+IDENTIFIER:     BFE4C025
+
+Date/Time:       Wed May 29 18:56:20 BEIST 2013
+Sequence Number: 14314
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PERM
+Resource Name:   sysplanar0      
+Resource Class:  planar
+Resource Type:   sysplanar_rspc
+Location:        
+
+Description
+UNDETERMINED ERROR
+
+Failure Causes
+UNDETERMINED
+
+	Recommended Actions
+	RUN SYSTEM DIAGNOSTICS.
+
+Detail Data
+PROBLEM DATA
+0644 00E0 0000 064C 9600 8E00 0000 0000 0000 0000 4942 4D00 5048 0030 0100 3F30 
+2013 0529 1047 4780 2013 0529 1047 4781 4500 0106 0000 0000 0000 0000 0000 0000 
+5025 4658 5025 4658 5548 0018 0100 3200 6003 4100 0000 0000 0000 A804 0000 0000 
+5053 0140 0101 3F30 0201 0002 0000 0138 003C 007A 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 3131 3030 3837 3130 2020 2020 2020 2020 
+2020 2020 2020 2020 2020 2020 2020 2020 C000 003C 502B 4C18 5539 3435 382E 3130 
+302E 3931 3830 3643 372D 5031 0000 0000 4944 1CCD 4443 4100 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 5045 1800 3931 3139 2D35 3935 3833 4136 4141 3000 
+0000 0000 502B 4C18 5537 3837 432E 3030 312E 3931 3830 3537 362D 5031 2D43 3400 
+4944 1C1D 3630 4832 3231 3400 3238 4445 5931 5330 4337 3230 3431 3732 5045 1800 
+3931 3139 2D35 3935 3833 4136 4141 3000 0000 0000 4C2B 4C14 5537 3837 432E 3030 
+312E 3931 3830 3537 3600 0000 4944 1CCD 5359 5342 5000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 5045 1800 3931 3139 2D35 3935 3833 4136 4141 3000 0000 0000 
+5544 0094 0204 4400 0000 0391 2F62 696E 2F70 6F77 725F 7371 6800 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+6669 7073 3234 302F 6230 3831 3361 5F30 3832 372E 3234 3000 0000 0000 0000 0000 
+0000 0001 0000 0001 0000 0801 0000 0002 0000 0009 4D54 001C 0100 4400 3931 3139 
+2D35 3935 3833 4136 4141 3000 0000 0000 5544 0404 0000 3F30 6591 FE3C 000A 6591 
+1800 0931 6591 FE3C 000A 6591 1820 0031 6591 FE3C 000B 6591 1800 0A31 6592 FE3C 
+000B 6592 1820 0031 6592 FE3C 000B 6592 1800 0A31 6593 FE3C 000B 6593 1820 0031 
+6593 FE3C 000B 6593 1800 0A31 6594 FE3C 000B 6594 1820 0031 6594 FE3C 000C 6594 
+1800 0B31 6595 FE3C 000C 6595 1820 0031 6595 FE3C 000C 6595 1800 0B31 6595 FE3C 
+000C 6595 1820 0031 6595 FE3C 000C 6595 1800 0B31 6596 FE3C 000C 6596 1820 0031 
+6596 FE3C 000D 6596 1800 0C31 6596 FE3C 000D 6596 1820 0031 6596 FE3C 000D 6596 
+1800 0C31 6598 FE3C 000D 6598 1820 0031 6598 FE3C 000D 6598 1800 0C31 6598 FE3C 
+000D 6598 1820 0031 6599 FE3C 007B 6599 1801 FF31 659A FE3C 007B 659A 1821 0031 
+659A FE3C 007B 659A 1801 FF31 659A FE3C 007B 659A 1821 0031 659A FE3C 007B 659A 
+1801 FF31 659B FE3C 007B 659B 1821 0031 659B FE3C 007B 659B 1801 FF31 659C FE3C 
+007B 659C 1821 0031 659C FE3C 007B 659C 1801 FF31 659C FE3C 007B 659C 1821 0031 
+659C FE3C 007B 659C 1801 FF31 659D FE3C 007B 659D 1821 0031 659D FE3C 0001 659D 
+1101 1080 659D FE3C 0001 659D 2150 3001 659D FE3C 0001 659D 2110 0000 659D FE3C 
+0001 659D 15DA 0000 659D FE3C 0001 659D 2192 3000 659D FE3C 0001 659D 2193 3000 
+659D FE3C 0001 659D 2192 3001 659D FE3C 0001 659D 2193 3001 659E FE3C 0001 659E 
+1101 1080 659E FE3C 0001 659E 1101 1000 65AA FE3C 0001 65AA 1100 1000 65AA FE3C 
+0001 65AA 1100 1000 65B5 FE3C 0001 65B5 2150 1E01 65B5 FE3C 0001 65B5 2150 0901 
+65B5 FE3C 0001 65B5 2150 0901 65B5 FE3C 0001 65B5 2150 2406 65B5 FE3C 0001 65B5 
+2150 2001 65B5 FE3C 0001 65B5 2150 2001 65B6 FE3C 0001 65B6 2150 2101 65B6 FE3C 
+0001 65B6 2150 2101 65B6 FE3C 0001 65B6 2150 0801 65B6 FE3C 0001 65B6 2150 0801 
+65B7 FE3C 0001 65B7 2150 0901 65B7 FE3C 0001 65B7 2150 0901 65BA FE3C 0001 65BA 
+2150 1D01 65BA FE3C 0001 65BA 2150 1D01 65BB FE3C 0001 65BB 2150 1E01 65BC FE3C 
+0001 65BC 2150 0901 65BC FE3C 0001 65BC 2150 0901 65FC FE3C 0001 65FC 2150 1E01 
+65FC FE3C 0001 65FC 2150 0901 65FC FE3C 0001 65FC 2150 0901 65FE FE3C 007A 65FE 
+1800 FF27 6600 FE3C 007A 6600 1820 0027 6600 FE3C 007B 6600 1801 FF27 6601 FE3C 
+007B 6601 1821 0027 6FFE FE3C 0001 6FFE 2150 1E01 6FFE FE3C 0001 6FFE 2150 0901 
+6FFE FE3C 0001 6FFE 2150 0901 6FFF FE3C 007A 6FFF 1800 FF27 7000 FE3C 007A 7000 
+1820 0027 7000 FE3C 007B 7000 1801 FF27 7001 FE3C 007B 7001 1821 0027 7008 FE3C 
+007A 7008 1805 E710 7011 FE3C 007A 7011 1805 E720 7019 FE3C 007A 7019 1805 E730 
+7021 FE3C 007A 7021 1805 E740 702A FE3C 007A 702A 1805 E750 7032 FE3C 007A 7032 
+1805 E760 703A FE3C 007A 703A 1805 E770 7043 FE3C 007A 7043 1805 E780 704B FE3C 
+007A 704B 1805 E790 7053 FE3C 007A 7053 1805 E7A0 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	3926
+Resource tested:	sysplanar0
+Resource Description:	System Planar
+Location:		
+SRC:			11008710
+Description:		Power/Cooling subsystem Unrecovered Error, bypassed
+                        with degraded performance. Refer to the system service
+                        documentation for more information.
+Additional Words: 	2-003C007A 3-00000000 4-00000000 5-00000000
+			6-00000000 7-00000000 8-00000000 9-00000000
+Possible FRUs:
+    Priority: L FRU: DCA     
+    Location: U9458.100.91806C7-P1
+    Priority: L FRU: 60H2214  S/N: Y1S0C7204172 CCIN: 28DE 
+    Location: U787C.001.9180576-P1-C4
+    Priority: L FRU: SYSBP   
+    Location: U787C.001.9180576
+
+---------------------------------------------------------------------------
+LABEL:          SCAN_ERROR_CHRP
+IDENTIFIER:     BFE4C025
+
+Date/Time:       Wed May 29 18:03:05 BEIST 2013
+Sequence Number: 14313
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PERM
+Resource Name:   sysplanar0      
+Resource Class:  planar
+Resource Type:   sysplanar_rspc
+Location:        
+
+Description
+UNDETERMINED ERROR
+
+Failure Causes
+UNDETERMINED
+
+	Recommended Actions
+	RUN SYSTEM DIAGNOSTICS.
+
+Detail Data
+PROBLEM DATA
+0644 00E0 0000 064C 9600 8E00 0000 0000 0000 0000 4942 4D00 5048 0030 0100 3F30 
+2013 0529 0954 4019 2013 0529 0954 4020 4500 0106 0000 0000 0000 0000 0000 0000 
+5025 33A9 5025 33A9 5548 0018 0100 3200 6003 4100 0000 0000 0000 A804 0000 0000 
+5053 0140 0101 3F30 0201 0002 0000 0138 003C 007A 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 3131 3030 3837 3130 2020 2020 2020 2020 
+2020 2020 2020 2020 2020 2020 2020 2020 C000 003C 502B 4C18 5539 3435 382E 3130 
+302E 3931 3830 3643 372D 5031 0000 0000 4944 1CCD 4443 4100 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 5045 1800 3931 3139 2D35 3935 3833 4136 4141 3000 
+0000 0000 502B 4C18 5537 3837 432E 3030 312E 3931 3830 3537 362D 5031 2D43 3400 
+4944 1C1D 3630 4832 3231 3400 3238 4445 5931 5330 4337 3230 3431 3732 5045 1800 
+3931 3139 2D35 3935 3833 4136 4141 3000 0000 0000 4C2B 4C14 5537 3837 432E 3030 
+312E 3931 3830 3537 3600 0000 4944 1CCD 5359 5342 5000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 5045 1800 3931 3139 2D35 3935 3833 4136 4141 3000 0000 0000 
+5544 0094 0204 4400 0000 0391 2F62 696E 2F70 6F77 725F 7371 6800 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+6669 7073 3234 302F 6230 3831 3361 5F30 3832 372E 3234 3000 0000 0000 0000 0000 
+0000 0001 0000 0001 0000 0801 0000 0002 0000 0009 4D54 001C 0100 4400 3931 3139 
+2D35 3935 3833 4136 4141 3000 0000 0000 5544 0404 0000 3F30 1E69 FE3C 000D 1E69 
+1800 0C31 1E6A FE3C 000D 1E6A 1820 0031 1E6A FE3C 000D 1E6A 1800 0C31 1E6A FE3C 
+000D 1E6A 1820 0031 1E6A FE3C 000D 1E6A 1800 0C31 1E6B FE3C 000D 1E6B 1820 0031 
+1E6C FE3C 007B 1E6C 1801 FF31 1E6D FE3C 007B 1E6D 1821 0031 1E6D FE3C 007B 1E6D 
+1801 FF31 1E6E FE3C 007B 1E6E 1821 0031 1E6E FE3C 007B 1E6E 1801 FF31 1E6E FE3C 
+007B 1E6E 1821 0031 1E6F FE3C 007B 1E6F 1801 FF31 1E70 FE3C 007B 1E70 1821 0031 
+1E70 FE3C 007B 1E70 1801 FF31 1E71 FE3C 007B 1E71 1821 0031 1E71 FE3C 007B 1E71 
+1801 FF31 1E72 FE3C 007B 1E72 1821 0031 1E72 FE3C 0001 1E72 1101 1080 1E72 FE3C 
+0001 1E72 2150 3001 1E72 FE3C 0001 1E72 2110 0000 1E72 FE3C 0001 1E72 15DA 0000 
+1E72 FE3C 0001 1E72 2192 3000 1E72 FE3C 0001 1E72 2193 3000 1E72 FE3C 0001 1E72 
+2192 3001 1E72 FE3C 0001 1E72 2193 3001 1E74 FE3C 0001 1E74 1101 1080 1E74 FE3C 
+0001 1E74 1101 1000 1E7E FE3C 0001 1E7E 1100 1000 1E7E FE3C 0001 1E7E 1100 1000 
+1E86 FE3C 0001 1E86 2150 1E01 1E87 FE3C 0001 1E87 2150 0901 1E87 FE3C 0001 1E87 
+2150 0901 1E87 FE3C 0001 1E87 2150 2406 1E87 FE3C 0001 1E87 2150 2001 1E87 FE3C 
+0001 1E87 2150 2001 1E87 FE3C 0001 1E87 2150 2101 1E87 FE3C 0001 1E87 2150 2101 
+1E88 FE3C 0001 1E88 2150 0801 1E88 FE3C 0001 1E88 2150 0801 1E88 FE3C 0001 1E88 
+2150 0901 1E88 FE3C 0001 1E88 2150 0901 1E8B FE3C 0001 1E8B 2150 1D01 1E8B FE3C 
+0001 1E8B 2150 1D01 1E8D FE3C 0001 1E8D 2150 1E01 1E8D FE3C 0001 1E8D 2150 0901 
+1E8D FE3C 0001 1E8D 2150 0901 1EC8 FE3C 0001 1EC8 2150 1E01 1EC8 FE3C 0001 1EC8 
+2150 0901 1EC8 FE3C 0001 1EC8 2150 0901 1EC9 FE3C 007A 1EC9 1800 FF27 1ECB FE3C 
+007A 1ECB 1820 0027 1ECB FE3C 007B 1ECB 1801 FF27 1ECC FE3C 007B 1ECC 1821 0027 
+1F5F FE3C 007A 1F5F 1800 FF27 1F60 FE3C 007A 1F60 1820 0027 1F60 FE3C 007B 1F60 
+1801 FF27 1F60 FE3C 007B 1F60 1821 0027 3E2E FE3C 000A 3E2E 2500 0005 3E2E FE3C 
+000A 3E2E 1807 0929 3E2E FE3C 000A 3E2E 0200 2051 3E2E FE3C 007B 3E2E 1801 29EF 
+3E31 FE3C 007B 3E31 1821 00EF 3E31 FE3C 000A 3E31 0200 0000 3E32 FE3C 007A 3E32 
+1800 FF27 3E33 FE3C 007A 3E33 1820 0027 3E33 FE3C 007B 3E33 1801 FF27 3E33 FE3C 
+007B 3E33 1821 0027 63B0 FE3C 0001 63B0 2150 1E01 63B0 FE3C 0001 63B0 2150 0901 
+63B0 FE3C 0001 63B0 2150 0901 63B2 FE3C 007A 63B2 1800 FF27 63B4 FE3C 007A 63B4 
+1820 0027 63B4 FE3C 007B 63B4 1801 FF27 63B6 FE3C 007B 63B6 1821 0027 63BB FE3C 
+007A 63BB 1805 E710 63C4 FE3C 007A 63C4 1805 E720 63CC FE3C 007A 63CC 1805 E730 
+63D5 FE3C 007A 63D5 1805 E740 63DD FE3C 007A 63DD 1805 E750 63E6 FE3C 007A 63E6 
+1805 E760 63EE FE3C 007A 63EE 1805 E770 63F6 FE3C 007A 63F6 1805 E780 63FF FE3C 
+007A 63FF 1805 E790 6407 FE3C 007A 6407 1805 E7A0 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	3924
+Resource tested:	sysplanar0
+Resource Description:	System Planar
+Location:		
+SRC:			11008710
+Description:		Power/Cooling subsystem Unrecovered Error, bypassed
+                        with degraded performance. Refer to the system service
+                        documentation for more information.
+Additional Words: 	2-003C007A 3-00000000 4-00000000 5-00000000
+			6-00000000 7-00000000 8-00000000 9-00000000
+Possible FRUs:
+    Priority: L FRU: DCA     
+    Location: U9458.100.91806C7-P1
+    Priority: L FRU: 60H2214  S/N: Y1S0C7204172 CCIN: 28DE 
+    Location: U787C.001.9180576-P1-C4
+    Priority: L FRU: SYSBP   
+    Location: U787C.001.9180576
+
+---------------------------------------------------------------------------
+LABEL:          SCAN_ERROR_CHRP
+IDENTIFIER:     BFE4C025
+
+Date/Time:       Wed May 29 15:20:21 BEIST 2013
+Sequence Number: 14312
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PERM
+Resource Name:   sysplanar0      
+Resource Class:  planar
+Resource Type:   sysplanar_rspc
+Location:        
+
+Description
+UNDETERMINED ERROR
+
+Failure Causes
+UNDETERMINED
+
+	Recommended Actions
+	RUN SYSTEM DIAGNOSTICS.
+
+Detail Data
+PROBLEM DATA
+0644 00E0 0000 07F8 9600 8E00 0000 0000 0000 0000 4942 4D00 5048 0030 0100 3200 
+2013 0529 0711 1303 2013 0529 0711 1303 5700 0107 0000 0000 0000 0000 0000 0000 
+8804 0052 5024 FCE5 5548 0018 0100 3200 6003 4400 0000 0000 0000 A800 0000 0000 
+5053 00AC 0101 3200 0201 0004 0000 00A4 9109 9002 0118 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 3134 3030 3230 3531 2020 2020 2020 2020 
+2020 2020 2020 2020 2020 2020 2020 2020 C000 0017 582B 4D1C 5537 3837 432E 3030 
+312E 3931 3830 3537 362D 5031 2D45 3130 0000 0000 4944 1C1D 3135 5236 3730 3900 
+5247 4236 4838 3041 364E 3437 3538 3700 5045 1C00 3738 3743 2D30 3031 2039 3138 
+3035 3736 0000 0000 0000 0000 5544 0094 0204 4400 0000 0169 2F6F 7074 2F66 6970 
+732F 6269 6E2F 7074 6C69 6300 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 6230 3931 3661 5F39 3930 312E 3234 305F 3037 3038 
+3336 3031 0000 0000 0000 0000 0000 0002 0000 0000 0000 0801 0000 0000 0000 0002 
+4D54 001C 0100 4400 3934 3538 2D31 3030 3931 3830 3643 3700 0000 0000 5544 0410 
+0000 3200 AAAA AA29 ABCD EF00 0FAC 0004 03B1 0314 0020 5191 0990 2901 1802 0031 
+3552 3637 3039 4838 3041 364E 3437 3538 3730 3730 3833 3630 3130 3730 3833 3630 
+3141 3283 A9FA E147 AE41 3283 E73D 70A3 D700 0000 0000 0000 0000 0000 0000 0000 
+0031 302E 302E 3235 352E 3234 3700 0000 3130 2E30 2E30 2E32 3532 0000 0000 0031 
+302E 302E 302E 3235 3400 0000 0000 3130 2E30 2E32 3535 2E32 3438 0000 00E0 A001 
+3030 3030 0139 3435 382D 3130 3039 3138 3036 4337 3934 3538 2D31 3030 3931 3830 
+3643 3700 0003 4300 EA02 0100 0101 1A0B FFC0 0000 0A00 0AA3 87A3 8707 FFC8 00A0 
+1AA0 1A07 FFC9 00A0 1AA0 1A07 FFCA 00A0 1AA0 1A0B 0190 0000 3E00 3E04 0604 060B 
+0191 0000 3E00 3E04 0604 060B 0390 0000 3E00 3E04 0604 060B 0391 0000 3E00 3E04 
+0604 0607 0990 0000 1200 1207 0991 0000 1200 1207 0992 0000 1200 1207 0998 0003 
+9B03 9B07 0999 0003 9B03 9B07 099A 0003 9B03 9B07 099B 0003 9B03 9B07 099C 0003 
+9B03 9B07 099D 0003 9B03 9B07 0A90 0000 1200 1207 0A91 0000 1200 1207 0A92 0000 
+1200 1207 0B90 0000 1200 1207 0B91 0000 1200 1207 0B92 0000 1200 1207 0C90 0000 
+1200 1207 0C91 0000 1200 1207 0C92 0000 1200 1200 EA01 0100 0101 1A0B FF80 0000 
+0A00 0AA3 87A3 8707 FF88 00A0 1AA0 1A07 FF89 00A0 1AA0 1A07 FF8A 00A0 1AA0 1A0B 
+0190 0000 3E00 3E04 0604 060B 0191 0000 3E00 3E04 0604 060B 0390 0000 3E00 3E04 
+0604 060B 0391 0000 3E00 3E04 0604 0607 0990 0000 1200 1207 0991 0000 1200 1207 
+0992 0000 1200 1207 0998 0003 9B03 9B07 0999 0003 9B03 9B07 099A 0003 9B03 9B07 
+099B 0003 9B03 9B07 099C 0003 9B03 9B07 099D 0003 9B03 9B07 0A90 0000 1200 1207 
+0A91 0000 1200 1207 0A92 0000 1200 1207 0B90 0000 1200 1207 0B91 0000 1200 1207 
+0B92 0000 1200 1207 0C90 0000 1200 1207 0C91 0000 1200 1207 0C92 0000 1200 1201 
+2200 0D53 9331 0000 FFCA 0000 8000 0000 0000 0000 0000 0000 0000 0000 0000 000D 
+53EE 1300 0100 0F37 3331 3043 5234 2A30 3635 4131 3042 0000 0000 0000 0D53 EE27 
+0000 FF01 0100 0000 0000 0000 0000 0000 0000 0000 0000 0000 000D 5485 2700 00FF 
+0100 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0D53 6233 0001 3931 3139 
+2D35 3935 2038 3341 3641 4130 0000 0000 0000 000D 538F 3100 00FF C000 0080 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0D53 9031 0000 FFC1 0000 8000 0000 0000 
+0000 0000 0000 0000 0000 0000 000D 5390 3100 00FF C200 0080 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0D53 9131 0000 FFC8 0000 8000 0000 0000 0000 0000 0000 
+0000 0000 0000 000D 5393 3100 00FF C900 0080 0000 0000 0000 0000 0000 0000 0000 
+0000 000C 0201 0309 9000 E452 4742 3631 3552 3637 3039 2020 2020 4A31 3438 3737 
+4838 3041 364E 3437 3538 3700 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 00FE DCBA 0000 5544 0234 0000 3F30 1E62 FE3C 000A 1E62 1820 0031 
+1E62 FE3C 000A 1E62 1800 0931 1E62 FE3C 000A 1E62 1820 0031 1E62 FE3C 000A 1E62 
+1800 0931 1E64 FE3C 000A 1E64 1820 0031 1E64 FE3C 000A 1E64 1800 0931 1E64 FE3C 
+000A 1E64 1820 0031 1E64 FE3C 000A 1E64 1800 0931 1E64 FE3C 000A 1E64 1820 0031 
+1E65 FE3C 007B 1E65 1802 0101 1E65 FE3C 000B 1E65 1800 0A31 1E65 FE3C 000B 1E65 
+1820 0031 1E65 FE3C 000B 1E65 1800 0A31 1E65 FE3C 000B 1E65 1820 0031 1E66 FE3C 
+000B 1E66 1800 0A31 1E67 FE3C 000B 1E67 1820 0031 1E67 FE3C 000C 1E67 1800 0B31 
+1E67 FE3C 000C 1E67 1820 0031 1E67 FE3C 000C 1E67 1800 0B31 1E69 FE3C 000C 1E69 
+1820 0031 1E69 FE3C 000C 1E69 1800 0B31 1E69 FE3C 000C 1E69 1820 0031 1E69 FE3C 
+000D 1E69 1800 0C31 1E6A FE3C 000D 1E6A 1820 0031 1E6A FE3C 000D 1E6A 1800 0C31 
+1E6A FE3C 000D 1E6A 1820 0031 1E6A FE3C 000D 1E6A 1800 0C31 1E6B FE3C 000D 1E6B 
+1820 0031 1E6C FE3C 007B 1E6C 1801 FF31 1E6D FE3C 007B 1E6D 1821 0031 1E6D FE3C 
+007B 1E6D 1801 FF31 1E6E FE3C 007B 1E6E 1821 0031 1E6E FE3C 007B 1E6E 1801 FF31 
+1E6E FE3C 007B 1E6E 1821 0031 1E6F FE3C 007B 1E6F 1801 FF31 1E70 FE3C 007B 1E70 
+1821 0031 1E70 FE3C 007B 1E70 1801 FF31 1E71 FE3C 007B 1E71 1821 0031 1E71 FE3C 
+007B 1E71 1801 FF31 1E72 FE3C 007B 1E72 1821 0031 1E72 FE3C 0001 1E72 1101 1080 
+1E72 FE3C 0001 1E72 2150 3001 1E72 FE3C 0001 1E72 2110 0000 1E72 FE3C 0001 1E72 
+15DA 0000 1E72 FE3C 0001 1E72 2192 3000 1E72 FE3C 0001 1E72 2193 3000 1E72 FE3C 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	3922
+Resource tested:	sysplanar0
+Resource Description:	System Planar
+Location:		
+SRC:			14002051
+Description:		Power/Cooling subsystem Unrecovered Error, bypassed
+                        with loss of redundancy. Refer to the system service
+                        documentation for more information.
+Additional Words: 	2-91099002 3-01180000 4-00000000 5-00000000
+			6-00000000 7-00000000 8-00000000 9-00000000
+Possible FRUs:
+    Priority: M FRU: 15R6709  S/N: H80A6N47587  CCIN: RGB6 
+    Location: U787C.001.9180576-P1-E10
+
+---------------------------------------------------------------------------
+LABEL:          SCAN_ERROR_CHRP
+IDENTIFIER:     BFE4C025
+
+Date/Time:       Sat May 25 16:32:51 BEIST 2013
+Sequence Number: 14311
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PERM
+Resource Name:   sysplanar0      
+Resource Class:  planar
+Resource Type:   sysplanar_rspc
+Location:        
+
+Description
+UNDETERMINED ERROR
+
+Failure Causes
+UNDETERMINED
+
+	Recommended Actions
+	RUN SYSTEM DIAGNOSTICS.
+
+Detail Data
+PROBLEM DATA
+0644 00E0 0000 07F8 9600 8E00 0000 0000 0000 0000 4942 4D00 5048 0030 0100 3200 
+2013 0525 0823 0405 2013 0525 0823 0405 5700 0107 0000 0000 0000 0000 0000 0000 
+8804 0048 501D 8DBB 5548 0018 0100 3200 6003 4400 0000 0000 0000 A800 0000 0000 
+5053 00FC 0101 3200 0201 0004 0000 00F4 9109 9802 003B 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 3134 3030 3030 3630 2020 2020 2020 2020 
+2020 2020 2020 2020 2020 2020 2020 2020 C000 002B 542B 4D18 5537 3837 432E 3030 
+312E 3931 3830 3537 362D 4131 0000 0000 4944 1C1D 3431 5530 3334 3100 4D44 4147 
+4831 3041 3747 3636 3539 3500 5045 1C00 3738 3743 2D30 3031 2039 3138 3035 3736 
+0000 0000 0000 0000 542B 4D18 5537 3837 432E 3030 312E 3931 3830 3537 362D 4131 
+2D41 3100 4944 1C1D 3132 5236 3232 3700 0000 0000 0000 0000 0000 0000 0000 0000 
+5045 1C00 3738 3743 2D30 3031 2039 3138 3035 3736 0000 0000 0000 0000 5544 0094 
+0204 4400 0000 0169 2F6F 7074 2F66 6970 732F 6269 6E2F 7074 6C69 6300 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 6230 3931 
+3661 5F39 3930 312E 3234 305F 3037 3038 3336 3031 0000 0000 0000 0000 0000 0002 
+0000 0000 0000 0801 0000 0000 0000 0002 4D54 001C 0100 4400 3934 3538 2D31 3030 
+3931 3830 3643 3700 0000 0000 5544 0410 0000 3200 AAAA AA1F ABCD EF00 0FAC 0004 
+03B1 0314 0000 6091 0998 1F00 3B02 0034 3155 3033 3431 4831 3041 3747 3636 3539 
+3530 3730 3833 3630 3130 3730 3833 3630 3141 2A9C FC2E 147A E141 2A9D 76B3 3333 
+3300 0000 0000 0000 0000 0000 0000 0000 0031 302E 302E 3235 352E 3234 3700 0000 
+3130 2E30 2E30 2E32 3532 0000 0000 0031 302E 302E 302E 3235 3400 0000 0000 3130 
+2E30 2E32 3535 2E32 3438 0000 00E0 A001 3030 3030 0139 3435 382D 3130 3039 3138 
+3036 4337 3934 3538 2D31 3030 3931 3830 3643 3700 0003 4400 EA02 0100 0202 1A0B 
+FFC0 0000 0A00 0AA3 87A3 8707 FFC8 00A0 1AA0 1A07 FFC9 00A0 1AA0 1A07 FFCA 00A0 
+1AA0 1A0B 0190 0000 3E00 3E04 0604 060B 0191 0000 3E00 3E04 0604 060B 0390 0000 
+3E00 3E04 0604 060B 0391 0000 3E00 3E04 0604 0607 0990 0000 1200 1207 0991 0000 
+1200 1207 0992 0000 1200 1207 0998 30FF FE03 9B07 0999 0003 9B03 9B07 099A 0003 
+9B03 9B07 099B 0003 9B03 9B07 099C 0003 9B03 9B07 099D 0003 9B03 9B07 0A90 0000 
+1200 1207 0A91 0000 1200 1207 0A92 0000 1200 1207 0B90 0000 1200 1207 0B91 0000 
+1200 1207 0B92 0000 1200 1207 0C90 0000 1200 1207 0C91 0000 1200 1207 0C92 0000 
+1200 1200 EA01 0100 0202 1A0B FF80 0000 0A00 0AA3 87A3 8707 FF88 00A0 1AA0 1A07 
+FF89 00A0 1AA0 1A07 FF8A 00A0 1AA0 1A0B 0190 0000 3E00 3E04 0604 060B 0191 0000 
+3E00 3E04 0604 060B 0390 0000 3E00 3E04 0604 060B 0391 0000 3E00 3E04 0604 0607 
+0990 0000 1200 1207 0991 0000 1200 1207 0992 0000 1200 1207 0998 30FF FE03 9B07 
+0999 0003 9B03 9B07 099A 0003 9B03 9B07 099B 0003 9B03 9B07 099C 0003 9B03 9B07 
+099D 0003 9B03 9B07 0A90 0000 1200 1207 0A91 0000 1200 1207 0A92 0000 1200 1207 
+0B90 0000 1200 1207 0B91 0000 1200 1207 0B92 0000 1200 1207 0C90 0000 1200 1207 
+0C91 0000 1200 1207 0C92 0000 1200 1201 2200 0D4E 6D9C 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 000D 4E70 6000 0309 0137 3837 432D 3030 3120 
+3931 3830 3537 3600 0000 0000 0D4E 7233 0001 3931 3139 2D35 3935 2038 3341 3641 
+4130 0000 0000 0000 000D 4E45 3300 0139 3131 392D 3539 3520 3833 4136 4141 3000 
+0000 0000 0000 0D4E 6564 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 000D 4E66 3100 00FF 0100 000F 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0D4E 6A9C 0101 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 000D 4E6B 
+9C00 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0D4E 6C60 0082 
+0901 3931 3139 2D35 3935 2038 3341 3641 4130 013C 0002 000D 4E6D 9C01 0100 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 000C 0201 0309 9800 EB4D 4441 4734 
+3155 3033 3431 2020 2020 4A39 3935 3933 4831 3041 3747 3636 3539 3580 0080 0100 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00FE DCBA 0000 5544 01E4 
+0000 3F30 1944 FE3C 0004 1944 1820 0031 1944 FE3C 0004 1944 1800 0331 1944 FE3C 
+0004 1944 1820 0031 1945 FE3C 007A 1945 1802 0200 1945 FE3C 0004 1945 1800 0331 
+1946 FE3C 0004 1946 1820 0031 1946 FE3C 0004 1946 1800 0331 1947 FE3C 0004 1947 
+1820 0031 1947 FE3C 0004 1947 1800 0331 1947 FE3C 0004 1947 1820 0031 1947 FE3C 
+0005 1947 1800 0431 1949 FE3C 0005 1949 1820 0031 1949 FE3C 007B 1949 1830 B001 
+1949 FE3C 0005 1949 1800 0431 194A FE3C 0005 194A 1820 0031 194A FE3C 0005 194A 
+1800 0464 194A FE3C 0005 194A 1820 0064 194A FE3C 0005 194A 1801 0464 1954 FE3C 
+0005 1954 1821 0064 1954 FE3C 007A 1954 1800 FF31 1954 FE3C 007A 1954 1820 0031 
+1954 FE3C 000A 1954 1807 091B 1954 FE3C 000A 1954 0200 0060 1954 FE3C 007A 1954 
+1830 A000 1955 FE3C 007B 1955 1801 FF31 1955 FE3C 007B 1955 1821 0031 1955 FE3C 
+007A 1955 1800 1BEF 1956 FE3C 007A 1956 1820 00EF 1956 FE3C 000A 1956 0200 0000 
+1957 FE3C 007B 1957 1830 A001 1957 FE3C 007A 1957 1800 0960 1959 FE3C 007A 1959 
+1820 0060 1959 FE3C 007B 1959 1801 0960 195B FE3C 007B 195B 1821 0060 195C FE3C 
+007A 195C 1800 0960 195D FE3C 007A 195D 1820 0060 195D FE3C 007A 195D 1802 0100 
+195D FE3C 007B 195D 1801 0960 195F FE3C 007B 195F 1821 0060 195F FE3C 007A 195F 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	3920
+Resource tested:	sysplanar0
+Resource Description:	System Planar
+Location:		
+SRC:			14000060
+Description:		Power/Cooling subsystem Unrecovered Error, bypassed
+                        with loss of redundancy. Refer to the system service
+                        documentation for more information.
+Additional Words: 	2-91099802 3-003B0000 4-00000000 5-00000000
+			6-00000000 7-00000000 8-00000000 9-00000000
+Possible FRUs:
+    Priority: M FRU: 41U0341  S/N: H10A7G66595  CCIN: MDAG 
+    Location: U787C.001.9180576-A1
+    Priority: M FRU: 12R6227  S/N: n/a          CCIN: n/a  
+    Location: U787C.001.9180576-A1-A1
+
+---------------------------------------------------------------------------
+LABEL:          SCAN_ERROR_CHRP
+IDENTIFIER:     BFE4C025
+
+Date/Time:       Sat May 25 16:32:21 BEIST 2013
+Sequence Number: 14310
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PERM
+Resource Name:   sysplanar0      
+Resource Class:  planar
+Resource Type:   sysplanar_rspc
+Location:        
+
+Description
+UNDETERMINED ERROR
+
+Failure Causes
+UNDETERMINED
+
+	Recommended Actions
+	RUN SYSTEM DIAGNOSTICS.
+
+Detail Data
+PROBLEM DATA
+0644 00E0 0000 07F8 9600 8E00 0000 0000 0000 0000 4942 4D00 5048 0030 0100 3200 
+2013 0525 0822 2846 2013 0525 0822 2846 5700 0107 0000 0000 0000 0000 0000 0000 
+8604 0044 501D 8D94 5548 0018 0100 3200 6003 4400 0000 0000 0000 A800 0000 0000 
+5053 00FC 0101 3200 0201 0004 0000 00F4 9109 9802 003B 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 3134 3030 3030 3630 2020 2020 2020 2020 
+2020 2020 2020 2020 2020 2020 2020 2020 C000 002B 542B 4D18 5537 3837 432E 3030 
+312E 3931 3830 3537 362D 4131 0000 0000 4944 1C1D 3431 5530 3334 3100 4D44 4147 
+4831 3041 3747 3636 3539 3500 5045 1C00 3738 3743 2D30 3031 2039 3138 3035 3736 
+0000 0000 0000 0000 542B 4D18 5537 3837 432E 3030 312E 3931 3830 3537 362D 4131 
+2D41 3100 4944 1C1D 3132 5236 3232 3700 0000 0000 0000 0000 0000 0000 0000 0000 
+5045 1C00 3738 3743 2D30 3031 2039 3138 3035 3736 0000 0000 0000 0000 5544 0094 
+0204 4400 0000 018B 2F6F 7074 2F66 6970 732F 6269 6E2F 7074 6C69 6300 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 6230 3931 
+3661 5F39 3930 312E 3234 305F 3037 3038 3336 3031 0000 0000 0000 0000 0000 0001 
+0000 0000 0000 0801 0000 0000 0000 0002 4D54 001C 0100 4400 3934 3538 2D31 3030 
+3931 3830 3643 3700 0000 0000 5544 0410 0000 3200 AAAA AA1B ABCD EF00 0FAC 0004 
+03B1 0314 0000 6091 0998 1B00 3B02 0034 3155 3033 3431 4831 3041 3747 3636 3539 
+3530 3730 3833 3630 3130 3730 3833 3630 3141 2A9C BBAE 147A E241 2A9D 365C 28F5 
+C300 0000 0000 0000 0000 0000 0000 0000 0031 302E 302E 302E 3235 3400 0000 0000 
+3130 2E30 2E32 3535 2E32 3438 0000 0031 302E 302E 3235 352E 3234 3700 0000 3130 
+2E30 2E30 2E32 3532 0000 0000 00E0 A801 3030 3030 0139 3435 382D 3130 3039 3138 
+3036 4337 3934 3538 2D31 3030 3931 3830 3643 3700 0003 4400 EA01 0102 0202 1A0B 
+FF80 0000 0A00 0AA3 87A3 8707 FF88 00A0 1AA0 1A07 FF89 00A0 1AA0 1A07 FF8A 00A0 
+1AA0 1A0B 0190 0000 3E00 3E04 0604 060B 0191 0000 3E00 3E04 0604 060B 0390 0000 
+3E00 3E04 0604 060B 0391 0000 3E00 3E04 0604 0607 0990 0000 1200 1207 0991 0000 
+1200 1207 0992 0000 1200 1207 0998 30FF FE03 9B07 0999 0003 9B03 9B07 099A 0003 
+9B03 9B07 099B 0003 9B03 9B07 099C 0003 9B03 9B07 099D 0003 9B03 9B07 0A90 0000 
+1200 1207 0A91 0000 1200 1207 0A92 0000 1200 1207 0B90 0000 1200 1207 0B91 0000 
+1200 1207 0B92 0000 1200 1207 0C90 0000 1200 1207 0C91 0000 1200 1207 0C92 0000 
+1200 1200 EA02 0102 0202 1A0B FFC0 0000 0A00 0AA3 87A3 8707 FFC8 00A0 1AA0 1A07 
+FFC9 00A0 1AA0 1A07 FFCA 00A0 1AA0 1A0B 0190 0000 3E00 3E04 0604 060B 0191 0000 
+3E00 3E04 0604 060B 0390 0000 3E00 3E04 0604 060B 0391 0000 3E00 3E04 0604 0607 
+0990 0000 1200 1207 0991 0000 1200 1207 0992 0000 1200 1207 0998 30FF FE03 9B07 
+0999 0003 9B03 9B07 099A 0003 9B03 9B07 099B 0003 9B03 9B07 099C 0003 9B03 9B07 
+099D 0003 9B03 9B07 0A90 0000 1200 1207 0A91 0000 1200 1207 0A92 0000 1200 1207 
+0B90 0000 1200 1207 0B91 0000 1200 1207 0B92 0000 1200 1207 0C90 0000 1200 1207 
+0C91 0000 1200 1207 0C92 0000 1200 1201 2200 0D4E 5731 0000 03D0 0001 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 000D 4E58 3100 0003 D100 0100 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0D4E 5A31 0000 0401 0000 0F00 0000 0000 0000 0000 
+0000 0000 0000 0000 000D 4E5B 3100 0004 9000 0080 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0D4E 5B64 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 000D 4E53 3100 0002 D200 0100 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0D4E 5531 0000 02D3 0001 0000 0000 0000 0000 0000 0000 0000 0000 0000 000D 4E55 
+3100 0003 0100 000F 0000 0000 0000 0000 0000 0000 0000 0000 0000 0D4E 5631 0000 
+0390 0000 8000 0000 0000 0000 0000 0000 0000 0000 0000 000D 4E57 3100 0003 9100 
+0080 0000 0000 0000 0000 0000 0000 0000 0000 000C 0201 0309 9800 EB4D 4441 4734 
+3155 3033 3431 2020 2020 4A39 3935 3933 4831 3041 3747 3636 3539 3580 0080 0100 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00FE DCBA 0000 5544 01E4 
+0000 3F30 1925 FE3C 007A 1925 1800 0960 1927 FE3C 007A 1927 1820 0060 1927 FE3C 
+007B 1927 1801 15EF 1927 FE3C 007B 1927 1821 00EF 1927 FE3C 000A 1927 0200 0000 
+1928 FE3C 007B 1928 1801 0960 192B FE3C 007B 192B 1821 0060 192B FE3C 000A 192B 
+1807 0916 192B FE3C 000A 192B 0200 0060 192B FE3C 007A 192B 1830 A800 192B FE3C 
+007A 192B 1800 0960 192C FE3C 007A 192C 1820 0060 192C FE3C 007A 192C 1800 16EF 
+192C FE3C 007A 192C 1820 00EF 192C FE3C 000A 192C 0200 0000 192C FE3C 007B 192C 
+1801 0960 1931 FE3C 007B 1931 1821 0060 1931 FE3C 007A 1931 1800 3933 1932 FE3C 
+007A 1932 1820 0033 1933 FE3C 007B 1933 1801 3933 1934 FE3C 007B 1934 1821 0033 
+1934 FE3C 007A 1934 1800 FF31 1936 FE3C 007A 1936 1820 0031 1936 FE3C 007A 1936 
+1800 FF31 1936 FE3C 007A 1936 1820 0031 1936 FE3C 007A 1936 1800 FF31 1937 FE3C 
+007A 1937 1820 0031 1937 FE3C 007A 1937 1802 0300 1937 FE3C 007A 1937 1800 FF31 
+1939 FE3C 007A 1939 1820 0031 1939 FE3C 007A 1939 1800 FF31 1939 FE3C 007A 1939 
+1820 0031 1939 FE3C 007A 1939 1800 FF31 193A FE3C 007A 193A 1820 0031 193A FE3C 
+007A 193A 1800 FF31 193A FE3C 007A 193A 1820 0031 193A FE3C 0002 193A 1800 0131 
+193B FE3C 0002 193B 1820 0031 193B FE3C 0002 193B 1800 0131 193C FE3C 0002 193C 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	3918
+Resource tested:	sysplanar0
+Resource Description:	System Planar
+Location:		
+SRC:			14000060
+Description:		Power/Cooling subsystem Unrecovered Error, bypassed
+                        with loss of redundancy. Refer to the system service
+                        documentation for more information.
+Additional Words: 	2-91099802 3-003B0000 4-00000000 5-00000000
+			6-00000000 7-00000000 8-00000000 9-00000000
+Possible FRUs:
+    Priority: M FRU: 41U0341  S/N: H10A7G66595  CCIN: MDAG 
+    Location: U787C.001.9180576-A1
+    Priority: M FRU: 12R6227  S/N: n/a          CCIN: n/a  
+    Location: U787C.001.9180576-A1-A1
+
+---------------------------------------------------------------------------
+LABEL:          SCAN_ERROR_CHRP
+IDENTIFIER:     BFE4C025
+
+Date/Time:       Sat May 25 16:31:06 BEIST 2013
+Sequence Number: 14309
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PERM
+Resource Name:   sysplanar0      
+Resource Class:  planar
+Resource Type:   sysplanar_rspc
+Location:        
+
+Description
+UNDETERMINED ERROR
+
+Failure Causes
+UNDETERMINED
+
+	Recommended Actions
+	RUN SYSTEM DIAGNOSTICS.
+
+Detail Data
+PROBLEM DATA
+0644 00E0 0000 07F8 9600 8E00 0000 0000 0000 0000 4942 4D00 5048 0030 0100 3200 
+2013 0525 0821 4578 2013 0525 0821 4578 5700 0107 0000 0000 0000 0000 0000 0000 
+8604 003F 501D 8D58 5548 0018 0100 3200 6003 4400 0000 0000 0000 A800 0000 0000 
+5053 00FC 0101 3200 0201 0004 0000 00F4 9109 9802 003B 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 3134 3030 3030 3630 2020 2020 2020 2020 
+2020 2020 2020 2020 2020 2020 2020 2020 C000 002B 542B 4D18 5537 3837 432E 3030 
+312E 3931 3830 3537 362D 4131 0000 0000 4944 1C1D 3431 5530 3334 3100 4D44 4147 
+4831 3041 3747 3636 3539 3500 5045 1C00 3738 3743 2D30 3031 2039 3138 3035 3736 
+0000 0000 0000 0000 542B 4D18 5537 3837 432E 3030 312E 3931 3830 3537 362D 4131 
+2D41 3100 4944 1C1D 3132 5236 3232 3700 0000 0000 0000 0000 0000 0000 0000 0000 
+5045 1C00 3738 3743 2D30 3031 2039 3138 3035 3736 0000 0000 0000 0000 5544 0094 
+0204 4400 0000 018B 2F6F 7074 2F66 6970 732F 6269 6E2F 7074 6C69 6300 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 6230 3931 
+3661 5F39 3930 312E 3234 305F 3037 3038 3336 3031 0000 0000 0000 0000 0000 0001 
+0000 0000 0000 0801 0000 0000 0000 0002 4D54 001C 0100 4400 3934 3538 2D31 3030 
+3931 3830 3643 3700 0000 0000 5544 0410 0000 3200 AAAA AA16 ABCD EF00 0FAC 0004 
+03B1 0314 0000 6091 0998 1600 3B02 0034 3155 3033 3431 4831 3041 3747 3636 3539 
+3530 3730 3833 3630 3130 3730 3833 3630 3141 2A9C 463D 70A3 D741 2A9C C0EB 851E 
+B800 0000 0000 0000 0000 0000 0000 0000 0031 302E 302E 302E 3235 3400 0000 0000 
+3130 2E30 2E32 3535 2E32 3438 0000 0031 302E 302E 3235 352E 3234 3700 0000 3130 
+2E30 2E30 2E32 3532 0000 0000 00E0 A001 3030 3030 0139 3435 382D 3130 3039 3138 
+3036 4337 3934 3538 2D31 3030 3931 3830 3643 3700 0003 4400 EA01 0102 0202 1A0B 
+FF80 0000 0A00 0AA3 87A3 8707 FF88 00A0 1AA0 1A07 FF89 00A0 1AA0 1A07 FF8A 00A0 
+1AA0 1A0B 0190 0000 3E00 3E04 0604 060B 0191 0000 3E00 3E04 0604 060B 0390 0000 
+3E00 3E04 0604 060B 0391 0000 3E00 3E04 0604 0607 0990 0000 1200 1207 0991 0000 
+1200 1207 0992 0000 1200 1207 0998 30FF FE03 9B07 0999 0003 9B03 9B07 099A 0003 
+9B03 9B07 099B 0003 9B03 9B07 099C 0003 9B03 9B07 099D 0003 9B03 9B07 0A90 0000 
+1200 1207 0A91 0000 1200 1207 0A92 0000 1200 1207 0B90 0000 1200 1207 0B91 0000 
+1200 1207 0B92 0000 1200 1207 0C90 0000 1200 1207 0C91 0000 1200 1207 0C92 0000 
+1200 1200 EA02 0102 0202 1A0B FFC0 0000 0A00 0AA3 87A3 8707 FFC8 00A0 1AA0 1A07 
+FFC9 00A0 1AA0 1A07 FFCA 00A0 1AA0 1A0B 0190 0000 3E00 3E04 0604 060B 0191 0000 
+3E00 3E04 0604 060B 0390 0000 3E00 3E04 0604 060B 0391 0000 3E00 3E04 0604 0607 
+0990 0000 1200 1207 0991 0000 1200 1207 0992 0000 1200 1207 0998 0003 9B03 9B07 
+0999 0003 9B03 9B07 099A 0003 9B03 9B07 099B 0003 9B03 9B07 099C 0003 9B03 9B07 
+099D 0003 9B03 9B07 0A90 0000 1200 1207 0A91 0000 1200 1207 0A92 0000 1200 1207 
+0B90 0000 1200 1207 0B91 0000 1200 1207 0B92 0000 1200 1207 0C90 0000 1200 1207 
+0C91 0000 1200 1207 0C92 0000 1200 1201 2200 0015 9031 0000 0B90 0000 8000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 1592 3100 000B 9100 0080 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0015 9331 0000 0B92 0000 8000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 1593 3100 000C 9000 0080 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0015 9431 0000 0C91 0000 8000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 1595 3100 000C 9200 0080 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+001B 4E27 0000 FF01 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 000D 3ADA 
+EF00 0014 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0D3A DC27 0000 
+FF01 0100 0000 0000 0000 0000 0000 0000 0000 0000 0000 000D 4999 2700 00FF 0102 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 000C 0201 0309 9800 EB4D 4441 4734 
+3155 3033 3431 2020 2020 4A39 3935 3933 4831 3041 3747 3636 3539 3580 0080 0100 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00FE DCBA 0000 5544 01E4 
+0000 3F30 0A2E FE3C 0001 0A2E 2150 0901 0A2E FE3C 0001 0A2E 2150 0901 0A2F FE3C 
+0001 0A2F 2150 2406 0A2F FE3C 0001 0A2F 2150 2001 0A2F FE3C 0001 0A2F 2150 2001 
+0A31 FE3C 0001 0A31 2150 2101 0A31 FE3C 0001 0A31 2150 2101 0A32 FE3C 0001 0A32 
+2150 0801 0A32 FE3C 0001 0A32 2150 0801 0A34 FE3C 0001 0A34 2150 0901 0A34 FE3C 
+0001 0A34 2150 0901 0A3E FE3C 0001 0A3E 2150 1D01 0A3E FE3C 0001 0A3E 2150 1D01 
+0A3F FE3C 0001 0A3F 1593 7DD0 0A3F FE3C 0001 0A3F 1593 7DD1 0A3F FE3C 0001 0A3F 
+1593 7DD2 0A3F FE3C 0001 0A3F 1593 7DD3 0A41 FE3C 0001 0A41 2150 1E01 0A41 FE3C 
+0001 0A41 2150 0901 0A41 FE3C 0001 0A41 2150 0901 0A43 FE3C 0001 0A43 2150 1E01 
+0A43 FE3C 0001 0A43 2150 0901 0A43 FE3C 0001 0A43 2150 0901 0A44 FE3C 0001 0A44 
+2150 1E01 0A44 FE3C 0001 0A44 2150 0901 0A44 FE3C 0001 0A44 2150 0901 0A45 FE3C 
+0001 0A45 2150 1E01 0A45 FE3C 0001 0A45 2150 0901 0A45 FE3C 0001 0A45 2150 0901 
+0A46 FE3C 0001 0A46 2150 1E01 0A46 FE3C 0001 0A46 2150 0901 0A47 FE3C 0001 0A47 
+2150 0901 0FC4 FE3C 007A 0FC4 1800 FF27 0FC5 FE3C 007A 0FC5 1820 0027 0FC5 FE3C 
+007B 0FC5 1801 FF27 0FC6 FE3C 007B 0FC6 1821 0027 0601 FE3C 000A 0601 2500 000D 
+0601 FE3C 000A 0601 1807 0914 0601 FE3C 000A 0601 0200 0061 0601 FE3C 007A 0601 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	3916
+Resource tested:	sysplanar0
+Resource Description:	System Planar
+Location:		
+SRC:			14000060
+Description:		Power/Cooling subsystem Unrecovered Error, bypassed
+                        with loss of redundancy. Refer to the system service
+                        documentation for more information.
+Additional Words: 	2-91099802 3-003B0000 4-00000000 5-00000000
+			6-00000000 7-00000000 8-00000000 9-00000000
+Possible FRUs:
+    Priority: M FRU: 41U0341  S/N: H10A7G66595  CCIN: MDAG 
+    Location: U787C.001.9180576-A1
+    Priority: M FRU: 12R6227  S/N: n/a          CCIN: n/a  
+    Location: U787C.001.9180576-A1-A1
+
+---------------------------------------------------------------------------
+LABEL:          SCAN_ERROR_CHRP
+IDENTIFIER:     BFE4C025
+
+Date/Time:       Sat May 25 16:30:36 BEIST 2013
+Sequence Number: 14308
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PERM
+Resource Name:   sysplanar0      
+Resource Class:  planar
+Resource Type:   sysplanar_rspc
+Location:        
+
+Description
+UNDETERMINED ERROR
+
+Failure Causes
+UNDETERMINED
+
+	Recommended Actions
+	RUN SYSTEM DIAGNOSTICS.
+
+Detail Data
+PROBLEM DATA
+0644 00E0 0000 07F8 9600 8E00 0000 0000 0000 0000 4942 4D00 5048 0030 0100 3200 
+2013 0525 0821 4076 2013 0525 0821 4076 5700 0107 0000 0000 0000 0000 0000 0000 
+8804 003E 501D 8D4B 5548 0018 0100 3200 6003 4400 0000 0000 0000 A800 0000 0000 
+5053 00FC 0101 3200 0201 0004 0000 00F4 9109 9802 003B 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 3134 3030 3030 3630 2020 2020 2020 2020 
+2020 2020 2020 2020 2020 2020 2020 2020 C000 002B 542B 4D18 5537 3837 432E 3030 
+312E 3931 3830 3537 362D 4131 0000 0000 4944 1C1D 3431 5530 3334 3100 4D44 4147 
+4831 3041 3747 3636 3539 3500 5045 1C00 3738 3743 2D30 3031 2039 3138 3035 3736 
+0000 0000 0000 0000 542B 4D18 5537 3837 432E 3030 312E 3931 3830 3537 362D 4131 
+2D41 3100 4944 1C1D 3132 5236 3232 3700 0000 0000 0000 0000 0000 0000 0000 0000 
+5045 1C00 3738 3743 2D30 3031 2039 3138 3035 3736 0000 0000 0000 0000 5544 0094 
+0204 4400 0000 0169 2F6F 7074 2F66 6970 732F 6269 6E2F 7074 6C69 6300 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 6230 3931 
+3661 5F39 3930 312E 3234 305F 3037 3038 3336 3031 0000 0000 0000 0000 0000 0002 
+0000 0000 0000 0801 0000 0000 0000 0002 4D54 001C 0100 4400 3934 3538 2D31 3030 
+3931 3830 3643 3700 0000 0000 5544 0410 0000 3200 AAAA AA15 ABCD EF00 0FAC 0004 
+03B1 0314 0000 6091 0998 1500 3B02 0034 3155 3033 3431 4831 3041 3747 3636 3539 
+3530 3730 3833 3630 3130 3730 3833 3630 3141 2A9C 543D 70A3 D741 2A9C CEC2 8F5C 
+2900 0000 0000 0000 0000 0000 0000 0000 0031 302E 302E 3235 352E 3234 3700 0000 
+3130 2E30 2E30 2E32 3532 0000 0000 0031 302E 302E 302E 3235 3400 0000 0000 3130 
+2E30 2E32 3535 2E32 3438 0000 00E0 A001 3030 3030 0139 3435 382D 3130 3039 3138 
+3036 4337 3934 3538 2D31 3030 3931 3830 3643 3700 0003 4400 EA02 0100 0202 1A0B 
+FFC0 0000 0A00 0AA3 87A3 8707 FFC8 00A0 1AA0 1A07 FFC9 00A0 1AA0 1A07 FFCA 00A0 
+1AA0 1A0B 0190 0000 3E00 3E04 0604 060B 0191 0000 3E00 3E04 0604 060B 0390 0000 
+3E00 3E04 0604 060B 0391 0000 3E00 3E04 0604 0607 0990 0000 1200 1207 0991 0000 
+1200 1207 0992 0000 1200 1207 0998 0003 9B03 9B07 0999 0003 9B03 9B07 099A 0003 
+9B03 9B07 099B 0003 9B03 9B07 099C 0003 9B03 9B07 099D 0003 9B03 9B07 0A90 0000 
+1200 1207 0A91 0000 1200 1207 0A92 0000 1200 1207 0B90 0000 1200 1207 0B91 0000 
+1200 1207 0B92 0000 1200 1207 0C90 0000 1200 1207 0C91 0000 1200 1207 0C92 0000 
+1200 1200 EA01 0102 0202 1A0B FF80 0000 0A00 0AA3 87A3 8707 FF88 00A0 1AA0 1A07 
+FF89 00A0 1AA0 1A07 FF8A 00A0 1AA0 1A0B 0190 0000 3E00 3E04 0604 060B 0191 0000 
+3E00 3E04 0604 060B 0390 0000 3E00 3E04 0604 060B 0391 0000 3E00 3E04 0604 0607 
+0990 0000 1200 1207 0991 0000 1200 1207 0992 0000 1200 1207 0998 30FF FE03 9B07 
+0999 0003 9B03 9B07 099A 0003 9B03 9B07 099B 0003 9B03 9B07 099C 0003 9B03 9B07 
+099D 0003 9B03 9B07 0A90 0000 1200 1207 0A91 0000 1200 1207 0A92 0000 1200 1207 
+0B90 0000 1200 1207 0B91 0000 1200 1207 0B92 0000 1200 1207 0C90 0000 1200 1207 
+0C91 0000 1200 1207 0C92 0000 1200 1201 2200 0D49 9613 0000 000F 3733 3130 4352 
+342A 3036 3541 3130 4200 0000 0000 000D 4999 1001 0036 2D00 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0D49 A027 0000 FF01 0200 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 000D 4DF1 1101 0136 2D00 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0015 9731 0000 FFC9 0000 8000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 1597 3100 00FF CA00 0080 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+001B 4E27 0000 FF01 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 000D 3ADD 
+EF00 0014 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0D3A DE27 0000 
+FF01 0100 0000 0000 0000 0000 0000 0000 0000 0000 0000 000D 4994 9B01 0036 2D00 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 000C 0201 0309 9800 EB4D 4441 4734 
+3155 3033 3431 2020 2020 4A39 3935 3933 4831 3041 3747 3636 3539 3580 0080 0100 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00FE DCBA 0000 5544 01E4 
+0000 3F30 0A21 FE3C 0001 0A21 2193 3001 0A21 FE3C 0001 0A21 1101 1080 0A21 FE3C 
+0001 0A21 1101 1000 0A23 FE3C 0001 0A23 1100 1000 0A23 FE3C 0001 0A23 1100 1000 
+0A2E FE3C 0001 0A2E 1593 7DD0 0A2E FE3C 0001 0A2E 1593 7DD1 0A2E FE3C 0001 0A2E 
+1593 7DD2 0A2E FE3C 0001 0A2E 1593 7DD3 0A2E FE3C 0001 0A2E 2150 1E01 0A2E FE3C 
+0001 0A2E 2150 0901 0A2E FE3C 0001 0A2E 2150 0901 0A2F FE3C 0001 0A2F 2150 2406 
+0A2F FE3C 0001 0A2F 2150 2001 0A2F FE3C 0001 0A2F 2150 2001 0A31 FE3C 0001 0A31 
+2150 2101 0A31 FE3C 0001 0A31 2150 2101 0A32 FE3C 0001 0A32 2150 0801 0A32 FE3C 
+0001 0A32 2150 0801 0A34 FE3C 0001 0A34 2150 0901 0A34 FE3C 0001 0A34 2150 0901 
+0A3E FE3C 0001 0A3E 2150 1D01 0A3E FE3C 0001 0A3E 2150 1D01 0A3F FE3C 0001 0A3F 
+1593 7DD0 0A3F FE3C 0001 0A3F 1593 7DD1 0A3F FE3C 0001 0A3F 1593 7DD2 0A3F FE3C 
+0001 0A3F 1593 7DD3 0A41 FE3C 0001 0A41 2150 1E01 0A41 FE3C 0001 0A41 2150 0901 
+0A41 FE3C 0001 0A41 2150 0901 0A43 FE3C 0001 0A43 2150 1E01 0A43 FE3C 0001 0A43 
+2150 0901 0A43 FE3C 0001 0A43 2150 0901 0A44 FE3C 0001 0A44 2150 1E01 0A44 FE3C 
+0001 0A44 2150 0901 0A44 FE3C 0001 0A44 2150 0901 0A45 FE3C 0001 0A45 2150 1E01 
+0A45 FE3C 0001 0A45 2150 0901 0A45 FE3C 0001 0A45 2150 0901 0A46 FE3C 0001 0A46 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	3914
+Resource tested:	sysplanar0
+Resource Description:	System Planar
+Location:		
+SRC:			14000060
+Description:		Power/Cooling subsystem Unrecovered Error, bypassed
+                        with loss of redundancy. Refer to the system service
+                        documentation for more information.
+Additional Words: 	2-91099802 3-003B0000 4-00000000 5-00000000
+			6-00000000 7-00000000 8-00000000 9-00000000
+Possible FRUs:
+    Priority: M FRU: 41U0341  S/N: H10A7G66595  CCIN: MDAG 
+    Location: U787C.001.9180576-A1
+    Priority: M FRU: 12R6227  S/N: n/a          CCIN: n/a  
+    Location: U787C.001.9180576-A1-A1
+
+---------------------------------------------------------------------------
+LABEL:          SCAN_ERROR_CHRP
+IDENTIFIER:     BFE4C025
+
+Date/Time:       Sat May 25 15:08:36 BEIST 2013
+Sequence Number: 14307
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PERM
+Resource Name:   sysplanar0      
+Resource Class:  planar
+Resource Type:   sysplanar_rspc
+Location:        
+
+Description
+UNDETERMINED ERROR
+
+Failure Causes
+UNDETERMINED
+
+	Recommended Actions
+	RUN SYSTEM DIAGNOSTICS.
+
+Detail Data
+PROBLEM DATA
+0644 00E0 0000 07F8 9600 8E00 0000 0000 0000 0000 4942 4D00 5048 0030 0100 3200 
+2013 0525 0659 0552 2013 0525 0659 0552 5700 0107 0000 0000 0000 0000 0000 0000 
+8804 003D 501D 719F 5548 0018 0100 3200 6003 4400 0000 0000 0000 A800 0000 0000 
+5053 00FC 0101 3200 0201 0004 0000 00F4 9109 9902 003B 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 3134 3030 3030 3631 2020 2020 2020 2020 
+2020 2020 2020 2020 2020 2020 2020 2020 C000 002B 542B 4D18 5537 3837 432E 3030 
+312E 3931 3830 3537 362D 4132 0000 0000 4944 1C1D 3431 5530 3334 3100 4D44 4147 
+4831 3041 3744 3630 3238 3000 5045 1C00 3738 3743 2D30 3031 2039 3138 3035 3736 
+0000 0000 0000 0000 542B 4D18 5537 3837 432E 3030 312E 3931 3830 3537 362D 4132 
+2D41 3100 4944 1C1D 3132 5236 3232 3700 0000 0000 0000 0000 0000 0000 0000 0000 
+5045 1C00 3738 3743 2D30 3031 2039 3138 3035 3736 0000 0000 0000 0000 5544 0094 
+0204 4400 0000 0169 2F6F 7074 2F66 6970 732F 6269 6E2F 7074 6C69 6300 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 6230 3931 
+3661 5F39 3930 312E 3234 305F 3037 3038 3336 3031 0000 0000 0000 0000 0000 0002 
+0000 0000 0000 0801 0000 0000 0000 0002 4D54 001C 0100 4400 3934 3538 2D31 3030 
+3931 3830 3643 3700 0000 0000 5544 0410 0000 3200 AAAA AA14 ABCD EF00 0FAC 0004 
+03B1 0314 0000 6191 0999 1400 3B02 0034 3155 3033 3431 4831 3041 3744 3630 3238 
+3030 3730 3833 3630 3130 3730 3833 3630 3141 2A75 AB8F 5C28 F641 2A76 2614 7AE1 
+4800 0000 0000 0000 0000 0000 0000 0000 0031 302E 302E 3235 352E 3234 3700 0000 
+3130 2E30 2E30 2E32 3532 0000 0000 0031 302E 302E 302E 3235 3400 0000 0000 3130 
+2E30 2E32 3535 2E32 3438 0000 00E0 A001 3030 3030 0139 3435 382D 3130 3039 3138 
+3036 4337 3934 3538 2D31 3030 3931 3830 3643 3700 0003 4400 EA02 0100 0202 1A0B 
+FFC0 0000 0A00 0AA3 87A3 8707 FFC8 00A0 1AA0 1A07 FFC9 00A0 1AA0 1A07 FFCA 00A0 
+1AA0 1A0B 0190 0000 3E00 3E04 0604 060B 0191 0000 3E00 3E04 0604 060B 0390 0000 
+3E00 3E04 0604 060B 0391 0000 3E00 3E04 0604 0607 0990 0000 1200 1207 0991 0000 
+1200 1207 0992 0000 1200 1207 0998 0003 9B03 9B07 0999 30FF FE03 9B07 099A 0003 
+9B03 9B07 099B 0003 9B03 9B07 099C 0003 9B03 9B07 099D 0003 9B03 9B07 0A90 0000 
+1200 1207 0A91 0000 1200 1207 0A92 0000 1200 1207 0B90 0000 1200 1207 0B91 0000 
+1200 1207 0B92 0000 1200 1207 0C90 0000 1200 1207 0C91 0000 1200 1207 0C92 0000 
+1200 1200 EA01 0100 0202 1A0B FF80 0000 0A00 0AA3 87A3 8707 FF88 00A0 1AA0 1A07 
+FF89 00A0 1AA0 1A07 FF8A 00A0 1AA0 1A0B 0190 0000 3E00 3E04 0604 060B 0191 0000 
+3E00 3E04 0604 060B 0390 0000 3E00 3E04 0604 060B 0391 0000 3E00 3E04 0604 0607 
+0990 0000 1200 1207 0991 0000 1200 1207 0992 0000 1200 1207 0998 0003 9B03 9B07 
+0999 30FF FE03 9B07 099A 0003 9B03 9B07 099B 0003 9B03 9B07 099C 0003 9B03 9B07 
+099D 0003 9B03 9B07 0A90 0000 1200 1207 0A91 0000 1200 1207 0A92 0000 1200 1207 
+0B90 0000 1200 1207 0B91 0000 1200 1207 0B92 0000 1200 1207 0C90 0000 1200 1207 
+0C91 0000 1200 1207 0C92 0000 1200 1201 2200 0015 9431 0000 FFC0 0000 8000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 1595 3100 00FF C100 0080 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0015 9631 0000 FFC2 0000 8000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 1596 3100 00FF C800 0080 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0015 9731 0000 FFC9 0000 8000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 1597 3100 00FF CA00 0080 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+001B 4E27 0000 FF01 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 1565 
+9C00 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0015 6860 0003 
+0901 3738 3743 2D30 3031 2039 3138 3035 3736 0000 0000 0000 156A 3300 0139 3131 
+392D 3539 3520 3833 4136 4141 3000 0000 0000 000C 0201 0309 9900 EB4D 4441 4734 
+3155 3033 3431 2020 2020 4A39 3935 3933 4831 3041 3744 3630 3238 3080 0080 0100 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00FE DCBA 0000 5544 01E4 
+0000 3F30 0A1B FE3C 000C 0A1B 1800 0B31 0A1B FE3C 000C 0A1B 1820 0031 0A1B FE3C 
+000D 0A1B 1800 0C31 0A1C FE3C 000D 0A1C 1820 0031 0A1C FE3C 000D 0A1C 1800 0C31 
+0A1D FE3C 000D 0A1D 1820 0031 0A1D FE3C 000D 0A1D 1800 0C31 0A1D FE3C 000D 0A1D 
+1820 0031 0A1D FE3C 007B 0A1D 1801 FF31 0A1D FE3C 007B 0A1D 1821 0031 0A1E FE3C 
+007B 0A1E 1801 FF31 0A1E FE3C 007B 0A1E 1821 0031 0A1E FE3C 007B 0A1E 1801 FF31 
+0A1F FE3C 007B 0A1F 1821 0031 0A1F FE3C 007B 0A1F 1801 FF31 0A1F FE3C 007B 0A1F 
+1821 0031 0A20 FE3C 007B 0A20 1801 FF31 0A20 FE3C 007B 0A20 1821 0031 0A20 FE3C 
+007B 0A20 1801 FF31 0A20 FE3C 007B 0A20 1821 0031 0A20 FE3C 0001 0A20 1101 1080 
+0A20 FE3C 0001 0A20 2150 3001 0A20 FE3C 0001 0A20 2110 0000 0A20 FE3C 0001 0A20 
+15DA 0000 0A20 FE3C 0001 0A20 2192 3000 0A20 FE3C 0001 0A20 2193 3000 0A21 FE3C 
+0001 0A21 2192 3001 0A21 FE3C 0001 0A21 2193 3001 0A21 FE3C 0001 0A21 1101 1080 
+0A21 FE3C 0001 0A21 1101 1000 0A23 FE3C 0001 0A23 1100 1000 0A23 FE3C 0001 0A23 
+1100 1000 0A2E FE3C 0001 0A2E 1593 7DD0 0A2E FE3C 0001 0A2E 1593 7DD1 0A2E FE3C 
+0001 0A2E 1593 7DD2 0A2E FE3C 0001 0A2E 1593 7DD3 0A2E FE3C 0001 0A2E 2150 1E01 
+0A2E FE3C 0001 0A2E 2150 0901 0A2E FE3C 0001 0A2E 2150 0901 0A2F FE3C 0001 0A2F 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	3912
+Resource tested:	sysplanar0
+Resource Description:	System Planar
+Location:		
+SRC:			14000061
+Description:		Power/Cooling subsystem Unrecovered Error, bypassed
+                        with loss of redundancy. Refer to the system service
+                        documentation for more information.
+Additional Words: 	2-91099902 3-003B0000 4-00000000 5-00000000
+			6-00000000 7-00000000 8-00000000 9-00000000
+Possible FRUs:
+    Priority: M FRU: 41U0341  S/N: H10A7D60280  CCIN: MDAG 
+    Location: U787C.001.9180576-A2
+    Priority: M FRU: 12R6227  S/N: n/a          CCIN: n/a  
+    Location: U787C.001.9180576-A2-A1
+
+---------------------------------------------------------------------------
+LABEL:          SCAN_ERROR_CHRP
+IDENTIFIER:     BFE4C025
+
+Date/Time:       Sat May 25 15:07:36 BEIST 2013
+Sequence Number: 14306
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PERM
+Resource Name:   sysplanar0      
+Resource Class:  planar
+Resource Type:   sysplanar_rspc
+Location:        
+
+Description
+UNDETERMINED ERROR
+
+Failure Causes
+UNDETERMINED
+
+	Recommended Actions
+	RUN SYSTEM DIAGNOSTICS.
+
+Detail Data
+PROBLEM DATA
+0644 00E0 0000 07F8 9600 8E00 0000 0000 0000 0000 4942 4D00 5048 0030 0100 3200 
+2013 0525 0659 0306 2013 0525 0659 0306 5700 0107 0000 0000 0000 0000 0000 0000 
+8604 003D 501D 7193 5548 0018 0100 3200 6003 4400 0000 0000 0000 A800 0000 0000 
+5053 00FC 0101 3200 0201 0004 0000 00F4 9109 9902 003B 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 3134 3030 3030 3631 2020 2020 2020 2020 
+2020 2020 2020 2020 2020 2020 2020 2020 C000 002B 542B 4D18 5537 3837 432E 3030 
+312E 3931 3830 3537 362D 4132 0000 0000 4944 1C1D 3431 5530 3334 3100 4D44 4147 
+4831 3041 3744 3630 3238 3000 5045 1C00 3738 3743 2D30 3031 2039 3138 3035 3736 
+0000 0000 0000 0000 542B 4D18 5537 3837 432E 3030 312E 3931 3830 3537 362D 4132 
+2D41 3100 4944 1C1D 3132 5236 3232 3700 0000 0000 0000 0000 0000 0000 0000 0000 
+5045 1C00 3738 3743 2D30 3031 2039 3138 3035 3736 0000 0000 0000 0000 5544 0094 
+0204 4400 0000 018B 2F6F 7074 2F66 6970 732F 6269 6E2F 7074 6C69 6300 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 6230 3931 
+3661 5F39 3930 312E 3234 305F 3037 3038 3336 3031 0000 0000 0000 0000 0000 0001 
+0000 0000 0000 0801 0000 0000 0000 0002 4D54 001C 0100 4400 3934 3538 2D31 3030 
+3931 3830 3643 3700 0000 0000 5544 0410 0000 3200 AAAA AA14 ABCD EF00 0FAC 0004 
+03B1 0314 0000 6191 0999 1400 3B02 0034 3155 3033 3431 4831 3041 3744 3630 3238 
+3030 3730 3833 3630 3130 3730 3833 3630 3141 2A75 A980 0000 0041 2A76 242E 147A 
+E100 0000 0000 0000 0000 0000 0000 0000 0031 302E 302E 302E 3235 3400 0000 0000 
+3130 2E30 2E32 3535 2E32 3438 0000 0031 302E 302E 3235 352E 3234 3700 0000 3130 
+2E30 2E30 2E32 3532 0000 0000 00E0 A001 3030 3030 0139 3435 382D 3130 3039 3138 
+3036 4337 3934 3538 2D31 3030 3931 3830 3643 3700 0003 4400 EA01 0100 0202 1A0B 
+FF80 0000 0A00 0AA3 87A3 8707 FF88 00A0 1AA0 1A07 FF89 00A0 1AA0 1A07 FF8A 00A0 
+1AA0 1A0B 0190 0000 3E00 3E04 0604 060B 0191 0000 3E00 3E04 0604 060B 0390 0000 
+3E00 3E04 0604 060B 0391 0000 3E00 3E04 0604 0607 0990 0000 1200 1207 0991 0000 
+1200 1207 0992 0000 1200 1207 0998 0003 9B03 9B07 0999 30FF FE03 9B07 099A 0003 
+9B03 9B07 099B 0003 9B03 9B07 099C 0003 9B03 9B07 099D 0003 9B03 9B07 0A90 0000 
+1200 1207 0A91 0000 1200 1207 0A92 0000 1200 1207 0B90 0000 1200 1207 0B91 0000 
+1200 1207 0B92 0000 1200 1207 0C90 0000 1200 1207 0C91 0000 1200 1207 0C92 0000 
+1200 1200 EA02 0100 0202 1A0B FFC0 0000 0A00 0AA3 87A3 8707 FFC8 00A0 1AA0 1A07 
+FFC9 00A0 1AA0 1A07 FFCA 00A0 1AA0 1A0B 0190 0000 3E00 3E04 0604 060B 0191 0000 
+3E00 3E04 0604 060B 0390 0000 3E00 3E04 0604 060B 0391 0000 3E00 3E04 0604 0607 
+0990 0000 1200 1207 0991 0000 1200 1207 0992 0000 1200 1207 0998 0003 9B03 9B07 
+0999 30FF FE03 9B07 099A 0003 9B03 9B07 099B 0003 9B03 9B07 099C 0003 9B03 9B07 
+099D 0003 9B03 9B07 0A90 0000 1200 1207 0A91 0000 1200 1207 0A92 0000 1200 1207 
+0B90 0000 1200 1207 0B91 0000 1200 1207 0B92 0000 1200 1207 0C90 0000 1200 1207 
+0C91 0000 1200 1207 0C92 0000 1200 1201 2200 0015 9031 0000 0B90 0000 8000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 1592 3100 000B 9100 0080 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0015 9331 0000 0B92 0000 8000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 1593 3100 000C 9000 0080 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0015 9431 0000 0C91 0000 8000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 1595 3100 000C 9200 0080 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+001B 4E27 0000 FF01 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 158F 
+3100 000A 9000 0080 0000 0000 0000 0000 0000 0000 0000 0000 0000 0015 8F31 0000 
+0A91 0000 8000 0000 0000 0000 0000 0000 0000 0000 0000 0000 158F 3100 000A 9200 
+0080 0000 0000 0000 0000 0000 0000 0000 0000 000C 0201 0309 9900 EB4D 4441 4734 
+3155 3033 3431 2020 2020 4A39 3935 3933 4831 3041 3744 3630 3238 3080 0080 0100 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00FE DCBA 0000 5544 01E4 
+0000 3F30 0A18 FE3C 000B 0A18 1820 0031 0A18 FE3C 000B 0A18 1800 0A31 0A18 FE3C 
+000B 0A18 1820 0031 0A18 FE3C 000C 0A18 1800 0B31 0A18 FE3C 000C 0A18 1820 0031 
+0A19 FE3C 000C 0A19 1800 0B31 0A1B FE3C 000C 0A1B 1820 0031 0A1B FE3C 000C 0A1B 
+1800 0B31 0A1B FE3C 000C 0A1B 1820 0031 0A1B FE3C 000D 0A1B 1800 0C31 0A1C FE3C 
+000D 0A1C 1820 0031 0A1C FE3C 000D 0A1C 1800 0C31 0A1D FE3C 000D 0A1D 1820 0031 
+0A1D FE3C 000D 0A1D 1800 0C31 0A1D FE3C 000D 0A1D 1820 0031 0A1D FE3C 007B 0A1D 
+1801 FF31 0A1D FE3C 007B 0A1D 1821 0031 0A1E FE3C 007B 0A1E 1801 FF31 0A1E FE3C 
+007B 0A1E 1821 0031 0A1E FE3C 007B 0A1E 1801 FF31 0A1F FE3C 007B 0A1F 1821 0031 
+0A1F FE3C 007B 0A1F 1801 FF31 0A1F FE3C 007B 0A1F 1821 0031 0A20 FE3C 007B 0A20 
+1801 FF31 0A20 FE3C 007B 0A20 1821 0031 0A20 FE3C 007B 0A20 1801 FF31 0A20 FE3C 
+007B 0A20 1821 0031 0A20 FE3C 0001 0A20 1101 1080 0A20 FE3C 0001 0A20 2150 3001 
+0A20 FE3C 0001 0A20 2110 0000 0A20 FE3C 0001 0A20 15DA 0000 0A20 FE3C 0001 0A20 
+2192 3000 0A20 FE3C 0001 0A20 2193 3000 0A21 FE3C 0001 0A21 2192 3001 0A21 FE3C 
+0001 0A21 2193 3001 0A21 FE3C 0001 0A21 1101 1080 0A21 FE3C 0001 0A21 1101 1000 
+0A23 FE3C 0001 0A23 1100 1000 0A23 FE3C 0001 0A23 1100 1000 0A2E FE3C 0001 0A2E 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	3910
+Resource tested:	sysplanar0
+Resource Description:	System Planar
+Location:		
+SRC:			14000061
+Description:		Power/Cooling subsystem Unrecovered Error, bypassed
+                        with loss of redundancy. Refer to the system service
+                        documentation for more information.
+Additional Words: 	2-91099902 3-003B0000 4-00000000 5-00000000
+			6-00000000 7-00000000 8-00000000 9-00000000
+Possible FRUs:
+    Priority: M FRU: 41U0341  S/N: H10A7D60280  CCIN: MDAG 
+    Location: U787C.001.9180576-A2
+    Priority: M FRU: 12R6227  S/N: n/a          CCIN: n/a  
+    Location: U787C.001.9180576-A2-A1
+
+---------------------------------------------------------------------------
+LABEL:          CORE_DUMP
+IDENTIFIER:     C69F5C9B
+
+Date/Time:       Wed May 15 20:53:13 BEIST 2013
+Sequence Number: 14305
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           S
+Type:            PERM
+Resource Name:   SYSPROC         
+
+Description
+SOFTWARE PROGRAM ABNORMALLY TERMINATED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+User Causes
+USER GENERATED SIGNAL
+
+	Recommended Actions
+	CORRECT THEN RETRY
+
+Failure Causes
+SOFTWARE PROGRAM
+
+	Recommended Actions
+	RERUN THE APPLICATION PROGRAM
+	IF PROBLEM PERSISTS THEN DO THE FOLLOWING
+	CONTACT APPROPRIATE SERVICE REPRESENTATIVE
+
+Detail Data
+SIGNAL NUMBER
+          11
+USER'S PROCESS ID:
+                385236
+FILE SYSTEM SERIAL NUMBER
+          28
+INODE NUMBER
+       24768
+CORE FILE NAME
+/gtp/mysqldb/core
+PROGRAM NAME
+gtp_menusvc
+STACK EXECUTION DISABLED
+           0
+COME FROM ADDRESS REGISTER
+
+PROCESSOR ID
+  hw_fru_id: 3
+  hw_cpu_id: 27
+
+ADDITIONAL INFORMATION
+FileLog_A 6C8
+FileLog_A 6BC
+FileLogCl 160
+GTP_StopA 7A4
+Svc_FileS A0
+MenuCmdDe 400
+main 154
+__start 8C
+
+Symptom Data
+REPORTABLE
+1
+INTERNAL ERROR
+0
+SYMPTOM CODE
+PCSS/SPI2 FLDS/gtp_menus SIG/11 FLDS/FileLog_A VALU/6c8 FLDS/Svc_FileS
+---------------------------------------------------------------------------
+LABEL:          CORE_DUMP
+IDENTIFIER:     C69F5C9B
+
+Date/Time:       Wed May 15 20:47:29 BEIST 2013
+Sequence Number: 14304
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           S
+Type:            PERM
+Resource Name:   SYSPROC         
+
+Description
+SOFTWARE PROGRAM ABNORMALLY TERMINATED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+User Causes
+USER GENERATED SIGNAL
+
+	Recommended Actions
+	CORRECT THEN RETRY
+
+Failure Causes
+SOFTWARE PROGRAM
+
+	Recommended Actions
+	RERUN THE APPLICATION PROGRAM
+	IF PROBLEM PERSISTS THEN DO THE FOLLOWING
+	CONTACT APPROPRIATE SERVICE REPRESENTATIVE
+
+Detail Data
+SIGNAL NUMBER
+          11
+USER'S PROCESS ID:
+                397552
+FILE SYSTEM SERIAL NUMBER
+          28
+INODE NUMBER
+        4099
+CORE FILE NAME
+/gtp/GTPServer/TransDir/etc/core
+PROGRAM NAME
+gtp_menusvc
+STACK EXECUTION DISABLED
+           0
+COME FROM ADDRESS REGISTER
+
+PROCESSOR ID
+  hw_fru_id: 4
+  hw_cpu_id: 35
+
+ADDITIONAL INFORMATION
+FileLog_A 6C8
+FileLog_A 6BC
+FileLogCl 160
+GTP_StopA 7A4
+Svc_FileS A0
+MenuCmdDe 400
+main 154
+__start 8C
+
+Symptom Data
+REPORTABLE
+1
+INTERNAL ERROR
+0
+SYMPTOM CODE
+PCSS/SPI2 FLDS/gtp_menus SIG/11 FLDS/FileLog_A VALU/6c8 FLDS/Svc_FileS
+---------------------------------------------------------------------------
+LABEL:          DELAYED_INTS
+IDENTIFIER:     A2205861
+
+Date/Time:       Wed May 15 20:39:29 BEIST 2013
+Sequence Number: 14303
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           S
+Type:            PERF
+Resource Name:   SYSPROC         
+
+Description
+Excessive interrupt disablement time
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+SOFTWARE PROGRAM
+
+	Recommended Actions
+	REPORT DETAILED DATA
+
+Detail Data
+ 
+TICKS 51 (3) decr, IAR 21214C krlock+204, LR 212348 krlock+400
+krlock+204
+krlock+B4
+slock_krlock_acquire+1E8
+slock+758
+[90C0]
+vpath_start+624
+vpath_iodone+674
+internal_iodone_offl+B0
+iodone_offl+68
+i_softmod+1E8
+[175BC0]
+
+LMT
+F100 0100 1034 7D00 0000 0000 0000 2005 0000 0836 0657 2AF9 8000 0018 0F00 000E 
+0000 0000 0021 214C 0000 0000 0000 0000 0000 0000 0000 0032 0000 0000 0000 0032 
+0000 0000 0112 6AD0 0000 0000 0000 2005 0000 0836 0657 2B8F 8000 0028 1000 0031 
+0000 0000 0021 214C 8000 0000 0000 90B2 0000 0000 0000 0A00 0000 0000 F100 0100 
+F100 0000 40D7 7A48 0000 0000 0000 2005 0000 0836 0657 9C9F 8000 0028 2000 0001 
+0000 0000 0000 5554 0000 0000 0000 5555 F100 0100 1034 7D00 0000 0000 0000 2005 
+0000 0836 0657 9D44 8000 0018 0F00 0004 8000 0000 0000 000F 0000 0000 0000 000F 
+F100 0100 1034 7D00 0000 0000 0000 2005 0000 0836 065F FD14 8000 0018 0F00 0014 
+0AFA 1F00 0000 2005 0AFA 1E00 0000 2005 F100 0100 1034 6D00 F100 0100 5A43 D180 
+0000 0000 0000 2005 0000 0836 0662 A6D7 8000 0020 0F00 0003 0000 0000 0000 000F 
+8000 0000 0000 000F F100 0100 1034 7D00 0000 0000 0000 2005 0000 0836 0662 A735 
+8000 0018 0F00 0013 0201 0000 0000 1554 0000 0000 0000 0000 F100 0100 1034 7D00 
+0000 0000 0000 2005 0000 0836 0662 A74B 8000 0018 0F00 000A 0201 0000 0000 1554 
+0303 0000 0000 1550 F100 0100 1034 7D00 0000 0000 0000 2005 0000 0836 0662 A81F 
+8000 0018 0F00 000B 0AFA 1D00 0002 604D 0AFA 1E00 0002 604D F100 0100 1034 6D00 
+F100 0100 5A43 D180 0000 0000 0000 2005 0000 0836 0662 AA54 8000 0020 0F00 0002 
+0405 0000 0000 1540 0405 0000 0000 1541 F100 0100 1034 7D00 0000 0000 0000 2005 
+0000 0836 0662 AB1F 8000 0018 0F00 0004 8000 0000 0000 000F 0000 0000 0000 000F 
+F100 0100 1034 7D00 0000 0000 0000 2005 0000 0836 066B 0CD8 8000 0018 0F00 0014 
+0AFA 1E00 0000 2005 0AFA 1D00 0000 2005 F100 0100 1034 6D00 F100 0100 5A43 D180 
+0000 0000 0000 2005 0000 0836 066B 0D73 8000 0020 0F00 0003 0000 0000 0000 000F 
+8000 0000 0000 000F F100 0100 1034 7D00 0000 0000 0000 2005 0000 0836 066B 0DCF 
+8000 0018 0F00 0013 0A01 0000 0000 1454 0000 0000 0000 0000 F100 0100 1034 7D00 
+0000 0000 0000 2005 0000 0836 066B 0E1B 8000 0018 0F00 000A 0A01 0000 0000 1454 
+0B03 0000 0000 1450 F100 0100 1034 7D00 0000 0000 0000 2005 0000 0836 066B 0EF2 
+8000 0018 0F00 000B 0AFA 1E00 0021 F3A9 0AFA 1F00 0021 F3A9 F100 0100 1034 6D00 
+F100 0100 5A43 D180 0000 0000 0000 2005 0000 0836 066D BC3E 8000 0020 0F00 0002 
+0E09 0000 0000 5414 0E09 0000 0000 5415 F100 0100 1034 7D00 0000 0000 0000 2005 
+0000 0836 066D BCBE 8000 0018 0F00 0004 0000 0000 0000 5555 0000 0000 0000 5554 
+F100 0100 1034 7D00 0000 0000 0000 2005 0000 0836 06A5 4FAD 8000 0018 0F00 000E 
+0000 0000 0000 0033 0000 0000 0000 0003 0000 0000 0021 214C 0000 0000 0021 2348 
+0000 0000 0000 0000 0000 0000 0000 2005 0000 0836 06A5 50EF 8000 0028 4AF0 0000 
+---------------------------------------------------------------------------
+LABEL:          J2_FS_FULL
+IDENTIFIER:     F7FA22C9
+
+Date/Time:       Wed May 15 18:59:29 BEIST 2013
+Sequence Number: 14302
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           O
+Type:            INFO
+Resource Name:   SYSJ2           
+
+Description
+UNABLE TO ALLOCATE SPACE IN FILE SYSTEM
+
+Probable Causes
+FILE SYSTEM FULL
+
+	Recommended Actions
+	INCREASE THE SIZE OF THE ASSOCIATED FILE SYSTEM
+	REMOVE UNNECESSARY DATA FROM FILE SYSTEM
+	USE FUSER UTILITY TO LOCATE UNLINKED FILES STILL REFERENCED
+
+Detail Data
+JFS2 MAJOR/MINOR DEVICE NUMBER
+0033 006C 
+FILE SYSTEM DEVICE AND MOUNT POINT
+/dev/fslv06, /gtp
+---------------------------------------------------------------------------
+LABEL:          GS_START_ST
+IDENTIFIER:     AFA89905
+
+Date/Time:       Wed May 15 18:40:51 BEIST 2013
+Sequence Number: 14301
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           O
+Type:            INFO
+Resource Name:   grpsvcs         
+
+Description
+Group Services daemon started
+
+Probable Causes
+Daemon started during system startup
+Daemon re-started automatically by SRC
+Daemon started during installation
+Daemon started manually by user
+
+User Causes
+Daemon started manually by user
+
+	Recommended Actions
+	Check that Group Services daemon is running
+
+Detail Data
+DETECTING MODULE
+RSCT,pgsd.C,1.62.1.8,606                      
+ERROR ID 
+63Y7ej0oMqYF/eX1.c3.mi/...................
+REFERENCE CODE
+                                          
+DIAGNOSTIC EXPLANATION
+HAGS daemon started by SRC. Log file is /var/ha/log/grpsvcs_trace_1_55.
+---------------------------------------------------------------------------
+LABEL:          TS_START_ST
+IDENTIFIER:     97419D60
+
+Date/Time:       Wed May 15 18:40:49 BEIST 2013
+Sequence Number: 14300
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           O
+Type:            INFO
+Resource Name:   topsvcs         
+
+Description
+Topology Services daemon started
+
+Probable Causes
+Daemon started during system start-up
+Daemon re-started automatically by SRC
+Daemon started during installation
+Daemon started manually by user
+
+User Causes
+Daemon started manually by user
+
+	Recommended Actions
+	Confirm that this is desirable
+
+Detail Data
+DETECTING MODULE
+rsct,bootstrp.C,1.211,4459                    
+ERROR ID 
+6UpNEL0lMqYF/GWc.c3.mi/...................
+REFERENCE CODE
+                                          
+Topology Services daemon started by:
+SRC
+Topology Services daemon log file location
+/var/ha/log/topsvcs.15.184048.CLU_REP_DB.en_U
+Topology Services daemon run directory
+/var/ha/run/topsvcs.CLU_REP_DB/
+---------------------------------------------------------------------------
+LABEL:          SCAN_ERROR_CHRP
+IDENTIFIER:     BFE4C025
+
+Date/Time:       Wed May 15 16:24:52 BEIST 2013
+Sequence Number: 14299
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PERM
+Resource Name:   sysplanar0      
+Resource Class:  planar
+Resource Type:   sysplanar_rspc
+Location:        
+
+Description
+UNDETERMINED ERROR
+
+Failure Causes
+UNDETERMINED
+
+	Recommended Actions
+	RUN SYSTEM DIAGNOSTICS.
+
+Detail Data
+PROBLEM DATA
+0644 00E0 0000 07F8 9600 8E00 0000 0000 0000 0000 4942 4D00 5048 0030 0100 3200 
+2013 0515 0718 3639 2013 0515 0718 3639 5700 0107 0000 0000 0000 0000 0000 0000 
+8604 0038 500A 903B 5548 0018 0100 3200 6003 4400 0000 0000 0000 A800 0000 0000 
+5053 00AC 0101 3200 0201 0004 0000 00A4 9109 9002 011E 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 3134 3030 3230 3531 2020 2020 2020 2020 
+2020 2020 2020 2020 2020 2020 2020 2020 C000 0017 582B 4D1C 5537 3837 432E 3030 
+312E 3931 3830 3537 362D 5031 2D45 3130 0000 0000 4944 1C1D 3135 5236 3730 3900 
+5247 4236 4838 3041 364E 3437 3538 3700 5045 1C00 3738 3743 2D30 3031 2039 3138 
+3035 3736 0000 0000 0000 0000 5544 0094 0204 4400 0000 018B 2F6F 7074 2F66 6970 
+732F 6269 6E2F 7074 6C69 6300 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 6230 3931 3661 5F39 3930 312E 3234 305F 3037 3038 
+3336 3031 0000 0000 0000 0000 0000 0001 0000 0000 0000 0801 0000 0000 0000 0002 
+4D54 001C 0100 4400 3934 3538 2D31 3030 3931 3830 3643 3700 0000 0000 5544 0410 
+0000 3200 AAAA AA0F ABCD EF00 0FAC 0004 03B1 0314 0020 5191 0990 0F01 1E02 0031 
+3552 3637 3039 4838 3041 364E 3437 3538 3730 3730 3833 3630 3130 3730 3833 3630 
+3140 B07A 75C2 8F5C 2940 B0B7 CCCC CCCC CD00 0000 0000 0000 0000 0000 0000 0000 
+0031 302E 302E 302E 3235 3400 0000 0000 3130 2E30 2E32 3535 2E32 3438 0000 0031 
+302E 302E 3235 352E 3234 3700 0000 3130 2E30 2E30 2E32 3532 0000 0000 00E0 A001 
+3030 3030 0139 3435 382D 3130 3039 3138 3036 4337 3934 3538 2D31 3030 3931 3830 
+3643 3700 0003 4500 EA01 0100 0202 1A0B FF80 0000 0A00 0AA3 87A3 8707 FF88 00A0 
+1AA0 1A07 FF89 00A0 1AA0 1A07 FF8A 00A0 1AA0 1A0B 0190 0000 3E00 3E04 0604 060B 
+0191 0000 3E00 3E04 0604 060B 0390 0000 3E00 3E04 0604 060B 0391 0000 3E00 3E04 
+0604 0607 0990 0000 1200 1207 0991 0000 1200 1207 0992 0000 1200 1207 0998 0003 
+9B03 9B07 0999 30FF FE03 9B07 099A 0003 9B03 9B07 099B 0003 9B03 9B07 099C 0003 
+9B03 9B07 099D 0003 9B03 9B07 0A90 0000 1200 1207 0A91 0000 1200 1207 0A92 0000 
+1200 1207 0B90 0000 1200 1207 0B91 0000 1200 1207 0B92 0000 1200 1207 0C90 0000 
+1200 1207 0C91 0000 1200 1207 0C92 0000 1200 1200 EA02 0100 0202 1A0B FFC0 0000 
+0A00 0AA3 87A3 8707 FFC8 00A0 1AA0 1A07 FFC9 00A0 1AA0 1A07 FFCA 00A0 1AA0 1A0B 
+0190 0000 3E00 3E04 0604 060B 0191 0000 3E00 3E04 0604 060B 0390 0000 3E00 3E04 
+0604 060B 0391 0000 3E00 3E04 0604 0607 0990 0000 1200 1207 0991 0000 1200 1207 
+0992 0000 1200 1207 0998 0003 9B03 9B07 0999 30FF FE03 9B07 099A 0003 9B03 9B07 
+099B 0003 9B03 9B07 099C 0003 9B03 9B07 099D 0003 9B03 9B07 0A90 0000 1200 1207 
+0A91 0000 1200 1207 0A92 0000 1200 1207 0B90 0000 1200 1207 0B91 0000 1200 1207 
+0B92 0000 1200 1207 0C90 0000 1200 1207 0C91 0000 1200 1207 0C92 0000 1200 1201 
+2200 0010 679C 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0BC2 2700 0104 E001 00E0 0200 0000 0000 0000 0000 0000 0000 0000 0000 000B E0EF 
+0000 0E00 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0BEB 6100 0001 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 000B ED61 0000 0200 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0BED 6100 0003 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 000B EE61 0000 0400 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0C00 6100 0003 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 000C 0261 0000 0400 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 1067 9C01 0100 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 000C 0201 0309 9000 E452 4742 3631 3552 3637 3039 2020 2020 4A31 3438 3737 
+4838 3041 364E 3437 3538 3700 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 00FE DCBA 0000 5544 0234 0000 3F30 005A FE3C 007B 005A 1821 0090 
+005B FE3C 0001 005B 215B 3001 005B FE3C 0001 005B 1101 1010 005B FE3C 0001 005B 
+1101 1000 005B FE3C 0002 005B 1800 0182 005F FE3C 0001 005F 2150 0A01 0060 FE3C 
+0001 0060 2700 0A04 0060 FE3C 0002 0060 1820 0082 0060 FE3C 0003 0060 1800 0282 
+0064 FE3C 0003 0064 1820 0082 0064 FE3C 0004 0064 1800 0382 0065 FE3C 0001 0065 
+0105 0000 0065 FE3C 0001 0065 2150 1E01 0066 FE3C 0001 0066 2150 0901 0066 FE3C 
+0001 0066 2150 0901 0067 FE3C 0001 0067 2150 2406 0069 FE3C 0004 0069 1820 0082 
+0069 FE3C 0005 0069 1800 0482 006C FE3C 0005 006C 1820 0082 006D FE3C 0002 006D 
+1901 7021 006D FE3C 0003 006D 1902 7021 006D FE3C 0004 006D 1903 7021 006D FE3C 
+0005 006D 1904 7021 006D FE3C 0003 006D 1800 0227 006D FE3C 0001 006D 1100 1000 
+006D FE3C 0001 006D 1100 1000 006D FE3C 0003 006D 1820 0027 006D FE3C 0003 006D 
+1801 0227 006E FE3C 0003 006E 1821 0027 006E FE3C 0004 006E 1800 0327 006E FE3C 
+0004 006E 1820 0027 006F FE3C 0004 006F 1801 0327 006F FE3C 0004 006F 1821 0027 
+0070 FE3C 0002 0070 1901 7020 0070 FE3C 0003 0070 1902 7020 0070 FE3C 0004 0070 
+1903 7020 0070 FE3C 0005 0070 1904 7020 0070 FE3C 0005 0070 1800 0427 0070 FE3C 
+0005 0070 1820 0027 0070 FE3C 0001 0070 1102 0501 0070 FE3C 0001 0070 1112 0001 
+0070 FE3C 0005 0070 1801 0427 0071 FE3C 0005 0071 1821 0027 0079 FE3C 000A 0079 
+1807 090E 0079 FE3C 000A 0079 0200 0061 0079 FE3C 007B 0079 1801 0EEF 0083 FE3C 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	3908
+Resource tested:	sysplanar0
+Resource Description:	System Planar
+Location:		
+SRC:			14002051
+Description:		Power/Cooling subsystem Unrecovered Error, bypassed
+                        with loss of redundancy. Refer to the system service
+                        documentation for more information.
+Additional Words: 	2-91099002 3-011E0000 4-00000000 5-00000000
+			6-00000000 7-00000000 8-00000000 9-00000000
+Possible FRUs:
+    Priority: M FRU: 15R6709  S/N: H80A6N47587  CCIN: RGB6 
+    Location: U787C.001.9180576-P1-E10
+
+---------------------------------------------------------------------------
+LABEL:          SCAN_ERROR_CHRP
+IDENTIFIER:     BFE4C025
+
+Date/Time:       Wed May 15 16:21:37 BEIST 2013
+Sequence Number: 14298
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PERM
+Resource Name:   sysplanar0      
+Resource Class:  planar
+Resource Type:   sysplanar_rspc
+Location:        
+
+Description
+UNDETERMINED ERROR
+
+Failure Causes
+UNDETERMINED
+
+	Recommended Actions
+	RUN SYSTEM DIAGNOSTICS.
+
+Detail Data
+PROBLEM DATA
+0644 00E0 0000 07F8 9600 8E00 0000 0000 0000 0000 4942 4D00 5048 0030 0100 3200 
+2013 0515 0658 5303 2013 0515 0658 5303 5700 0107 0000 0000 0000 0000 0000 0000 
+8604 0037 500A 863F 5548 0018 0100 3200 6003 4400 0000 0000 0000 A800 0000 0000 
+5053 00FC 0101 3200 0201 0004 0000 00F4 9109 9902 003B 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 3134 3030 3030 3631 2020 2020 2020 2020 
+2020 2020 2020 2020 2020 2020 2020 2020 C000 002B 542B 4D18 5537 3837 432E 3030 
+312E 3931 3830 3537 362D 4132 0000 0000 4944 1C1D 3431 5530 3334 3100 4D44 4147 
+4831 3041 3744 3630 3238 3000 5045 1C00 3738 3743 2D30 3031 2039 3138 3035 3736 
+0000 0000 0000 0000 542B 4D18 5537 3837 432E 3030 312E 3931 3830 3537 362D 4132 
+2D41 3100 4944 1C1D 3132 5236 3232 3700 0000 0000 0000 0000 0000 0000 0000 0000 
+5045 1C00 3738 3743 2D30 3031 2039 3138 3035 3736 0000 0000 0000 0000 5544 0094 
+0204 4400 0000 018B 2F6F 7074 2F66 6970 732F 6269 6E2F 7074 6C69 6300 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 6230 3931 
+3661 5F39 3930 312E 3234 305F 3037 3038 3336 3031 0000 0000 0000 0000 0000 0001 
+0000 0000 0000 0801 0000 0000 0000 0002 4D54 001C 0100 4400 3934 3538 2D31 3030 
+3931 3830 3643 3700 0000 0000 5544 0410 0000 3200 AAAA AA0E ABCD EF00 0FAC 0004 
+03B1 0314 0000 6191 0999 0E00 3B02 0034 3155 3033 3431 4831 3041 3744 3630 3238 
+3030 3730 3833 3630 3130 3730 3833 3630 3140 A7B7 AE14 7AE1 4740 A832 5C28 F5C2 
+8F00 0000 0000 0000 0000 0000 0000 0000 0031 302E 302E 302E 3235 3400 0000 0000 
+3130 2E30 2E32 3535 2E32 3438 0000 0031 302E 302E 3235 352E 3234 3700 0000 3130 
+2E30 2E30 2E32 3532 0000 0000 00E0 A001 3030 3030 0139 3435 382D 3130 3039 3138 
+3036 4337 3934 3538 2D31 3030 3931 3830 3643 3700 0003 4500 EA01 0100 0202 1A0B 
+FF80 0000 0A00 0AA3 87A3 8707 FF88 00A0 1AA0 1A07 FF89 00A0 1AA0 1A07 FF8A 00A0 
+1AA0 1A0B 0190 0000 3E00 3E04 0604 060B 0191 0000 3E00 3E04 0604 060B 0390 0000 
+3E00 3E04 0604 060B 0391 0000 3E00 3E04 0604 0607 0990 0000 1200 1207 0991 0000 
+1200 1207 0992 0000 1200 1207 0998 0003 9B03 9B07 0999 30FF FE03 9B07 099A 0003 
+9B03 9B07 099B 0003 9B03 9B07 099C 0003 9B03 9B07 099D 0003 9B03 9B07 0A90 0000 
+1200 1207 0A91 0000 1200 1207 0A92 0000 1200 1207 0B90 0000 1200 1207 0B91 0000 
+1200 1207 0B92 0000 1200 1207 0C90 0000 1200 1207 0C91 0000 1200 1207 0C92 0000 
+1200 1200 EA02 0100 0202 1A0B FFC0 0000 0A00 0AA3 87A3 8707 FFC8 00A0 1AA0 1A07 
+FFC9 00A0 1AA0 1A07 FFCA 00A0 1AA0 1A0B 0190 0000 3E00 3E04 0604 060B 0191 0000 
+3E00 3E04 0604 060B 0390 0000 3E00 3E04 0604 060B 0391 0000 3E00 3E04 0604 0607 
+0990 0000 1200 1207 0991 0000 1200 1207 0992 0000 1200 1207 0998 0003 9B03 9B07 
+0999 30FF FE03 9B07 099A 0003 9B03 9B07 099B 0003 9B03 9B07 099C 0003 9B03 9B07 
+099D 0003 9B03 9B07 0A90 0000 1200 1207 0A91 0000 1200 1207 0A92 0000 1200 1207 
+0B90 0000 1200 1207 0B91 0000 1200 1207 0B92 0000 1200 1207 0C90 0000 1200 1207 
+0C91 0000 1200 1207 0C92 0000 1200 1201 2200 000B C127 0001 03E1 0100 E102 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0BC2 2700 0104 E001 00E0 0200 0000 0000 
+0000 0000 0000 0000 0000 0000 000B BA9C 0101 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0BBA 9C00 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 000B BA9C 0101 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0BBA 9C00 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+000B BB82 0004 0439 3131 392D 3539 3520 3833 4136 4141 3000 0000 0000 0000 0BBE 
+9C01 0100 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 000B BF9C 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0BBF 2700 0102 E001 
+00E0 0200 0000 0000 0000 0000 0000 0000 0000 000C 0201 0309 9900 EB4D 4441 4734 
+3155 3033 3431 2020 2020 4A39 3935 3933 4831 3041 3744 3630 3238 3080 0080 0100 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00FE DCBA 0000 5544 01E4 
+0000 3F30 0048 FE3C 000C 0048 1801 0B82 004C FE3C 000C 004C 1821 0082 004C FE3C 
+000D 004C 1800 0C82 0052 FE3C 000D 0052 1820 0082 0052 FE3C 000A 0052 1909 7011 
+0052 FE3C 000B 0052 190A 7011 0052 FE3C 000C 0052 190B 7011 0052 FE3C 000D 0052 
+190C 7011 0052 FE3C 000D 0052 1801 0C82 0057 FE3C 000D 0057 1821 0082 0057 FE3C 
+0001 0057 0104 0000 0057 FE3C 0002 0057 1801 0127 0057 FE3C 0002 0057 1821 0027 
+0057 FE3C 0001 0057 2150 3001 0057 FE3C 0001 0057 2110 0000 0057 FE3C 0001 0057 
+15D7 0000 0058 FE3C 007A 0058 1800 0090 0058 FE3C 007A 0058 1820 0090 0058 FE3C 
+000C 0058 190B 7010 0058 FE3C 000D 0058 190C 7010 0058 FE3C 007B 0058 1801 0290 
+0058 FE3C 007B 0058 1821 0090 0058 FE3C 0001 0058 2150 0A01 0058 FE3C 0001 0058 
+215B 3000 0058 FE3C 007A 0058 1800 0190 0058 FE3C 0001 0058 2700 0A01 0058 FE3C 
+007A 0058 1820 0090 005A FE3C 007B 005A 1801 0390 005A FE3C 007B 005A 1821 0090 
+005B FE3C 0001 005B 215B 3001 005B FE3C 0001 005B 1101 1010 005B FE3C 0001 005B 
+1101 1000 005B FE3C 0002 005B 1800 0182 005F FE3C 0001 005F 2150 0A01 0060 FE3C 
+0001 0060 2700 0A04 0060 FE3C 0002 0060 1820 0082 0060 FE3C 0003 0060 1800 0282 
+0064 FE3C 0003 0064 1820 0082 0064 FE3C 0004 0064 1800 0382 0065 FE3C 0001 0065 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	3906
+Resource tested:	sysplanar0
+Resource Description:	System Planar
+Location:		
+SRC:			14000061
+Description:		Power/Cooling subsystem Unrecovered Error, bypassed
+                        with loss of redundancy. Refer to the system service
+                        documentation for more information.
+Additional Words: 	2-91099902 3-003B0000 4-00000000 5-00000000
+			6-00000000 7-00000000 8-00000000 9-00000000
+Possible FRUs:
+    Priority: M FRU: 41U0341  S/N: H10A7D60280  CCIN: MDAG 
+    Location: U787C.001.9180576-A2
+    Priority: M FRU: 12R6227  S/N: n/a          CCIN: n/a  
+    Location: U787C.001.9180576-A2-A1
+
+---------------------------------------------------------------------------
+LABEL:          SCAN_ERROR_CHRP
+IDENTIFIER:     BFE4C025
+
+Date/Time:       Wed May 15 16:17:52 BEIST 2013
+Sequence Number: 14297
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PERM
+Resource Name:   sysplanar0      
+Resource Class:  planar
+Resource Type:   sysplanar_rspc
+Location:        
+
+Description
+UNDETERMINED ERROR
+
+Failure Causes
+UNDETERMINED
+
+	Recommended Actions
+	RUN SYSTEM DIAGNOSTICS.
+
+Detail Data
+PROBLEM DATA
+0644 00E0 0000 07F8 9600 8E00 0000 0000 0000 0000 4942 4D00 5048 0030 0100 3200 
+2013 0515 0658 4576 2013 0515 0658 4576 5700 0107 0000 0000 0000 0000 0000 0000 
+8804 0038 500A 8629 5548 0018 0100 3200 6003 4400 0000 0000 0000 A800 0000 0000 
+5053 00AC 0101 3200 0201 0004 0000 00A4 9109 9002 0003 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 3134 3030 3230 3531 2020 2020 2020 2020 
+2020 2020 2020 2020 2020 2020 2020 2020 C000 0017 582B 4D1C 5537 3837 432E 3030 
+312E 3931 3830 3537 362D 5031 2D45 3130 0000 0000 4944 1C1D 3135 5236 3730 3900 
+5247 4236 4838 3041 364E 3437 3538 3700 5045 1C00 3738 3743 2D30 3031 2039 3138 
+3035 3736 0000 0000 0000 0000 5544 0094 0204 4400 0000 0169 2F6F 7074 2F66 6970 
+732F 6269 6E2F 7074 6C69 6300 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 6230 3931 3661 5F39 3930 312E 3234 305F 3037 3038 
+3336 3031 0000 0000 0000 0000 0000 0002 0000 0000 0000 0801 0000 0000 0000 0002 
+4D54 001C 0100 4400 3934 3538 2D31 3030 3931 3830 3643 3700 0000 0000 5544 0410 
+0000 3200 AAAA AA0F ABCD EF00 0FAC 0004 03B1 0314 0020 5191 0990 0F00 0302 0031 
+3552 3637 3039 4838 3041 364E 3437 3538 3730 3730 3833 3630 3130 3730 3833 3630 
+3140 A7A0 B851 EB85 1E40 A81B 3D70 A3D7 0A00 0000 0000 0000 0000 0000 0000 0000 
+0031 302E 302E 3235 352E 3234 3700 0000 3130 2E30 2E30 2E32 3532 0000 0000 0031 
+302E 302E 302E 3235 3400 0000 0000 3130 2E30 2E32 3535 2E32 3438 0000 00E0 A001 
+3030 3030 0139 3435 382D 3130 3039 3138 3036 4337 3934 3538 2D31 3030 3931 3830 
+3643 3700 0003 4400 EA02 0100 0202 1A0B FFC0 0000 0A00 0AA3 87A3 8707 FFC8 00A0 
+1AA0 1A07 FFC9 00A0 1AA0 1A07 FFCA 00A0 1AA0 1A0B 0190 0000 3E00 3E04 0604 060B 
+0191 0000 3E00 3E04 0604 060B 0390 0000 3E00 3E04 0604 060B 0391 0000 3E00 3E04 
+0604 0607 0990 0000 1200 1207 0991 0000 1200 1207 0992 0000 1200 1207 0998 0003 
+9B03 9B07 0999 30FF FE03 9B07 099A 0003 9B03 9B07 099B 0003 9B03 9B07 099C 0003 
+9B03 9B07 099D 0003 9B03 9B07 0A90 0000 1200 1207 0A91 0000 1200 1207 0A92 0000 
+1200 1207 0B90 0000 1200 1207 0B91 0000 1200 1207 0B92 0000 1200 1207 0C90 0000 
+1200 1207 0C91 0000 1200 1207 0C92 0000 1200 1200 EA01 0100 0202 1A0B FF80 0000 
+0A00 0AA3 87A3 8707 FF88 00A0 1AA0 1A07 FF89 00A0 1AA0 1A07 FF8A 00A0 1AA0 1A0B 
+0190 0000 3E00 3E04 0604 060B 0191 0000 3E00 3E04 0604 060B 0390 0000 3E00 3E04 
+0604 060B 0391 0000 3E00 3E04 0604 0607 0990 0000 1200 1207 0991 0000 1200 1207 
+0992 0000 1200 1207 0998 0003 9B03 9B07 0999 30FF FE03 9B07 099A 0003 9B03 9B07 
+099B 0003 9B03 9B07 099C 0003 9B03 9B07 099D 0003 9B03 9B07 0A90 0000 1200 1207 
+0A91 0000 1200 1207 0A92 0000 1200 1207 0B90 0000 1200 1207 0B91 0000 1200 1207 
+0B92 0000 1200 1207 0C90 0000 1200 1207 0C91 0000 1200 1207 0C92 0000 1200 1201 
+2200 000B C027 0001 02E0 0100 E002 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0BC1 2700 0103 E101 00E1 0200 0000 0000 0000 0000 0000 0000 0000 0000 000B C327 
+0001 04E0 0100 E002 0000 0000 0000 0000 0000 0000 0000 0000 0000 0BB4 9C00 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 000B B99C 0101 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0BB9 9C00 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 000B B99C 0101 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0BBA 9C00 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 000B BE9C 0101 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0BBE 9C00 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 000C 0201 0309 9000 E452 4742 3631 3552 3637 3039 2020 2020 4A31 3438 3737 
+4838 3041 364E 3437 3538 3700 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 00FE DCBA 0000 5544 0234 0000 3F30 003C FE3C 000B 003C 190A 7010 
+003C FE3C 000B 003C 1801 0A82 0041 FE3C 000B 0041 1821 0082 0041 FE3C 000C 0041 
+1800 0B82 0048 FE3C 000C 0048 1820 0082 0048 FE3C 000C 0048 1801 0B82 004C FE3C 
+000C 004C 1821 0082 004C FE3C 000D 004C 1800 0C82 0052 FE3C 000D 0052 1820 0082 
+0052 FE3C 000A 0052 1909 7011 0052 FE3C 000B 0052 190A 7011 0052 FE3C 000C 0052 
+190B 7011 0052 FE3C 000D 0052 190C 7011 0052 FE3C 000D 0052 1801 0C82 0057 FE3C 
+000D 0057 1821 0082 0057 FE3C 0001 0057 0104 0000 0057 FE3C 0002 0057 1801 0127 
+0057 FE3C 0002 0057 1821 0027 0057 FE3C 0001 0057 2150 3001 0057 FE3C 0001 0057 
+2110 0000 0057 FE3C 0001 0057 15D7 0000 0058 FE3C 007A 0058 1800 0090 0058 FE3C 
+007A 0058 1820 0090 0058 FE3C 000C 0058 190B 7010 0058 FE3C 000D 0058 190C 7010 
+0058 FE3C 007B 0058 1801 0290 0058 FE3C 007B 0058 1821 0090 0058 FE3C 0001 0058 
+2150 0A01 0058 FE3C 0001 0058 215B 3000 0058 FE3C 007A 0058 1800 0190 0058 FE3C 
+0001 0058 2700 0A01 0058 FE3C 007A 0058 1820 0090 005A FE3C 007B 005A 1801 0390 
+005A FE3C 007B 005A 1821 0090 005B FE3C 0001 005B 215B 3001 005B FE3C 0001 005B 
+1101 1010 005B FE3C 0001 005B 1101 1000 005B FE3C 0002 005B 1800 0182 005F FE3C 
+0001 005F 2150 0A01 0060 FE3C 0001 0060 2700 0A04 0060 FE3C 0002 0060 1820 0082 
+0060 FE3C 0003 0060 1800 0282 0064 FE3C 0003 0064 1820 0082 0064 FE3C 0004 0064 
+1800 0382 0065 FE3C 0001 0065 0105 0000 0065 FE3C 0001 0065 2150 1E01 0066 FE3C 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	3904
+Resource tested:	sysplanar0
+Resource Description:	System Planar
+Location:		
+SRC:			14002051
+Description:		Power/Cooling subsystem Unrecovered Error, bypassed
+                        with loss of redundancy. Refer to the system service
+                        documentation for more information.
+Additional Words: 	2-91099002 3-00030000 4-00000000 5-00000000
+			6-00000000 7-00000000 8-00000000 9-00000000
+Possible FRUs:
+    Priority: M FRU: 15R6709  S/N: H80A6N47587  CCIN: RGB6 
+    Location: U787C.001.9180576-P1-E10
+
+---------------------------------------------------------------------------
+LABEL:          SCAN_ERROR_CHRP
+IDENTIFIER:     BFE4C025
+
+Date/Time:       Wed May 15 16:12:52 BEIST 2013
+Sequence Number: 14296
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PERM
+Resource Name:   sysplanar0      
+Resource Class:  planar
+Resource Type:   sysplanar_rspc
+Location:        
+
+Description
+UNDETERMINED ERROR
+
+Failure Causes
+UNDETERMINED
+
+	Recommended Actions
+	RUN SYSTEM DIAGNOSTICS.
+
+Detail Data
+PROBLEM DATA
+0644 00E0 0000 07F8 9600 8E00 0000 0000 0000 0000 4942 4D00 5048 0030 0100 3200 
+2013 0515 0658 4202 2013 0515 0658 4202 5700 0107 0000 0000 0000 0000 0000 0000 
+8804 0037 500A 860D 5548 0018 0100 3200 6003 4400 0000 0000 0000 A800 0000 0000 
+5053 00FC 0101 3200 0201 0004 0000 00F4 9109 9902 003B 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 3134 3030 3030 3631 2020 2020 2020 2020 
+2020 2020 2020 2020 2020 2020 2020 2020 C000 002B 542B 4D18 5537 3837 432E 3030 
+312E 3931 3830 3537 362D 4132 0000 0000 4944 1C1D 3431 5530 3334 3100 4D44 4147 
+4831 3041 3744 3630 3238 3000 5045 1C00 3738 3743 2D30 3031 2039 3138 3035 3736 
+0000 0000 0000 0000 542B 4D18 5537 3837 432E 3030 312E 3931 3830 3537 362D 4132 
+2D41 3100 4944 1C1D 3132 5236 3232 3700 0000 0000 0000 0000 0000 0000 0000 0000 
+5045 1C00 3738 3743 2D30 3031 2039 3138 3035 3736 0000 0000 0000 0000 5544 0094 
+0204 4400 0000 0169 2F6F 7074 2F66 6970 732F 6269 6E2F 7074 6C69 6300 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 6230 3931 
+3661 5F39 3930 312E 3234 305F 3037 3038 3336 3031 0000 0000 0000 0000 0000 0002 
+0000 0000 0000 0801 0000 0000 0000 0002 4D54 001C 0100 4400 3934 3538 2D31 3030 
+3931 3830 3643 3700 0000 0000 5544 0410 0000 3200 AAAA AA0E ABCD EF00 0FAC 0004 
+03B1 0314 0000 6191 0999 0E00 3B02 0034 3155 3033 3431 4831 3041 3744 3630 3238 
+3030 3730 3833 3630 3130 3730 3833 3630 3140 A795 C7AE 147A E140 A810 4CCC CCCC 
+CD00 0000 0000 0000 0000 0000 0000 0000 0031 302E 302E 3235 352E 3234 3700 0000 
+3130 2E30 2E30 2E32 3532 0000 0000 0031 302E 302E 302E 3235 3400 0000 0000 3130 
+2E30 2E32 3535 2E32 3438 0000 00E0 A001 3030 3030 0139 3435 382D 3130 3039 3138 
+3036 4337 3934 3538 2D31 3030 3931 3830 3643 3700 0003 4400 EA02 0100 0202 1A0B 
+FFC0 0000 0A00 0AA3 87A3 8707 FFC8 00A0 1AA0 1A07 FFC9 00A0 1AA0 1A07 FFCA 00A0 
+1AA0 1A0B 0190 0000 3E00 3E04 0604 060B 0191 0000 3E00 3E04 0604 060B 0390 0000 
+3E00 3E04 0604 060B 0391 0000 3E00 3E04 0604 0607 0990 0000 1200 1207 0991 0000 
+1200 1207 0992 0000 1200 1207 0998 0003 9B03 9B07 0999 30FF FE03 9B07 099A 0003 
+9B03 9B07 099B 0003 9B03 9B07 099C 0003 9B03 9B07 099D 0003 9B03 9B07 0A90 0000 
+1200 1207 0A91 0000 1200 1207 0A92 0000 1200 1207 0B90 0000 1200 1207 0B91 0000 
+1200 1207 0B92 0000 1200 1207 0C90 0000 1200 1207 0C91 0000 1200 1207 0C92 0000 
+1200 1200 EA01 0100 0202 1A0B FF80 0000 0A00 0AA3 87A3 8707 FF88 00A0 1AA0 1A07 
+FF89 00A0 1AA0 1A07 FF8A 00A0 1AA0 1A0B 0190 0000 3E00 3E04 0604 060B 0191 0000 
+3E00 3E04 0604 060B 0390 0000 3E00 3E04 0604 060B 0391 0000 3E00 3E04 0604 0607 
+0990 0000 1200 1207 0991 0000 1200 1207 0992 0000 1200 1207 0998 0003 9B03 9B07 
+0999 30FF FE03 9B07 099A 0003 9B03 9B07 099B 0003 9B03 9B07 099C 0003 9B03 9B07 
+099D 0003 9B03 9B07 0A90 0000 1200 1207 0A91 0000 1200 1207 0A92 0000 1200 1207 
+0B90 0000 1200 1207 0B91 0000 1200 1207 0B92 0000 1200 1207 0C90 0000 1200 1207 
+0C91 0000 1200 1207 0C92 0000 1200 1201 2200 000B C027 0001 02E0 0100 E002 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0BC1 2700 0103 E101 00E1 0200 0000 0000 
+0000 0000 0000 0000 0000 0000 000B C327 0001 04E0 0100 E002 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0BB4 9C00 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 000B B99C 0101 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0BB9 9C00 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+000B B99C 0101 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0BBA 
+9C00 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 000B BE9C 0101 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0BBE 9C00 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 000C 0201 0309 9900 EB4D 4441 4734 
+3155 3033 3431 2020 2020 4A39 3935 3933 4831 3041 3744 3630 3238 3080 0080 0100 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00FE DCBA 0000 5544 01E4 
+0000 3F30 0031 FE3C 000A 0031 1801 0982 0036 FE3C 000A 0036 1821 0082 0036 FE3C 
+000B 0036 1800 0A82 003C FE3C 000B 003C 1820 0082 003C FE3C 000A 003C 1909 7010 
+003C FE3C 000B 003C 190A 7010 003C FE3C 000B 003C 1801 0A82 0041 FE3C 000B 0041 
+1821 0082 0041 FE3C 000C 0041 1800 0B82 0048 FE3C 000C 0048 1820 0082 0048 FE3C 
+000C 0048 1801 0B82 004C FE3C 000C 004C 1821 0082 004C FE3C 000D 004C 1800 0C82 
+0052 FE3C 000D 0052 1820 0082 0052 FE3C 000A 0052 1909 7011 0052 FE3C 000B 0052 
+190A 7011 0052 FE3C 000C 0052 190B 7011 0052 FE3C 000D 0052 190C 7011 0052 FE3C 
+000D 0052 1801 0C82 0057 FE3C 000D 0057 1821 0082 0057 FE3C 0001 0057 0104 0000 
+0057 FE3C 0002 0057 1801 0127 0057 FE3C 0002 0057 1821 0027 0057 FE3C 0001 0057 
+2150 3001 0057 FE3C 0001 0057 2110 0000 0057 FE3C 0001 0057 15D7 0000 0058 FE3C 
+007A 0058 1800 0090 0058 FE3C 007A 0058 1820 0090 0058 FE3C 000C 0058 190B 7010 
+0058 FE3C 000D 0058 190C 7010 0058 FE3C 007B 0058 1801 0290 0058 FE3C 007B 0058 
+1821 0090 0058 FE3C 0001 0058 2150 0A01 0058 FE3C 0001 0058 215B 3000 0058 FE3C 
+007A 0058 1800 0190 0058 FE3C 0001 0058 2700 0A01 0058 FE3C 007A 0058 1820 0090 
+005A FE3C 007B 005A 1801 0390 005A FE3C 007B 005A 1821 0090 005B FE3C 0001 005B 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	3902
+Resource tested:	sysplanar0
+Resource Description:	System Planar
+Location:		
+SRC:			14000061
+Description:		Power/Cooling subsystem Unrecovered Error, bypassed
+                        with loss of redundancy. Refer to the system service
+                        documentation for more information.
+Additional Words: 	2-91099902 3-003B0000 4-00000000 5-00000000
+			6-00000000 7-00000000 8-00000000 9-00000000
+Possible FRUs:
+    Priority: M FRU: 41U0341  S/N: H10A7D60280  CCIN: MDAG 
+    Location: U787C.001.9180576-A2
+    Priority: M FRU: 12R6227  S/N: n/a          CCIN: n/a  
+    Location: U787C.001.9180576-A2-A1
+
+---------------------------------------------------------------------------
+LABEL:          REPLACED_FRU
+IDENTIFIER:     2F3E09A4
+
+Date/Time:       Wed May 15 16:12:41 BEIST 2013
+Sequence Number: 14295
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            INFO
+Resource Name:   ent3            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U5791.001.99B0ZB8-P1-C09-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6524
+        FRU Number..................03N6524
+        EC Level....................H14006 
+        Manufacture ID..............YL1021
+        Network Address.............00145EB8316A
+        ROM Level.(alterable).......GOL021
+
+Description
+REPAIR ACTION
+
+User Causes
+PARTS REPLACEMENT
+
+	Recommended Actions
+	NONE
+
+---------------------------------------------------------------------------
+LABEL:          REPLACED_FRU
+IDENTIFIER:     2F3E09A4
+
+Date/Time:       Wed May 15 16:12:41 BEIST 2013
+Sequence Number: 14294
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            INFO
+Resource Name:   ent1            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U5791.001.99B0ZB8-P1-C07-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6524
+        FRU Number..................03N6524
+        EC Level....................H14006 
+        Manufacture ID..............YL1021
+        Network Address.............00145EB83BB9
+        ROM Level.(alterable).......GOL021
+
+Description
+REPAIR ACTION
+
+User Causes
+PARTS REPLACEMENT
+
+	Recommended Actions
+	NONE
+
+---------------------------------------------------------------------------
+LABEL:          REPLACED_FRU
+IDENTIFIER:     2F3E09A4
+
+Date/Time:       Wed May 15 16:12:40 BEIST 2013
+Sequence Number: 14293
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            INFO
+Resource Name:   ent2            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U5791.001.99B0ZB7-P1-C06-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6524
+        FRU Number..................03N6524
+        EC Level....................H14006 
+        Manufacture ID..............YL1021
+        Network Address.............00145EB83C8C
+        ROM Level.(alterable).......GOL021
+
+Description
+REPAIR ACTION
+
+User Causes
+PARTS REPLACEMENT
+
+	Recommended Actions
+	NONE
+
+---------------------------------------------------------------------------
+LABEL:          REPLACED_FRU
+IDENTIFIER:     2F3E09A4
+
+Date/Time:       Wed May 15 16:12:40 BEIST 2013
+Sequence Number: 14292
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            INFO
+Resource Name:   ent4            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U5791.001.99B0ZB7-P1-C09-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6524
+        FRU Number..................03N6524
+        EC Level....................H14006 
+        Manufacture ID..............YL1021
+        Network Address.............00145EB8432B
+        ROM Level.(alterable).......GOL021
+
+Description
+REPAIR ACTION
+
+User Causes
+PARTS REPLACEMENT
+
+	Recommended Actions
+	NONE
+
+---------------------------------------------------------------------------
+LABEL:          SCAN_ERROR_CHRP
+IDENTIFIER:     BFE4C025
+
+Date/Time:       Wed May 15 16:09:37 BEIST 2013
+Sequence Number: 14291
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PERM
+Resource Name:   sysplanar0      
+Resource Class:  planar
+Resource Type:   sysplanar_rspc
+Location:        
+
+Description
+UNDETERMINED ERROR
+
+Failure Causes
+UNDETERMINED
+
+	Recommended Actions
+	RUN SYSTEM DIAGNOSTICS.
+
+Detail Data
+PROBLEM DATA
+0644 00E0 0000 07F8 9600 8E00 0000 0000 0000 0000 4942 4D00 5048 0030 0100 3200 
+2013 0515 0618 4270 2013 0515 0618 4270 5700 0107 0000 0000 0000 0000 0000 0000 
+8604 0022 500A 76EA 5548 0018 0100 3200 6003 4400 0000 0000 0000 A800 0000 0000 
+5053 00FC 0101 3200 0201 0004 0000 00F4 9109 9902 003B 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 3134 3030 3030 3631 2020 2020 2020 2020 
+2020 2020 2020 2020 2020 2020 2020 2020 C000 002B 542B 4D18 552E 2E4E 4F2E 544D 
+532E 4441 5441 2E2E 2E2D 4132 0000 0000 4944 1C1D 3431 5530 3334 3100 4D44 4147 
+4831 3041 3744 3630 3238 3000 5045 1C00 2E2E 4E4F 2E54 4D53 2E44 4154 412E 2E2E 
+0000 0000 0000 0000 542B 4D18 552E 2E4E 4F2E 544D 532E 4441 5441 2E2E 2E2D 4132 
+2D41 3100 4944 1C1D 3132 5236 3232 3700 0000 0000 0000 0000 0000 0000 0000 0000 
+5045 1C00 2E2E 4E4F 2E54 4D53 2E44 4154 412E 2E2E 0000 0000 0000 0000 5544 0094 
+0204 4400 0000 018B 2F6F 7074 2F66 6970 732F 6269 6E2F 7074 6C69 6300 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 6230 3931 
+3661 5F39 3930 312E 3234 305F 3037 3038 3336 3031 0000 0000 0000 0000 0000 0001 
+0000 0000 0000 0801 0000 0000 0000 0001 4D54 001C 0100 4400 2020 2020 2020 2020 
+2020 2020 2020 2020 2020 2020 5544 0410 0000 3200 AAAA AA04 ABCD EF00 0FAC 0004 
+03B1 0314 0000 6191 0999 0400 3B02 0034 3155 3033 3431 4831 3041 3744 3630 3238 
+3030 3730 3833 3630 3130 3730 3833 3630 3140 7815 70A3 D70A 3E40 7BEA E147 AE14 
+7C00 0000 0000 0000 0000 0000 0000 0000 0031 302E 302E 302E 3235 3400 0000 0000 
+3130 2E30 2E32 3535 2E32 3438 0000 0031 302E 302E 3235 352E 3234 3700 0000 3130 
+2E30 2E30 2E32 3532 0000 0000 00E0 A801 3030 3030 0139 3435 382D 3130 3039 3138 
+3036 4337 3934 3538 2D31 3030 3931 3830 3643 3700 0003 4500 EA01 0102 0202 1A0B 
+FF80 0000 0A00 0AA3 87A3 8707 FF88 00A0 1AA0 1A07 FF89 00A0 1AA0 1A07 FF8A 00A0 
+1AA0 1A0B 0190 0000 3E00 3E04 0604 060B 0191 0000 3E00 3E04 0604 060B 0390 0000 
+3E00 3E04 0604 060B 0391 0000 3E00 3E04 0604 0607 0990 0000 1200 1207 0991 0000 
+1200 1207 0992 0000 1200 1207 0998 0003 9B03 9B07 0999 30FF FE03 9B07 099A 0003 
+9B03 9B07 099B 0003 9B03 9B07 099C 0003 9B03 9B07 099D 0003 9B03 9B07 0A90 0000 
+1200 1207 0A91 0000 1200 1207 0A92 0000 1200 1207 0B90 0000 1200 1207 0B91 0000 
+1200 1207 0B92 0000 1200 1207 0C90 0000 1200 1207 0C91 0000 1200 1207 0C92 0000 
+1200 1200 EA02 0102 0202 1A0B FFC0 0000 0A00 0AA3 87A3 8707 FFC8 00A0 1AA0 1A07 
+FFC9 00A0 1AA0 1A07 FFCA 00A0 1AA0 1A0B 0190 0000 3E00 3E04 0604 060B 0191 0000 
+3E00 3E04 0604 060B 0390 0000 3E00 3E04 0604 060B 0391 0000 3E00 3E04 0604 0607 
+0990 0000 1200 1207 0991 0000 1200 1207 0992 0000 1200 1207 0998 0003 9B03 9B07 
+0999 30FF FE03 9B07 099A 0003 9B03 9B07 099B 0003 9B03 9B07 099C 0003 9B03 9B07 
+099D 0003 9B03 9B07 0A90 0000 1200 1207 0A91 0000 1200 1207 0A92 0000 1200 1207 
+0B90 0000 1200 1207 0B91 0000 1200 1207 0B92 0000 1200 1207 0C90 0000 1200 1207 
+0C91 0000 1200 1207 0C92 0000 1200 1201 2200 0000 529C 0101 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0052 9C00 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 000C 0201 0309 9900 EB4D 4441 4734 
+3155 3033 3431 2020 2020 4A39 3935 3933 4831 3041 3744 3630 3238 3080 0080 0100 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00FE DCBA 0000 5544 01E4 
+0000 3F30 0127 FE3C 007A 0127 1820 0090 0127 FE3C 007A 0127 D092 8700 0127 FE3C 
+007A 0127 1830 A200 0127 FE3C 0001 0127 2150 1001 0127 FE3C 0001 0127 2150 1001 
+0127 FE3C 007B 0127 1801 0390 0128 FE3C 007B 0128 1821 0090 0128 FE3C 007B 0128 
+D092 8701 0128 FE3C 007B 0128 1830 A201 0129 FE3C 007A 0129 1800 0090 012D FE3C 
+007A 012D 1820 0090 012D FE3C 007A 012D 1830 A000 012D FE3C 0001 012D 2150 0801 
+012D FE3C 0001 012D 2150 0801 012D FE3C 0001 012D 2150 0901 012D FE3C 007B 012D 
+1801 0290 012D FE3C 0001 012D 2150 0901 0130 FE3C 0001 0130 2150 1D01 0130 FE3C 
+0001 0130 2150 1D01 0130 FE3C 0001 0130 2150 3001 0130 FE3C 0001 0130 2110 0000 
+0130 FE3C 0001 0130 15DB 0000 0132 FE3C 0001 0132 2192 3000 0132 FE3C 0001 0132 
+2193 3000 0133 FE3C 007B 0133 1821 0090 0133 FE3C 007B 0133 1830 A001 0134 FE3C 
+0001 0134 2192 3001 0134 FE3C 0001 0134 2193 3001 0134 FE3C 0001 0134 2150 1E01 
+0134 FE3C 0001 0134 2150 0901 0134 FE3C 0001 0134 2150 0901 0137 FE3C 0001 0137 
+02CC 0000 013D FE3C 007A 013D 1800 0064 013D FE3C 0001 013D 1100 0010 013D FE3C 
+0001 013D 1100 0000 013D FE3C 007A 013D 1820 0064 013D FE3C 007B 013D 1801 0064 
+013E FE3C 007B 013E 1821 0064 013E FE3C 007A 013E 1800 FF31 013F FE3C 007A 013F 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	3892
+Resource tested:	sysplanar0
+Resource Description:	System Planar
+Location:		
+SRC:			14000061
+Description:		Power/Cooling subsystem Unrecovered Error, bypassed
+                        with loss of redundancy. Refer to the system service
+                        documentation for more information.
+Additional Words: 	2-91099902 3-003B0000 4-00000000 5-00000000
+			6-00000000 7-00000000 8-00000000 9-00000000
+Possible FRUs:
+    Priority: M FRU: 41U0341  S/N: H10A7D60280  CCIN: MDAG 
+    Location: U..NO.TMS.DATA...-A2
+    Priority: M FRU: 12R6227  S/N: n/a          CCIN: n/a  
+    Location: U..NO.TMS.DATA...-A2-A1
+
+---------------------------------------------------------------------------
+LABEL:          SCAN_ERROR_CHRP
+IDENTIFIER:     BFE4C025
+
+Date/Time:       Wed May 15 16:09:07 BEIST 2013
+Sequence Number: 14290
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PERM
+Resource Name:   sysplanar0      
+Resource Class:  planar
+Resource Type:   sysplanar_rspc
+Location:        
+
+Description
+UNDETERMINED ERROR
+
+Failure Causes
+UNDETERMINED
+
+	Recommended Actions
+	RUN SYSTEM DIAGNOSTICS.
+
+Detail Data
+PROBLEM DATA
+0644 00E0 0000 07F8 9600 8E00 0000 0000 0000 0000 4942 4D00 5048 0030 0100 3200 
+2013 0515 0618 3766 2013 0515 0618 3766 5700 0107 0000 0000 0000 0000 0000 0000 
+8804 0022 500A 76E3 5548 0018 0100 3200 6003 4400 0000 0000 0000 A800 0000 0000 
+5053 00FC 0101 3200 0201 0004 0000 00F4 9109 9902 003B 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 3134 3030 3030 3631 2020 2020 2020 2020 
+2020 2020 2020 2020 2020 2020 2020 2020 C000 002B 542B 4D18 552E 2E4E 4F2E 544D 
+532E 4441 5441 2E2E 2E2D 4132 0000 0000 4944 1C1D 3431 5530 3334 3100 4D44 4147 
+4831 3041 3744 3630 3238 3000 5045 1C00 2E2E 4E4F 2E54 4D53 2E44 4154 412E 2E2E 
+0000 0000 0000 0000 542B 4D18 552E 2E4E 4F2E 544D 532E 4441 5441 2E2E 2E2D 4132 
+2D41 3100 4944 1C1D 3132 5236 3232 3700 0000 0000 0000 0000 0000 0000 0000 0000 
+5045 1C00 2E2E 4E4F 2E54 4D53 2E44 4154 412E 2E2E 0000 0000 0000 0000 5544 0094 
+0204 4400 0000 0169 2F6F 7074 2F66 6970 732F 6269 6E2F 7074 6C69 6300 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 6230 3931 
+3661 5F39 3930 312E 3234 305F 3037 3038 3336 3031 0000 0000 0000 0000 0000 0002 
+0000 0000 0000 0801 0000 0000 0000 0001 4D54 001C 0100 4400 2020 2020 2020 2020 
+2020 2020 2020 2020 2020 2020 5544 0410 0000 3200 AAAA AA04 ABCD EF00 0FAC 0004 
+03B1 0314 0000 6191 0999 0400 3B02 0034 3155 3033 3431 4831 3041 3744 3630 3238 
+3030 3730 3833 3630 3130 3730 3833 3630 3140 7976 B851 EB85 1F40 7D4A E147 AE14 
+7B00 0000 0000 0000 0000 0000 0000 0000 0031 302E 302E 3235 352E 3234 3700 0000 
+3130 2E30 2E30 2E32 3532 0000 0000 0031 302E 302E 302E 3235 3400 0000 0000 3130 
+2E30 2E32 3535 2E32 3438 0000 00E0 A001 3030 3030 0139 3435 382D 3130 3039 3138 
+3036 4337 3934 3538 2D31 3030 3931 3830 3643 3700 0003 4500 EA02 0100 0202 1A0B 
+FFC0 0000 0A00 0AA3 87A3 8707 FFC8 00A0 1AA0 1A07 FFC9 00A0 1AA0 1A07 FFCA 00A0 
+1AA0 1A0B 0190 0000 3E00 3E04 0604 060B 0191 0000 3E00 3E04 0604 060B 0390 0000 
+3E00 3E04 0604 060B 0391 0000 3E00 3E04 0604 0607 0990 0000 1200 1207 0991 0000 
+1200 1207 0992 0000 1200 1207 0998 0003 9B03 9B07 0999 30FF FE03 9B07 099A 0003 
+9B03 9B07 099B 0003 9B03 9B07 099C 0003 9B03 9B07 099D 0003 9B03 9B07 0A90 0000 
+1200 1207 0A91 0000 1200 1207 0A92 0000 1200 1207 0B90 0000 1200 1207 0B91 0000 
+1200 1207 0B92 0000 1200 1207 0C90 0000 1200 1207 0C91 0000 1200 1207 0C92 0000 
+1200 1200 EA01 0100 0202 1A0B FF80 0000 0A00 0AA3 87A3 8707 FF88 00A0 1AA0 1A07 
+FF89 00A0 1AA0 1A07 FF8A 00A0 1AA0 1A0B 0190 0000 3E00 3E04 0604 060B 0191 0000 
+3E00 3E04 0604 060B 0390 0000 3E00 3E04 0604 060B 0391 0000 3E00 3E04 0604 0607 
+0990 0000 1200 1207 0991 0000 1200 1207 0992 0000 1200 1207 0998 0003 9B03 9B07 
+0999 30FF FE03 9B07 099A 0003 9B03 9B07 099B 0003 9B03 9B07 099C 0003 9B03 9B07 
+099D 0003 9B03 9B07 0A90 0000 1200 1207 0A91 0000 1200 1207 0A92 0000 1200 1207 
+0B90 0000 1200 1207 0B91 0000 1200 1207 0B92 0000 1200 1207 0C90 0000 1200 1207 
+0C91 0000 1200 1207 0C92 0000 1200 1201 2200 0000 4E9C 0101 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 004E 9C00 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 509C 0101 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0050 9C00 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 549C 0101 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0054 9C00 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 000C 0201 0309 9900 EB4D 4441 4734 
+3155 3033 3431 2020 2020 4A39 3935 3933 4831 3041 3744 3630 3238 3080 0080 0100 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00FE DCBA 0000 5544 01E4 
+0000 3F30 0120 FE3C 007A 0120 1880 AA00 0120 FE3C 0001 0120 18BF 0211 0120 FE3C 
+0001 0120 18C0 0A00 0120 FE3C 0001 0120 18C1 FFF7 0120 FE3C 0001 0120 18BF 0301 
+0120 FE3C 0001 0120 18C0 0A00 0120 FE3C 0001 0120 18C1 00FC 0120 FE3C 007A 0120 
+1880 0B01 0120 FE3C 007A 0120 1880 BB01 0120 FE3C 0000 0120 1881 0000 0120 FE3C 
+0000 0120 1881 0001 0120 FE3C 0001 0120 2150 2406 0120 FE3C 0001 0120 2150 2001 
+0120 FE3C 0001 0120 2150 2001 0120 FE3C 007A 0120 1800 0190 0122 FE3C 0001 0122 
+2150 2101 0122 FE3C 0001 0122 2150 2101 0124 FE3C 0001 0124 2150 0201 0124 FE3C 
+0001 0124 2150 0201 0127 FE3C 007A 0127 1820 0090 0127 FE3C 007A 0127 D092 8700 
+0127 FE3C 007A 0127 1830 A200 0127 FE3C 0001 0127 2150 1001 0127 FE3C 0001 0127 
+2150 1001 0127 FE3C 007B 0127 1801 0390 0128 FE3C 007B 0128 1821 0090 0128 FE3C 
+007B 0128 D092 8701 0128 FE3C 007B 0128 1830 A201 0129 FE3C 007A 0129 1800 0090 
+012D FE3C 007A 012D 1820 0090 012D FE3C 007A 012D 1830 A000 012D FE3C 0001 012D 
+2150 0801 012D FE3C 0001 012D 2150 0801 012D FE3C 0001 012D 2150 0901 012D FE3C 
+007B 012D 1801 0290 012D FE3C 0001 012D 2150 0901 0130 FE3C 0001 0130 2150 1D01 
+0130 FE3C 0001 0130 2150 1D01 0130 FE3C 0001 0130 2150 3001 0130 FE3C 0001 0130 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	3890
+Resource tested:	sysplanar0
+Resource Description:	System Planar
+Location:		
+SRC:			14000061
+Description:		Power/Cooling subsystem Unrecovered Error, bypassed
+                        with loss of redundancy. Refer to the system service
+                        documentation for more information.
+Additional Words: 	2-91099902 3-003B0000 4-00000000 5-00000000
+			6-00000000 7-00000000 8-00000000 9-00000000
+Possible FRUs:
+    Priority: M FRU: 41U0341  S/N: H10A7D60280  CCIN: MDAG 
+    Location: U..NO.TMS.DATA...-A2
+    Priority: M FRU: 12R6227  S/N: n/a          CCIN: n/a  
+    Location: U..NO.TMS.DATA...-A2-A1
+
+---------------------------------------------------------------------------
+LABEL:          RMCD_INFO_0_ST
+IDENTIFIER:     A6DF45AA
+
+Date/Time:       Wed May 15 16:08:24 BEIST 2013
+Sequence Number: 14289
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           O
+Type:            INFO
+Resource Name:   RMCdaemon       
+
+Description
+The daemon is started.
+
+Probable Causes
+The Resource Monitoring and Control daemon has been started.
+
+User Causes
+The startsrc -s ctrmc command has been executed or
+the rmcctrl -s command has been executed.
+
+	Recommended Actions
+	Confirm that the daemon should be started.
+
+Detail Data
+DETECTING MODULE
+RSCT,rmcd.c,1.52,211                          
+ERROR ID 
+6eKora0s7oYF/iVk1c3.mi/...................
+REFERENCE CODE
+                                          
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Wed May 15 16:08:02 BEIST 2013
+Sequence Number: 14288
+Machine Id:      00CA6AA04C00
+Node Id:         localhost
+Class:           H
+Type:            PEND
+Resource Name:   vpath125        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 007D 0000 0001 0000 0000 0000 0000 0000 007D 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Wed May 15 16:08:02 BEIST 2013
+Sequence Number: 14287
+Machine Id:      00CA6AA04C00
+Node Id:         localhost
+Class:           H
+Type:            PEND
+Resource Name:   vpath124        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 007C 0000 0001 0000 0000 0000 0000 0000 007C 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Wed May 15 16:08:02 BEIST 2013
+Sequence Number: 14286
+Machine Id:      00CA6AA04C00
+Node Id:         localhost
+Class:           H
+Type:            PEND
+Resource Name:   vpath123        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 007B 0000 0001 0000 0000 0000 0000 0000 007B 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Wed May 15 16:08:02 BEIST 2013
+Sequence Number: 14285
+Machine Id:      00CA6AA04C00
+Node Id:         localhost
+Class:           H
+Type:            PEND
+Resource Name:   vpath122        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 007A 0000 0001 0000 0000 0000 0000 0000 007A 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Wed May 15 16:08:02 BEIST 2013
+Sequence Number: 14284
+Machine Id:      00CA6AA04C00
+Node Id:         localhost
+Class:           H
+Type:            PEND
+Resource Name:   vpath121        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0079 0000 0001 0000 0000 0000 0000 0000 0079 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Wed May 15 16:08:02 BEIST 2013
+Sequence Number: 14283
+Machine Id:      00CA6AA04C00
+Node Id:         localhost
+Class:           H
+Type:            PEND
+Resource Name:   vpath120        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0078 0000 0001 0000 0000 0000 0000 0000 0078 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Wed May 15 16:08:02 BEIST 2013
+Sequence Number: 14282
+Machine Id:      00CA6AA04C00
+Node Id:         localhost
+Class:           H
+Type:            PEND
+Resource Name:   vpath119        
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0077 0000 0001 0000 0000 0000 0000 0000 0077 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Wed May 15 16:05:23 BEIST 2013
+Sequence Number: 14280
+Machine Id:      00CA6AA04C00
+Node Id:         localhost
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk509        
+Resource Class:  disk
+Resource Type:   2107
+Location:        U5791.001.99B0ZB7-P1-C08-T1-W5005076306108405-L4015400900000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48211509
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0202
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2A00 0682 A800 0001 0004 0000 0000 0000 0000 0000 0000 0200 0200 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0010 57B3 0004 BD40 0000 0001 0000 0000 0000 0000 0000 0000 0000 
+0000 0034 001D 
+---------------------------------------------------------------------------
+LABEL:          ERRLOG_ON
+IDENTIFIER:     9DBCFDEE
+
+Date/Time:       Wed May 15 16:07:59 BEIST 2013
+Sequence Number: 14279
+Machine Id:      00CA6AA04C00
+Node Id:         localhost
+Class:           O
+Type:            TEMP
+Resource Name:   errdemon        
+
+Description
+ERROR LOGGING TURNED ON
+
+Probable Causes
+ERRDEMON STARTED AUTOMATICALLY
+
+User Causes
+/USR/LIB/ERRDEMON COMMAND
+
+	Recommended Actions
+	NONE
+
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Thu May  2 04:31:38 BEIST 2013
+Sequence Number: 14278
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk509        
+Resource Class:  disk
+Resource Type:   2107
+Location:        U5791.001.99B0ZB7-P1-C08-T1-W5005076306108405-L4015400900000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48211509
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0202
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2A00 0682 A800 0001 0004 0000 0000 0000 0000 0000 0000 0200 0200 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0010 57B3 0004 BD40 0000 0001 0000 0000 0000 0000 0000 0000 0000 
+0000 0034 001D 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Thu May  2 04:30:55 BEIST 2013
+Sequence Number: 14277
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk509        
+Resource Class:  disk
+Resource Type:   2107
+Location:        U5791.001.99B0ZB7-P1-C08-T1-W5005076306108405-L4015400900000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48211509
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0202
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2A00 0322 2900 0001 0004 0000 0000 0000 0000 0000 0000 0200 0200 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0010 573F 000F 2240 0000 0001 0000 0000 0000 0000 0000 0000 0000 
+0000 0034 001D 
+---------------------------------------------------------------------------
+LABEL:          GOENT_RCVRY_EXIT
+IDENTIFIER:     F3931284
+
+Date/Time:       Sat Mar 30 03:30:11 BEIST 2013
+Sequence Number: 14276
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            INFO
+Resource Name:   ent2            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U5791.001.99B0ZB7-P1-C06-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6524
+        FRU Number..................03N6524
+        EC Level....................H14006 
+        Manufacture ID..............YL1021
+        Network Address.............00145EB83C8C
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET NETWORK RECOVERY MODE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 449 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0068 7C0A 0063 0853 0000 0001 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0215 7C47 0000 0000 D6DC 2C77 0000 0000 0194 8C8D 0000 0000 01B1 E123 
+0000 0000 0068 27E4 0000 0002 1FEA C6F1 0000 0000 0000 0000 0000 0000 0000 006C 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0038 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB83 00F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 C9E1 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB8 4298 
+---------------------------------------------------------------------------
+LABEL:          GOENT_RCVRY_EXIT
+IDENTIFIER:     F3931284
+
+Date/Time:       Sat Mar 30 03:29:42 BEIST 2013
+Sequence Number: 14275
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            INFO
+Resource Name:   ent4            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U5791.001.99B0ZB7-P1-C09-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6524
+        FRU Number..................03N6524
+        EC Level....................H14006 
+        Manufacture ID..............YL1021
+        Network Address.............00145EB8432B
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET NETWORK RECOVERY MODE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 449 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0068 7BED 0063 0853 0000 0001 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 1AB2 0000 0000 000B 34D0 0000 0000 0000 19D2 0000 0000 0000 16E9 
+0000 0000 0000 0376 0000 0000 0002 C132 0000 0000 0000 0000 0000 0000 0000 003D 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0003 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB83 00F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 C9E1 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB8 316A 
+---------------------------------------------------------------------------
+LABEL:          GOENT_LINK_DOWN
+IDENTIFIER:     EC0BCCD4
+
+Date/Time:       Sat Mar 30 03:20:10 BEIST 2013
+Sequence Number: 14274
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            TEMP
+Resource Name:   ent4            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U5791.001.99B0ZB7-P1-C09-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6524
+        FRU Number..................03N6524
+        EC Level....................H14006 
+        Manufacture ID..............YL1021
+        Network Address.............00145EB8432B
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 393 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0068 79B0 0063 081B 0000 0001 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 1AB2 0000 0000 000B 34D0 0000 0000 0000 19D2 0000 0000 0000 16E9 
+0000 0000 0000 0376 0000 0000 0002 C132 0000 0000 0000 0000 0000 0000 0000 003D 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0003 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB80 08F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+2222 2222 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB8 316A 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	3886
+Resource tested:	ent4
+Menu Number:		25C1902
+Description:
+
+
+No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.
+
+---------------------------------------------------------------------------
+LABEL:          GOENT_LINK_DOWN
+IDENTIFIER:     EC0BCCD4
+
+Date/Time:       Sat Mar 30 03:20:10 BEIST 2013
+Sequence Number: 14273
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            TEMP
+Resource Name:   ent2            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U5791.001.99B0ZB7-P1-C06-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6524
+        FRU Number..................03N6524
+        EC Level....................H14006 
+        Manufacture ID..............YL1021
+        Network Address.............00145EB83C8C
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 393 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0068 79B0 0063 081B 0000 0001 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0215 7C47 0000 0000 D6DC 2C77 0000 0000 0194 8C8D 0000 0000 01B1 E0EB 
+0000 0000 0068 27E4 0000 0002 1FEA C6F1 0000 0000 0000 0000 0000 0000 0000 006C 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0038 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB80 08F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+2222 2222 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB8 4298 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	3888
+Resource tested:	ent2
+Menu Number:		25C1902
+Description:
+
+
+No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.
+
+---------------------------------------------------------------------------
+LABEL:          ECH_CHAN_RCVRY
+IDENTIFIER:     8650BE3F
+
+Date/Time:       Sat Mar 30 03:14:33 BEIST 2013
+Sequence Number: 14272
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            INFO
+Resource Name:   ent5            
+Resource Class:  adapter
+Resource Type:   ibm_ech
+Location:        
+
+Description
+ETHERCHANNEL RECOVERY
+
+Probable Causes
+CABLE
+SWITCH
+ADAPTER
+
+Failure Causes
+CABLES AND CONNECTIONS
+
+	Recommended Actions
+	CHECK CABLE AND ITS CONNECTIONS
+	IF ERROR PERSISTS, REPLACE ADAPTER CARD.
+
+Detail Data
+A primary adapter in the EtherChannel recovered: returning to main channel
+
+---------------------------------------------------------------------------
+LABEL:          GOENT_RCVRY_EXIT
+IDENTIFIER:     F3931284
+
+Date/Time:       Sat Mar 30 03:14:02 BEIST 2013
+Sequence Number: 14271
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            INFO
+Resource Name:   ent1            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U5791.001.99B0ZB8-P1-C07-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6524
+        FRU Number..................03N6524
+        EC Level....................H14006 
+        Manufacture ID..............YL1021
+        Network Address.............00145EB83BB9
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET NETWORK RECOVERY MODE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 449 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0068 7843 0063 0853 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 853C C2A3 0000 014D 49CD CB55 0000 0000 7C06 2731 0000 0000 0333 B458 
+0000 0000 47C8 099F 0000 020F E5D9 0D17 0000 0000 0000 0000 0000 0000 0000 1A98 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 0000 0015 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB83 00F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 C9E1 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB8 3BB9 
+---------------------------------------------------------------------------
+LABEL:          GOENT_RCVRY_EXIT
+IDENTIFIER:     F3931284
+
+Date/Time:       Sat Mar 30 03:14:02 BEIST 2013
+Sequence Number: 14270
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            INFO
+Resource Name:   ent0            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U5791.001.99B0ZB8-P1-C06-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6524
+        FRU Number..................03N6524
+        EC Level....................H14006 
+        Manufacture ID..............YL1021
+        Network Address.............00145EB84298
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET NETWORK RECOVERY MODE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 449 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0068 7841 0063 0853 0000 0001 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0003 A02A EBD1 0000 0A4F D723 4755 0000 0001 4E6F CCE1 0000 0000 01A5 EA3F 
+0000 0002 7A81 4D1C 0000 0AA2 0668 15D5 0000 0000 0000 0000 0000 0018 000B CEB9 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 005F 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB83 00F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 C9E1 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB8 4298 
+---------------------------------------------------------------------------
+LABEL:          ECH_CHAN_RCVRY
+IDENTIFIER:     8650BE3F
+
+Date/Time:       Sat Mar 30 03:13:09 BEIST 2013
+Sequence Number: 14269
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            INFO
+Resource Name:   ent6            
+Resource Class:  adapter
+Resource Type:   ibm_ech
+Location:        
+
+Description
+ETHERCHANNEL RECOVERY
+
+Probable Causes
+CABLE
+SWITCH
+ADAPTER
+
+Failure Causes
+CABLES AND CONNECTIONS
+
+	Recommended Actions
+	CHECK CABLE AND ITS CONNECTIONS
+	IF ERROR PERSISTS, REPLACE ADAPTER CARD.
+
+Detail Data
+A primary adapter in the EtherChannel recovered: returning to main channel
+
+---------------------------------------------------------------------------
+LABEL:          GOENT_RCVRY_EXIT
+IDENTIFIER:     F3931284
+
+Date/Time:       Sat Mar 30 03:12:39 BEIST 2013
+Sequence Number: 14268
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            INFO
+Resource Name:   ent3            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U5791.001.99B0ZB8-P1-C09-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6524
+        FRU Number..................03N6524
+        EC Level....................H14006 
+        Manufacture ID..............YL1021
+        Network Address.............00145EB8316A
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET NETWORK RECOVERY MODE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 449 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0068 77ED 0063 0853 0000 0001 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 91EB 1D45 0000 014E 08DE 2A38 0000 0000 3034 1FF0 0000 0000 0000 0B9F 
+0000 0001 13FD 5C6A 0000 038F 1511 DE4A 0000 0000 0000 0000 0000 0000 0000 0AF9 
+0000 000C 0000 0000 0000 0000 0000 0000 0000 0000 0000 0942 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB83 00F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 C9E1 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB8 316A 
+---------------------------------------------------------------------------
+LABEL:          ECH_CHAN_FAIL
+IDENTIFIER:     F3846E13
+
+Date/Time:       Sat Mar 30 03:07:24 BEIST 2013
+Sequence Number: 14267
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PERM
+Resource Name:   ent6            
+Resource Class:  adapter
+Resource Type:   ibm_ech
+Location:        
+
+Description
+ETHERCHANNEL FAILOVER
+
+Probable Causes
+CABLE
+SWITCH
+ADAPTER
+
+Failure Causes
+CABLES AND CONNECTIONS
+
+	Recommended Actions
+	CHECK CABLE AND ITS CONNECTIONS
+	IF ERROR PERSISTS, REPLACE ADAPTER CARD.
+
+Detail Data
+All primary EtherChannel adapters failed: switching over to backup adapter
+
+---------------------------------------------------------------------------
+LABEL:          ECH_CHAN_FAIL
+IDENTIFIER:     F3846E13
+
+Date/Time:       Sat Mar 30 03:07:24 BEIST 2013
+Sequence Number: 14266
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            PERM
+Resource Name:   ent5            
+Resource Class:  adapter
+Resource Type:   ibm_ech
+Location:        
+
+Description
+ETHERCHANNEL FAILOVER
+
+Probable Causes
+CABLE
+SWITCH
+ADAPTER
+
+Failure Causes
+CABLES AND CONNECTIONS
+
+	Recommended Actions
+	CHECK CABLE AND ITS CONNECTIONS
+	IF ERROR PERSISTS, REPLACE ADAPTER CARD.
+
+Detail Data
+All primary EtherChannel adapters failed: switching over to backup adapter
+
+---------------------------------------------------------------------------
+LABEL:          GOENT_LINK_DOWN
+IDENTIFIER:     EC0BCCD4
+
+Date/Time:       Sat Mar 30 03:07:24 BEIST 2013
+Sequence Number: 14265
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            TEMP
+Resource Name:   ent1            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U5791.001.99B0ZB8-P1-C07-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6524
+        FRU Number..................03N6524
+        EC Level....................H14006 
+        Manufacture ID..............YL1021
+        Network Address.............00145EB83BB9
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 393 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0068 76B4 0063 081B 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 
+0000 0000 853C C2A3 0000 014D 49CD CB55 0000 0000 7C06 2731 0000 0000 0333 B458 
+0000 0000 47C8 099E 0000 020F E5D9 0CDB 0000 0000 0000 0000 0000 0000 0000 1A98 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 0000 0015 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB80 08F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+2222 2222 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB8 3BB9 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	3882
+Resource tested:	ent1
+Menu Number:		25C1902
+Description:
+
+
+No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.
+
+---------------------------------------------------------------------------
+LABEL:          GOENT_LINK_DOWN
+IDENTIFIER:     EC0BCCD4
+
+Date/Time:       Sat Mar 30 03:07:24 BEIST 2013
+Sequence Number: 14264
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            TEMP
+Resource Name:   ent3            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U5791.001.99B0ZB8-P1-C09-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6524
+        FRU Number..................03N6524
+        EC Level....................H14006 
+        Manufacture ID..............YL1021
+        Network Address.............00145EB8316A
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 393 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0068 76B3 0063 081B 0000 0001 0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 
+0000 0000 91EB 1D45 0000 014E 08DE 2A38 0000 0000 3034 1FF0 0000 0000 0000 0B9F 
+0000 0001 13FD 5C69 0000 038F 1511 DDD4 0000 0000 0000 0000 0000 0000 0000 0AF9 
+0000 000C 0000 0000 0000 0000 0000 0000 0000 0001 0000 0942 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB80 08F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+2222 2222 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB8 316A 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	3877
+Resource tested:	ent3
+Menu Number:		25C1902
+Description:
+
+
+No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.
+
+---------------------------------------------------------------------------
+LABEL:          GOENT_LINK_DOWN
+IDENTIFIER:     EC0BCCD4
+
+Date/Time:       Sat Mar 30 03:07:24 BEIST 2013
+Sequence Number: 14263
+Machine Id:      00CA6AA04C00
+Node Id:         REP_DB1
+Class:           H
+Type:            TEMP
+Resource Name:   ent0            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U5791.001.99B0ZB8-P1-C06-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6524
+        FRU Number..................03N6524
+        EC Level....................H14006 
+        Manufacture ID..............YL1021
+        Network Address.............00145EB84298
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 393 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0068 76B3 0063 081B 0000 0001 0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 
+0000 0003 A02A EBD1 0000 0A4F D723 4755 0000 0001 4E6F CCE1 0000 0000 01A5 E9C5 
+0000 0002 7A81 4D1B 0000 0AA2 0668 1590 0000 0000 0000 0000 0000 0018 000B CEB5 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 000B 0000 005F 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB80 08F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+2222 2222 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB8 4298 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	3880
+Resource tested:	ent0
+Menu Number:		25C1902
+Description:
+
+
+No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.

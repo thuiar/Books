@@ -1,0 +1,1520 @@
+LABEL:          LVM_IO_FAIL
+IDENTIFIER:     E86653C3
+
+Date/Time:       Sun Jan 20 02:11:30 GMT+08:00 2013
+Sequence Number: 281
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   LVDD            
+Resource Class:  NONE
+Resource Type:   NONE
+Location:        
+
+Description
+I/O ERROR DETECTED BY LVM
+
+Probable Causes
+POWER, DRIVE, ADAPTER, OR CABLE FAILURE
+
+	Recommended Actions
+	RUN DIAGNOSTICS AGAINST THE FAILING DEVICE
+
+Detail Data
+PHYSICAL VOLUME DEVICE MAJOR/MINOR
+8000 000F 0000 0003 
+ERROR CODE AS DEFINED IN sys/errno.h
+           5
+BLOCK NUMBER
+             117967872
+LOGICAL VOLUME DEVICE MAJOR/MINOR
+8000 0032 0000 0001 
+PHYSICAL BUFFER TRANSACTION TIME
+                    34
+RESIDUAL COUNT
+                  4096
+NUMBER OF BLOCKS
+                  4096
+I/O TYPE
+USER DATA     
+SENSE DATA
+0000 0000 0000 E101 00F6 E0FA 0000 4C00 0000 0138 D70F 18A5 00F6 E0FA EA59 F8BE 
+0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sun Jan 20 02:11:30 GMT+08:00 2013
+Sequence Number: 280
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk2          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......ST9300603SS     
+        FRU Number..................44V6833     
+        ROS Level and ID............42423039
+        Serial Number...............6SE4WVWP
+        EC Level....................L36403    
+        Part Number.................44V6838     
+        Device Specific.(Z0)........000006329F001002
+        Device Specific.(Z1)........0617BB09    
+        Device Specific.(Z2)........0021
+        Device Specific.(Z3)........11236
+        Device Specific.(Z4)........
+        Device Specific.(Z5)........22
+        Device Specific.(Z6)........L36403    
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2800 0708 0C00 0000 0804 0000 0000 0000 0000 0000 0000 0102 0000 F000 0407 
+080C 0018 0000 0000 1501 8380 2247 0000 0415 0183 0049 3101 04F2 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 B14A 000F 1900 0000 0000 0000 0000 0000 0000 0000 0083 0000 
+0000 0027 0017 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	286
+Resource tested:	hdisk2
+Resource Description:	SAS Disk Drive
+Location:		U78AA.001.WZSGNJV-P2-D3
+SRN:			2672-128
+Description:		Error log analysis indicates a hardware failure.
+Possible FRUs:
+    hdisk2           FRU: 44V6833              U78AA.001.WZSGNJV-P2-D3
+                     SAS Disk Drive
+
+---------------------------------------------------------------------------
+LABEL:          LVM_IO_FAIL
+IDENTIFIER:     E86653C3
+
+Date/Time:       Sun Jan 20 02:10:45 GMT+08:00 2013
+Sequence Number: 279
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   LVDD            
+Resource Class:  NONE
+Resource Type:   NONE
+Location:        
+
+Description
+I/O ERROR DETECTED BY LVM
+
+Probable Causes
+POWER, DRIVE, ADAPTER, OR CABLE FAILURE
+
+	Recommended Actions
+	RUN DIAGNOSTICS AGAINST THE FAILING DEVICE
+
+Detail Data
+PHYSICAL VOLUME DEVICE MAJOR/MINOR
+8000 000F 0000 0003 
+ERROR CODE AS DEFINED IN sys/errno.h
+           5
+BLOCK NUMBER
+             117967872
+LOGICAL VOLUME DEVICE MAJOR/MINOR
+8000 0032 0000 0001 
+PHYSICAL BUFFER TRANSACTION TIME
+                    34
+RESIDUAL COUNT
+                 57344
+NUMBER OF BLOCKS
+                 57344
+I/O TYPE
+USER DATA     
+SENSE DATA
+0000 0000 0000 E101 00F6 E0FA 0000 4C00 0000 0138 D70F 18A5 00F6 E0FA EA59 F8BE 
+0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sun Jan 20 02:10:45 GMT+08:00 2013
+Sequence Number: 278
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk2          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......ST9300603SS     
+        FRU Number..................44V6833     
+        ROS Level and ID............42423039
+        Serial Number...............6SE4WVWP
+        EC Level....................L36403    
+        Part Number.................44V6838     
+        Device Specific.(Z0)........000006329F001002
+        Device Specific.(Z1)........0617BB09    
+        Device Specific.(Z2)........0021
+        Device Specific.(Z3)........11236
+        Device Specific.(Z4)........
+        Device Specific.(Z5)........22
+        Device Specific.(Z6)........L36403    
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2800 0708 0C00 0000 7004 0000 0000 0000 0000 0000 0000 0102 0000 F000 0407 
+080C 0018 0000 0000 1501 8380 2247 0000 0415 0183 0049 3101 04F2 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 B149 000D 4B40 0000 0000 0000 0000 0000 0000 0000 0083 0000 
+0000 0027 0017 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	284
+Resource tested:	hdisk2
+Resource Description:	SAS Disk Drive
+Location:		U78AA.001.WZSGNJV-P2-D3
+SRN:			2672-128
+Description:		Error log analysis indicates a hardware failure.
+Possible FRUs:
+    hdisk2           FRU: 44V6833              U78AA.001.WZSGNJV-P2-D3
+                     SAS Disk Drive
+
+---------------------------------------------------------------------------
+LABEL:          LVM_IO_FAIL
+IDENTIFIER:     E86653C3
+
+Date/Time:       Sun Jan 20 01:18:12 GMT+08:00 2013
+Sequence Number: 277
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   LVDD            
+Resource Class:  NONE
+Resource Type:   NONE
+Location:        
+
+Description
+I/O ERROR DETECTED BY LVM
+
+Probable Causes
+POWER, DRIVE, ADAPTER, OR CABLE FAILURE
+
+	Recommended Actions
+	RUN DIAGNOSTICS AGAINST THE FAILING DEVICE
+
+Detail Data
+PHYSICAL VOLUME DEVICE MAJOR/MINOR
+8000 000F 0000 0003 
+ERROR CODE AS DEFINED IN sys/errno.h
+           5
+BLOCK NUMBER
+             117958200
+LOGICAL VOLUME DEVICE MAJOR/MINOR
+8000 0032 0000 0001 
+PHYSICAL BUFFER TRANSACTION TIME
+                   135
+RESIDUAL COUNT
+                524288
+NUMBER OF BLOCKS
+                524288
+I/O TYPE
+USER DATA     
+SENSE DATA
+0000 0000 0000 E0FC 00F6 E0FA 0000 4C00 0000 0138 D70F 18A5 00F6 E0FA EA59 F8BE 
+0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sun Jan 20 01:18:12 GMT+08:00 2013
+Sequence Number: 276
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk2          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......ST9300603SS     
+        FRU Number..................44V6833     
+        ROS Level and ID............42423039
+        Serial Number...............6SE4WVWP
+        EC Level....................L36403    
+        Part Number.................44V6838     
+        Device Specific.(Z0)........000006329F001002
+        Device Specific.(Z1)........0617BB09    
+        Device Specific.(Z2)........0021
+        Device Specific.(Z3)........11236
+        Device Specific.(Z4)........
+        Device Specific.(Z5)........22
+        Device Specific.(Z6)........L36403    
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2800 0707 E638 0004 0004 0000 0000 0000 0000 0000 0000 0102 0000 F000 0407 
+07E6 3818 0000 0000 1501 8380 2247 0000 0415 0183 0049 2B01 00EA 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 B144 0006 48C0 0000 0000 0000 0000 0000 0000 0000 0083 0000 
+0000 0027 0017 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	282
+Resource tested:	hdisk2
+Resource Description:	SAS Disk Drive
+Location:		U78AA.001.WZSGNJV-P2-D3
+SRN:			2672-128
+Description:		Error log analysis indicates a hardware failure.
+Possible FRUs:
+    hdisk2           FRU: 44V6833              U78AA.001.WZSGNJV-P2-D3
+                     SAS Disk Drive
+
+---------------------------------------------------------------------------
+LABEL:          LVM_IO_FAIL
+IDENTIFIER:     E86653C3
+
+Date/Time:       Sun Jan 20 01:17:08 GMT+08:00 2013
+Sequence Number: 275
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   LVDD            
+Resource Class:  NONE
+Resource Type:   NONE
+Location:        
+
+Description
+I/O ERROR DETECTED BY LVM
+
+Probable Causes
+POWER, DRIVE, ADAPTER, OR CABLE FAILURE
+
+	Recommended Actions
+	RUN DIAGNOSTICS AGAINST THE FAILING DEVICE
+
+Detail Data
+PHYSICAL VOLUME DEVICE MAJOR/MINOR
+8000 000F 0000 0003 
+ERROR CODE AS DEFINED IN sys/errno.h
+           5
+BLOCK NUMBER
+             117957632
+LOGICAL VOLUME DEVICE MAJOR/MINOR
+8000 0032 0000 0001 
+PHYSICAL BUFFER TRANSACTION TIME
+                    71
+RESIDUAL COUNT
+                290816
+NUMBER OF BLOCKS
+                290816
+I/O TYPE
+USER DATA     
+SENSE DATA
+0000 0000 0000 E0FC 00F6 E0FA 0000 4C00 0000 0138 D70F 18A5 00F6 E0FA EA59 F8BE 
+0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sun Jan 20 01:17:08 GMT+08:00 2013
+Sequence Number: 274
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk2          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......ST9300603SS     
+        FRU Number..................44V6833     
+        ROS Level and ID............42423039
+        Serial Number...............6SE4WVWP
+        EC Level....................L36403    
+        Part Number.................44V6838     
+        Device Specific.(Z0)........000006329F001002
+        Device Specific.(Z1)........0617BB09    
+        Device Specific.(Z2)........0021
+        Device Specific.(Z3)........11236
+        Device Specific.(Z4)........
+        Device Specific.(Z5)........22
+        Device Specific.(Z6)........L36403    
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2800 0707 E400 0002 3804 0000 0000 0000 0000 0000 0000 0102 0000 F000 0407 
+07E4 0018 0000 0000 1501 8380 2247 0000 0415 0183 0049 2A01 0452 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 B144 0006 48C0 0000 0000 0000 0000 0000 0000 0000 0083 0000 
+0000 0027 0017 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	280
+Resource tested:	hdisk2
+Resource Description:	SAS Disk Drive
+Location:		U78AA.001.WZSGNJV-P2-D3
+SRN:			2672-128
+Description:		Error log analysis indicates a hardware failure.
+Possible FRUs:
+    hdisk2           FRU: 44V6833              U78AA.001.WZSGNJV-P2-D3
+                     SAS Disk Drive
+
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sun Jan 20 01:15:47 GMT+08:00 2013
+Sequence Number: 273
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk2          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......ST9300603SS     
+        FRU Number..................44V6833     
+        ROS Level and ID............42423039
+        Serial Number...............6SE4WVWP
+        EC Level....................L36403    
+        Part Number.................44V6838     
+        Device Specific.(Z0)........000006329F001002
+        Device Specific.(Z1)........0617BB09    
+        Device Specific.(Z2)........0021
+        Device Specific.(Z3)........11236
+        Device Specific.(Z4)........
+        Device Specific.(Z5)........22
+        Device Specific.(Z6)........L36403    
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2A00 06E6 4F88 0000 0804 0000 0000 0000 0000 0000 0000 0102 0000 7000 0100 
+0000 0018 0000 0000 5D00 1000 0000 0000 015D 0010 FFFF FFFF FFFF 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 B142 000E CD40 0000 0000 0000 0000 0000 0000 0000 0083 0000 
+0000 0010 000D 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	277
+Resource tested:	hdisk2
+Resource Description:	SAS Disk Drive
+Location:		U78AA.001.WZSGNJV-P2-D3
+SRN:			2672-130
+Description:		Error log analysis indicates problem reported by disk
+                        drive's self monitoring function.
+Possible FRUs:
+    hdisk2           FRU: 44V6833              U78AA.001.WZSGNJV-P2-D3
+                     SAS Disk Drive
+
+---------------------------------------------------------------------------
+LABEL:          LVM_IO_FAIL
+IDENTIFIER:     E86653C3
+
+Date/Time:       Sun Jan 20 01:15:47 GMT+08:00 2013
+Sequence Number: 272
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   LVDD            
+Resource Class:  NONE
+Resource Type:   NONE
+Location:        
+
+Description
+I/O ERROR DETECTED BY LVM
+
+Probable Causes
+POWER, DRIVE, ADAPTER, OR CABLE FAILURE
+
+	Recommended Actions
+	RUN DIAGNOSTICS AGAINST THE FAILING DEVICE
+
+Detail Data
+PHYSICAL VOLUME DEVICE MAJOR/MINOR
+8000 000F 0000 0003 
+ERROR CODE AS DEFINED IN sys/errno.h
+           5
+BLOCK NUMBER
+             122174528
+LOGICAL VOLUME DEVICE MAJOR/MINOR
+8000 0032 0000 0001 
+PHYSICAL BUFFER TRANSACTION TIME
+                    85
+RESIDUAL COUNT
+                262144
+NUMBER OF BLOCKS
+                262144
+I/O TYPE
+USER DATA     
+SENSE DATA
+0000 0000 0000 E907 00F6 E0FA 0000 4C00 0000 0138 D70F 18A5 00F6 E0FA EA59 F8BE 
+0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sun Jan 20 01:15:47 GMT+08:00 2013
+Sequence Number: 271
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk2          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......ST9300603SS     
+        FRU Number..................44V6833     
+        ROS Level and ID............42423039
+        Serial Number...............6SE4WVWP
+        EC Level....................L36403    
+        Part Number.................44V6838     
+        Device Specific.(Z0)........000006329F001002
+        Device Specific.(Z1)........0617BB09    
+        Device Specific.(Z2)........0021
+        Device Specific.(Z3)........11236
+        Device Specific.(Z4)........
+        Device Specific.(Z5)........22
+        Device Specific.(Z6)........L36403    
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2800 0748 3C40 0002 0004 0000 0000 0000 0000 0000 0000 0102 0000 F000 0407 
+483C 4018 0000 0000 1501 8380 2247 0000 0415 0183 004B ED01 04F4 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 B142 000E CD40 0000 0000 0000 0000 0000 0000 0000 0083 0000 
+0000 0027 0017 
+---------------------------------------------------------------------------
+LABEL:          LVM_IO_FAIL
+IDENTIFIER:     E86653C3
+
+Date/Time:       Sun Jan 20 01:14:44 GMT+08:00 2013
+Sequence Number: 270
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   LVDD            
+Resource Class:  NONE
+Resource Type:   NONE
+Location:        
+
+Description
+I/O ERROR DETECTED BY LVM
+
+Probable Causes
+POWER, DRIVE, ADAPTER, OR CABLE FAILURE
+
+	Recommended Actions
+	RUN DIAGNOSTICS AGAINST THE FAILING DEVICE
+
+Detail Data
+PHYSICAL VOLUME DEVICE MAJOR/MINOR
+8000 000F 0000 0003 
+ERROR CODE AS DEFINED IN sys/errno.h
+           5
+BLOCK NUMBER
+             122174464
+LOGICAL VOLUME DEVICE MAJOR/MINOR
+8000 0032 0000 0001 
+PHYSICAL BUFFER TRANSACTION TIME
+                    22
+RESIDUAL COUNT
+                 32768
+NUMBER OF BLOCKS
+                 32768
+I/O TYPE
+USER DATA     
+SENSE DATA
+0000 0000 0000 E907 00F6 E0FA 0000 4C00 0000 0138 D70F 18A5 00F6 E0FA EA59 F8BE 
+0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sun Jan 20 01:14:44 GMT+08:00 2013
+Sequence Number: 269
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk2          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......ST9300603SS     
+        FRU Number..................44V6833     
+        ROS Level and ID............42423039
+        Serial Number...............6SE4WVWP
+        EC Level....................L36403    
+        Part Number.................44V6838     
+        Device Specific.(Z0)........000006329F001002
+        Device Specific.(Z1)........0617BB09    
+        Device Specific.(Z2)........0021
+        Device Specific.(Z3)........11236
+        Device Specific.(Z4)........
+        Device Specific.(Z5)........22
+        Device Specific.(Z6)........L36403    
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2800 0748 3C00 0000 4004 0000 0000 0000 0000 0000 0000 0102 0000 F000 0407 
+483C 0018 0000 0000 1501 8380 2247 0000 0415 0183 004B ED01 04B4 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 B142 000E CD40 0000 0000 0000 0000 0000 0000 0000 0083 0000 
+0000 0027 0017 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	272
+Resource tested:	hdisk2
+Resource Description:	SAS Disk Drive
+Location:		U78AA.001.WZSGNJV-P2-D3
+SRN:			2672-128
+Description:		Error log analysis indicates a hardware failure.
+Possible FRUs:
+    hdisk2           FRU: 44V6833              U78AA.001.WZSGNJV-P2-D3
+                     SAS Disk Drive
+
+---------------------------------------------------------------------------
+LABEL:          LVM_IO_FAIL
+IDENTIFIER:     E86653C3
+
+Date/Time:       Sun Jan 20 01:14:12 GMT+08:00 2013
+Sequence Number: 268
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   LVDD            
+Resource Class:  NONE
+Resource Type:   NONE
+Location:        
+
+Description
+I/O ERROR DETECTED BY LVM
+
+Probable Causes
+POWER, DRIVE, ADAPTER, OR CABLE FAILURE
+
+	Recommended Actions
+	RUN DIAGNOSTICS AGAINST THE FAILING DEVICE
+
+Detail Data
+PHYSICAL VOLUME DEVICE MAJOR/MINOR
+8000 000F 0000 0003 
+ERROR CODE AS DEFINED IN sys/errno.h
+           5
+BLOCK NUMBER
+             117958672
+LOGICAL VOLUME DEVICE MAJOR/MINOR
+8000 0032 0000 0001 
+PHYSICAL BUFFER TRANSACTION TIME
+                   242
+RESIDUAL COUNT
+                516096
+NUMBER OF BLOCKS
+                516096
+I/O TYPE
+USER DATA     
+SENSE DATA
+0000 0000 0000 E0FD 00F6 E0FA 0000 4C00 0000 0138 D70F 18A5 00F6 E0FA EA59 F8BE 
+0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sun Jan 20 01:14:12 GMT+08:00 2013
+Sequence Number: 267
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk2          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......ST9300603SS     
+        FRU Number..................44V6833     
+        ROS Level and ID............42423039
+        Serial Number...............6SE4WVWP
+        EC Level....................L36403    
+        Part Number.................44V6838     
+        Device Specific.(Z0)........000006329F001002
+        Device Specific.(Z1)........0617BB09    
+        Device Specific.(Z2)........0021
+        Device Specific.(Z3)........11236
+        Device Specific.(Z4)........
+        Device Specific.(Z5)........22
+        Device Specific.(Z6)........L36403    
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2800 0707 E810 0003 F004 0000 0000 0000 0000 0000 0000 0102 0000 F000 0407 
+07E8 1018 0000 0000 1501 8380 2247 0000 0415 0183 0049 2B01 02C2 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 B142 0004 BD40 0000 0000 0000 0000 0000 0000 0000 0083 0000 
+0000 0027 0017 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	270
+Resource tested:	hdisk2
+Resource Description:	SAS Disk Drive
+Location:		U78AA.001.WZSGNJV-P2-D3
+SRN:			2672-128
+Description:		Error log analysis indicates a hardware failure.
+Possible FRUs:
+    hdisk2           FRU: 44V6833              U78AA.001.WZSGNJV-P2-D3
+                     SAS Disk Drive
+
+---------------------------------------------------------------------------
+LABEL:          LVM_IO_FAIL
+IDENTIFIER:     E86653C3
+
+Date/Time:       Sun Jan 20 01:12:59 GMT+08:00 2013
+Sequence Number: 266
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   LVDD            
+Resource Class:  NONE
+Resource Type:   NONE
+Location:        
+
+Description
+I/O ERROR DETECTED BY LVM
+
+Probable Causes
+POWER, DRIVE, ADAPTER, OR CABLE FAILURE
+
+	Recommended Actions
+	RUN DIAGNOSTICS AGAINST THE FAILING DEVICE
+
+Detail Data
+PHYSICAL VOLUME DEVICE MAJOR/MINOR
+8000 000F 0000 0003 
+ERROR CODE AS DEFINED IN sys/errno.h
+           5
+BLOCK NUMBER
+             117957648
+LOGICAL VOLUME DEVICE MAJOR/MINOR
+8000 0032 0000 0001 
+PHYSICAL BUFFER TRANSACTION TIME
+                   169
+RESIDUAL COUNT
+                524288
+NUMBER OF BLOCKS
+                524288
+I/O TYPE
+USER DATA     
+SENSE DATA
+0000 0000 0000 E0FC 00F6 E0FA 0000 4C00 0000 0138 D70F 18A5 00F6 E0FA EA59 F8BE 
+0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sun Jan 20 01:12:59 GMT+08:00 2013
+Sequence Number: 265
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk2          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......ST9300603SS     
+        FRU Number..................44V6833     
+        ROS Level and ID............42423039
+        Serial Number...............6SE4WVWP
+        EC Level....................L36403    
+        Part Number.................44V6838     
+        Device Specific.(Z0)........000006329F001002
+        Device Specific.(Z1)........0617BB09    
+        Device Specific.(Z2)........0021
+        Device Specific.(Z3)........11236
+        Device Specific.(Z4)........
+        Device Specific.(Z5)........22
+        Device Specific.(Z6)........L36403    
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2800 0707 E410 0004 0004 0000 0000 0000 0000 0000 0000 0102 0000 F000 0407 
+07E4 1018 0000 0000 1501 8380 2247 0000 0415 0183 0049 2A01 0462 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 B141 000B BF80 0000 0000 0000 0000 0000 0000 0000 0083 0000 
+0000 0027 0017 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	268
+Resource tested:	hdisk2
+Resource Description:	SAS Disk Drive
+Location:		U78AA.001.WZSGNJV-P2-D3
+SRN:			2672-128
+Description:		Error log analysis indicates a hardware failure.
+Possible FRUs:
+    hdisk2           FRU: 44V6833              U78AA.001.WZSGNJV-P2-D3
+                     SAS Disk Drive
+
+---------------------------------------------------------------------------
+LABEL:          LVM_IO_FAIL
+IDENTIFIER:     E86653C3
+
+Date/Time:       Sun Jan 20 01:11:46 GMT+08:00 2013
+Sequence Number: 264
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   LVDD            
+Resource Class:  NONE
+Resource Type:   NONE
+Location:        
+
+Description
+I/O ERROR DETECTED BY LVM
+
+Probable Causes
+POWER, DRIVE, ADAPTER, OR CABLE FAILURE
+
+	Recommended Actions
+	RUN DIAGNOSTICS AGAINST THE FAILING DEVICE
+
+Detail Data
+PHYSICAL VOLUME DEVICE MAJOR/MINOR
+8000 000F 0000 0003 
+ERROR CODE AS DEFINED IN sys/errno.h
+           5
+BLOCK NUMBER
+             117957632
+LOGICAL VOLUME DEVICE MAJOR/MINOR
+8000 0032 0000 0001 
+PHYSICAL BUFFER TRANSACTION TIME
+                    96
+RESIDUAL COUNT
+                  8192
+NUMBER OF BLOCKS
+                  8192
+I/O TYPE
+USER DATA     
+SENSE DATA
+0000 0000 0000 E0FC 00F6 E0FA 0000 4C00 0000 0138 D70F 18A5 00F6 E0FA EA59 F8BE 
+0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sun Jan 20 01:11:46 GMT+08:00 2013
+Sequence Number: 263
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk2          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......ST9300603SS     
+        FRU Number..................44V6833     
+        ROS Level and ID............42423039
+        Serial Number...............6SE4WVWP
+        EC Level....................L36403    
+        Part Number.................44V6838     
+        Device Specific.(Z0)........000006329F001002
+        Device Specific.(Z1)........0617BB09    
+        Device Specific.(Z2)........0021
+        Device Specific.(Z3)........11236
+        Device Specific.(Z4)........
+        Device Specific.(Z5)........22
+        Device Specific.(Z6)........L36403    
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2800 0707 E400 0000 1004 0000 0000 0000 0000 0000 0000 0102 0000 F000 0407 
+07E4 0018 0000 0000 1501 8380 2247 0000 0415 0183 0049 2A01 0452 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 B141 000B 7F80 0000 0000 0000 0000 0000 0000 0000 0083 0000 
+0000 0027 0017 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	266
+Resource tested:	hdisk2
+Resource Description:	SAS Disk Drive
+Location:		U78AA.001.WZSGNJV-P2-D3
+SRN:			2672-128
+Description:		Error log analysis indicates a hardware failure.
+Possible FRUs:
+    hdisk2           FRU: 44V6833              U78AA.001.WZSGNJV-P2-D3
+                     SAS Disk Drive
+
+---------------------------------------------------------------------------
+LABEL:          LVM_IO_FAIL
+IDENTIFIER:     E86653C3
+
+Date/Time:       Sun Jan 20 01:11:14 GMT+08:00 2013
+Sequence Number: 262
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   LVDD            
+Resource Class:  NONE
+Resource Type:   NONE
+Location:        
+
+Description
+I/O ERROR DETECTED BY LVM
+
+Probable Causes
+POWER, DRIVE, ADAPTER, OR CABLE FAILURE
+
+	Recommended Actions
+	RUN DIAGNOSTICS AGAINST THE FAILING DEVICE
+
+Detail Data
+PHYSICAL VOLUME DEVICE MAJOR/MINOR
+8000 000F 0000 0003 
+ERROR CODE AS DEFINED IN sys/errno.h
+           5
+BLOCK NUMBER
+             122174464
+LOGICAL VOLUME DEVICE MAJOR/MINOR
+8000 0032 0000 0001 
+PHYSICAL BUFFER TRANSACTION TIME
+                    64
+RESIDUAL COUNT
+                  4096
+NUMBER OF BLOCKS
+                  4096
+I/O TYPE
+USER DATA     
+SENSE DATA
+0000 0000 0000 E907 00F6 E0FA 0000 4C00 0000 0138 D70F 18A5 00F6 E0FA EA59 F8BE 
+0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sun Jan 20 01:11:14 GMT+08:00 2013
+Sequence Number: 261
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk2          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......ST9300603SS     
+        FRU Number..................44V6833     
+        ROS Level and ID............42423039
+        Serial Number...............6SE4WVWP
+        EC Level....................L36403    
+        Part Number.................44V6838     
+        Device Specific.(Z0)........000006329F001002
+        Device Specific.(Z1)........0617BB09    
+        Device Specific.(Z2)........0021
+        Device Specific.(Z3)........11236
+        Device Specific.(Z4)........
+        Device Specific.(Z5)........22
+        Device Specific.(Z6)........L36403    
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2800 0748 3C00 0000 0804 0000 0000 0000 0000 0000 0000 0102 0000 F000 0407 
+483C 0018 0000 0000 1501 8380 2247 0000 0415 0183 0049 2A01 0452 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 B141 000B 7F80 0000 0000 0000 0000 0000 0000 0000 0083 0000 
+0000 0027 0017 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	264
+Resource tested:	hdisk2
+Resource Description:	SAS Disk Drive
+Location:		U78AA.001.WZSGNJV-P2-D3
+SRN:			2672-128
+Description:		Error log analysis indicates a hardware failure.
+Possible FRUs:
+    hdisk2           FRU: 44V6833              U78AA.001.WZSGNJV-P2-D3
+                     SAS Disk Drive
+
+---------------------------------------------------------------------------
+LABEL:          J2_FS_FULL
+IDENTIFIER:     F7FA22C9
+
+Date/Time:       Fri Jan  4 02:20:44 GMT+08:00 2013
+Sequence Number: 260
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           O
+Type:            INFO
+WPAR:            Global
+Resource Name:   SYSJ2           
+
+Description
+UNABLE TO ALLOCATE SPACE IN FILE SYSTEM
+
+Probable Causes
+FILE SYSTEM FULL
+
+	Recommended Actions
+	INCREASE THE SIZE OF THE ASSOCIATED FILE SYSTEM
+	REMOVE UNNECESSARY DATA FROM FILE SYSTEM
+	USE FUSER UTILITY TO LOCATE UNLINKED FILES STILL REFERENCED
+
+Detail Data
+JFS2 MAJOR/MINOR DEVICE NUMBER
+0032 0001 
+FILE SYSTEM DEVICE AND MOUNT POINT
+/dev/lv_rmanbak, /rmanbak
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Tue Nov 20 04:58:31 GMT+08:00 2012
+Sequence Number: 259
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            TEMP
+WPAR:            Global
+Resource Name:   hdisk13         
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75WR9011805
+        EC Level.....................171
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0031
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........26311
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0A00 2800 012C C860 0000 2004 0000 0000 0000 0000 0000 0000 0200 0200 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0011 D8AB 0001 A140 0000 0000 0000 0000 0000 0000 0000 0003 0000 
+0000 0034 001D 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Tue Nov 20 04:58:31 GMT+08:00 2012
+Sequence Number: 258
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            TEMP
+WPAR:            Global
+Resource Name:   hdisk17         
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75WR9011906
+        EC Level.....................171
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0031
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........26311
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2A00 012B 8373 0000 0504 0000 0000 0000 0000 0000 0000 0200 0200 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0010 7268 000B CA00 0000 0000 0000 0000 0000 0000 0000 0003 0000 
+0000 0034 001D 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Tue Nov 20 04:58:30 GMT+08:00 2012
+Sequence Number: 257
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            TEMP
+WPAR:            Global
+Resource Name:   hdisk14         
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75WR9011806
+        EC Level.....................171
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0031
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........26311
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0A00 2800 0000 4020 0000 2004 0000 0000 0000 0000 0000 0000 0200 0200 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0014 8D46 000D 6880 0000 0000 0000 0000 0000 0000 0000 0003 0000 
+0000 0034 001D 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Tue Nov 20 04:58:29 GMT+08:00 2012
+Sequence Number: 256
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            TEMP
+WPAR:            Global
+Resource Name:   hdisk4          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75WR9011800
+        EC Level.....................171
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0031
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........26311
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2A00 0006 0092 0000 0104 0000 0000 0000 0000 0000 0000 0200 0200 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 071A 0005 E780 0000 0000 0000 0000 0000 0000 0000 0003 0000 
+0000 0034 001D 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Tue Nov 20 04:58:29 GMT+08:00 2012
+Sequence Number: 255
+Machine Id:      00F6E0FA4C00
+Node Id:         hxkjkdb1
+Class:           H
+Type:            TEMP
+WPAR:            Global
+Resource Name:   hdisk11         
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75WR9011903
+        EC Level.....................171
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0031
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........26311
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2800 0000 8860 0000 2004 0000 0000 0000 0000 0000 0000 0200 0200 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0013 E647 0004 0E40 0000 0000 0000 0000 0000 0000 0000 0003 0000 
+0000 0034 001D

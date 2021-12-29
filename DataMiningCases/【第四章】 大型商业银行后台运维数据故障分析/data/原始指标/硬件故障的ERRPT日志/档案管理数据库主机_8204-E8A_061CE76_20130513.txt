@@ -1,0 +1,5100 @@
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Wed May 15 00:00:02 GMT+08:00 2013
+Sequence Number: 685
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk5          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Wed May 15 00:00:02 GMT+08:00 2013
+Sequence Number: 684
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk4          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Wed May 15 00:00:02 GMT+08:00 2013
+Sequence Number: 683
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk6          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Wed May 15 00:00:02 GMT+08:00 2013
+Sequence Number: 682
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk7          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SRC_TRYX
+IDENTIFIER:     1BA7DF4E
+
+Date/Time:       Tue May 14 19:07:27 GMT+08:00 2013
+Sequence Number: 681
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           S
+Type:            PERM
+WPAR:            Global
+Resource Name:   SRC             
+
+Description
+SOFTWARE PROGRAM ERROR
+
+Probable Causes
+APPLICATION PROGRAM
+
+Failure Causes
+SOFTWARE PROGRAM
+
+	Recommended Actions
+	DETERMINE WHY SUBSYSTEM CANNOT RESTART
+
+Detail Data
+SYMPTOM CODE
+        3072
+SOFTWARE ERROR CODE
+       -9020
+ERROR CODE
+           0
+DETECTING MODULE
+'srchevn.c'@line:'369'
+FAILING MODULE
+clinfoES
+---------------------------------------------------------------------------
+LABEL:          SRC_RSTRT
+IDENTIFIER:     CB4A951F
+
+Date/Time:       Tue May 14 19:07:27 GMT+08:00 2013
+Sequence Number: 680
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           S
+Type:            INFO
+WPAR:            Global
+Resource Name:   SRC             
+
+Description
+SOFTWARE PROGRAM ERROR
+
+Probable Causes
+APPLICATION PROGRAM
+
+Failure Causes
+SOFTWARE PROGRAM
+
+	Recommended Actions
+	VERIFY SUBSYSTEM RESTARTED AUTOMATICALLY
+
+Detail Data
+SYMPTOM CODE
+        3072
+SOFTWARE ERROR CODE
+       -9035
+ERROR CODE
+           0
+DETECTING MODULE
+'srchevn.c'@line:'234'
+FAILING MODULE
+clinfoES
+Duplicates
+Number of duplicates
+           1
+Time of first duplicate
+Tue May 14 19:07:26 GMT+08:00 2013
+Time of last duplicate
+Tue May 14 19:07:27 GMT+08:00 2013
+---------------------------------------------------------------------------
+LABEL:          GS_START_ST
+IDENTIFIER:     AFA89905
+
+Date/Time:       Tue May 14 19:07:26 GMT+08:00 2013
+Sequence Number: 678
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           O
+Type:            INFO
+WPAR:            Global
+Resource Name:   grpsvcs         
+
+Description
+Group Services daemon started
+
+Probable Causes
+Daemon started during system startup
+Daemon re-started automatically by SRC
+Daemon started during installation
+Daemon started manually by user
+
+User Causes
+Daemon started manually by user
+
+	Recommended Actions
+	Check that Group Services daemon is running
+
+Detail Data
+DETECTING MODULE
+RSCT,pgsd.C,1.62.1.22,727                     
+ERROR ID 
+63Y7ej0ifVYF/O8x/87.ma/...................
+REFERENCE CODE
+                                          
+DIAGNOSTIC EXPLANATION
+HAGS daemon started by SRC. Log file is /var/ha/log/grpsvcs_trace.
+---------------------------------------------------------------------------
+LABEL:          TS_START_ST
+IDENTIFIER:     97419D60
+
+Date/Time:       Tue May 14 19:07:24 GMT+08:00 2013
+Sequence Number: 677
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           O
+Type:            INFO
+WPAR:            Global
+Resource Name:   topsvcs         
+
+Description
+Topology Services daemon started
+
+Probable Causes
+Daemon started during system start-up
+Daemon re-started automatically by SRC
+Daemon started during installation
+Daemon started manually by user
+
+User Causes
+Daemon started manually by user
+
+	Recommended Actions
+	Confirm that this is desirable
+
+Detail Data
+DETECTING MODULE
+rsct,bootstrp.C,1.215.1.13,4956               
+ERROR ID 
+6UpNEL0gfVYF/HhO/87.ma/...................
+REFERENCE CODE
+                                          
+Topology Services daemon started by:
+SRC
+Topology Services daemon log file location
+/var/ha/log/topsvcs.14.190724.dangan_cluster.en_US
+Topology Services daemon run directory
+/var/ha/run/topsvcs.dangan_cluster/
+---------------------------------------------------------------------------
+LABEL:          RMCD_INFO_0_ST
+IDENTIFIER:     A6DF45AA
+
+Date/Time:       Tue May 14 18:33:36 GMT+08:00 2013
+Sequence Number: 676
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           O
+Type:            INFO
+WPAR:            Global
+Resource Name:   RMCdaemon       
+
+Description
+The daemon is started.
+
+Probable Causes
+The Resource Monitoring and Control daemon has been started.
+
+User Causes
+The startsrc -s ctrmc command has been executed or
+the rmcctrl -s command has been executed.
+
+	Recommended Actions
+	Confirm that the daemon should be started.
+
+Detail Data
+DETECTING MODULE
+RSCT,rmcd.c,1.75,225                          
+ERROR ID 
+6eKora0.AVYF/L.4087.ma/...................
+REFERENCE CODE
+                                          
+---------------------------------------------------------------------------
+LABEL:          HEA_PORT_DOWN
+IDENTIFIER:     38A8D4BB
+
+Date/Time:       Tue May 14 18:32:39 GMT+08:00 2013
+Sequence Number: 674
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            INFO
+WPAR:            Global
+Resource Name:   ent1            
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+      IBM Host Ethernet Adapter:
+        Network Address.............00215EB79611
+
+Description
+HEA PORT DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 2079 file: hea_prim.c
+HEA LOGICAL PORT STATE:
+UP  
+HEA PHYSICAL PORT STATE:
+DOWN
+SENSE DATA
+0000 0002 0261 081B 0000 0000 0000 0000 0000 0000 0002 8000 0000 0300 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0006 0000 0000 0000 008E 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+3333 3333 0000 0000 0000 0001 0000 0000 0000 0000 
+SOURCE ADDRESS
+0021 5EB7 9611 
+---------------------------------------------------------------------------
+LABEL:          REBOOT_ID
+IDENTIFIER:     2BFA76F6
+
+Date/Time:       Tue May 14 18:31:29 GMT+08:00 2013
+Sequence Number: 673
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           S
+Type:            TEMP
+WPAR:            Global
+Resource Name:   SYSPROC         
+
+Description
+SYSTEM SHUTDOWN BY USER
+
+Probable Causes
+SYSTEM SHUTDOWN
+
+Detail Data
+USER ID
+           0
+0=SOFT IPL 1=HALT 2=TIME REBOOT
+           1
+TIME TO REBOOT (FOR TIMED REBOOT ONLY)
+           0
+---------------------------------------------------------------------------
+LABEL:          ERRLOG_ON
+IDENTIFIER:     9DBCFDEE
+
+Date/Time:       Tue May 14 18:33:01 GMT+08:00 2013
+Sequence Number: 672
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           O
+Type:            TEMP
+WPAR:            Global
+Resource Name:   errdemon        
+
+Description
+ERROR LOGGING TURNED ON
+
+Probable Causes
+ERRDEMON STARTED AUTOMATICALLY
+
+User Causes
+/USR/LIB/ERRDEMON COMMAND
+
+	Recommended Actions
+	NONE
+
+---------------------------------------------------------------------------
+LABEL:          ERRLOG_OFF
+IDENTIFIER:     192AC071
+
+Date/Time:       Tue May 14 18:05:23 GMT+08:00 2013
+Sequence Number: 671
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           O
+Type:            TEMP
+WPAR:            Global
+Resource Name:   errdemon        
+
+Description
+ERROR LOGGING TURNED OFF
+
+Probable Causes
+ERRSTOP COMMAND
+
+User Causes
+ERRSTOP COMMAND
+
+	Recommended Actions
+	RUN ERRDEAD COMMAND
+	TURN ERROR LOGGING ON
+
+---------------------------------------------------------------------------
+LABEL:          TS_STOP_ST
+IDENTIFIER:     6D19271E
+
+Date/Time:       Tue May 14 18:00:59 GMT+08:00 2013
+Sequence Number: 670
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           O
+Type:            INFO
+WPAR:            Global
+Resource Name:   topsvcs         
+
+Description
+Topology Services daemon stopped
+
+Probable Causes
+Daemon stopped by SRC
+Daemon stopped by signal
+
+User Causes
+Daemon stopped by user
+
+	Recommended Actions
+	Confirm that this is desirable
+
+Detail Data
+DETECTING MODULE
+rsct,comm.C,1.156,690                         
+ERROR ID 
+6SQG4h/PhUYF/4YR187.ma/...................
+REFERENCE CODE
+6UpNEL0ZvGSF/WPz.87.ma/...................
+Topology Services daemon stopped by:
+Signal SIGTERM
+---------------------------------------------------------------------------
+LABEL:          GS_STOP_ST
+IDENTIFIER:     28854E81
+
+Date/Time:       Tue May 14 18:00:58 GMT+08:00 2013
+Sequence Number: 669
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           O
+Type:            INFO
+WPAR:            Global
+Resource Name:   grpsvcs         
+
+Description
+Group Services daemon stopped
+
+Probable Causes
+Daemon stopped by SRC
+Daemon stopped by signal
+
+User Causes
+Daemon stopped manually by user
+
+	Recommended Actions
+	Check that Group Services daemon is stopped
+
+Detail Data
+DETECTING MODULE
+RSCT,SRCSocket.C,1.78,482                     
+ERROR ID 
+6/uIVc.OhUYF/0io.87.ma/...................
+REFERENCE CODE
+                                          
+DIAGNOSTIC EXPLANATION
+Received signal[SIGTERM]. Converted to normal stop
+---------------------------------------------------------------------------
+LABEL:          HA001_TR
+IDENTIFIER:     99FA80C7
+
+Date/Time:       Tue May 14 18:00:58 GMT+08:00 2013
+Sequence Number: 668
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           S
+Type:            UNKN
+WPAR:            Global
+Resource Name:   haemd           
+
+Description
+SOFTWARE
+
+Probable Causes
+SUBSYSTEM
+
+Failure Causes
+SUBSYSTEM
+
+	Recommended Actions
+	NONE
+
+Detail Data
+DETECTING MODULE
+LPP=PSSP,Fn=emd.c,SID=1.47,L#=478,                                              
+DIAGNOSTIC EXPLANATION
+haemd: Received termination signal SIGTERM, program is exiting.
+
+---------------------------------------------------------------------------
+LABEL:          OPMSG
+IDENTIFIER:     AA8AB241
+
+Date/Time:       Tue May 14 18:00:54 GMT+08:00 2013
+Sequence Number: 667
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           O
+Type:            TEMP
+WPAR:            Global
+Resource Name:   OPERATOR        
+
+Description
+OPERATOR NOTIFICATION
+
+User Causes
+ERRLOGGER COMMAND
+
+	Recommended Actions
+	REVIEW DETAILED DATA
+
+Detail Data
+MESSAGE FROM ERRLOGGER COMMAND
+clexit.rc : Normal termination of clstrmgrES. Restart now.
+---------------------------------------------------------------------------
+LABEL:          SRC_SVKO
+IDENTIFIER:     BC3BE5A3
+
+Date/Time:       Tue May 14 18:00:54 GMT+08:00 2013
+Sequence Number: 666
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           S
+Type:            PERM
+WPAR:            Global
+Resource Name:   SRC             
+
+Description
+SOFTWARE PROGRAM ERROR
+
+Probable Causes
+APPLICATION PROGRAM
+
+Failure Causes
+SOFTWARE PROGRAM
+
+	Recommended Actions
+	MANUALLY RESTART SUBSYSTEM IF NEEDED
+
+Detail Data
+SYMPTOM CODE
+         256
+SOFTWARE ERROR CODE
+       -9017
+ERROR CODE
+           0
+DETECTING MODULE
+'srchevn.c'@line:'376'
+FAILING MODULE
+clstrmgrES
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Tue May 14 00:00:02 GMT+08:00 2013
+Sequence Number: 665
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk5          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Tue May 14 00:00:02 GMT+08:00 2013
+Sequence Number: 664
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk4          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Tue May 14 00:00:02 GMT+08:00 2013
+Sequence Number: 663
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk6          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Tue May 14 00:00:02 GMT+08:00 2013
+Sequence Number: 662
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk7          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Mon May 13 00:00:02 GMT+08:00 2013
+Sequence Number: 661
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk5          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Mon May 13 00:00:02 GMT+08:00 2013
+Sequence Number: 660
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk4          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Mon May 13 00:00:02 GMT+08:00 2013
+Sequence Number: 659
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk6          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Mon May 13 00:00:02 GMT+08:00 2013
+Sequence Number: 658
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk7          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sun May 12 00:00:02 GMT+08:00 2013
+Sequence Number: 657
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk5          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sun May 12 00:00:02 GMT+08:00 2013
+Sequence Number: 656
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk4          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sun May 12 00:00:01 GMT+08:00 2013
+Sequence Number: 655
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk6          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sun May 12 00:00:01 GMT+08:00 2013
+Sequence Number: 654
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk7          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SCAN_ERROR_CHRP
+IDENTIFIER:     BFE4C025
+
+Date/Time:       Sat May 11 07:25:02 GMT+08:00 2013
+Sequence Number: 653
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   sysplanar0      
+Resource Class:  
+Resource Type:   
+Location:        
+
+Description
+UNDETERMINED ERROR
+
+Failure Causes
+UNDETERMINED
+
+	Recommended Actions
+	RUN SYSTEM DIAGNOSTICS.
+
+Detail Data
+PROBLEM DATA
+0644 00E0 0000 017C 8E00 8E00 0000 0000 0000 0000 4942 4D00 5048 0030 0100 E500 
+2013 0510 2319 2899 2013 0510 2319 2980 4500 0105 0000 0000 0000 0000 0000 0000 
+5013 F188 5013 F188 5548 0018 0100 E500 2103 2000 0000 E504 0000 A800 0000 0000 
+5053 00A8 0101 E500 0201 0009 0000 00A0 0300 00F0 2B3E 0110 C139 20FF 4100 00FF 
+0081 2722 0000 0303 0E63 0023 0000 0000 4231 3231 4535 3034 2020 2020 2020 2020 
+2020 2020 2020 2020 2020 2020 2020 2020 C000 0016 542C 411C 5537 3841 302E 3030 
+312E 444E 5748 5A47 432D 5031 2D43 3136 0000 0000 4944 1C1D 3436 4B37 3539 3300 
+3533 4531 594C 3130 5743 3038 3630 3056 4D52 1802 0000 0000 0000 0041 0081 1003 
+0000 0041 0081 11C2 4548 0060 0100 3100 3832 3034 2D45 3841 3036 3143 4537 3600 
+0000 0000 454C 3335 305F 3037 3100 0000 0000 0000 6230 3631 3861 5F31 3033 302E 
+3335 3000 0000 0000 0000 0000 0000 0000 0000 0014 4231 3231 4535 3034 5F32 4233 
+4530 3131 3000 0000 4D54 001C 0100 3100 3832 3034 2D45 3841 3036 3143 4537 3600 
+0000 0000 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	3670
+Resource tested:	sysplanar0
+Resource Description:	System Planar
+Location:		
+SRC:			B121E504
+Description:		Memory subsystem including external cache Predictive
+                        Error, general. Refer to the system service
+                        documentation for more information.
+Additional Words: 	2-030000F0 3-2B3E0110 4-C13920FF 5-410000FF
+			6-00812722 7-00000303 8-0E630023 9-00000000
+Possible FRUs:
+    Priority: A FRU: 46K7593  S/N: YL10WC08600V CCIN: 53E1 
+    Location: U78A0.001.DNWHZGC-P1-C16
+
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sat May 11 00:00:02 GMT+08:00 2013
+Sequence Number: 652
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk5          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sat May 11 00:00:02 GMT+08:00 2013
+Sequence Number: 651
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk4          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sat May 11 00:00:02 GMT+08:00 2013
+Sequence Number: 650
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk6          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sat May 11 00:00:02 GMT+08:00 2013
+Sequence Number: 649
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk7          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Fri May 10 00:00:02 GMT+08:00 2013
+Sequence Number: 648
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk5          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Fri May 10 00:00:02 GMT+08:00 2013
+Sequence Number: 647
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk4          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Fri May 10 00:00:02 GMT+08:00 2013
+Sequence Number: 646
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk6          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Fri May 10 00:00:02 GMT+08:00 2013
+Sequence Number: 645
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk7          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Thu May  9 00:00:01 GMT+08:00 2013
+Sequence Number: 644
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk5          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Thu May  9 00:00:01 GMT+08:00 2013
+Sequence Number: 643
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk4          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Thu May  9 00:00:01 GMT+08:00 2013
+Sequence Number: 642
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk6          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Thu May  9 00:00:01 GMT+08:00 2013
+Sequence Number: 641
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk7          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Wed May  8 00:00:02 GMT+08:00 2013
+Sequence Number: 640
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk5          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Wed May  8 00:00:02 GMT+08:00 2013
+Sequence Number: 639
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk4          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Wed May  8 00:00:02 GMT+08:00 2013
+Sequence Number: 638
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk6          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Wed May  8 00:00:02 GMT+08:00 2013
+Sequence Number: 637
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk7          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Tue May  7 00:00:01 GMT+08:00 2013
+Sequence Number: 636
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk5          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Tue May  7 00:00:01 GMT+08:00 2013
+Sequence Number: 635
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk4          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Tue May  7 00:00:01 GMT+08:00 2013
+Sequence Number: 634
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk6          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Tue May  7 00:00:01 GMT+08:00 2013
+Sequence Number: 633
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk7          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Mon May  6 00:00:02 GMT+08:00 2013
+Sequence Number: 632
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk5          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Mon May  6 00:00:02 GMT+08:00 2013
+Sequence Number: 631
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk4          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Mon May  6 00:00:02 GMT+08:00 2013
+Sequence Number: 630
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk6          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Mon May  6 00:00:02 GMT+08:00 2013
+Sequence Number: 629
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk7          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sun May  5 00:00:02 GMT+08:00 2013
+Sequence Number: 628
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk5          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sun May  5 00:00:02 GMT+08:00 2013
+Sequence Number: 627
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk4          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sun May  5 00:00:02 GMT+08:00 2013
+Sequence Number: 626
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk6          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sun May  5 00:00:02 GMT+08:00 2013
+Sequence Number: 625
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk7          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sat May  4 00:00:02 GMT+08:00 2013
+Sequence Number: 624
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk5          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sat May  4 00:00:02 GMT+08:00 2013
+Sequence Number: 623
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk4          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sat May  4 00:00:02 GMT+08:00 2013
+Sequence Number: 622
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk6          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sat May  4 00:00:02 GMT+08:00 2013
+Sequence Number: 621
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk7          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Fri May  3 00:00:01 GMT+08:00 2013
+Sequence Number: 620
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk5          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Fri May  3 00:00:01 GMT+08:00 2013
+Sequence Number: 619
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk4          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Fri May  3 00:00:01 GMT+08:00 2013
+Sequence Number: 618
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk6          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Fri May  3 00:00:01 GMT+08:00 2013
+Sequence Number: 617
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk7          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Thu May  2 00:00:02 GMT+08:00 2013
+Sequence Number: 616
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk5          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Thu May  2 00:00:02 GMT+08:00 2013
+Sequence Number: 615
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk4          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Thu May  2 00:00:01 GMT+08:00 2013
+Sequence Number: 614
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk6          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Thu May  2 00:00:01 GMT+08:00 2013
+Sequence Number: 613
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk7          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Wed May  1 00:00:02 GMT+08:00 2013
+Sequence Number: 612
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk5          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Wed May  1 00:00:02 GMT+08:00 2013
+Sequence Number: 611
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk4          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Wed May  1 00:00:02 GMT+08:00 2013
+Sequence Number: 610
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk6          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Wed May  1 00:00:02 GMT+08:00 2013
+Sequence Number: 609
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk7          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Tue Apr 30 00:00:02 GMT+08:00 2013
+Sequence Number: 608
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk5          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Tue Apr 30 00:00:02 GMT+08:00 2013
+Sequence Number: 607
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk4          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Tue Apr 30 00:00:02 GMT+08:00 2013
+Sequence Number: 606
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk6          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Tue Apr 30 00:00:02 GMT+08:00 2013
+Sequence Number: 605
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk7          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Mon Apr 29 00:00:02 GMT+08:00 2013
+Sequence Number: 604
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk5          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Mon Apr 29 00:00:01 GMT+08:00 2013
+Sequence Number: 603
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk4          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Mon Apr 29 00:00:01 GMT+08:00 2013
+Sequence Number: 602
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk6          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Mon Apr 29 00:00:01 GMT+08:00 2013
+Sequence Number: 601
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk7          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sun Apr 28 00:00:02 GMT+08:00 2013
+Sequence Number: 600
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk5          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sun Apr 28 00:00:01 GMT+08:00 2013
+Sequence Number: 599
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk4          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sun Apr 28 00:00:01 GMT+08:00 2013
+Sequence Number: 598
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk6          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sun Apr 28 00:00:01 GMT+08:00 2013
+Sequence Number: 597
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk7          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sat Apr 27 00:00:02 GMT+08:00 2013
+Sequence Number: 596
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk5          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sat Apr 27 00:00:02 GMT+08:00 2013
+Sequence Number: 595
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk4          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sat Apr 27 00:00:02 GMT+08:00 2013
+Sequence Number: 594
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk6          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Sat Apr 27 00:00:01 GMT+08:00 2013
+Sequence Number: 593
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk7          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Fri Apr 26 00:00:02 GMT+08:00 2013
+Sequence Number: 592
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk5          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Fri Apr 26 00:00:02 GMT+08:00 2013
+Sequence Number: 591
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk4          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Fri Apr 26 00:00:01 GMT+08:00 2013
+Sequence Number: 590
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk6          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR2
+IDENTIFIER:     B6267342
+
+Date/Time:       Fri Apr 26 00:00:01 GMT+08:00 2013
+Sequence Number: 589
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   hdisk7          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+DASD DEVICE
+
+Failure Causes
+DISK DRIVE
+DISK DRIVE ELECTRONICS
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 003D 001A 
+---------------------------------------------------------------------------
+LABEL:          SRC_TRYX
+IDENTIFIER:     1BA7DF4E
+
+Date/Time:       Thu Apr 25 21:26:00 GMT+08:00 2013
+Sequence Number: 588
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           S
+Type:            PERM
+WPAR:            Global
+Resource Name:   SRC             
+
+Description
+SOFTWARE PROGRAM ERROR
+
+Probable Causes
+APPLICATION PROGRAM
+
+Failure Causes
+SOFTWARE PROGRAM
+
+	Recommended Actions
+	DETERMINE WHY SUBSYSTEM CANNOT RESTART
+
+Detail Data
+SYMPTOM CODE
+        3072
+SOFTWARE ERROR CODE
+       -9020
+ERROR CODE
+           0
+DETECTING MODULE
+'srchevn.c'@line:'369'
+FAILING MODULE
+clinfoES
+---------------------------------------------------------------------------
+LABEL:          SRC_RSTRT
+IDENTIFIER:     CB4A951F
+
+Date/Time:       Thu Apr 25 21:26:00 GMT+08:00 2013
+Sequence Number: 587
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           S
+Type:            INFO
+WPAR:            Global
+Resource Name:   SRC             
+
+Description
+SOFTWARE PROGRAM ERROR
+
+Probable Causes
+APPLICATION PROGRAM
+
+Failure Causes
+SOFTWARE PROGRAM
+
+	Recommended Actions
+	VERIFY SUBSYSTEM RESTARTED AUTOMATICALLY
+
+Detail Data
+SYMPTOM CODE
+        3072
+SOFTWARE ERROR CODE
+       -9035
+ERROR CODE
+           0
+DETECTING MODULE
+'srchevn.c'@line:'234'
+FAILING MODULE
+clinfoES
+---------------------------------------------------------------------------
+LABEL:          GS_START_ST
+IDENTIFIER:     AFA89905
+
+Date/Time:       Thu Apr 25 21:25:59 GMT+08:00 2013
+Sequence Number: 586
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           O
+Type:            INFO
+WPAR:            Global
+Resource Name:   grpsvcs         
+
+Description
+Group Services daemon started
+
+Probable Causes
+Daemon started during system startup
+Daemon re-started automatically by SRC
+Daemon started during installation
+Daemon started manually by user
+
+User Causes
+Daemon started manually by user
+
+	Recommended Actions
+	Check that Group Services daemon is running
+
+Detail Data
+DETECTING MODULE
+RSCT,pgsd.C,1.62.1.22,727                     
+ERROR ID 
+63Y7ej0bvGSF/5mz087.ma/...................
+REFERENCE CODE
+                                          
+DIAGNOSTIC EXPLANATION
+HAGS daemon started by SRC. Log file is /var/ha/log/grpsvcs_trace.
+---------------------------------------------------------------------------
+LABEL:          SRC_RSTRT
+IDENTIFIER:     CB4A951F
+
+Date/Time:       Thu Apr 25 21:25:59 GMT+08:00 2013
+Sequence Number: 585
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           S
+Type:            INFO
+WPAR:            Global
+Resource Name:   SRC             
+
+Description
+SOFTWARE PROGRAM ERROR
+
+Probable Causes
+APPLICATION PROGRAM
+
+Failure Causes
+SOFTWARE PROGRAM
+
+	Recommended Actions
+	VERIFY SUBSYSTEM RESTARTED AUTOMATICALLY
+
+Detail Data
+SYMPTOM CODE
+        3072
+SOFTWARE ERROR CODE
+       -9035
+ERROR CODE
+           0
+DETECTING MODULE
+'srchevn.c'@line:'234'
+FAILING MODULE
+clinfoES
+---------------------------------------------------------------------------
+LABEL:          TS_START_ST
+IDENTIFIER:     97419D60
+
+Date/Time:       Thu Apr 25 21:25:57 GMT+08:00 2013
+Sequence Number: 584
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           O
+Type:            INFO
+WPAR:            Global
+Resource Name:   topsvcs         
+
+Description
+Topology Services daemon started
+
+Probable Causes
+Daemon started during system start-up
+Daemon re-started automatically by SRC
+Daemon started during installation
+Daemon started manually by user
+
+User Causes
+Daemon started manually by user
+
+	Recommended Actions
+	Confirm that this is desirable
+
+Detail Data
+DETECTING MODULE
+rsct,bootstrp.C,1.215.1.13,4956               
+ERROR ID 
+6UpNEL0ZvGSF/WPz.87.ma/...................
+REFERENCE CODE
+                                          
+Topology Services daemon started by:
+SRC
+Topology Services daemon log file location
+/var/ha/log/topsvcs.25.212557.dangan_cluster.en_US
+Topology Services daemon run directory
+/var/ha/run/topsvcs.dangan_cluster/
+---------------------------------------------------------------------------
+LABEL:          RMCD_INFO_0_ST
+IDENTIFIER:     A6DF45AA
+
+Date/Time:       Thu Apr 25 20:02:38 GMT+08:00 2013
+Sequence Number: 583
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           O
+Type:            INFO
+WPAR:            Global
+Resource Name:   RMCdaemon       
+
+Description
+The daemon is started.
+
+Probable Causes
+The Resource Monitoring and Control daemon has been started.
+
+User Causes
+The startsrc -s ctrmc command has been executed or
+the rmcctrl -s command has been executed.
+
+	Recommended Actions
+	Confirm that the daemon should be started.
+
+Detail Data
+DETECTING MODULE
+RSCT,rmcd.c,1.75,225                          
+ERROR ID 
+6eKora0RhFSF/w4S187.ma/...................
+REFERENCE CODE
+                                          
+---------------------------------------------------------------------------
+LABEL:          HEA_PORT_DOWN
+IDENTIFIER:     38A8D4BB
+
+Date/Time:       Thu Apr 25 20:01:41 GMT+08:00 2013
+Sequence Number: 581
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            INFO
+WPAR:            Global
+Resource Name:   ent1            
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+      IBM Host Ethernet Adapter:
+        Network Address.............00215EB79611
+
+Description
+HEA PORT DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 2079 file: hea_prim.c
+HEA LOGICAL PORT STATE:
+UP  
+HEA PHYSICAL PORT STATE:
+DOWN
+SENSE DATA
+0000 0002 0261 081B 0000 0000 0000 0000 0000 0000 0002 8000 0001 0300 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0006 0000 0000 0000 008E 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+3333 3333 0000 0000 0000 0001 0000 0000 0000 0000 
+SOURCE ADDRESS
+0021 5EB7 9611 
+---------------------------------------------------------------------------
+LABEL:          REBOOT_ID
+IDENTIFIER:     2BFA76F6
+
+Date/Time:       Thu Apr 25 20:00:32 GMT+08:00 2013
+Sequence Number: 580
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           S
+Type:            TEMP
+WPAR:            Global
+Resource Name:   SYSPROC         
+
+Description
+SYSTEM SHUTDOWN BY USER
+
+Probable Causes
+SYSTEM SHUTDOWN
+
+Detail Data
+USER ID
+           0
+0=SOFT IPL 1=HALT 2=TIME REBOOT
+           0
+TIME TO REBOOT (FOR TIMED REBOOT ONLY)
+           0
+---------------------------------------------------------------------------
+LABEL:          ERRLOG_ON
+IDENTIFIER:     9DBCFDEE
+
+Date/Time:       Thu Apr 25 20:02:02 GMT+08:00 2013
+Sequence Number: 579
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           O
+Type:            TEMP
+WPAR:            Global
+Resource Name:   errdemon        
+
+Description
+ERROR LOGGING TURNED ON
+
+Probable Causes
+ERRDEMON STARTED AUTOMATICALLY
+
+User Causes
+/USR/LIB/ERRDEMON COMMAND
+
+	Recommended Actions
+	NONE
+
+---------------------------------------------------------------------------
+LABEL:          ERRLOG_OFF
+IDENTIFIER:     192AC071
+
+Date/Time:       Thu Apr 25 19:58:15 GMT+08:00 2013
+Sequence Number: 578
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           O
+Type:            TEMP
+WPAR:            Global
+Resource Name:   errdemon        
+
+Description
+ERROR LOGGING TURNED OFF
+
+Probable Causes
+ERRSTOP COMMAND
+
+User Causes
+ERRSTOP COMMAND
+
+	Recommended Actions
+	RUN ERRDEAD COMMAND
+	TURN ERROR LOGGING ON
+
+---------------------------------------------------------------------------
+LABEL:          TS_STOP_ST
+IDENTIFIER:     6D19271E
+
+Date/Time:       Thu Apr 25 19:55:52 GMT+08:00 2013
+Sequence Number: 577
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           O
+Type:            INFO
+WPAR:            Global
+Resource Name:   topsvcs         
+
+Description
+Topology Services daemon stopped
+
+Probable Causes
+Daemon stopped by SRC
+Daemon stopped by signal
+
+User Causes
+Daemon stopped by user
+
+	Recommended Actions
+	Confirm that this is desirable
+
+Detail Data
+DETECTING MODULE
+rsct,comm.C,1.156,690                         
+ERROR ID 
+6SQG4h/6bFSF/qY1087.ma/...................
+REFERENCE CODE
+6UpNEL0BiqdE//KW087.ma/...................
+Topology Services daemon stopped by:
+Signal SIGTERM
+---------------------------------------------------------------------------
+LABEL:          GS_STOP_ST
+IDENTIFIER:     28854E81
+
+Date/Time:       Thu Apr 25 19:55:50 GMT+08:00 2013
+Sequence Number: 576
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           O
+Type:            INFO
+WPAR:            Global
+Resource Name:   grpsvcs         
+
+Description
+Group Services daemon stopped
+
+Probable Causes
+Daemon stopped by SRC
+Daemon stopped by signal
+
+User Causes
+Daemon stopped manually by user
+
+	Recommended Actions
+	Check that Group Services daemon is stopped
+
+Detail Data
+DETECTING MODULE
+RSCT,SRCSocket.C,1.78,482                     
+ERROR ID 
+6/uIVc.4bFSF/ukD187.ma/...................
+REFERENCE CODE
+                                          
+DIAGNOSTIC EXPLANATION
+Received signal[SIGTERM]. Converted to normal stop
+---------------------------------------------------------------------------
+LABEL:          HA001_TR
+IDENTIFIER:     99FA80C7
+
+Date/Time:       Thu Apr 25 19:55:50 GMT+08:00 2013
+Sequence Number: 575
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           S
+Type:            UNKN
+WPAR:            Global
+Resource Name:   haemd           
+
+Description
+SOFTWARE
+
+Probable Causes
+SUBSYSTEM
+
+Failure Causes
+SUBSYSTEM
+
+	Recommended Actions
+	NONE
+
+Detail Data
+DETECTING MODULE
+LPP=PSSP,Fn=emd.c,SID=1.47,L#=478,                                              
+DIAGNOSTIC EXPLANATION
+haemd: Received termination signal SIGTERM, program is exiting.
+
+---------------------------------------------------------------------------
+LABEL:          OPMSG
+IDENTIFIER:     AA8AB241
+
+Date/Time:       Thu Apr 25 19:55:48 GMT+08:00 2013
+Sequence Number: 574
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           O
+Type:            TEMP
+WPAR:            Global
+Resource Name:   OPERATOR        
+
+Description
+OPERATOR NOTIFICATION
+
+User Causes
+ERRLOGGER COMMAND
+
+	Recommended Actions
+	REVIEW DETAILED DATA
+
+Detail Data
+MESSAGE FROM ERRLOGGER COMMAND
+clexit.rc : Normal termination of clstrmgrES. Restart now.
+---------------------------------------------------------------------------
+LABEL:          SRC_SVKO
+IDENTIFIER:     BC3BE5A3
+
+Date/Time:       Thu Apr 25 19:55:48 GMT+08:00 2013
+Sequence Number: 573
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           S
+Type:            PERM
+WPAR:            Global
+Resource Name:   SRC             
+
+Description
+SOFTWARE PROGRAM ERROR
+
+Probable Causes
+APPLICATION PROGRAM
+
+Failure Causes
+SOFTWARE PROGRAM
+
+	Recommended Actions
+	MANUALLY RESTART SUBSYSTEM IF NEEDED
+
+Detail Data
+SYMPTOM CODE
+         256
+SOFTWARE ERROR CODE
+       -9017
+ERROR CODE
+           0
+DETECTING MODULE
+'srchevn.c'@line:'376'
+FAILING MODULE
+clstrmgrES
+---------------------------------------------------------------------------
+LABEL:          CORE_DUMP
+IDENTIFIER:     A924A5FC
+
+Date/Time:       Thu Apr 25 19:53:18 GMT+08:00 2013
+Sequence Number: 572
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           S
+Type:            PERM
+WPAR:            Global
+Resource Name:   SYSPROC         
+
+Description
+SOFTWARE PROGRAM ABNORMALLY TERMINATED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+User Causes
+USER GENERATED SIGNAL
+
+	Recommended Actions
+	CORRECT THEN RETRY
+
+Failure Causes
+SOFTWARE PROGRAM
+
+	Recommended Actions
+	RERUN THE APPLICATION PROGRAM
+	IF PROBLEM PERSISTS THEN DO THE FOLLOWING
+	CONTACT APPROPRIATE SERVICE REPRESENTATIVE
+
+Detail Data
+SIGNAL NUMBER
+           4
+USER'S PROCESS ID:
+               3998216
+FILE SYSTEM SERIAL NUMBER
+           1
+INODE NUMBER
+           0           2
+CORE FILE NAME
+//core
+PROGRAM NAME
+tsm
+STACK EXECUTION DISABLED
+           0
+COME FROM ADDRESS REGISTER
+exit 130
+
+PROCESSOR ID
+  hw_fru_id: 2
+  hw_cpu_id: 5
+
+ADDITIONAL INFORMATION
+??
+exit 144
+tsmlogout 158
+getinput 3D4
+getuserna DC
+tsmlogin 420
+main 318
+__start 6C
+
+Symptom Data
+REPORTABLE
+1
+INTERNAL ERROR
+1
+SYMPTOM CODE
+PIDS/5765E6200 LVLS/520 PCSS/SPI2 FLDS/tsm SIG/4 FLDS/exit VALU/144
+---------------------------------------------------------------------------
+LABEL:          TS_LOC_DOWN_ST
+IDENTIFIER:     173C787F
+
+Date/Time:       Sat Apr 20 18:46:40 GMT+08:00 2013
+Sequence Number: 571
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           S
+Type:            INFO
+WPAR:            Global
+Resource Name:   topsvcs         
+
+Description
+Possible malfunction on local adapter
+
+Probable Causes
+Local adapter mal-functioned
+Local adapter lost connection to network
+Local adapter mis-configured
+
+Failure Causes
+Local adapter mal-functioned
+Local adapter lost connection to network
+Local adapter mis-configured
+
+	Recommended Actions
+	Verify adapter configuration
+	Verify network connectivity
+
+Detail Data
+DETECTING MODULE
+rsct,nim_control.C,1.39.1.41,5929             
+ERROR ID 
+6zV5DL.E6bQF/wCb/87.ma/...................
+REFERENCE CODE
+                                          
+Adapter interface name
+tty0
+Adapter offset
+           2
+Adapter IP address
+255.255.0.0
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Wed Mar 27 01:34:51 GMT+08:00 2013
+Sequence Number: 570
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            TEMP
+WPAR:            Global
+Resource Name:   hdisk5          
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        ROS Level and ID............31303630
+        Serial Number...............
+        Device Specific.(Z0)........0000053245005032
+        Device Specific.(Z1)........
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           1
+SENSE DATA
+0A00 2800 0AC9 9C00 0002 0004 0000 0000 0000 0000 0000 0000 0200 0200 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 010D 6EEC 000A 4500 0000 0000 0000 0000 0000 0000 0000 0093 0000 
+0000 0034 001D 
+---------------------------------------------------------------------------
+LABEL:          FCP_ERR4
+IDENTIFIER:     4B436A3D
+
+Date/Time:       Wed Mar 27 01:34:42 GMT+08:00 2013
+Sequence Number: 569
+Machine Id:      00C1CE764C00
+Node Id:         dangan1
+Class:           H
+Type:            TEMP
+WPAR:            Global
+Resource Name:   fscsi1          
+Resource Class:  
+Resource Type:   
+Location:        
+
+Description
+LINK ERROR
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+SENSE DATA
+0000 0010 0000 004A 0000 0000 0201 0000 0000 0000 0001 0000 0000 0000 0000 0002 
+2800 0AC9 9C00 0002 0004 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0004 0000 0000 000A 0000 0000 0016 2200 0000 0000 0016 5300 0000 0000 0000 0000 
+2014 0080 E517 EAA6 2004 0080 E517 EAA6 0000 0000 0000 0000 0000 0000 0000 0000 
+0001 0000 0000 0000 0000 0000 0004 0001 0000 0000 0000 0008 0000 0000 0000 0000 
+0000 012F 0000 0002 0000 0200 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0004 0000 0001 0000 0000 0000 0012 0000 0000 0000 0000 007D 4000 
+3000 0000 30F0 0600 0000 0000 0004 0001 0000 0400 0000 0000 1001 0200 069A 2200 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+3000 0000 30F0 0600 0000 0000 0004 0001 1D00 0000 0000 0000 1001 4201 369B 2200 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+3000 0000 30F0 0600 0000 0000 0004 0001 0000 0400 0000 0000 1001 0200 069A 2200 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+2000 0000 2000 0600 0000 0000 1801 0000 1821 0600 0000 0000 0000 0400 0000 8700 
+0000 0000 0000 0000 0000 1001 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+1000 0000 C98F 772E 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 

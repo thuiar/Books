@@ -1,0 +1,1174 @@
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Fri May 24 18:43:01 BEIST 2013
+Sequence Number: 3124
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            PEND
+Resource Name:   vpath1          
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0001 0000 0001 0000 0000 0000 0000 0000 0001 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Fri May 24 18:43:01 BEIST 2013
+Sequence Number: 3123
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            PEND
+Resource Name:   vpath0          
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0000 0000 0001 0000 0000 0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Thu May 23 18:43:01 BEIST 2013
+Sequence Number: 3122
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            PEND
+Resource Name:   vpath1          
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0001 0000 0001 0000 0000 0000 0000 0000 0001 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Thu May 23 18:43:01 BEIST 2013
+Sequence Number: 3121
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            PEND
+Resource Name:   vpath0          
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0000 0000 0001 0000 0000 0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Wed May 22 18:43:01 BEIST 2013
+Sequence Number: 3120
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            PEND
+Resource Name:   vpath1          
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0001 0000 0001 0000 0000 0000 0000 0000 0001 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Wed May 22 18:43:01 BEIST 2013
+Sequence Number: 3119
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            PEND
+Resource Name:   vpath0          
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0000 0000 0001 0000 0000 0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Tue May 21 18:43:01 BEIST 2013
+Sequence Number: 3118
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            PEND
+Resource Name:   vpath1          
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0001 0000 0001 0000 0000 0000 0000 0000 0001 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Tue May 21 18:43:01 BEIST 2013
+Sequence Number: 3117
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            PEND
+Resource Name:   vpath0          
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0000 0000 0001 0000 0000 0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Mon May 20 18:43:01 BEIST 2013
+Sequence Number: 3116
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            PEND
+Resource Name:   vpath1          
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0001 0000 0001 0000 0000 0000 0000 0000 0001 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Mon May 20 18:43:01 BEIST 2013
+Sequence Number: 3115
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            PEND
+Resource Name:   vpath0          
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0000 0000 0001 0000 0000 0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Sun May 19 18:43:01 BEIST 2013
+Sequence Number: 3114
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            PEND
+Resource Name:   vpath1          
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0001 0000 0001 0000 0000 0000 0000 0000 0001 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Sun May 19 18:43:01 BEIST 2013
+Sequence Number: 3113
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            PEND
+Resource Name:   vpath0          
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0000 0000 0001 0000 0000 0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Sat May 18 18:43:01 BEIST 2013
+Sequence Number: 3112
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            PEND
+Resource Name:   vpath1          
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0001 0000 0001 0000 0000 0000 0000 0000 0001 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Sat May 18 18:43:01 BEIST 2013
+Sequence Number: 3111
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            PEND
+Resource Name:   vpath0          
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0000 0000 0001 0000 0000 0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Fri May 17 18:43:01 BEIST 2013
+Sequence Number: 3110
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            PEND
+Resource Name:   vpath1          
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0001 0000 0001 0000 0000 0000 0000 0000 0001 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Fri May 17 18:43:01 BEIST 2013
+Sequence Number: 3109
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            PEND
+Resource Name:   vpath0          
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0000 0000 0001 0000 0000 0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Thu May 16 18:43:01 BEIST 2013
+Sequence Number: 3108
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            PEND
+Resource Name:   vpath1          
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0001 0000 0001 0000 0000 0000 0000 0000 0001 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Thu May 16 18:43:01 BEIST 2013
+Sequence Number: 3107
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            PEND
+Resource Name:   vpath0          
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0000 0000 0001 0000 0000 0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          GS_START_ST
+IDENTIFIER:     AFA89905
+
+Date/Time:       Wed May 15 19:08:50 BEIST 2013
+Sequence Number: 3106
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           O
+Type:            INFO
+Resource Name:   grpsvcs         
+
+Description
+Group Services daemon started
+
+Probable Causes
+Daemon started during system startup
+Daemon re-started automatically by SRC
+Daemon started during installation
+Daemon started manually by user
+
+User Causes
+Daemon started manually by user
+
+	Recommended Actions
+	Check that Group Services daemon is running
+
+Detail Data
+DETECTING MODULE
+RSCT,pgsd.C,1.62.1.8,606                      
+ERROR ID 
+63Y7ej00nqYF/5SL/l3ESi/...................
+REFERENCE CODE
+                                          
+DIAGNOSTIC EXPLANATION
+HAGS daemon started by SRC. Log file is /var/ha/log/grpsvcs_trace_1_61.
+---------------------------------------------------------------------------
+LABEL:          TS_START_ST
+IDENTIFIER:     97419D60
+
+Date/Time:       Wed May 15 19:08:47 BEIST 2013
+Sequence Number: 3105
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           O
+Type:            INFO
+Resource Name:   topsvcs         
+
+Description
+Topology Services daemon started
+
+Probable Causes
+Daemon started during system start-up
+Daemon re-started automatically by SRC
+Daemon started during installation
+Daemon started manually by user
+
+User Causes
+Daemon started manually by user
+
+	Recommended Actions
+	Confirm that this is desirable
+
+Detail Data
+DETECTING MODULE
+rsct,bootstrp.C,1.211,4459                    
+ERROR ID 
+6UpNEL0zmqYF/c.b/l3ESi/...................
+REFERENCE CODE
+                                          
+Topology Services daemon started by:
+SRC
+Topology Services daemon log file location
+/var/ha/log/topsvcs.15.190847.clu_IFE.en_US
+Topology Services daemon run directory
+/var/ha/run/topsvcs.clu_IFE/
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Wed May 15 18:43:01 BEIST 2013
+Sequence Number: 3104
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            PEND
+Resource Name:   vpath1          
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0001 0000 0001 0000 0000 0000 0000 0000 0001 
+---------------------------------------------------------------------------
+LABEL:          VPATH_RESV_CFLICT
+IDENTIFIER:     72206E77
+
+Date/Time:       Wed May 15 18:43:01 BEIST 2013
+Sequence Number: 3103
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            PEND
+Resource Name:   vpath0          
+Resource Class:  disk
+Resource Type:   vpath
+Location:        
+
+Description
+REQUESTED OPERATION CANNOT BE PERFORMED
+
+Probable Causes
+SOFTWARE PROGRAM
+
+Failure Causes
+DEVICE LOCKED BY ANOTHER USER
+
+	Recommended Actions
+	RELEASE DEVICE PERSISTENT RESERVATION
+
+Detail Data
+SENSE DATA
+0000 0000 8000 0028 0000 0000 0000 0001 0000 0000 0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          RMCD_INFO_0_ST
+IDENTIFIER:     A6DF45AA
+
+Date/Time:       Wed May 15 17:38:04 BEIST 2013
+Sequence Number: 3102
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           O
+Type:            INFO
+Resource Name:   RMCdaemon       
+
+Description
+The daemon is started.
+
+Probable Causes
+The Resource Monitoring and Control daemon has been started.
+
+User Causes
+The startsrc -s ctrmc command has been executed or
+the rmcctrl -s command has been executed.
+
+	Recommended Actions
+	Confirm that the daemon should be started.
+
+Detail Data
+DETECTING MODULE
+RSCT,rmcd.c,1.52,211                          
+ERROR ID 
+6eKora0wRpYF/aZ3.l3ESi/...................
+REFERENCE CODE
+                                          
+---------------------------------------------------------------------------
+LABEL:          GOENT_RCVRY_EXIT
+IDENTIFIER:     F3931284
+
+Date/Time:       Wed May 15 17:36:29 BEIST 2013
+Sequence Number: 3100
+Machine Id:      00CA6AA04C00
+Node Id:         localhost
+Class:           H
+Type:            INFO
+Resource Name:   ent2            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U5791.001.99B0ZB7-P2-C01-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6524
+        FRU Number..................03N6524
+        EC Level....................H14006 
+        Manufacture ID..............YL1021
+        Network Address.............00145EB84374
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET NETWORK RECOVERY MODE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 449 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0000 04C8 0063 0853 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0C13 0000 0000 0005 6FE4 0000 0000 0000 0A39 0000 0000 0000 01A5 
+0000 0000 0000 0DBA 0000 0000 0005 92DF 0000 0000 0000 0000 0000 0285 0000 010D 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0009 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB83 00F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 C9E1 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB8 4374 
+---------------------------------------------------------------------------
+LABEL:          ERRLOG_ON
+IDENTIFIER:     9DBCFDEE
+
+Date/Time:       Wed May 15 17:37:38 BEIST 2013
+Sequence Number: 3099
+Machine Id:      00CA6AA04C00
+Node Id:         localhost
+Class:           O
+Type:            TEMP
+Resource Name:   errdemon        
+
+Description
+ERROR LOGGING TURNED ON
+
+Probable Causes
+ERRDEMON STARTED AUTOMATICALLY
+
+User Causes
+/USR/LIB/ERRDEMON COMMAND
+
+	Recommended Actions
+	NONE
+
+---------------------------------------------------------------------------
+LABEL:          GOENT_RCVRY_EXIT
+IDENTIFIER:     F3931284
+
+Date/Time:       Sat Mar 30 03:30:12 BEIST 2013
+Sequence Number: 3098
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            INFO
+Resource Name:   ent2            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U5791.001.99B0ZB7-P2-C01-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6524
+        FRU Number..................03N6524
+        EC Level....................H14006 
+        Manufacture ID..............YL1021
+        Network Address.............00145EB84374
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET NETWORK RECOVERY MODE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 449 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0000 04C8 0063 0853 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0C13 0000 0000 0005 6FE4 0000 0000 0000 0A39 0000 0000 0000 01A5 
+0000 0000 0000 0DBA 0000 0000 0005 92DF 0000 0000 0000 0000 0000 0285 0000 010D 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0009 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB83 00F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 C9E1 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB8 4374 
+---------------------------------------------------------------------------
+LABEL:          GOENT_LINK_DOWN
+IDENTIFIER:     EC0BCCD4
+
+Date/Time:       Sat Mar 30 03:20:10 BEIST 2013
+Sequence Number: 3096
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            TEMP
+Resource Name:   ent2            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U5791.001.99B0ZB7-P2-C01-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6524
+        FRU Number..................03N6524
+        EC Level....................H14006 
+        Manufacture ID..............YL1021
+        Network Address.............00145EB84374
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 393 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0000 026E 0063 081B 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 
+0000 0000 0000 0C13 0000 0000 0005 6FE4 0000 0000 0000 0A39 0000 0000 0000 0008 
+0000 0000 0000 0DB9 0000 0000 0005 9290 0000 0000 0000 0000 0000 0026 0000 002C 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 0000 0009 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB80 08F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+2222 2222 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB8 4374 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	466
+Resource tested:	ent2
+Menu Number:		25C1902
+Description:
+
+
+No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.
+
+---------------------------------------------------------------------------
+LABEL:          GOENT_RCVRY_EXIT
+IDENTIFIER:     F3931284
+
+Date/Time:       Sat Mar 30 03:14:02 BEIST 2013
+Sequence Number: 3095
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            INFO
+Resource Name:   ent0            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U5791.001.99B0ZB8-P2-C01-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6524
+        FRU Number..................03N6524
+        EC Level....................H14006 
+        Manufacture ID..............YL1021
+        Network Address.............00145EB8326A
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET NETWORK RECOVERY MODE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 449 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0000 00FF 0063 0853 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 0000 0001 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB83 00F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 C9E1 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB8 326A 
+---------------------------------------------------------------------------
+LABEL:          GOENT_RCVRY_EXIT
+IDENTIFIER:     F3931284
+
+Date/Time:       Sat Mar 30 03:13:59 BEIST 2013
+Sequence Number: 3094
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            INFO
+Resource Name:   ent1            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U5791.001.99B0ZB8-P2-C02-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6524
+        FRU Number..................03N6524
+        EC Level....................H14006 
+        Manufacture ID..............YL1021
+        Network Address.............00145EB7E4C4
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET NETWORK RECOVERY MODE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 449 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0068 789A 0063 0853 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 049A 4E2F 0000 0001 64A7 3FC2 0000 0000 035C 28AC 0000 0000 0333 BCB8 
+0000 0000 0087 68B5 0000 0001 3543 AB6B 0000 0000 0000 0000 0000 0000 0000 150D 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0014 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB83 00F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 C9E1 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB7 E4C4 
+---------------------------------------------------------------------------
+LABEL:          GOENT_LINK_DOWN
+IDENTIFIER:     EC0BCCD4
+
+Date/Time:       Sat Mar 30 03:09:53 BEIST 2013
+Sequence Number: 3093
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            TEMP
+Resource Name:   ent0            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U5791.001.99B0ZB8-P2-C01-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6524
+        FRU Number..................03N6524
+        EC Level....................H14006 
+        Manufacture ID..............YL1021
+        Network Address.............00145EB8326A
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 224 file: goent_limbo.c
+PCI ETHERNET STATISTICS
+0000 0005 0063 0853 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB80 00F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB8 326A 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	463
+Resource tested:	ent0
+Menu Number:		25C1902
+Description:
+
+
+No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.
+
+---------------------------------------------------------------------------
+LABEL:          GOENT_LINK_DOWN
+IDENTIFIER:     EC0BCCD4
+
+Date/Time:       Sat Mar 30 03:07:24 BEIST 2013
+Sequence Number: 3091
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            TEMP
+Resource Name:   ent0            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U5791.001.99B0ZB8-P2-C01-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6524
+        FRU Number..................03N6524
+        EC Level....................H14006 
+        Manufacture ID..............YL1021
+        Network Address.............00145EB8326A
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 393 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0068 770F 0063 081B 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 
+0000 0000 036C A5ED 0000 0001 4E22 E953 0000 0000 02E3 3F37 0076 EBCA 000A 16D1 
+0000 0000 03A3 CF3B 0000 0029 304A 0709 0000 0000 0000 0000 006E 5B5F 0000 1BE8 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0010 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB80 08F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+2222 2222 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB8 326A 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	458
+Resource tested:	ent0
+Menu Number:		25C1902
+Description:
+
+
+No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.
+
+---------------------------------------------------------------------------
+LABEL:          GOENT_LINK_DOWN
+IDENTIFIER:     EC0BCCD4
+
+Date/Time:       Sat Mar 30 03:07:24 BEIST 2013
+Sequence Number: 3090
+Machine Id:      00CA6AA04C00
+Node Id:         IFE_A
+Class:           H
+Type:            TEMP
+Resource Name:   ent1            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U5791.001.99B0ZB8-P2-C02-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6524
+        FRU Number..................03N6524
+        EC Level....................H14006 
+        Manufacture ID..............YL1021
+        Network Address.............00145EB7E4C4
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 393 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0068 770F 0063 081B 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 049A 4E2F 0000 0001 64A7 3FC2 0000 0000 035C 28AC 0000 0000 0333 BCB8 
+0000 0000 0087 68B5 0000 0001 3543 AB6B 0000 0000 0000 0000 0000 0000 0000 150D 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0014 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB80 08F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+2222 2222 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB7 E4C4 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	460
+Resource tested:	ent1
+Menu Number:		25C1902
+Description:
+
+
+No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.

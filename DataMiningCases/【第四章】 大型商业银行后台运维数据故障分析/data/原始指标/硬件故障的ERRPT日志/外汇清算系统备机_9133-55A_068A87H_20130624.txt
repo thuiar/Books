@@ -1,0 +1,416 @@
+LABEL:          FCP_ARRAY_ERR10
+IDENTIFIER:     C86ACB7E
+
+Date/Time:       Thu Apr 18 21:03:18 BEIST 2013
+Sequence Number: 513
+Machine Id:      00079363D600
+Node Id:         whqs2
+Class:           H
+Type:            INFO
+Resource Name:   dac1            
+Resource Class:  array
+Resource Type:   ibm-dac-V4
+Location:        U787B.001.DNWGLHC-P1-C2-T1-W200400A0B8502423
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        Part Number.................24288-00        
+        ROS Level and ID............0916
+
+Description
+ARRAY CONFIGURATION CHANGED
+
+Probable Causes
+ARRAY CONTROLLER
+CABLES AND CONNECTIONS
+
+Failure Causes
+ARRAY CONTROLLER
+CABLES AND CONNECTIONS
+
+	Recommended Actions
+	NO ACTION NECESSARY
+
+Detail Data
+SENSE DATA
+0600 0308 0000 FF00 0000 0004 0000 0000 0000 0000 0000 0000 0000 0000 7000 0600 
+0000 0098 0000 0000 9502 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0008 1800 0000 0000 0000 0000 0000 0000 0000 534B 3831 3430 3130 3332 2020 2020 
+2020 0660 3400 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0001 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 795E C81B 3034 3138 3133 2F30 3633 3431 3800 0000 0000 0000 0000 0000 
+0000 0000 1007 5000 F205 3704 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 
+---------------------------------------------------------------------------
+LABEL:          FCP_ARRAY_ERR10
+IDENTIFIER:     C86ACB7E
+
+Date/Time:       Thu Apr 18 20:46:04 BEIST 2013
+Sequence Number: 500
+Machine Id:      00079363D600
+Node Id:         localhost
+Class:           H
+Type:            INFO
+Resource Name:   dac1            
+Resource Class:  array
+Resource Type:   ibm-dac-V4
+Location:        U787B.001.DNWGLHC-P1-C2-T1-W200400A0B8502423
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......1814      FAStT 
+        Part Number.................24288-00        
+        ROS Level and ID............0916
+
+Description
+ARRAY CONFIGURATION CHANGED
+
+Probable Causes
+ARRAY CONTROLLER
+CABLES AND CONNECTIONS
+
+Failure Causes
+ARRAY CONTROLLER
+CABLES AND CONNECTIONS
+
+	Recommended Actions
+	NO ACTION NECESSARY
+
+Detail Data
+SENSE DATA
+0600 0308 0000 FF00 0000 0004 0000 0000 0000 0000 0000 0000 0000 0000 7000 0600 
+0000 0098 0000 0000 9502 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0008 1800 0000 0000 0000 0000 0000 0000 0000 534B 3831 3430 3130 3332 2020 2020 
+2020 0660 3400 0002 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0001 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 7940 AF6E 3034 3138 3133 2F30 3631 3730 3400 0000 0000 0000 0000 0000 
+0000 0000 1007 5000 F205 3704 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 
+---------------------------------------------------------------------------
+LABEL:          GOENT_RCVRY_EXIT
+IDENTIFIER:     F3931284
+
+Date/Time:       Sat Mar 30 03:29:55 BEIST 2013
+Sequence Number: 490
+Machine Id:      00079363D600
+Node Id:         whqs2
+Class:           H
+Type:            INFO
+Resource Name:   ent1            
+Resource Class:  adapter
+Resource Type:   14108902
+Location:        U787B.001.DNWGLHC-P1-T9
+VPD:             
+      2-Port 10/100/1000 Base-TX PCI-X Adapter:
+        Network Address.............001A64AD5A0E
+        ROM Level.(alterable).......DV0210
+
+Description
+ETHERNET NETWORK RECOVERY MODE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 304 file: goent_intr.c
+PCI ETHERNET STATISTICS
+00CA 56B3 0063 0853 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 069E 1E0B 0000 0001 BE38 2EED 0000 0000 0451 658F 0000 0028 0668 6EAF 
+0000 0000 00F0 05F7 0000 0001 45B0 BB9E 0000 0000 0000 0000 0000 0001 0000 A7BF 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 000F 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB83 00F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 C9E1 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+001A 64AD 5A0E 
+---------------------------------------------------------------------------
+LABEL:          GOENT_RCVRY_EXIT
+IDENTIFIER:     F3931284
+
+Date/Time:       Sat Mar 30 03:29:55 BEIST 2013
+Sequence Number: 489
+Machine Id:      00079363D600
+Node Id:         whqs2
+Class:           H
+Type:            INFO
+Resource Name:   ent0            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U787B.001.DNWGLHC-P1-C4-T1
+VPD:             
+      10/100/1000 Base-TX PCI-X Adapter:
+        Part Number.................03N6525
+        FRU Number..................03N6525
+        EC Level....................H14007$
+        Brand.......................H0
+        Manufacture ID..............YL1021
+        Network Address.............00145EB87E67
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET NETWORK RECOVERY MODE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 304 file: goent_intr.c
+PCI ETHERNET STATISTICS
+00CA 56B3 0063 0853 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 017C C423 0000 0000 B120 1EF5 0000 0000 0158 62BA 0000 0002 002E ECEC 
+0000 0000 015C C747 0000 0000 AFCB E3DF 0000 0000 0000 0000 0000 0000 0000 1B66 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0015 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB83 00F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 C9E1 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB8 7E67 
+---------------------------------------------------------------------------
+LABEL:          GOENT_LINK_DOWN
+IDENTIFIER:     EC0BCCD4
+
+Date/Time:       Sat Mar 30 03:20:10 BEIST 2013
+Sequence Number: 487
+Machine Id:      00079363D600
+Node Id:         whqs2
+Class:           H
+Type:            TEMP
+Resource Name:   ent1            
+Resource Class:  adapter
+Resource Type:   14108902
+Location:        U787B.001.DNWGLHC-P1-T9
+VPD:             
+      2-Port 10/100/1000 Base-TX PCI-X Adapter:
+        Network Address.............001A64AD5A0E
+        ROM Level.(alterable).......DV0210
+
+Description
+ETHERNET DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 248 file: goent_intr.c
+PCI ETHERNET STATISTICS
+00CA 546A 0063 081B 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 069E 1E0B 0000 0001 BE38 2EED 0000 0000 0451 658F 0000 0028 0668 6EAF 
+0000 0000 00F0 05F7 0000 0001 45B0 BB9E 0000 0000 0000 0000 0000 0001 0000 A7BF 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 000F 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB80 08F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+2222 2222 0000 0000 0000 0000 
+SOURCE ADDRESS
+001A 64AD 5A0E 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	243
+Resource tested:	ent1
+Menu Number:		25C3902
+Description:
+
+
+No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.
+
+---------------------------------------------------------------------------
+LABEL:          GOENT_LINK_DOWN
+IDENTIFIER:     EC0BCCD4
+
+Date/Time:       Sat Mar 30 03:20:10 BEIST 2013
+Sequence Number: 486
+Machine Id:      00079363D600
+Node Id:         whqs2
+Class:           H
+Type:            TEMP
+Resource Name:   ent0            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U787B.001.DNWGLHC-P1-C4-T1
+VPD:             
+      10/100/1000 Base-TX PCI-X Adapter:
+        Part Number.................03N6525
+        FRU Number..................03N6525
+        EC Level....................H14007$
+        Brand.......................H0
+        Manufacture ID..............YL1021
+        Network Address.............00145EB87E67
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 248 file: goent_intr.c
+PCI ETHERNET STATISTICS
+00CA 546A 0063 081B 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 
+0000 0000 017C C423 0000 0000 B120 1EF5 0000 0000 0158 62BA 0000 0002 002E A30F 
+0000 0000 015C C746 0000 0000 AFCB E369 0000 0000 0000 0000 0000 0000 0000 18D6 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 0000 0015 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB80 08F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+2222 2222 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB8 7E67 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	241
+Resource tested:	ent0
+Menu Number:		25C1902
+Description:
+
+
+No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.
+
+---------------------------------------------------------------------------
+LABEL:          GOENT_RCVRY_EXIT
+IDENTIFIER:     F3931284
+
+Date/Time:       Sat Mar 30 03:13:09 BEIST 2013
+Sequence Number: 485
+Machine Id:      00079363D600
+Node Id:         whqs2
+Class:           H
+Type:            INFO
+Resource Name:   ent3            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U787B.001.DNWGLHC-P1-C1-T1
+VPD:             
+      10/100/1000 Base-TX PCI-X Adapter:
+        Part Number.................03N6525
+        FRU Number..................03N6525
+        EC Level....................H14007$
+        Brand.......................H0
+        Manufacture ID..............YL1021
+        Network Address.............00145EB87EA9
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET NETWORK RECOVERY MODE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 304 file: goent_intr.c
+PCI ETHERNET STATISTICS
+00CA 52C5 0063 0853 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0179 EB04 0000 0000 A963 F8E9 0000 0000 0156 DE57 0000 0003 002F 0013 
+0000 0000 0158 312D 0000 0000 9F45 62CC 0000 0000 0000 0000 0000 0001 0000 2D56 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0014 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB83 00F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 C9E1 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB8 7EA9 
+---------------------------------------------------------------------------
+LABEL:          GOENT_LINK_DOWN
+IDENTIFIER:     EC0BCCD4
+
+Date/Time:       Sat Mar 30 03:07:24 BEIST 2013
+Sequence Number: 483
+Machine Id:      00079363D600
+Node Id:         whqs2
+Class:           H
+Type:            TEMP
+Resource Name:   ent3            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U787B.001.DNWGLHC-P1-C1-T1
+VPD:             
+      10/100/1000 Base-TX PCI-X Adapter:
+        Part Number.................03N6525
+        FRU Number..................03N6525
+        EC Level....................H14007$
+        Brand.......................H0
+        Manufacture ID..............YL1021
+        Network Address.............00145EB87EA9
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 248 file: goent_intr.c
+PCI ETHERNET STATISTICS
+00CA 516C 0063 081B 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 
+0000 0000 0179 EB04 0000 0000 A963 F8E9 0000 0000 0156 DE57 0000 0003 002E B9F8 
+0000 0000 0158 312C 0000 0000 9F45 6256 0000 0000 0000 0000 0000 0001 0000 2D40 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 0000 0014 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB80 08F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+2222 2222 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB8 7EA9 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	237
+Resource tested:	ent3
+Menu Number:		25C1902
+Description:
+
+
+No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.
+

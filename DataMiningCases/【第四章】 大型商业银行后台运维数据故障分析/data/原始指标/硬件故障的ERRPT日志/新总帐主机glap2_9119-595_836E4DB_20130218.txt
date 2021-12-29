@@ -1,0 +1,1209 @@
+LABEL:          SCAN_ERROR_CHRP
+IDENTIFIER:     BFE4C025
+
+Date/Time:       Mon Feb 18 10:41:17 GMT+08:00 2013
+Sequence Number: 1750
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   sysplanar0      
+Resource Class:  
+Resource Type:   
+Location:        
+
+Description
+UNDETERMINED ERROR
+
+Failure Causes
+UNDETERMINED
+
+	Recommended Actions
+	RUN SYSTEM DIAGNOSTICS.
+
+Detail Data
+PROBLEM DATA
+0644 00E0 0000 07F8 B600 8E00 0000 0000 0000 0000 4942 4D00 5048 0030 0100 3200 
+2013 0218 0234 5997 2013 0218 0234 5997 5700 0107 0000 0000 0000 0000 0000 0000 
+8601 EC65 51F7 7CBE 5548 0018 0100 3200 6003 4400 0000 0000 0000 A800 0000 0000 
+5053 00A8 0101 3200 0201 0004 0000 00A0 9103 9102 0027 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 3134 3030 3230 3532 2020 2020 2020 2020 
+2020 2020 2020 2020 2020 2020 2020 2020 C000 0016 542B 4D18 5535 3739 312E 3030 
+312E 3939 4230 385A 362D 4532 0000 0000 4944 1C1D 3135 5236 3731 3000 5247 4235 
+4831 3041 3848 3539 3532 3200 5045 1C00 3537 3931 2D30 3031 3939 4230 385A 3623 
+0000 0000 0000 0000 5544 0094 0204 4400 0000 0175 2F6F 7074 2F66 6970 732F 6269 
+6E2F 7074 6C69 6300 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 6230 3931 3661 5F39 3930 312E 3234 305F 3037 3038 3336 3031 
+0000 0000 0000 0000 0000 0001 0000 0000 0000 0801 0000 0000 0000 0002 4D54 001C 
+0100 4400 3934 3538 2D31 3030 3931 3830 3250 4700 0000 0000 5544 0410 0000 3200 
+AAAA AA45 ABCD EF00 084A 0004 02A5 0214 0020 5291 0391 4500 2702 0031 3552 3637 
+3130 4831 3041 3848 3539 3532 3230 3730 3833 3630 3130 3730 3833 3630 3141 7ABA 
+6735 C28F 5D41 7ABA 6C21 9999 9A00 0000 1000 0000 0000 0000 0000 0000 0031 3932 
+2E31 3638 2E32 2E31 3435 0000 3139 322E 3136 382E 3235 332E 3235 3531 3932 2E31 
+3638 2E32 3535 2E32 3532 3139 322E 3136 382E 322E 3134 3400 00D0 A00C 0000 0000 
+0139 3435 382D 3130 3039 3138 3032 5047 3934 3538 2D31 3030 3931 3830 3250 4700 
+0003 3F00 5E01 0100 0102 0A0B FF80 0100 0A00 0A00 01A3 8707 FF88 00A0 1AA0 1A0B 
+0390 0000 3E00 3E04 0604 0607 0990 0000 1200 1207 0991 0000 1200 1207 0992 0000 
+1200 1207 0998 0003 9B03 9B07 0999 0003 9B03 9B07 099A 0003 9B03 9B07 099B 0003 
+9B03 9B00 6A02 0100 0103 0B0B FFC0 0100 0A00 0A00 01A3 8707 FFC8 00A0 1AA0 1A0B 
+0390 0000 3E00 3E04 0604 060B 0391 0000 3E00 3E04 0604 0607 0990 0000 1200 1207 
+0991 0000 1200 1207 0992 0000 1200 1207 0998 0003 9B03 9B07 0999 0003 9B03 9B07 
+099A 0003 9B03 9B07 099B 0003 9B03 9B01 2200 F90F 099D 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 00F9 0F09 9C01 0100 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0001 6854 DA9D 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0168 54DA 9C01 0100 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0001 6854 DC64 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 01AB A661 9C01 0100 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 
+ABA6 619C 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00F9 0C10 
+9D00 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 F90C 119C 0101 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 00F9 0C11 6400 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 000C 0201 0303 9100 E452 4742 3531 
+3552 3637 3130 2020 2020 4733 3530 3930 4831 3041 3848 3539 3532 3200 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 FFFF FFFF 0600 
+0700 1700 3700 3600 FFFF 8B00 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 07B3 0102 0081 8085 
+853D 0104 0000 0000 00F6 0001 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0002 C240 49EF DF0A 0057 87A3 0000 0000 0000 0000 0000 0000 0000 0000 0507 
+8800 04FE DCBA 0000 5544 0238 0000 3F30 9DA3 FE3C 007B 9DA3 18EC 0101 9DA4 FE3C 
+007A 9DA4 18EC 0001 D18D FE3C 007B D18D 1802 0501 D18D FE3C 007B D18D 1801 FF27 
+D18F FE3C 007B D18F 1821 0027 D18F FE3C 007B D18F 1802 0401 D190 FE3C 007A D190 
+1802 0500 D191 FE3C 007B D191 1802 0301 D192 FE3C 007A D192 1802 0400 D192 FE3C 
+007B D192 1802 0201 D193 FE3C 007A D193 1802 0300 D194 FE3C 007B D194 1802 0101 
+D194 FE3C 007B D194 D0EA 8721 D195 FE3C 007A D195 1802 0200 D196 FE3C 007A D196 
+1802 0100 D196 FE3C 007A D196 D0EA 8720 EFA7 FE3C 007A EFA7 1800 FF27 EFA7 FE3C 
+007A EFA7 1820 0027 EFA7 FE3C 007B EFA7 1801 FF27 EFA8 FE3C 007B EFA8 1821 0027 
+08CF FE3C 007A 08CF 2500 0058 08CF FE3C 007A 08CF 18EC 0007 08CF FE3C 007A 08CF 
+1803 F610 08CF FE3C 007A 08CF 1804 FDFF 08E3 FE3C 007B 08E3 18EC 0107 08E3 FE3C 
+007B 08E3 1803 F611 08E3 FE3C 007B 08E3 1804 FFFC 0932 FE3C 007B 0932 1803 F621 
+0932 FE3C 007B 0932 1804 FFFC 0937 FE3C 007A 0937 1803 F620 0937 FE3C 007A 0937 
+1804 FDFF 0989 FE3C 007A 0989 1803 F630 0989 FE3C 007A 0989 1804 FDFF 098F FE3C 
+007B 098F 1803 F631 098F FE3C 007B 098F 1804 FFFC 09E0 FE3C 007A 09E0 1803 F640 
+09E0 FE3C 007A 09E0 1804 FDFF 09E6 FE3C 007B 09E6 1803 F641 09E6 FE3C 007B 09E6 
+1804 FFFC 0A37 FE3C 007A 0A37 1803 F650 0A37 FE3C 007A 0A37 1804 FDFF 0A37 FE3C 
+007A 0A37 1809 0100 0A37 FE3C 007A 0A37 EA08 8720 0A3C FE3C 007B 0A3C 1803 F651 
+0A3C FE3C 007B 0A3C 1804 FFFC 0A3C FE3C 007B 0A3C 1809 0100 0A3C FE3C 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	57
+Resource tested:	sysplanar0
+Resource Description:	System Planar
+Location:		
+SRC:			14002052
+Description:		Power/Cooling subsystem Unrecovered Error, bypassed
+                        with loss of redundancy. Refer to the system service
+                        documentation for more information.
+Additional Words: 	2-91039102 3-00270000 4-00000000 5-00000000
+			6-00000000 7-00000000 8-00000000 9-00000000
+Possible FRUs:
+    Priority: M FRU: 15R6710  S/N: H10A8H59522  CCIN: RGB5 
+    Location: U5791.001.99B08Z6-E2
+
+---------------------------------------------------------------------------
+LABEL:          SCAN_ERROR_CHRP
+IDENTIFIER:     BFE4C025
+
+Date/Time:       Mon Feb 18 10:40:17 GMT+08:00 2013
+Sequence Number: 1749
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           H
+Type:            PERM
+WPAR:            Global
+Resource Name:   sysplanar0      
+Resource Class:  
+Resource Type:   
+Location:        
+
+Description
+UNDETERMINED ERROR
+
+Failure Causes
+UNDETERMINED
+
+	Recommended Actions
+	RUN SYSTEM DIAGNOSTICS.
+
+Detail Data
+PROBLEM DATA
+0644 00E0 0000 07F8 B600 8E00 0000 0000 0000 0000 4942 4D00 5048 0030 0100 3200 
+2013 0218 0234 5356 2013 0218 0234 5356 5700 0107 0000 0000 0000 0000 0000 0000 
+8801 101F 51F7 7CB1 5548 0018 0100 3200 6003 4400 0000 0000 0000 A800 0000 0000 
+5053 00A8 0101 3200 0201 0004 0000 00A0 9103 9102 0027 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 3134 3030 3230 3532 2020 2020 2020 2020 
+2020 2020 2020 2020 2020 2020 2020 2020 C000 0016 542B 4D18 5535 3739 312E 3030 
+312E 3939 4230 385A 362D 4532 0000 0000 4944 1C1D 3135 5236 3731 3000 5247 4235 
+4831 3041 3848 3539 3532 3200 5045 1C00 3537 3931 2D30 3031 3939 4230 385A 3623 
+0000 0000 0000 0000 5544 0094 0204 4400 0000 019A 2F6F 7074 2F66 6970 732F 6269 
+6E2F 7074 6C69 6300 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 6230 3931 3661 5F39 3930 312E 3234 305F 3037 3038 3336 3031 
+0000 0000 0000 0000 0000 0002 0000 0000 0000 0801 0000 0000 0000 0002 4D54 001C 
+0100 4400 3934 3538 2D31 3030 3931 3830 3250 4700 0000 0000 5544 0410 0000 3200 
+AAAA AA4E ABCD EF00 084A 0004 02A5 0214 0020 5291 0391 4E00 2702 0031 3552 3637 
+3130 4831 3041 3848 3539 3532 3230 3730 3833 3630 3130 3730 3833 3630 3141 7ABA 
+47F2 E147 AE41 7ABA 4D0A 8F5C 2900 0000 1000 0000 0000 0000 0000 0000 0031 3932 
+2E31 3638 2E32 3535 2E32 3532 3139 322E 3136 382E 322E 3134 3400 0031 3932 2E31 
+3638 2E32 2E31 3435 0000 3139 322E 3136 382E 3235 332E 3235 35E0 A00C 0000 0000 
+0139 3435 382D 3130 3039 3138 3032 5047 3934 3538 2D31 3030 3931 3830 3250 4700 
+0003 3F00 5E02 0100 0001 0A0B FFC0 0100 0A00 0A00 01A3 8707 FFC8 00A0 1AA0 1A0B 
+0390 0000 3E00 3E04 0604 0607 0990 0000 1200 1207 0991 0000 1200 1207 0992 0000 
+1200 1207 0998 0003 9B03 9B07 0999 0003 9B03 9B07 099A 0003 9B03 9B07 099B 0003 
+9B03 9B00 6A01 0100 0103 0B0B FF80 0100 0A00 0A00 01A3 8707 FF88 00A0 1AA0 1A0B 
+0390 0000 3E00 3E04 0604 060B 0391 0000 3E00 3E04 0604 0607 0990 0000 1200 1207 
+0991 0000 1200 1207 0992 0000 1200 1207 0998 0003 9B03 9B07 0999 0003 9B03 9B07 
+099A 0003 9B03 9B07 099B 0003 9B03 9B01 2201 ABA4 739C 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0118 42BE 9C01 0100 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0001 1842 BF64 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0118 42BF 9D00 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0001 1842 C09C 0101 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0118 42C1 6400 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 
+6853 789D 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0168 5378 
+9C01 0100 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 6853 7A64 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 01AB A472 9C01 0100 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 000C 0201 0303 9100 E452 4742 3531 
+3552 3637 3130 2020 2020 4733 3530 3930 4831 3041 3848 3539 3532 3200 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 FFFF FFFF 0600 
+0700 1700 3700 3600 FFFF 8B00 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 07B3 0102 0081 C086 
+853F 0104 0000 0000 00F6 0001 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 C040 49FB DF0A 0057 87A3 0000 0000 0000 0000 0000 0000 0000 0000 0507 
+7600 04FE DCBA 0000 5544 0238 0000 3F30 9A47 FE3C 007B 9A47 EA08 8721 9A4D FE3C 
+007A 9A4D 1803 F650 9A4D FE3C 007A 9A4D 1804 FDFF 9A4D FE3C 007A 9A4D 1809 0100 
+9A4D FE3C 007A 9A4D EA08 8720 9A4D FE3C 007A 9A4D 1800 FF27 9A4D FE3C 007A 9A4D 
+1820 FE27 9D55 FE3C 007B 9D55 18EC 0105 9D56 FE3C 007A 9D56 18EC 0005 9DA3 FE3C 
+007B 9DA3 18EC 0101 9DA4 FE3C 007A 9DA4 18EC 0001 D18D FE3C 007B D18D 1802 0501 
+D18D FE3C 007B D18D 1801 FF27 D18F FE3C 007B D18F 1821 0027 D18F FE3C 007B D18F 
+1802 0401 D190 FE3C 007A D190 1802 0500 D191 FE3C 007B D191 1802 0301 D192 FE3C 
+007A D192 1802 0400 D192 FE3C 007B D192 1802 0201 D193 FE3C 007A D193 1802 0300 
+D194 FE3C 007B D194 1802 0101 D194 FE3C 007B D194 D0EA 8721 D195 FE3C 007A D195 
+1802 0200 D196 FE3C 007A D196 1802 0100 D196 FE3C 007A D196 D0EA 8720 EFA7 FE3C 
+007A EFA7 1800 FF27 EFA7 FE3C 007A EFA7 1820 0027 EFA7 FE3C 007B EFA7 1801 FF27 
+EFA8 FE3C 007B EFA8 1821 0027 08CF FE3C 007A 08CF 2500 0058 08CF FE3C 007A 08CF 
+18EC 0007 08CF FE3C 007A 08CF 1803 F610 08CF FE3C 007A 08CF 1804 FDFF 08E3 FE3C 
+007B 08E3 18EC 0107 08E3 FE3C 007B 08E3 1803 F611 08E3 FE3C 007B 08E3 1804 FFFC 
+0932 FE3C 007B 0932 1803 F621 0932 FE3C 007B 0932 1804 FFFC 0937 FE3C 007A 0937 
+1803 F620 0937 FE3C 007A 0937 1804 FDFF 0989 FE3C 007A 0989 1803 F630 0989 FE3C 
+007A 0989 1804 FDFF 098F FE3C 007B 098F 1803 F631 098F FE3C 007B 098F 1804 FFFC 
+09E0 FE3C 007A 09E0 1803 F640 09E0 FE3C 007A 09E0 1804 FDFF 09E6 FE3C 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	55
+Resource tested:	sysplanar0
+Resource Description:	System Planar
+Location:		
+SRC:			14002052
+Description:		Power/Cooling subsystem Unrecovered Error, bypassed
+                        with loss of redundancy. Refer to the system service
+                        documentation for more information.
+Additional Words: 	2-91039102 3-00270000 4-00000000 5-00000000
+			6-00000000 7-00000000 8-00000000 9-00000000
+Possible FRUs:
+    Priority: M FRU: 15R6710  S/N: H10A8H59522  CCIN: RGB5 
+    Location: U5791.001.99B08Z6-E2
+
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Sun Feb 17 15:00:00 GMT+08:00 2013
+Sequence Number: 1748
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1718067
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Sat Feb 16 15:00:00 GMT+08:00 2013
+Sequence Number: 1747
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1718476
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Fri Feb 15 15:00:14 GMT+08:00 2013
+Sequence Number: 1746
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1717452
+Duplicates
+Number of duplicates
+           2
+Time of first duplicate
+Wed Feb 13 15:00:00 GMT+08:00 2013
+Time of last duplicate
+Fri Feb 15 15:00:14 GMT+08:00 2013
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Tue Feb 12 15:00:00 GMT+08:00 2013
+Sequence Number: 1743
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1717248
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Mon Feb 11 15:00:20 GMT+08:00 2013
+Sequence Number: 1742
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1717043
+Duplicates
+Number of duplicates
+           1
+Time of first duplicate
+Sun Feb 10 15:00:00 GMT+08:00 2013
+Time of last duplicate
+Mon Feb 11 15:00:20 GMT+08:00 2013
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Sat Feb  9 15:00:01 GMT+08:00 2013
+Sequence Number: 1740
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1717248
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Fri Feb  8 15:00:01 GMT+08:00 2013
+Sequence Number: 1739
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1717862
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Thu Feb  7 15:00:00 GMT+08:00 2013
+Sequence Number: 1738
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1717657
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Wed Feb  6 15:00:00 GMT+08:00 2013
+Sequence Number: 1737
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1717862
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Tue Feb  5 15:00:00 GMT+08:00 2013
+Sequence Number: 1736
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1717657
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Mon Feb  4 15:00:00 GMT+08:00 2013
+Sequence Number: 1735
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1717452
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Sun Feb  3 15:00:13 GMT+08:00 2013
+Sequence Number: 1734
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1716633
+Duplicates
+Number of duplicates
+           1
+Time of first duplicate
+Sat Feb  2 15:00:00 GMT+08:00 2013
+Time of last duplicate
+Sun Feb  3 15:00:13 GMT+08:00 2013
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Fri Feb  1 15:00:01 GMT+08:00 2013
+Sequence Number: 1732
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1717248
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Thu Jan 31 15:00:00 GMT+08:00 2013
+Sequence Number: 1731
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1717043
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Wed Jan 30 15:00:00 GMT+08:00 2013
+Sequence Number: 1730
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1717452
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Tue Jan 29 15:00:01 GMT+08:00 2013
+Sequence Number: 1729
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1717248
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Mon Jan 28 15:00:00 GMT+08:00 2013
+Sequence Number: 1728
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1716838
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Sun Jan 27 15:00:16 GMT+08:00 2013
+Sequence Number: 1727
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1716224
+Duplicates
+Number of duplicates
+           1
+Time of first duplicate
+Sat Jan 26 15:00:00 GMT+08:00 2013
+Time of last duplicate
+Sun Jan 27 15:00:16 GMT+08:00 2013
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Fri Jan 25 15:00:01 GMT+08:00 2013
+Sequence Number: 1725
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1716428
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Thu Jan 24 15:00:00 GMT+08:00 2013
+Sequence Number: 1724
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1716224
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Wed Jan 23 15:00:01 GMT+08:00 2013
+Sequence Number: 1723
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1716428
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Tue Jan 22 15:00:00 GMT+08:00 2013
+Sequence Number: 1722
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1714585
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Mon Jan 21 15:00:00 GMT+08:00 2013
+Sequence Number: 1721
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1714790
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Sun Jan 20 15:00:00 GMT+08:00 2013
+Sequence Number: 1720
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1713971
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Sat Jan 19 15:59:27 GMT+08:00 2013
+Sequence Number: 1719
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           H
+Type:            TEMP
+WPAR:            Global
+Resource Name:   hdisk16         
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................EMC     
+        Machine Type and Model......SYMMETRIX       
+        ROS Level and ID............5773
+        Serial Number...............99105000
+        Part Number.................000000000000570028000190
+        EC Level....................105699
+        LIC Node VPD................0105
+        Device Specific.(Z0)........08
+        Device Specific.(Z1)........57
+        Device Specific.(Z2)........000000300D9C09000260019C
+        Device Specific.(Z3)........12008000
+        Device Specific.(Z4)........54122410
+        Device Specific.(Z5)........3F80
+        Device Specific.(Z6)........4D
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2A00 0109 CE20 0000 0804 0000 0000 0000 0000 0000 0000 0102 0000 7000 0B00 
+0000 000A 0000 0000 4400 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0004 4C39 0009 1580 0000 0000 0000 0000 0000 0000 0000 0083 0000 
+0000 0030 001D 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Sat Jan 19 15:59:15 GMT+08:00 2013
+Sequence Number: 1718
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           H
+Type:            TEMP
+WPAR:            Global
+Resource Name:   hdisk17         
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+        Manufacturer................EMC     
+        Machine Type and Model......SYMMETRIX       
+        ROS Level and ID............5773
+        Serial Number...............99105000
+        Part Number.................000000000000570027000190
+        EC Level....................105699
+        LIC Node VPD................0105
+        Device Specific.(Z0)........08
+        Device Specific.(Z1)........57
+        Device Specific.(Z2)........000000300D9C09000260019C
+        Device Specific.(Z3)........12008000
+        Device Specific.(Z4)........54122410
+        Device Specific.(Z5)........3F80
+        Device Specific.(Z6)........4D
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0A00 2A00 0CF0 0090 0000 0804 0000 0000 0000 0000 0000 0000 0102 0000 7000 0B00 
+0000 000A 0000 0000 4400 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0004 EFBE 0007 E240 0000 0000 0000 0000 0000 0000 0000 0083 0000 
+0000 0030 001D 
+---------------------------------------------------------------------------
+LABEL:          DMPCHK_TOOSMALL
+IDENTIFIER:     E87EF1BE
+
+Date/Time:       Sat Jan 19 15:00:00 GMT+08:00 2013
+Sequence Number: 1717
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           O
+Type:            PEND
+WPAR:            Global
+Resource Name:   dumpcheck       
+
+Description
+The largest dump device is too small.
+
+Probable Causes
+Neither dump device is large enough to accommodate a system dump at this time.
+
+	Recommended Actions
+	Increase the size of one or both dump devices.
+
+Detail Data
+Largest dump device
+lg_dumplv                                                                                                                       
+Largest dump device size in kb
+     1048576
+Current estimated dump size in kb
+     1713971
+---------------------------------------------------------------------------
+LABEL:          GOENT_RCVRY_EXIT
+IDENTIFIER:     F3931284
+
+Date/Time:       Sun Dec  2 05:58:21 GMT+08:00 2012
+Sequence Number: 1666
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           H
+Type:            INFO
+WPAR:            Global
+Resource Name:   ent0            
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+      Gigabit Ethernet-SX PCI-X Adapter:
+        Part Number.................00P4499
+        FRU Number..................00P4499
+        EC Level....................H12510 
+        Manufacture ID..............YL1021
+        Network Address.............001125BD2622
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET NETWORK RECOVERY MODE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 319 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0031 4F50 0061 0853 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0772 BAEA 0000 000C 32F0 22E1 0000 0000 05AD DC62 0000 0DFB 0001 67F8 
+0000 0000 068D AC07 0000 0006 F6D2 CAF4 0000 0000 0000 0000 0000 37FE 0000 54DB 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0006 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BBA3 087C 0200 D400 4120 8000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 AAAA AAAA 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+0011 25BD 2622 
+---------------------------------------------------------------------------
+LABEL:          GOENT_LINK_DOWN
+IDENTIFIER:     EC0BCCD4
+
+Date/Time:       Sun Dec  2 05:27:14 GMT+08:00 2012
+Sequence Number: 1665
+Machine Id:      00C6E4DB4C00
+Node Id:         glap2
+Class:           H
+Type:            TEMP
+WPAR:            Global
+Resource Name:   ent0            
+Resource Class:  
+Resource Type:   
+Location:        
+VPD:             
+      Gigabit Ethernet-SX PCI-X Adapter:
+        Part Number.................00P4499
+        FRU Number..................00P4499
+        EC Level....................H12510 
+        Manufacture ID..............YL1021
+        Network Address.............001125BD2622
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 249 file: goent_intr.c
+PCI ETHERNET STATISTICS
+0031 4804 0061 081B 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0772 BAEA 0000 000C 32F0 22E1 0000 0000 05AD DC62 0000 0DFB 0001 67F8 
+0000 0000 068D AC06 0000 0006 F6D2 CAB8 0000 0000 0000 0000 0000 37FE 0000 54DB 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0006 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BBA1 0874 0200 4C00 4120 8000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 AAAA AAAA 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+2222 2222 0000 0000 0000 0000 
+SOURCE ADDRESS
+0011 25BD 2622 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	53
+Resource tested:	ent0
+Menu Number:		25C0902
+Description:
+
+
+No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.
+

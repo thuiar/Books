@@ -1,0 +1,408 @@
+problem_num=103,pmh_num=,refcode=E3D4310A,status=Open,first_time=10/28/2012 01:15:04,last_time=10/27/2013 06:47:19,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=10/28/2012 01:15:04,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=10/28/2012 01:15:04
+problem_num=115,pmh_num=,refcode=B181F126,status=Open,first_time=10/11/2013 13:29:12,last_time=10/11/2013 13:29:12,sys_name=XA058-tgapp2-E8A-SN06F9023,sys_mtms=8204-E8A/06F9023,enclosure_mtms=8204-E8A/06F9023,firmware_fix=,text=ACT04293I Platform firmware (0x81) reported an error.,created_time=10/11/2013 13:29:12,reporting_name=XA058-tgapp2-E8A-SN06F9023,reporting_mtms=8204-E8A/06F9023,failing_mtms=8204-E8A/06F9023,analyzing_hmc=HMC06,event_time=10/11/2013 13:18:08
+problem_num=104,pmh_num=,refcode=E212E161,status=Open,first_time=01/28/2013 18:27:05,last_time=07/03/2013 15:54:38,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=01/28/2013 18:27:05,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=01/28/2013 18:27:05
+problem_num=114,pmh_num=,refcode=EA880936,status=Open,first_time=05/15/2013 20:12:40,last_time=05/15/2013 20:12:40,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062E07R PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=05/15/2013 20:12:40,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=05/15/2013 20:12:40
+problem_num=113,pmh_num=,refcode=EA880936,status=Open,first_time=05/15/2013 20:12:39,last_time=05/15/2013 20:12:39,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062DFBR PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=05/15/2013 20:12:39,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=05/15/2013 20:12:39
+problem_num=112,pmh_num=,refcode=EA880936,status=Open,first_time=05/15/2013 20:12:38,last_time=05/15/2013 20:12:38,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062E07R PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=05/15/2013 20:12:38,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=05/15/2013 20:12:38
+problem_num=111,pmh_num=,refcode=EA880936,status=Open,first_time=05/15/2013 20:12:37,last_time=05/15/2013 20:12:37,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062DFBR PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=05/15/2013 20:12:37,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=05/15/2013 20:12:37
+problem_num=110,pmh_num=,refcode=EA880936,status=Open,first_time=05/15/2013 20:12:28,last_time=05/15/2013 20:12:28,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062DEER PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=05/15/2013 20:12:28,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=05/15/2013 20:12:28
+problem_num=109,pmh_num=,refcode=EA880936,status=Open,first_time=05/15/2013 20:12:27,last_time=05/15/2013 20:12:27,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062DEER PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=05/15/2013 20:12:27,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=05/15/2013 20:12:27
+problem_num=108,pmh_num=,refcode=EA880936,status=Open,first_time=05/15/2013 20:12:05,last_time=05/15/2013 20:12:05,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062DF9R PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=05/15/2013 20:12:05,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=05/15/2013 20:12:05
+problem_num=107,pmh_num=,refcode=EA880936,status=Open,first_time=05/15/2013 20:12:04,last_time=05/15/2013 20:12:04,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062DF9R PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=05/15/2013 20:12:04,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=05/15/2013 20:12:04
+problem_num=105,pmh_num=,refcode=E332FFFF,status=Open,first_time=05/09/2013 04:38:42,last_time=05/09/2013 04:38:42,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=05/09/2013 04:38:42,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=05/09/2013 04:38:42
+problem_num=106,pmh_num=,refcode=B3030007,status=Open,first_time=05/09/2013 04:36:42,last_time=05/09/2013 04:36:42,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=8202-E4B/062DFBR,firmware_fix=,"text=ACT04251I HMC to FSP,BPA, or BPC failure detected",created_time=05/09/2013 04:36:42,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=8202-E4B/062DFBR,analyzing_hmc=HMC06,event_time=05/09/2013 04:36:42
+problem_num=102,pmh_num=,refcode=E3D4310A,status=Closed,first_time=10/28/2012 00:50:22,last_time=10/28/2012 01:12:09,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=10/28/2012 00:50:22,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=10/28/2012 00:50:22
+problem_num=75,pmh_num=,refcode=E3D4310A,status=Closed,first_time=11/27/2011 00:49:16,last_time=10/21/2012 03:02:42,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=11/27/2011 00:49:16,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=11/27/2011 00:49:16
+problem_num=77,pmh_num=,refcode=E212E161,status=Closed,first_time=03/28/2012 17:04:49,last_time=08/28/2012 19:00:35,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=03/28/2012 17:04:49,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=03/28/2012 17:04:49
+problem_num=101,pmh_num=,refcode=EA880936,status=Closed,first_time=08/01/2012 12:23:25,last_time=08/01/2012 12:23:25,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062DF9R PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=08/01/2012 12:23:25,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=08/01/2012 12:23:25
+problem_num=100,pmh_num=,refcode=EA880936,status=Closed,first_time=08/01/2012 12:23:16,last_time=08/01/2012 12:23:16,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062DF9R PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=08/01/2012 12:23:16,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=08/01/2012 12:23:16
+problem_num=99,pmh_num=,refcode=EA880936,status=Closed,first_time=08/01/2012 12:23:08,last_time=08/01/2012 12:23:08,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062DF9R PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=08/01/2012 12:23:08,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=08/01/2012 12:23:08
+problem_num=98,pmh_num=,refcode=B3030001,status=Closed,first_time=07/31/2012 09:36:00,last_time=07/31/2012 09:36:00,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=8204-E8A/06F22C4,firmware_fix=,"text=ACT04285I FSP,BPA or BPC did not respond",created_time=07/31/2012 09:36:00,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=8204-E8A/06F22C4,analyzing_hmc=HMC06,event_time=07/31/2012 09:35:59
+problem_num=97,pmh_num=,refcode=EA880936,status=Closed,first_time=07/12/2012 11:18:08,last_time=07/12/2012 11:18:08,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062E07R PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=07/12/2012 11:18:08,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=07/12/2012 11:18:08
+problem_num=96,pmh_num=,refcode=EA880936,status=Closed,first_time=07/12/2012 11:17:00,last_time=07/12/2012 11:17:00,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062DF9R PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=07/12/2012 11:17:00,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=07/12/2012 11:17:00
+problem_num=95,pmh_num=,refcode=EA880936,status=Closed,first_time=07/12/2012 11:16:53,last_time=07/12/2012 11:16:53,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062DF9R PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=07/12/2012 11:16:53,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=07/12/2012 11:16:53
+problem_num=94,pmh_num=,refcode=EA880936,status=Closed,first_time=07/12/2012 11:16:45,last_time=07/12/2012 11:16:45,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062DF9R PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=07/12/2012 11:16:45,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=07/12/2012 11:16:45
+problem_num=93,pmh_num=,refcode=EA880936,status=Closed,first_time=07/12/2012 11:16:38,last_time=07/12/2012 11:16:38,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062E07R PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=07/12/2012 11:16:38,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=07/12/2012 11:16:38
+problem_num=92,pmh_num=,refcode=11001510,status=Closed,first_time=07/12/2012 11:14:39,last_time=07/12/2012 11:14:39,sys_name=192.161.0.43,sys_mtms=8202-E4B/062DF9R,enclosure_mtms=8202-E4B/062DF9R,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=07/12/2012 11:14:39,reporting_name=192.161.0.43,reporting_mtms=8202-E4B/062DF9R,failing_mtms=8202-E4B/062DF9R,analyzing_hmc=HMC06,event_time=07/12/2012 11:14:08
+problem_num=91,pmh_num=,refcode=EA880936,status=Closed,first_time=07/12/2012 11:10:34,last_time=07/12/2012 11:10:34,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062E07R PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=07/12/2012 11:10:34,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=07/12/2012 11:10:34
+problem_num=90,pmh_num=,refcode=EA880936,status=Closed,first_time=07/12/2012 11:10:34,last_time=07/12/2012 11:10:34,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062DF9R PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=07/12/2012 11:10:34,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=07/12/2012 11:10:34
+problem_num=89,pmh_num=,refcode=EA880936,status=Closed,first_time=07/12/2012 11:10:33,last_time=07/12/2012 11:10:33,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062E07R PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=07/12/2012 11:10:33,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=07/12/2012 11:10:33
+problem_num=88,pmh_num=,refcode=EA880936,status=Closed,first_time=07/12/2012 11:10:32,last_time=07/12/2012 11:10:32,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062DF9R PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=07/12/2012 11:10:32,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=07/12/2012 11:10:32
+problem_num=86,pmh_num=,refcode=#2806,status=Closed,first_time=06/07/2012 06:21:03,last_time=06/07/2012 06:30:15,sys_name=192.161.0.42,sys_mtms=8202-E4B/062DFBR,enclosure_mtms=8202-E4B/062DFBR,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If this adapter is connected to a network, and if you
+you are experiencing problems with network communications,
+check for a loose or defective cable or connection.
+
+If a switch or another system is directly attached
+to this adapter, verify it is powered up, configured,
+and functioning correctly.",created_time=06/07/2012 06:21:03,reporting_name=192.161.0.42,reporting_mtms=8202-E4B/062DFBR,failing_mtms=8202-E4B/062DFBR,analyzing_hmc=HMC06,event_time=06/07/2012 13:43:10
+problem_num=87,pmh_num=,refcode=#2806,status=Closed,first_time=06/07/2012 06:28:00,last_time=06/07/2012 06:28:00,sys_name=192.161.0.41,sys_mtms=8202-E4B/062DEER,enclosure_mtms=8202-E4B/062DEER,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If this adapter is connected to a network, and if you
+you are experiencing problems with network communications,
+check for a loose or defective cable or connection.
+
+If a switch or another system is directly attached
+to this adapter, verify it is powered up, configured,
+and functioning correctly.",created_time=06/07/2012 06:28:00,reporting_name=192.161.0.41,reporting_mtms=8202-E4B/062DEER,failing_mtms=8202-E4B/062DEER,analyzing_hmc=HMC06,event_time=06/07/2012 14:27:19
+problem_num=85,pmh_num=,refcode=EA880936,status=Closed,first_time=06/07/2012 05:40:54,last_time=06/07/2012 05:40:54,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062DFBR PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=06/07/2012 05:40:54,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=06/07/2012 05:40:54
+problem_num=84,pmh_num=,refcode=EA880936,status=Closed,first_time=06/07/2012 05:40:36,last_time=06/07/2012 05:40:36,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062DEER PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=06/07/2012 05:40:36,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=06/07/2012 05:40:36
+problem_num=83,pmh_num=,refcode=EA880936,status=Closed,first_time=06/07/2012 05:39:29,last_time=06/07/2012 05:39:29,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062DFBR PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=06/07/2012 05:39:29,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=06/07/2012 05:39:29
+problem_num=82,pmh_num=,refcode=EA880936,status=Closed,first_time=06/07/2012 05:39:05,last_time=06/07/2012 05:39:05,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062DEER PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=06/07/2012 05:39:05,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=06/07/2012 05:39:05
+problem_num=81,pmh_num=,refcode=EA880936,status=Closed,first_time=06/07/2012 05:33:19,last_time=06/07/2012 05:33:19,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062DFBR PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=06/07/2012 05:33:19,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=06/07/2012 05:33:19
+problem_num=80,pmh_num=,refcode=EA880936,status=Closed,first_time=06/07/2012 05:33:19,last_time=06/07/2012 05:33:19,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062DEER PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=06/07/2012 05:33:19,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=06/07/2012 05:33:19
+problem_num=79,pmh_num=,refcode=EA880936,status=Closed,first_time=06/07/2012 05:33:17,last_time=06/07/2012 05:33:17,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062DFBR PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=06/07/2012 05:33:17,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=06/07/2012 05:33:17
+problem_num=78,pmh_num=,refcode=EA880936,status=Closed,first_time=06/07/2012 05:33:16,last_time=06/07/2012 05:33:16,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=HSCE2358 Managed system 8202-E4B*062DEER PRIMARY T-side code level 01AL730 not compatible. Recommended HMC level: Version: 7 Release: 730 Service Pack: 0 HMC Build level: 20110404.1.,created_time=06/07/2012 05:33:16,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=06/07/2012 05:33:16
+problem_num=76,pmh_num=,refcode=B3030007,status=Closed,first_time=01/09/2012 05:29:18,last_time=01/09/2012 05:29:18,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=8233-E8B/069B22P,firmware_fix=,"text=ACT04251I HMC to FSP,BPA, or BPC failure detected",created_time=01/09/2012 05:29:18,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=8233-E8B/069B22P,analyzing_hmc=HMC06,event_time=01/09/2012 05:29:18
+problem_num=72,pmh_num=,refcode=E3D4310A,status=Closed,first_time=10/02/2011 00:49:14,last_time=11/20/2011 02:59:14,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=10/02/2011 00:49:14,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=10/02/2011 00:49:14
+problem_num=74,pmh_num=,refcode=E212E161,status=Closed,first_time=11/11/2011 20:16:14,last_time=11/11/2011 20:16:14,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=11/11/2011 20:16:14,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=11/11/2011 20:16:14
+problem_num=73,pmh_num=,refcode=#2602905,status=Closed,first_time=11/07/2011 07:58:23,last_time=11/07/2011 07:58:23,sys_name=192.161.0.82,sys_mtms=8233-E8B/069B29P,enclosure_mtms=8233-E8B/069B29P,firmware_fix=,"text=Error Log Analysis has detected multiple link errors.
+These errors can be caused by loose or defective cables
+or the Fibre Channel adapter.
+
+Check all cables and their connections.  Run advanced
+diagnostics including wrap tests, on the fibre channel
+adapter to ensure the adapter link module is functioning
+properly.",created_time=11/07/2011 07:58:23,reporting_name=192.161.0.82,reporting_mtms=8233-E8B/069B29P,failing_mtms=8233-E8B/069B29P,analyzing_hmc=HMC06,event_time=11/07/2011 15:58:22
+problem_num=71,pmh_num=,refcode=E3D4310A,status=Closed,first_time=09/04/2011 00:57:13,last_time=09/25/2011 02:59:13,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=09/04/2011 00:57:13,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=09/04/2011 00:57:13
+problem_num=24,pmh_num=,refcode=E3D4310A,status=Closed,first_time=09/07/2010 18:15:59,last_time=08/28/2011 03:09:22,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=09/07/2010 18:15:59,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=09/07/2010 18:15:59
+problem_num=38,pmh_num=,refcode=E212E161,status=Closed,first_time=09/26/2010 23:58:31,last_time=07/24/2011 16:49:03,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=09/26/2010 23:58:31,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=09/26/2010 23:58:31
+problem_num=70,pmh_num=,refcode=#2538902,status=Closed,first_time=06/16/2011 06:47:53,last_time=06/16/2011 06:47:53,sys_name=192.161.0.82,sys_mtms=8233-E8B/069B29P,enclosure_mtms=8233-E8B/069B29P,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=06/16/2011 06:47:53,reporting_name=192.161.0.82,reporting_mtms=8233-E8B/069B29P,failing_mtms=8233-E8B/069B29P,analyzing_hmc=HMC06,event_time=06/16/2011 14:47:07
+problem_num=69,pmh_num=,refcode=#2538902,status=Closed,first_time=06/16/2011 06:46:55,last_time=06/16/2011 06:46:55,sys_name=192.161.0.81,sys_mtms=8233-E8B/069B22P,enclosure_mtms=8233-E8B/069B22P,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=06/16/2011 06:46:55,reporting_name=192.161.0.81,reporting_mtms=8233-E8B/069B22P,failing_mtms=8233-E8B/069B22P,analyzing_hmc=HMC06,event_time=06/16/2011 14:46:08
+problem_num=68,pmh_num=,refcode=BA180010,status=Closed,first_time=06/10/2011 01:08:05,last_time=06/10/2011 01:08:05,sys_name=192.161.0.82,sys_mtms=8233-E8B/069B29P,enclosure_mtms=8233-E8B/069B29P,firmware_fix=,text=ACT04293I Platform firmware (0x83) reported an error.,created_time=06/10/2011 01:08:05,reporting_name=192.161.0.82,reporting_mtms=8233-E8B/069B29P,failing_mtms=8233-E8B/069B29P,analyzing_hmc=HMC06,event_time=06/10/2011 01:08:04
+problem_num=1,pmh_num=,refcode=E3550046,status=Closed,first_time=05/05/2010 14:24:34,last_time=06/09/2011 14:21:15,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=05/05/2010 14:24:34,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=05/05/2010 14:24:34
+problem_num=67,pmh_num=,refcode=B3030007,status=Closed,first_time=06/09/2011 08:23:12,last_time=06/09/2011 08:23:12,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=8204-E8A/066BAE5,firmware_fix=,"text=ACT04251I HMC to FSP,BPA, or BPC failure detected",created_time=06/09/2011 08:23:12,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=8204-E8A/066BAE5,analyzing_hmc=HMC06,event_time=06/09/2011 08:23:12
+problem_num=66,pmh_num=,refcode=777127,status=Closed,first_time=06/08/2011 06:12:15,last_time=06/08/2011 08:13:01,sys_name=192.161.0.60,sys_mtms=8204-E8A/06096C4,enclosure_mtms=8204-E8A/06096C4,firmware_fix=,"text=Error Log Analysis indicates an array controller cache battery failure.
+Refer to the 2102 Model F10 Service Guide for more information.",created_time=06/08/2011 06:12:15,reporting_name=192.161.0.60,reporting_mtms=8204-E8A/06096C4,failing_mtms=8204-E8A/06096C4,analyzing_hmc=HMC06,event_time=06/08/2011 14:09:09
+problem_num=65,pmh_num=,refcode=777127,status=Closed,first_time=06/08/2011 06:05:55,last_time=06/08/2011 08:06:51,sys_name=192.161.0.59,sys_mtms=8204-E8A/0609564,enclosure_mtms=8204-E8A/0609564,firmware_fix=,"text=Error Log Analysis indicates an array controller cache battery failure.
+Refer to the 2102 Model F10 Service Guide for more information.",created_time=06/08/2011 06:05:55,reporting_name=192.161.0.59,reporting_mtms=8204-E8A/0609564,failing_mtms=8204-E8A/0609564,analyzing_hmc=HMC06,event_time=06/08/2011 14:04:34
+problem_num=64,pmh_num=,refcode=B181F126,status=Closed,first_time=05/07/2011 16:00:17,last_time=05/15/2011 02:00:31,sys_name=192.161.0.58,sys_mtms=8204-E8A/06F9023,enclosure_mtms=8204-E8A/06F9023,firmware_fix=,text=ACT04293I Platform firmware (0x81) reported an error.,created_time=05/07/2011 16:00:17,reporting_name=192.161.0.58,reporting_mtms=8204-E8A/06F9023,failing_mtms=8204-E8A/06F9023,analyzing_hmc=HMC06,event_time=05/07/2011 15:51:37
+problem_num=60,pmh_num=,refcode=#25C3902,status=Closed,first_time=01/17/2011 03:38:28,last_time=01/27/2011 18:16:18,sys_name=192.161.0.55,sys_mtms=9133-55A/063226H,enclosure_mtms=9133-55A/063226H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=01/17/2011 03:38:28,reporting_name=192.161.0.55,reporting_mtms=9133-55A/063226H,failing_mtms=9133-55A/063226H,analyzing_hmc=HMC06,event_time=01/17/2011 11:09:28
+problem_num=63,pmh_num=,refcode=#25C1902,status=Closed,first_time=01/27/2011 18:16:13,last_time=01/27/2011 18:16:13,sys_name=192.161.0.55,sys_mtms=9133-55A/063226H,enclosure_mtms=9133-55A/063226H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=01/27/2011 18:16:13,reporting_name=192.161.0.55,reporting_mtms=9133-55A/063226H,failing_mtms=9133-55A/063226H,analyzing_hmc=HMC06,event_time=01/26/2011 02:13:09
+problem_num=62,pmh_num=,refcode=#25C1902,status=Closed,first_time=01/27/2011 18:13:14,last_time=01/27/2011 18:13:14,sys_name=192.161.0.56,sys_mtms=9133-55A/063201H,enclosure_mtms=9133-55A/063201H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=01/27/2011 18:13:14,reporting_name=192.161.0.56,reporting_mtms=9133-55A/063201H,failing_mtms=9133-55A/063201H,analyzing_hmc=HMC06,event_time=01/28/2011 02:14:08
+problem_num=61,pmh_num=,refcode=#25C3902,status=Closed,first_time=01/17/2011 03:41:12,last_time=01/27/2011 18:08:18,sys_name=192.161.0.56,sys_mtms=9133-55A/063201H,enclosure_mtms=9133-55A/063201H,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=01/17/2011 03:41:12,reporting_name=192.161.0.56,reporting_mtms=9133-55A/063201H,failing_mtms=9133-55A/063201H,analyzing_hmc=HMC06,event_time=01/17/2011 10:30:41
+problem_num=35,pmh_num=,refcode=#2538902,status=Closed,first_time=09/19/2010 14:33:54,last_time=12/21/2010 06:56:38,sys_name=192.161.0.57,sys_mtms=8204-E8A/06F8A33,enclosure_mtms=8204-E8A/06F8A33,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=09/19/2010 14:33:54,reporting_name=192.161.0.57,reporting_mtms=8204-E8A/06F8A33,failing_mtms=8204-E8A/06F8A33,analyzing_hmc=HMC06,event_time=09/19/2010 14:29:51
+problem_num=59,pmh_num=,refcode=11001510,status=Closed,first_time=11/20/2010 16:18:49,last_time=11/20/2010 16:18:49,sys_name=192.161.0.58,sys_mtms=8204-E8A/06F9023,enclosure_mtms=8204-E8A/06F9023,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:49,reporting_name=192.161.0.58,reporting_mtms=8204-E8A/06F9023,failing_mtms=8204-E8A/06F9023,analyzing_hmc=HMC06,event_time=11/20/2010 16:10:25
+problem_num=58,pmh_num=,refcode=11001510,status=Closed,first_time=11/20/2010 16:18:48,last_time=11/20/2010 16:18:48,sys_name=192.161.0.60,sys_mtms=8204-E8A/06096C4,enclosure_mtms=8204-E8A/06096C4,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:48,reporting_name=192.161.0.60,reporting_mtms=8204-E8A/06096C4,failing_mtms=8204-E8A/06096C4,analyzing_hmc=HMC06,event_time=11/20/2010 16:10:34
+problem_num=57,pmh_num=,refcode=11001510,status=Closed,first_time=11/20/2010 16:18:48,last_time=11/20/2010 16:18:48,sys_name=192.161.0.57,sys_mtms=8204-E8A/06F8A33,enclosure_mtms=8204-E8A/06F8A33,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:48,reporting_name=192.161.0.57,reporting_mtms=8204-E8A/06F8A33,failing_mtms=8204-E8A/06F8A33,analyzing_hmc=HMC06,event_time=11/20/2010 16:10:03
+problem_num=56,pmh_num=,refcode=11001510,status=Closed,first_time=11/20/2010 16:18:48,last_time=11/20/2010 16:18:48,sys_name=192.161.0.59,sys_mtms=8204-E8A/0609564,enclosure_mtms=8204-E8A/0609564,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:48,reporting_name=192.161.0.59,reporting_mtms=8204-E8A/0609564,failing_mtms=8204-E8A/0609564,analyzing_hmc=HMC06,event_time=11/20/2010 16:10:28
+problem_num=55,pmh_num=,refcode=11001510,status=Closed,first_time=11/20/2010 16:18:46,last_time=11/20/2010 16:18:46,sys_name=192.161.0.16,sys_mtms=8204-E8A/066B8D5,enclosure_mtms=8204-E8A/066B8D5,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:46,reporting_name=192.161.0.16,reporting_mtms=8204-E8A/066B8D5,failing_mtms=8204-E8A/066B8D5,analyzing_hmc=HMC06,event_time=11/20/2010 16:17:32
+problem_num=54,pmh_num=,refcode=11001510,status=Closed,first_time=11/20/2010 16:18:46,last_time=11/20/2010 16:18:46,sys_name=192.161.0.15,sys_mtms=8204-E8A/066BAE5,enclosure_mtms=8204-E8A/066BAE5,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:46,reporting_name=192.161.0.15,reporting_mtms=8204-E8A/066BAE5,failing_mtms=8204-E8A/066BAE5,analyzing_hmc=HMC06,event_time=11/20/2010 16:17:43
+problem_num=4,pmh_num=,refcode=11001510,status=Closed,first_time=08/05/2010 17:26:30,last_time=11/20/2010 16:18:46,sys_name=192.161.0.38,sys_mtms=8204-E8A/06F20A4,enclosure_mtms=8204-E8A/06F20A4,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=08/05/2010 17:26:30,reporting_name=192.161.0.38,reporting_mtms=8204-E8A/06F20A4,failing_mtms=8204-E8A/06F20A4,analyzing_hmc=HMC06,event_time=08/05/2010 09:24:43
+problem_num=3,pmh_num=,refcode=11001510,status=Closed,first_time=08/05/2010 17:04:41,last_time=11/20/2010 16:18:45,sys_name=192.161.0.37,sys_mtms=8204-E8A/06FFDC4,enclosure_mtms=8204-E8A/06FFDC4,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=08/05/2010 17:04:41,reporting_name=192.161.0.37,reporting_mtms=8204-E8A/06FFDC4,failing_mtms=8204-E8A/06FFDC4,analyzing_hmc=HMC06,event_time=08/05/2010 09:03:09
+problem_num=53,pmh_num=,refcode=11001510,status=Closed,first_time=11/20/2010 16:18:45,last_time=11/20/2010 16:18:45,sys_name=192.161.0.40,sys_mtms=8204-E8A/06F1F74,enclosure_mtms=8204-E8A/06F1F74,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:45,reporting_name=192.161.0.40,reporting_mtms=8204-E8A/06F1F74,failing_mtms=8204-E8A/06F1F74,analyzing_hmc=HMC06,event_time=11/20/2010 16:17:59
+problem_num=52,pmh_num=,refcode=11001510,status=Closed,first_time=11/20/2010 16:18:44,last_time=11/20/2010 16:18:44,sys_name=192.161.0.39,sys_mtms=8204-E8A/06F22C4,enclosure_mtms=8204-E8A/06F22C4,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=11/20/2010 16:18:44,reporting_name=192.161.0.39,reporting_mtms=8204-E8A/06F22C4,failing_mtms=8204-E8A/06F22C4,analyzing_hmc=HMC06,event_time=11/20/2010 16:19:57
+problem_num=51,pmh_num=,refcode=B3030007,status=Closed,first_time=10/18/2010 07:10:58,last_time=10/18/2010 07:10:58,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=8204-E8A/06F22C4,firmware_fix=,"text=ACT04251I HMC to FSP,BPA, or BPC failure detected",created_time=10/18/2010 07:10:58,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=8204-E8A/06F22C4,analyzing_hmc=HMC06,event_time=10/18/2010 07:10:58
+problem_num=50,pmh_num=,refcode=B3030007,status=Closed,first_time=10/15/2010 07:30:57,last_time=10/15/2010 07:30:57,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=8204-E8A/0609564,firmware_fix=,"text=ACT04251I HMC to FSP,BPA, or BPC failure detected",created_time=10/15/2010 07:30:57,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=8204-E8A/0609564,analyzing_hmc=HMC06,event_time=10/15/2010 07:30:57
+problem_num=49,pmh_num=,refcode=B3030007,status=Closed,first_time=10/15/2010 02:45:12,last_time=10/15/2010 02:45:12,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=8204-E8A/06F9023,firmware_fix=,"text=ACT04251I HMC to FSP,BPA, or BPC failure detected",created_time=10/15/2010 02:45:12,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=8204-E8A/06F9023,analyzing_hmc=HMC06,event_time=10/15/2010 02:45:12
+problem_num=48,pmh_num=,refcode=#2538902,status=Closed,first_time=10/10/2010 04:30:44,last_time=10/10/2010 04:30:44,sys_name=192.161.0.40,sys_mtms=8204-E8A/06F1F74,enclosure_mtms=8204-E8A/06F1F74,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/10/2010 04:30:44,reporting_name=192.161.0.40,reporting_mtms=8204-E8A/06F1F74,failing_mtms=8204-E8A/06F1F74,analyzing_hmc=HMC06,event_time=10/10/2010 04:22:22
+problem_num=43,pmh_num=,refcode=#25C3902,status=Closed,first_time=10/10/2010 03:34:27,last_time=10/10/2010 04:30:40,sys_name=192.161.0.15,sys_mtms=8204-E8A/066BAE5,enclosure_mtms=8204-E8A/066BAE5,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/10/2010 03:34:27,reporting_name=192.161.0.15,reporting_mtms=8204-E8A/066BAE5,failing_mtms=8204-E8A/066BAE5,analyzing_hmc=HMC06,event_time=10/10/2010 03:26:43
+problem_num=47,pmh_num=,refcode=#2538902,status=Closed,first_time=10/10/2010 04:27:58,last_time=10/10/2010 04:27:58,sys_name=192.161.0.58,sys_mtms=8204-E8A/06F9023,enclosure_mtms=8204-E8A/06F9023,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/10/2010 04:27:58,reporting_name=192.161.0.58,reporting_mtms=8204-E8A/06F9023,failing_mtms=8204-E8A/06F9023,analyzing_hmc=HMC06,event_time=10/10/2010 04:22:29
+problem_num=40,pmh_num=,refcode=#25C3902,status=Closed,first_time=10/10/2010 03:33:54,last_time=10/10/2010 04:27:58,sys_name=192.161.0.16,sys_mtms=8204-E8A/066B8D5,enclosure_mtms=8204-E8A/066B8D5,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/10/2010 03:33:54,reporting_name=192.161.0.16,reporting_mtms=8204-E8A/066B8D5,failing_mtms=8204-E8A/066B8D5,analyzing_hmc=HMC06,event_time=10/10/2010 03:26:43
+problem_num=46,pmh_num=,refcode=#2538902,status=Closed,first_time=10/10/2010 04:27:58,last_time=10/10/2010 04:27:58,sys_name=192.161.0.38,sys_mtms=8204-E8A/06F20A4,enclosure_mtms=8204-E8A/06F20A4,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/10/2010 04:27:58,reporting_name=192.161.0.38,reporting_mtms=8204-E8A/06F20A4,failing_mtms=8204-E8A/06F20A4,analyzing_hmc=HMC06,event_time=10/10/2010 04:22:00
+problem_num=45,pmh_num=,refcode=#25C1902,status=Closed,first_time=10/10/2010 03:34:40,last_time=10/10/2010 03:34:40,sys_name=192.161.0.59,sys_mtms=8204-E8A/0609564,enclosure_mtms=8204-E8A/0609564,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/10/2010 03:34:40,reporting_name=192.161.0.59,reporting_mtms=8204-E8A/0609564,failing_mtms=8204-E8A/0609564,analyzing_hmc=HMC06,event_time=10/10/2010 03:28:01
+problem_num=44,pmh_num=,refcode=#25C3902,status=Closed,first_time=10/10/2010 03:34:34,last_time=10/10/2010 03:34:34,sys_name=192.161.0.40,sys_mtms=8204-E8A/06F1F74,enclosure_mtms=8204-E8A/06F1F74,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/10/2010 03:34:34,reporting_name=192.161.0.40,reporting_mtms=8204-E8A/06F1F74,failing_mtms=8204-E8A/06F1F74,analyzing_hmc=HMC06,event_time=10/10/2010 03:25:57
+problem_num=42,pmh_num=,refcode=#25C1902,status=Closed,first_time=10/10/2010 03:34:13,last_time=10/10/2010 03:34:13,sys_name=192.161.0.60,sys_mtms=8204-E8A/06096C4,enclosure_mtms=8204-E8A/06096C4,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/10/2010 03:34:13,reporting_name=192.161.0.60,reporting_mtms=8204-E8A/06096C4,failing_mtms=8204-E8A/06096C4,analyzing_hmc=HMC06,event_time=10/10/2010 03:27:28
+problem_num=37,pmh_num=,refcode=#25C3902,status=Closed,first_time=09/20/2010 10:24:14,last_time=10/10/2010 03:34:01,sys_name=192.161.0.38,sys_mtms=8204-E8A/06F20A4,enclosure_mtms=8204-E8A/06F20A4,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=09/20/2010 10:24:14,reporting_name=192.161.0.38,reporting_mtms=8204-E8A/06F20A4,failing_mtms=8204-E8A/06F20A4,analyzing_hmc=HMC06,event_time=09/09/2010 16:21:14
+problem_num=41,pmh_num=,refcode=#25C1902,status=Closed,first_time=10/10/2010 03:33:59,last_time=10/10/2010 03:33:59,sys_name=192.161.0.58,sys_mtms=8204-E8A/06F9023,enclosure_mtms=8204-E8A/06F9023,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=10/10/2010 03:33:59,reporting_name=192.161.0.58,reporting_mtms=8204-E8A/06F9023,failing_mtms=8204-E8A/06F9023,analyzing_hmc=HMC06,event_time=10/10/2010 03:26:03
+problem_num=39,pmh_num=,refcode=B3030007,status=Closed,first_time=10/10/2010 01:44:20,last_time=10/10/2010 01:44:20,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=8204-E8A/06F1F74,firmware_fix=,"text=ACT04251I HMC to FSP,BPA, or BPC failure detected",created_time=10/10/2010 01:44:20,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=8204-E8A/06F1F74,analyzing_hmc=HMC06,event_time=10/10/2010 01:44:20
+problem_num=36,pmh_num=,refcode=#25C1902,status=Closed,first_time=09/19/2010 14:34:48,last_time=09/19/2010 14:34:48,sys_name=192.161.0.57,sys_mtms=8204-E8A/06F8A33,enclosure_mtms=8204-E8A/06F8A33,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=09/19/2010 14:34:48,reporting_name=192.161.0.57,reporting_mtms=8204-E8A/06F8A33,failing_mtms=8204-E8A/06F8A33,analyzing_hmc=HMC06,event_time=09/19/2010 14:30:44
+problem_num=34,pmh_num=,refcode=#2538902,status=Closed,first_time=09/17/2010 16:18:41,last_time=09/17/2010 19:00:33,sys_name=192.161.0.60,sys_mtms=8204-E8A/06096C4,enclosure_mtms=8204-E8A/06096C4,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=09/17/2010 16:18:41,reporting_name=192.161.0.60,reporting_mtms=8204-E8A/06096C4,failing_mtms=8204-E8A/06096C4,analyzing_hmc=HMC06,event_time=09/17/2010 16:12:42
+problem_num=33,pmh_num=,refcode=#2538902,status=Closed,first_time=09/17/2010 16:02:06,last_time=09/17/2010 16:52:51,sys_name=192.161.0.59,sys_mtms=8204-E8A/0609564,enclosure_mtms=8204-E8A/0609564,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=09/17/2010 16:02:06,reporting_name=192.161.0.59,reporting_mtms=8204-E8A/0609564,failing_mtms=8204-E8A/0609564,analyzing_hmc=HMC06,event_time=09/17/2010 15:25:21
+problem_num=32,pmh_num=,refcode=B1A38B24,status=Closed,first_time=09/17/2010 14:31:32,last_time=09/17/2010 14:31:32,sys_name=192.161.0.58,sys_mtms=8204-E8A/06F9023,enclosure_mtms=8204-E8A/06F9023,firmware_fix=,text=ACT04293I External environment (0xA3) reported an error.,created_time=09/17/2010 14:31:32,reporting_name=192.161.0.58,reporting_mtms=8204-E8A/06F9023,failing_mtms=8204-E8A/06F9023,analyzing_hmc=HMC06,event_time=09/17/2010 06:14:39
+problem_num=31,pmh_num=,refcode=#2538902,status=Closed,first_time=09/15/2010 19:42:04,last_time=09/15/2010 19:42:04,sys_name=192.161.0.39,sys_mtms=8204-E8A/06F22C4,enclosure_mtms=8204-E8A/06F22C4,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=09/15/2010 19:42:04,reporting_name=192.161.0.39,reporting_mtms=8204-E8A/06F22C4,failing_mtms=8204-E8A/06F22C4,analyzing_hmc=HMC06,event_time=09/16/2010 07:33:42
+problem_num=30,pmh_num=,refcode=#25C3902,status=Closed,first_time=09/15/2010 19:42:04,last_time=09/15/2010 19:42:04,sys_name=192.161.0.39,sys_mtms=8204-E8A/06F22C4,enclosure_mtms=8204-E8A/06F22C4,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=09/15/2010 19:42:04,reporting_name=192.161.0.39,reporting_mtms=8204-E8A/06F22C4,failing_mtms=8204-E8A/06F22C4,analyzing_hmc=HMC06,event_time=09/10/2010 05:31:24
+problem_num=29,pmh_num=,refcode=#2538902,status=Closed,first_time=09/15/2010 19:37:28,last_time=09/15/2010 19:37:28,sys_name=192.161.0.37,sys_mtms=8204-E8A/06FFDC4,enclosure_mtms=8204-E8A/06FFDC4,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=09/15/2010 19:37:28,reporting_name=192.161.0.37,reporting_mtms=8204-E8A/06FFDC4,failing_mtms=8204-E8A/06FFDC4,analyzing_hmc=HMC06,event_time=09/15/2010 18:34:24
+problem_num=28,pmh_num=,refcode=#25C3902,status=Closed,first_time=09/15/2010 19:37:28,last_time=09/15/2010 19:37:28,sys_name=192.161.0.37,sys_mtms=8204-E8A/06FFDC4,enclosure_mtms=8204-E8A/06FFDC4,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=09/15/2010 19:37:28,reporting_name=192.161.0.37,reporting_mtms=8204-E8A/06FFDC4,failing_mtms=8204-E8A/06FFDC4,analyzing_hmc=HMC06,event_time=09/09/2010 17:14:32
+problem_num=6,pmh_num=,refcode=11001520,status=Closed,first_time=08/05/2010 17:45:56,last_time=09/15/2010 11:11:06,sys_name=192.161.0.39,sys_mtms=8204-E8A/06F22C4,enclosure_mtms=8204-E8A/06F22C4,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=08/05/2010 17:45:56,reporting_name=192.161.0.39,reporting_mtms=8204-E8A/06F22C4,failing_mtms=8204-E8A/06F22C4,analyzing_hmc=HMC06,event_time=08/05/2010 09:44:22
+problem_num=14,pmh_num=,refcode=11001520,status=Closed,first_time=08/06/2010 16:01:21,last_time=09/15/2010 11:10:43,sys_name=192.161.0.38,sys_mtms=8204-E8A/06F20A4,enclosure_mtms=8204-E8A/06F20A4,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=08/06/2010 16:01:21,reporting_name=192.161.0.38,reporting_mtms=8204-E8A/06F20A4,failing_mtms=8204-E8A/06F20A4,analyzing_hmc=HMC06,event_time=08/06/2010 07:59:32
+problem_num=27,pmh_num=,refcode=11002613,status=Closed,first_time=09/09/2010 15:04:33,last_time=09/09/2010 15:04:33,sys_name=192.161.0.39,sys_mtms=8204-E8A/06F22C4,enclosure_mtms=8204-E8A/06F22C4,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x60) reported an error.,created_time=09/09/2010 15:04:33,reporting_name=192.161.0.39,reporting_mtms=8204-E8A/06F22C4,failing_mtms=8204-E8A/06F22C4,analyzing_hmc=HMC06,event_time=09/09/2010 20:00:28
+problem_num=26,pmh_num=,refcode=BA210000,status=Closed,first_time=09/09/2010 12:42:58,last_time=09/09/2010 12:42:58,sys_name=192.161.0.37,sys_mtms=8204-E8A/06FFDC4,enclosure_mtms=8204-E8A/06FFDC4,firmware_fix=,text=ACT04293I Platform firmware (0x83) reported an error.,created_time=09/09/2010 12:42:58,reporting_name=192.161.0.37,reporting_mtms=8204-E8A/06FFDC4,failing_mtms=8204-E8A/06FFDC4,analyzing_hmc=HMC06,event_time=09/09/2010 04:39:19
+problem_num=25,pmh_num=,refcode=BA210000,status=Closed,first_time=09/09/2010 08:32:49,last_time=09/09/2010 08:32:49,sys_name=192.161.0.39,sys_mtms=8204-E8A/06F22C4,enclosure_mtms=8204-E8A/06F22C4,firmware_fix=,text=ACT04293I Platform firmware (0x83) reported an error.,created_time=09/09/2010 08:32:49,reporting_name=192.161.0.39,reporting_mtms=8204-E8A/06F22C4,failing_mtms=8204-E8A/06F22C4,analyzing_hmc=HMC06,event_time=09/09/2010 13:28:44
+problem_num=8,pmh_num=,refcode=11001520,status=Closed,first_time=08/05/2010 17:54:47,last_time=09/07/2010 18:11:42,sys_name=192.161.0.40,sys_mtms=8204-E8A/06F1F74,enclosure_mtms=8204-E8A/06F1F74,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=08/05/2010 17:54:47,reporting_name=192.161.0.40,reporting_mtms=8204-E8A/06F1F74,failing_mtms=8204-E8A/06F1F74,analyzing_hmc=HMC06,event_time=08/05/2010 09:53:08
+problem_num=10,pmh_num=,refcode=110000AC,status=Closed,first_time=08/06/2010 15:38:00,last_time=09/07/2010 18:10:52,sys_name=192.161.0.37,sys_mtms=8204-E8A/06FFDC4,enclosure_mtms=8204-E8A/06FFDC4,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x60) reported an error.,created_time=08/06/2010 15:38:00,reporting_name=192.161.0.37,reporting_mtms=8204-E8A/06FFDC4,failing_mtms=8204-E8A/06FFDC4,analyzing_hmc=HMC06,event_time=08/06/2010 07:36:17
+problem_num=23,pmh_num=,refcode=B3030007,status=Closed,first_time=09/07/2010 13:07:15,last_time=09/07/2010 13:07:15,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=8204-E8A/066B8D5,firmware_fix=,"text=ACT04251I HMC to FSP,BPA, or BPC failure detected",created_time=09/07/2010 13:07:15,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=8204-E8A/066B8D5,analyzing_hmc=HMC06,event_time=09/07/2010 13:07:15
+problem_num=22,pmh_num=,refcode=11001520,status=Closed,first_time=08/12/2010 16:23:36,last_time=08/12/2010 16:23:36,sys_name=192.161.0.16,sys_mtms=8204-E8A/066B8D5,enclosure_mtms=8204-E8A/066B8D5,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=08/12/2010 16:23:36,reporting_name=192.161.0.16,reporting_mtms=8204-E8A/066B8D5,failing_mtms=8204-E8A/066B8D5,analyzing_hmc=HMC06,event_time=08/12/2010 08:21:19
+problem_num=21,pmh_num=,refcode=11001520,status=Closed,first_time=08/12/2010 16:23:15,last_time=08/12/2010 16:23:15,sys_name=192.161.0.15,sys_mtms=8204-E8A/066BAE5,enclosure_mtms=8204-E8A/066BAE5,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=08/12/2010 16:23:15,reporting_name=192.161.0.15,reporting_mtms=8204-E8A/066BAE5,failing_mtms=8204-E8A/066BAE5,analyzing_hmc=HMC06,event_time=08/12/2010 08:21:09
+problem_num=20,pmh_num=,refcode=B3030007,status=Closed,first_time=08/12/2010 16:03:04,last_time=08/12/2010 16:03:04,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=8204-E8A/06F20A4,firmware_fix=,"text=ACT04251I HMC to FSP,BPA, or BPC failure detected",created_time=08/12/2010 16:03:04,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=8204-E8A/06F20A4,analyzing_hmc=HMC06,event_time=08/12/2010 16:03:04
+problem_num=19,pmh_num=,refcode=B3030007,status=Closed,first_time=08/12/2010 15:08:00,last_time=08/12/2010 15:08:00,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=8204-E8A/06F1F74,firmware_fix=,"text=ACT04251I HMC to FSP,BPA, or BPC failure detected",created_time=08/12/2010 15:08:00,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=8204-E8A/06F1F74,analyzing_hmc=HMC06,event_time=08/12/2010 15:08:00
+problem_num=18,pmh_num=,refcode=B3030001,status=Closed,first_time=08/06/2010 17:10:38,last_time=08/06/2010 17:10:38,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=8204-E8A/06F1F74,firmware_fix=,"text=ACT04283I A connection to a FSP,BPA or BPC was dropped",created_time=08/06/2010 17:10:38,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=8204-E8A/06F1F74,analyzing_hmc=HMC06,event_time=08/06/2010 17:10:38
+problem_num=16,pmh_num=,refcode=110000AC,status=Closed,first_time=08/06/2010 16:18:40,last_time=08/06/2010 16:18:40,sys_name=192.161.0.40,sys_mtms=8204-E8A/06F1F74,enclosure_mtms=8204-E8A/06F1F74,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x60) reported an error.,created_time=08/06/2010 16:18:40,reporting_name=192.161.0.40,reporting_mtms=8204-E8A/06F1F74,failing_mtms=8204-E8A/06F1F74,analyzing_hmc=HMC06,event_time=08/06/2010 08:16:52
+problem_num=17,pmh_num=,refcode=B3030001,status=Closed,first_time=08/06/2010 16:17:57,last_time=08/06/2010 16:17:57,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=8204-E8A/06F20A4,firmware_fix=,"text=ACT04283I A connection to a FSP,BPA or BPC was dropped",created_time=08/06/2010 16:17:57,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=8204-E8A/06F20A4,analyzing_hmc=HMC06,event_time=08/06/2010 16:17:57
+problem_num=15,pmh_num=,refcode=B3030001,status=Closed,first_time=08/06/2010 15:59:39,last_time=08/06/2010 15:59:39,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=8204-E8A/06FFDC4,firmware_fix=,"text=ACT04283I A connection to a FSP,BPA or BPC was dropped",created_time=08/06/2010 15:59:39,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=8204-E8A/06FFDC4,analyzing_hmc=HMC06,event_time=08/06/2010 15:59:39
+problem_num=13,pmh_num=,refcode=110000AC,status=Closed,first_time=08/06/2010 15:59:14,last_time=08/06/2010 15:59:14,sys_name=192.161.0.38,sys_mtms=8204-E8A/06F20A4,enclosure_mtms=8204-E8A/06F20A4,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x60) reported an error.,created_time=08/06/2010 15:59:14,reporting_name=192.161.0.38,reporting_mtms=8204-E8A/06F20A4,failing_mtms=8204-E8A/06F20A4,analyzing_hmc=HMC06,event_time=08/06/2010 07:57:18
+problem_num=11,pmh_num=,refcode=11001520,status=Closed,first_time=08/06/2010 15:42:06,last_time=08/06/2010 15:42:06,sys_name=192.161.0.37,sys_mtms=8204-E8A/06FFDC4,enclosure_mtms=8204-E8A/06FFDC4,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x61) reported an error.,created_time=08/06/2010 15:42:06,reporting_name=192.161.0.37,reporting_mtms=8204-E8A/06FFDC4,failing_mtms=8204-E8A/06FFDC4,analyzing_hmc=HMC06,event_time=08/06/2010 07:40:30
+problem_num=12,pmh_num=,refcode=B3030001,status=Closed,first_time=08/06/2010 15:39:23,last_time=08/06/2010 15:39:23,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=8204-E8A/06F22C4,firmware_fix=,"text=ACT04285I FSP,BPA or BPC did not respond",created_time=08/06/2010 15:39:23,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=8204-E8A/06F22C4,analyzing_hmc=HMC06,event_time=08/06/2010 15:39:23
+problem_num=9,pmh_num=,refcode=B3030007,status=Closed,first_time=08/05/2010 17:55:56,last_time=08/05/2010 17:55:56,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=8204-E8A/06F22C4,firmware_fix=,"text=ACT04251I HMC to FSP,BPA, or BPC failure detected",created_time=08/05/2010 17:55:56,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=8204-E8A/06F22C4,analyzing_hmc=HMC06,event_time=08/05/2010 17:55:56
+problem_num=7,pmh_num=,refcode=B3030007,status=Closed,first_time=08/05/2010 17:45:20,last_time=08/05/2010 17:45:20,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=8204-E8A/06FFDC4,firmware_fix=,"text=ACT04251I HMC to FSP,BPA, or BPC failure detected",created_time=08/05/2010 17:45:20,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=8204-E8A/06FFDC4,analyzing_hmc=HMC06,event_time=08/05/2010 17:45:20
+problem_num=5,pmh_num=,refcode=B3030007,status=Closed,first_time=08/05/2010 17:28:13,last_time=08/05/2010 17:28:13,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=8204-E8A/06FFDC4,firmware_fix=,"text=ACT04251I HMC to FSP,BPA, or BPC failure detected",created_time=08/05/2010 17:28:13,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=8204-E8A/06FFDC4,analyzing_hmc=HMC06,event_time=08/05/2010 17:28:13
+problem_num=2,pmh_num=,refcode=E212E113,status=Closed,first_time=05/05/2010 14:31:38,last_time=05/05/2010 14:33:38,sys_name=HMC06,sys_mtms=7042-CR5/06F333B,enclosure_mtms=7042-CR5/06F333B,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=05/05/2010 14:31:38,reporting_name=HMC06,reporting_mtms=7042-CR5/06F333B,failing_mtms=7042-CR5/06F333B,analyzing_hmc=HMC06,event_time=05/05/2010 14:31:38

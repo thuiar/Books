@@ -1,0 +1,2613 @@
+LABEL:          DISK_ERR1
+IDENTIFIER:     425BDD47
+
+Date/Time:       Tue May 28 05:25:18  2013
+Sequence Number: 19806
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            PERM
+Resource Name:   hdisk1          
+Resource Class:  disk
+Resource Type:   scsd
+Location:        U787B.001.DNWFYYP-P1-T14-L3-L0
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......ST3146854LC     
+        FRU Number..................03N6350     
+        ROS Level and ID............43373146
+        Serial Number...............00024361
+        EC Level....................H13979    
+        Part Number.................26K5532     
+        Device Specific.(Z0)........000004129F00013E
+        Device Specific.(Z1)........0315C71F
+        Device Specific.(Z2)........0002
+        Device Specific.(Z3)........06148
+        Device Specific.(Z4)........0001
+        Device Specific.(Z5)........22
+        Device Specific.(Z6)........H13979    
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0603 0000 0000 0000 0000 0000 0000 0000 0102 0000 F000 0300 0000 0018 0000 0000 
+3100 0C00 0000 0000 0231 000C 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          DISK_ERR1
+IDENTIFIER:     425BDD47
+
+Date/Time:       Tue May 28 05:25:08  2013
+Sequence Number: 19805
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            PERM
+Resource Name:   hdisk1          
+Resource Class:  disk
+Resource Type:   scsd
+Location:        U787B.001.DNWFYYP-P1-T14-L3-L0
+VPD:             
+        Manufacturer................IBM     
+        Machine Type and Model......ST3146854LC     
+        FRU Number..................03N6350     
+        ROS Level and ID............43373146
+        Serial Number...............00024361
+        EC Level....................H13979    
+        Part Number.................26K5532     
+        Device Specific.(Z0)........000004129F00013E
+        Device Specific.(Z1)........0315C71F
+        Device Specific.(Z2)........0002
+        Device Specific.(Z3)........06148
+        Device Specific.(Z4)........0001
+        Device Specific.(Z5)........22
+        Device Specific.(Z6)........H13979    
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0603 0000 0000 0000 0000 0000 0000 0000 0102 0000 F000 0300 0000 0018 0000 0000 
+3100 0C00 0000 0000 0220 2020 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+---------------------------------------------------------------------------
+LABEL:          J2_FS_FULL
+IDENTIFIER:     F7FA22C9
+
+Date/Time:       Mon May 27 14:55:40  2013
+Sequence Number: 19804
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           O
+Type:            INFO
+Resource Name:   SYSJ2           
+
+Description
+UNABLE TO ALLOCATE SPACE IN FILE SYSTEM
+
+Probable Causes
+FILE SYSTEM FULL
+
+	Recommended Actions
+	INCREASE THE SIZE OF THE ASSOCIATED FILE SYSTEM
+	REMOVE UNNECESSARY DATA FROM FILE SYSTEM
+	USE FUSER UTILITY TO LOCATE UNLINKED FILES STILL REFERENCED
+
+Detail Data
+JFS2 MAJOR/MINOR DEVICE NUMBER
+000A 0008 
+FILE SYSTEM DEVICE AND MOUNT POINT
+/dev/hd1, /home
+---------------------------------------------------------------------------
+LABEL:          SRC_SVKO
+IDENTIFIER:     BC3BE5A3
+
+Date/Time:       Mon May 27 13:09:17  2013
+Sequence Number: 19803
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           S
+Type:            PERM
+Resource Name:   SRC             
+
+Description
+SOFTWARE PROGRAM ERROR
+
+Probable Causes
+APPLICATION PROGRAM
+
+Failure Causes
+SOFTWARE PROGRAM
+
+	Recommended Actions
+	MANUALLY RESTART SUBSYSTEM IF NEEDED
+
+Detail Data
+SYMPTOM CODE
+         256
+SOFTWARE ERROR CODE
+       -9017
+ERROR CODE
+           0
+DETECTING MODULE
+'srchevn.c'@line:'350'
+FAILING MODULE
+xntpd
+---------------------------------------------------------------------------
+LABEL:          GS_START_ST
+IDENTIFIER:     AFA89905
+
+Date/Time:       Mon May 27 13:06:19  2013
+Sequence Number: 19802
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           O
+Type:            INFO
+Resource Name:   grpsvcs         
+
+Description
+Group Services daemon started
+
+Probable Causes
+Daemon started during system startup
+Daemon re-started automatically by SRC
+Daemon started during installation
+Daemon started manually by user
+
+User Causes
+Daemon started manually by user
+
+	Recommended Actions
+	Check that Group Services daemon is running
+
+Detail Data
+DETECTING MODULE
+RSCT,pgsd.C,1.62.1.10,613                     
+ERROR ID 
+63Y7ej09dpcF/nVd0O4k2i/...................
+REFERENCE CODE
+                                          
+DIAGNOSTIC EXPLANATION
+HAGS daemon started by SRC. Log file is /var/ha/log/grpsvcs_trace.
+---------------------------------------------------------------------------
+LABEL:          TS_START_ST
+IDENTIFIER:     97419D60
+
+Date/Time:       Mon May 27 13:06:16  2013
+Sequence Number: 19801
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           O
+Type:            INFO
+Resource Name:   topsvcs         
+
+Description
+Topology Services daemon started
+
+Probable Causes
+Daemon started during system start-up
+Daemon re-started automatically by SRC
+Daemon started during installation
+Daemon started manually by user
+
+User Causes
+Daemon started manually by user
+
+	Recommended Actions
+	Confirm that this is desirable
+
+Detail Data
+DETECTING MODULE
+rsct,bootstrp.C,1.215.1.3,4848                
+ERROR ID 
+6UpNEL06dpcF/MJ10O4k2i/...................
+REFERENCE CODE
+                                          
+Topology Services daemon started by:
+SRC
+Topology Services daemon log file location
+/var/ha/log/topsvcs.27.130616.clu_HQ_BEAI.en_US
+Topology Services daemon run directory
+/var/ha/run/topsvcs.clu_HQ_BEAI/
+---------------------------------------------------------------------------
+LABEL:          REPLACED_FRU
+IDENTIFIER:     2F3E09A4
+
+Date/Time:       Mon May 27 13:00:32  2013
+Sequence Number: 19800
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            INFO
+Resource Name:   sysplanar0      
+Resource Class:  planar
+Resource Type:   sysplanar_rspc
+Location:        
+
+Description
+REPAIR ACTION
+
+User Causes
+PARTS REPLACEMENT
+
+	Recommended Actions
+	NONE
+
+---------------------------------------------------------------------------
+LABEL:          RMCD_INFO_0_ST
+IDENTIFIER:     A6DF45AA
+
+Date/Time:       Mon May 27 12:36:43  2013
+Sequence Number: 19799
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           O
+Type:            INFO
+Resource Name:   RMCdaemon       
+
+Description
+The daemon is started.
+
+Probable Causes
+The Resource Monitoring and Control daemon has been started.
+
+User Causes
+The startsrc -s ctrmc command has been executed or
+the rmcctrl -s command has been executed.
+
+	Recommended Actions
+	Confirm that the daemon should be started.
+
+Detail Data
+DETECTING MODULE
+RSCT,rmcd.c,1.62,213                          
+ERROR ID 
+6eKora0PBpcF/q.h0O4k2i/...................
+REFERENCE CODE
+                                          
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19797
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk19         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C2-T1-W500507630618C406-L4027400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48312700
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0303
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 3F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19796
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk19         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C2-T1-W500507630618C406-L4027400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48312700
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0303
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 7F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19795
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk17         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C2-T1-W500507630610C406-L4027400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48312700
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0203
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 3F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19794
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk17         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C2-T1-W500507630610C406-L4027400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48312700
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0203
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 7F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19793
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk11         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C1-T1-W500507630608C406-L4027400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48312700
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0103
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 3F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19792
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk11         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C1-T1-W500507630608C406-L4027400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48312700
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0103
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 7F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19791
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk9          
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C1-T1-W500507630603C406-L4027400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48312700
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0033
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 3F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19790
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk9          
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C1-T1-W500507630603C406-L4027400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48312700
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0033
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 7F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19789
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk18         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C2-T1-W500507630618C406-L4026400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48312600
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0303
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 3F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19788
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk18         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C2-T1-W500507630618C406-L4026400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48312600
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0303
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 7F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19787
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk16         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C2-T1-W500507630610C406-L4026400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48312600
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0203
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 3F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19786
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk16         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C2-T1-W500507630610C406-L4026400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48312600
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0203
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 7F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19785
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk10         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C1-T1-W500507630608C406-L4026400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48312600
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0103
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 3F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19784
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk10         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C1-T1-W500507630608C406-L4026400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48312600
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0103
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 7F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19783
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk8          
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C1-T1-W500507630603C406-L4026400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48312600
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0033
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 3F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19782
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk8          
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C1-T1-W500507630603C406-L4026400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48312600
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0033
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 7F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19781
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk15         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C2-T1-W500507630618C405-L4027400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48212700
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0303
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 3F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19780
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk15         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C2-T1-W500507630618C405-L4027400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48212700
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0303
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 7F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19779
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk13         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C2-T1-W500507630610C405-L4027400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48212700
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0203
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 3F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19778
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk13         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C2-T1-W500507630610C405-L4027400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48212700
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0203
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 7F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19777
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk7          
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C1-T1-W500507630608C405-L4027400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48212700
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0103
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 3F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19776
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk7          
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C1-T1-W500507630608C405-L4027400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48212700
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0103
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 7F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19775
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk5          
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C1-T1-W500507630603C405-L4027400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48212700
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0033
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 3F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19774
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk5          
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C1-T1-W500507630603C405-L4027400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48212700
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0033
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 7F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19773
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk14         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C2-T1-W500507630618C405-L4026400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48212600
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0303
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 3F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19772
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk14         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C2-T1-W500507630618C405-L4026400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48212600
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0303
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 7F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19771
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk12         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C2-T1-W500507630610C405-L4026400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48212600
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0203
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 3F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19770
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk12         
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C2-T1-W500507630610C405-L4026400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48212600
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0203
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 7F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19769
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk6          
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C1-T1-W500507630608C405-L4026400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48212600
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0103
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 3F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19768
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk6          
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C1-T1-W500507630608C405-L4026400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48212600
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0103
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 7F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19767
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk4          
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C1-T1-W500507630603C405-L4026400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48212600
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0033
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 3F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          SC_DISK_ERR4
+IDENTIFIER:     DCB47997
+
+Date/Time:       Mon May 27 12:35:58  2013
+Sequence Number: 19766
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   hdisk4          
+Resource Class:  disk
+Resource Type:   2107
+Location:        U787B.001.DNWFYYP-P1-C1-T1-W500507630603C405-L4026400000000000
+VPD:             
+        Manufacturer................IBM
+        Machine Type and Model......2107900
+        Serial Number...............75T48212600
+        EC Level....................2.27
+        Device Specific.(Z0)........10
+        Device Specific.(Z1)........0033
+        Device Specific.(Z2)........075
+        Device Specific.(Z3)........19007
+        Device Specific.(Z4)........10
+        Device Specific.(Z5)........00
+
+Description
+DISK OPERATION ERROR
+
+Probable Causes
+MEDIA
+DASD DEVICE
+
+User Causes
+MEDIA DEFECTIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Failure Causes
+MEDIA
+DISK DRIVE
+
+	Recommended Actions
+	FOR REMOVABLE MEDIA, CHANGE MEDIA AND RETRY
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+PATH ID
+           0
+SENSE DATA
+0600 1A00 7F00 FF00 0000 0000 0000 0000 0000 0000 0000 0000 0118 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 009C 009C 
+---------------------------------------------------------------------------
+LABEL:          REBOOT_ID
+IDENTIFIER:     2BFA76F6
+
+Date/Time:       Mon May 27 12:35:00  2013
+Sequence Number: 19765
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           S
+Type:            TEMP
+Resource Name:   SYSPROC         
+
+Description
+SYSTEM SHUTDOWN BY USER
+
+Probable Causes
+SYSTEM SHUTDOWN
+
+Detail Data
+USER ID
+           0
+0=SOFT IPL 1=HALT 2=TIME REBOOT
+           0
+TIME TO REBOOT (FOR TIMED REBOOT ONLY)
+           0
+---------------------------------------------------------------------------
+LABEL:          ERRLOG_ON
+IDENTIFIER:     9DBCFDEE
+
+Date/Time:       Mon May 27 12:36:00  2013
+Sequence Number: 19764
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           O
+Type:            TEMP
+Resource Name:   errdemon        
+
+Description
+ERROR LOGGING TURNED ON
+
+Probable Causes
+ERRDEMON STARTED AUTOMATICALLY
+
+User Causes
+/USR/LIB/ERRDEMON COMMAND
+
+	Recommended Actions
+	NONE
+
+---------------------------------------------------------------------------
+LABEL:          GOENT_RCVRY_EXIT
+IDENTIFIER:     F3931284
+
+Date/Time:       Sat Mar 30 03:27:43  2013
+Sequence Number: 19763
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            INFO
+Resource Name:   ent2            
+Resource Class:  adapter
+Resource Type:   14108902
+Location:        U787B.001.DNWFYYP-P1-T9
+VPD:             
+        Product Specific.(  ).......2-Port 10/100/1000 Base-TX PCI-X
+                                    Adapter
+        Network Address.............00145ED26B5E
+        ROM Level.(alterable).......DV0210
+
+Description
+ETHERNET NETWORK RECOVERY MODE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 449 file: goent_intr.c
+PCI ETHERNET STATISTICS
+00AE 86DD 0063 0853 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0597 CF3B 0000 0001 74A8 5939 0000 0000 03A1 5C54 0000 0014 057B EF00 
+0000 0000 001A 4CD1 0000 0000 1AFF CE8E 0000 0000 0000 0000 0000 0001 0000 0251 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 0000 0013 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB83 00F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 C9E1 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5ED2 6B5E 
+---------------------------------------------------------------------------
+LABEL:          GOENT_RCVRY_EXIT
+IDENTIFIER:     F3931284
+
+Date/Time:       Sat Mar 30 03:27:43  2013
+Sequence Number: 19762
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            INFO
+Resource Name:   ent1            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U787B.001.DNWFYYP-P1-C4-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6525
+        FRU Number..................03N6525
+        EC Level....................H14007$
+        Product Specific.(BR).......H0
+        Manufacture ID..............YL1021
+        Network Address.............00145EB7FC2F
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET NETWORK RECOVERY MODE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 449 file: goent_intr.c
+PCI ETHERNET STATISTICS
+009B 74EB 0063 0853 0000 0000 0000 0000 0000 0000 0000 701C 0000 0000 0000 0000 
+0000 0000 0304 B3DF 0000 0000 DEBC 8470 0000 0000 02A8 480B 0000 0000 0290 080B 
+0000 0000 0078 A56C 0000 0000 386E A618 0000 0000 0000 0000 0000 0000 0000 11EB 
+0002 2B37 0000 0000 0000 0000 0000 0000 0000 0000 0000 000C 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB83 00F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 C9E1 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB7 FC2F 
+---------------------------------------------------------------------------
+LABEL:          GOENT_LINK_DOWN
+IDENTIFIER:     EC0BCCD4
+
+Date/Time:       Sat Mar 30 03:16:45  2013
+Sequence Number: 19759
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   ent2            
+Resource Class:  adapter
+Resource Type:   14108902
+Location:        U787B.001.DNWFYYP-P1-T9
+VPD:             
+        Product Specific.(  ).......2-Port 10/100/1000 Base-TX PCI-X
+                                    Adapter
+        Network Address.............00145ED26B5E
+        ROM Level.(alterable).......DV0210
+
+Description
+ETHERNET DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 393 file: goent_intr.c
+PCI ETHERNET STATISTICS
+00AE 844B 0063 081B 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0597 CF3B 0000 0001 74A8 5939 0000 0000 03A1 5C54 0000 0014 057B EF00 
+0000 0000 001A 4CD1 0000 0000 1AFF CE8E 0000 0000 0000 0000 0000 0001 0000 0251 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0001 0000 0013 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB80 08F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+2222 2222 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5ED2 6B5E 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	521
+Resource tested:	ent2
+Menu Number:		25C3902
+Description:
+
+
+No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.
+
+---------------------------------------------------------------------------
+LABEL:          GOENT_LINK_DOWN
+IDENTIFIER:     EC0BCCD4
+
+Date/Time:       Sat Mar 30 03:16:45  2013
+Sequence Number: 19758
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   ent1            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U787B.001.DNWFYYP-P1-C4-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6525
+        FRU Number..................03N6525
+        EC Level....................H14007$
+        Product Specific.(BR).......H0
+        Manufacture ID..............YL1021
+        Network Address.............00145EB7FC2F
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 393 file: goent_intr.c
+PCI ETHERNET STATISTICS
+009B 7259 0063 081B 0000 0000 0000 0000 0000 0000 0000 701C 0000 0000 0000 0001 
+0000 0000 0304 B3DF 0000 0000 DEBC 8470 0000 0000 02A8 480B 0000 0000 028F EF52 
+0000 0000 0078 A56B 0000 0000 386E A576 0000 0000 0000 0000 0000 0000 0000 112F 
+0002 2B37 0000 0000 0000 0000 0000 0000 0000 0000 0000 000C 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB80 08F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+2222 2222 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB7 FC2F 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	519
+Resource tested:	ent1
+Menu Number:		25C1902
+Description:
+
+
+No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.
+
+---------------------------------------------------------------------------
+LABEL:          GOENT_RCVRY_EXIT
+IDENTIFIER:     F3931284
+
+Date/Time:       Sat Mar 30 03:09:21  2013
+Sequence Number: 19757
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            INFO
+Resource Name:   ent0            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U787B.001.DNWFYYP-P1-C3-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6525
+        FRU Number..................03N6525
+        EC Level....................H14007$
+        Product Specific.(BR).......H0
+        Manufacture ID..............YL1021
+        Network Address.............00145EB7FC29
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET NETWORK RECOVERY MODE
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 449 file: goent_intr.c
+PCI ETHERNET STATISTICS
+009B 709E 0063 0853 0000 0000 0000 0000 0000 0000 0000 0142 0000 0000 0000 0000 
+0000 0000 030E 53C2 0000 0000 F14B 8D7A 0000 0000 02AE 7037 0000 0000 0292 205A 
+0000 0000 007F AF42 0000 0000 43BD A763 0000 0000 0000 0000 0000 0000 0000 1648 
+0000 09C7 0000 0000 0000 0000 0000 0000 0000 0000 0000 000E 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB83 00F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 C9E1 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+5555 5555 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB7 FC29 
+---------------------------------------------------------------------------
+LABEL:          GOENT_LINK_DOWN
+IDENTIFIER:     EC0BCCD4
+
+Date/Time:       Sat Mar 30 03:03:59  2013
+Sequence Number: 19755
+Machine Id:      0004988DD600
+Node Id:         HQ_BEAI2
+Class:           H
+Type:            TEMP
+Resource Name:   ent0            
+Resource Class:  adapter
+Resource Type:   14106902
+Location:        U787B.001.DNWFYYP-P1-C3-T1
+VPD:             
+        Product Specific.(  ).......10/100/1000 Base-TX PCI-X Adapter
+        Part Number.................03N6525
+        FRU Number..................03N6525
+        EC Level....................H14007$
+        Product Specific.(BR).......H0
+        Manufacture ID..............YL1021
+        Network Address.............00145EB7FC29
+        ROM Level.(alterable).......GOL021
+
+Description
+ETHERNET DOWN
+
+	Recommended Actions
+	PERFORM PROBLEM DETERMINATION PROCEDURES
+
+Detail Data
+FILE NAME
+line: 393 file: goent_intr.c
+PCI ETHERNET STATISTICS
+009B 6F5B 0063 081B 0000 0000 0000 0000 0000 0000 0000 0142 0000 0000 0000 0000 
+0000 0000 030E 53C2 0000 0000 F14B 8D7A 0000 0000 02AE 7037 0000 0000 028E C075 
+0000 0000 007F AF42 0000 0000 43BD A763 0000 0000 0000 0000 0000 0000 0000 1633 
+0000 09C7 0000 0000 0000 0000 0000 0000 0000 0001 0000 000E 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 BB80 08F0 0068 0C00 0000 0000 01A0 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 0000 
+0000 0000 0000 0000 0000 0000 
+DEVICE DRIVER INTERNAL STATE
+2222 2222 0000 0000 0000 0000 
+SOURCE ADDRESS
+0014 5EB7 FC29 
+
+Diagnostic Analysis
+Diagnostic Log sequence number:	515
+Resource tested:	ent0
+Menu Number:		25C1902
+Description:
+
+
+No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.

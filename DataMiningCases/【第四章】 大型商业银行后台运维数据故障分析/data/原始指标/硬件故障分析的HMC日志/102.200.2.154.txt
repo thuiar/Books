@@ -1,0 +1,181 @@
+problem_num=5,pmh_num=,refcode=E3D4310A,status=Open,first_time=02/14/2012 03:31:14,last_time=10/30/2013 05:49:52,sys_name=hmczj20,sys_mtms=7042-CR6/06319BC,enclosure_mtms=7042-CR6/06319BC,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=02/14/2012 03:31:14,reporting_name=hmczj20,reporting_mtms=7042-CR6/06319BC,failing_mtms=7042-CR6/06319BC,analyzing_hmc=hmczj20,event_time=02/14/2012 03:31:14
+problem_num=18,pmh_num=,refcode=E212E112,status=Open,first_time=06/06/2012 20:49:49,last_time=10/29/2013 06:23:30,sys_name=hmczj20,sys_mtms=7042-CR6/06319BC,enclosure_mtms=7042-CR6/06319BC,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=06/06/2012 20:49:49,reporting_name=hmczj20,reporting_mtms=7042-CR6/06319BC,failing_mtms=7042-CR6/06319BC,analyzing_hmc=hmczj20,event_time=06/06/2012 20:49:49
+problem_num=31,pmh_num=,refcode=B3030001,status=Open,first_time=10/25/2013 02:47:19,last_time=10/25/2013 02:47:19,sys_name=hmczj20,sys_mtms=7042-CR6/06319BC,enclosure_mtms=8233-E8B/069B22P,firmware_fix=,"text=ACT04285I FSP,BPA or BPC did not respond",created_time=10/25/2013 02:47:19,reporting_name=hmczj20,reporting_mtms=7042-CR6/06319BC,failing_mtms=8233-E8B/069B22P,analyzing_hmc=hmczj20,event_time=10/25/2013 02:47:19
+problem_num=30,pmh_num=,refcode=B3030001,status=Open,first_time=10/25/2013 00:12:20,last_time=10/25/2013 00:12:20,sys_name=hmczj20,sys_mtms=7042-CR6/06319BC,enclosure_mtms=8233-E8B/069B22P,firmware_fix=,"text=ACT04285I FSP,BPA or BPC did not respond",created_time=10/25/2013 00:12:20,reporting_name=hmczj20,reporting_mtms=7042-CR6/06319BC,failing_mtms=8233-E8B/069B22P,analyzing_hmc=hmczj20,event_time=10/25/2013 00:12:20
+problem_num=74,pmh_num=,refcode=#2603906,status=Open,first_time=01/29/2013 19:56:29,last_time=01/29/2013 19:56:43,sys_name=Server-8204-E8A-SN06BF5A6,sys_mtms=8204-E8A/06BF5A6,enclosure_mtms=8204-E8A/06BF5A6,firmware_fix=,text=Error Log analysis has detected multiple link errors. These errors can be caused by loose or defective cables. Check all cables and their connections.,created_time=01/29/2013 19:56:29,reporting_name=Server-8204-E8A-SN06BF5A6,reporting_mtms=8204-E8A/06BF5A6,failing_mtms=8204-E8A/06BF5A6,analyzing_hmc=7042-CR6/0665C5C,event_time=01/25/2013 11:10:48
+problem_num=28,pmh_num=,refcode=B1A38B24,status=Open,first_time=01/24/2013 11:31:19,last_time=01/24/2013 11:31:19,sys_name=Server-8204-E8A-SN06BF5A6,sys_mtms=8204-E8A/06BF5A6,enclosure_mtms=8204-E8A/06BF5A6,firmware_fix=,text=ACT04293I External environment (0xA3) reported an error.,created_time=01/24/2013 11:31:19,reporting_name=Server-8204-E8A-SN06BF5A6,reporting_mtms=8204-E8A/06BF5A6,failing_mtms=8204-E8A/06BF5A6,analyzing_hmc=hmczj20,event_time=01/24/2013 03:03:26
+problem_num=29,pmh_num=,refcode=B3030007,status=Open,first_time=01/24/2013 11:31:18,last_time=01/24/2013 11:31:18,sys_name=hmczj20,sys_mtms=7042-CR6/06319BC,enclosure_mtms=8204-E8A/06BF546,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=01/24/2013 11:31:18,reporting_name=hmczj20,reporting_mtms=7042-CR6/06319BC,failing_mtms=8204-E8A/06BF546,analyzing_hmc=hmczj20,event_time=01/24/2013 11:31:18
+problem_num=27,pmh_num=,refcode=110000AC,status=Open,first_time=01/24/2013 11:24:28,last_time=01/24/2013 11:24:28,sys_name=Server-8204-E8A-SN06BF546,sys_mtms=8204-E8A/06BF546,enclosure_mtms=8204-E8A/06BF546,firmware_fix=,text=ACT04293I Power/Cooling subsystem & control (0x60) reported an error.,created_time=01/24/2013 11:24:28,reporting_name=Server-8204-E8A-SN06BF546,reporting_mtms=8204-E8A/06BF546,failing_mtms=8204-E8A/06BF546,analyzing_hmc=hmczj20,event_time=01/24/2013 02:12:03
+problem_num=26,pmh_num=,refcode=B3030007,status=Open,first_time=01/24/2013 11:08:08,last_time=01/24/2013 11:08:08,sys_name=hmczj20,sys_mtms=7042-CR6/06319BC,enclosure_mtms=8202-E4B/0647ADR,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=01/24/2013 11:08:08,reporting_name=hmczj20,reporting_mtms=7042-CR6/06319BC,failing_mtms=8202-E4B/0647ADR,analyzing_hmc=hmczj20,event_time=01/24/2013 11:08:08
+problem_num=26,pmh_num=,refcode=B3030007,status=Open,first_time=01/18/2013 14:06:50,last_time=01/18/2013 14:06:50,sys_name=hmczj20,sys_mtms=7042-CR6/06319BC,enclosure_mtms=8202-E4B/0647ADR,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=01/18/2013 14:06:50,reporting_name=hmczj20,reporting_mtms=7042-CR6/06319BC,failing_mtms=8202-E4B/0647ADR,analyzing_hmc=hmczj20,event_time=01/18/2013 14:06:50
+problem_num=25,pmh_num=,refcode=B3030007,status=Open,first_time=01/18/2013 12:07:35,last_time=01/18/2013 12:07:35,sys_name=hmczj20,sys_mtms=7042-CR6/06319BC,enclosure_mtms=8202-E4B/0647ADR,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=01/18/2013 12:07:35,reporting_name=hmczj20,reporting_mtms=7042-CR6/06319BC,failing_mtms=8202-E4B/0647ADR,analyzing_hmc=hmczj20,event_time=01/18/2013 12:07:35
+problem_num=20,pmh_num=,refcode=#2538902,status=Open,first_time=07/18/2012 14:24:08,last_time=11/15/2012 11:22:40,sys_name=XA205-8233-E8B-SN06465AR,sys_mtms=8233-E8B/06465AR,enclosure_mtms=8233-E8B/06465AR,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=07/18/2012 14:24:08,reporting_name=XA205-8233-E8B-SN06465AR,reporting_mtms=8233-E8B/06465AR,failing_mtms=8233-E8B/06465AR,analyzing_hmc=hmczj20,event_time=07/18/2012 14:09:35
+problem_num=19,pmh_num=,refcode=#2538902,status=Open,first_time=07/18/2012 14:14:57,last_time=11/15/2012 11:21:47,sys_name=XA204-8233-E8B-SN06466AR,sys_mtms=8233-E8B/06466AR,enclosure_mtms=8233-E8B/06466AR,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=07/18/2012 14:14:57,reporting_name=XA204-8233-E8B-SN06466AR,reporting_mtms=8233-E8B/06466AR,failing_mtms=8233-E8B/06466AR,analyzing_hmc=hmczj20,event_time=07/18/2012 13:59:58
+problem_num=24,pmh_num=,refcode=#2538902,status=Open,first_time=08/28/2012 14:48:02,last_time=08/28/2012 17:08:21,sys_name=221-8205-E6C-SN06C91AR,sys_mtms=8205-E6C/06C91AR,enclosure_mtms=8205-E6C/06C91AR,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=08/28/2012 14:48:02,reporting_name=221-8205-E6C-SN06C91AR,reporting_mtms=8205-E6C/06C91AR,failing_mtms=8205-E6C/06C91AR,analyzing_hmc=hmczj20,event_time=08/27/2012 21:25:38
+problem_num=23,pmh_num=,refcode=#2538902,status=Open,first_time=08/28/2012 11:30:16,last_time=08/28/2012 11:37:24,sys_name=222-8205-E6C-SN06C975R,sys_mtms=8205-E6C/06C975R,enclosure_mtms=8205-E6C/06C975R,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=08/28/2012 11:30:16,reporting_name=222-8205-E6C-SN06C975R,reporting_mtms=8205-E6C/06C975R,failing_mtms=8205-E6C/06C975R,analyzing_hmc=hmczj20,event_time=08/27/2012 21:50:35
+problem_num=22,pmh_num=,refcode=B3030007,status=Open,first_time=08/27/2012 15:16:44,last_time=08/27/2012 15:16:44,sys_name=hmczj20,sys_mtms=7042-CR6/06319BC,enclosure_mtms=8202-E4B/0647ADR,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=08/27/2012 15:16:44,reporting_name=hmczj20,reporting_mtms=7042-CR6/06319BC,failing_mtms=8202-E4B/0647ADR,analyzing_hmc=hmczj20,event_time=08/27/2012 15:16:44
+problem_num=21,pmh_num=,refcode=B3030007,status=Open,first_time=08/23/2012 18:23:32,last_time=08/23/2012 18:23:32,sys_name=hmczj20,sys_mtms=7042-CR6/06319BC,enclosure_mtms=8202-E4B/0647BFR,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=08/23/2012 18:23:32,reporting_name=hmczj20,reporting_mtms=7042-CR6/06319BC,failing_mtms=8202-E4B/0647BFR,analyzing_hmc=hmczj20,event_time=08/23/2012 18:23:32
+problem_num=17,pmh_num=,refcode=E212E111,status=Open,first_time=05/17/2012 17:56:56,last_time=05/18/2012 10:16:48,sys_name=hmczj20,sys_mtms=7042-CR6/06319BC,enclosure_mtms=7042-CR6/06319BC,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=05/17/2012 17:56:56,reporting_name=hmczj20,reporting_mtms=7042-CR6/06319BC,failing_mtms=7042-CR6/06319BC,analyzing_hmc=hmczj20,event_time=05/17/2012 17:56:56
+problem_num=16,pmh_num=,refcode=#2602905,status=Open,first_time=05/17/2012 17:33:40,last_time=05/17/2012 17:33:40,sys_name=XA200-ysgx1-E8A-SN061D415,sys_mtms=8204-E8A/061D415,enclosure_mtms=8204-E8A/061D415,firmware_fix=,"text=Error Log Analysis has detected multiple link errors.
+These errors can be caused by loose or defective cables
+or the Fibre Channel adapter.
+
+Check all cables and their connections.  Run advanced
+diagnostics including wrap tests, on the fibre channel
+adapter to ensure the adapter link module is functioning
+properly.",created_time=05/17/2012 17:33:40,reporting_name=XA200-ysgx1-E8A-SN061D415,reporting_mtms=8204-E8A/061D415,failing_mtms=8204-E8A/061D415,analyzing_hmc=hmczj20,event_time=05/17/2012 17:25:30
+problem_num=15,pmh_num=,refcode=#2538902,status=Open,first_time=05/16/2012 14:59:28,last_time=05/16/2012 14:59:28,sys_name=XA201-ysgx2-E8A-SN061D405,sys_mtms=8204-E8A/061D405,enclosure_mtms=8204-E8A/061D405,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=05/16/2012 14:59:28,reporting_name=XA201-ysgx2-E8A-SN061D405,reporting_mtms=8204-E8A/061D405,failing_mtms=8204-E8A/061D405,analyzing_hmc=hmczj20,event_time=05/16/2012 14:48:56
+problem_num=14,pmh_num=,refcode=#2538902,status=Open,first_time=05/16/2012 14:56:45,last_time=05/16/2012 14:56:45,sys_name=XA200-ysgx1-E8A-SN061D415,sys_mtms=8204-E8A/061D415,enclosure_mtms=8204-E8A/061D415,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=05/16/2012 14:56:45,reporting_name=XA200-ysgx1-E8A-SN061D415,reporting_mtms=8204-E8A/061D415,failing_mtms=8204-E8A/061D415,analyzing_hmc=hmczj20,event_time=05/16/2012 14:48:39
+problem_num=13,pmh_num=,refcode=B3030007,status=Open,first_time=05/16/2012 14:03:36,last_time=05/16/2012 14:03:36,sys_name=hmczj20,sys_mtms=7042-CR6/06319BC,enclosure_mtms=8204-E8A/061D405,firmware_fix=,"text=ACT04251I Management Console to FSP,BPA, or BPC failure detected",created_time=05/16/2012 14:03:36,reporting_name=hmczj20,reporting_mtms=7042-CR6/06319BC,failing_mtms=8204-E8A/061D405,analyzing_hmc=hmczj20,event_time=05/16/2012 14:03:36
+problem_num=12,pmh_num=,refcode=B2001230,status=Open,first_time=04/26/2012 15:51:51,last_time=04/26/2012 15:58:25,sys_name=XA205-8233-E8B-SN06465AR,sys_mtms=8233-E8B/06465AR,enclosure_mtms=8233-E8B/06465AR,firmware_fix=,text=ACT04293I Platform firmware (0x82) reported an error.,created_time=04/26/2012 15:51:51,reporting_name=XA205-8233-E8B-SN06465AR,reporting_mtms=8233-E8B/06465AR,failing_mtms=8233-E8B/06465AR,analyzing_hmc=hmczj20,event_time=04/26/2012 07:45:03
+problem_num=6,pmh_num=,refcode=E355104C,status=Open,first_time=03/02/2012 14:15:08,last_time=04/12/2012 16:51:03,sys_name=hmczj20,sys_mtms=7042-CR6/06319BC,enclosure_mtms=7042-CR6/06319BC,firmware_fix=,text=ACT00060I Licensed internal code has detected a problem.,created_time=03/02/2012 14:15:08,reporting_name=hmczj20,reporting_mtms=7042-CR6/06319BC,failing_mtms=7042-CR6/06319BC,analyzing_hmc=hmczj20,event_time=03/02/2012 14:15:08
+problem_num=9,pmh_num=,refcode=#2538902,status=Open,first_time=03/18/2012 02:20:54,last_time=03/18/2012 02:29:24,sys_name=XA185-HR2-E8B-SN069B22P,sys_mtms=8233-E8B/069B22P,enclosure_mtms=8233-E8B/069B22P,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=03/18/2012 02:20:54,reporting_name=XA185-HR2-E8B-SN069B22P,reporting_mtms=8233-E8B/069B22P,failing_mtms=8233-E8B/069B22P,analyzing_hmc=hmczj20,event_time=03/18/2012 02:13:51
+problem_num=11,pmh_num=,refcode=#25C1902,status=Open,first_time=03/18/2012 02:25:30,last_time=03/18/2012 02:25:30,sys_name=XA185-HR2-E8B-SN069B22P,sys_mtms=8233-E8B/069B22P,enclosure_mtms=8233-E8B/069B22P,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=03/18/2012 02:25:30,reporting_name=XA185-HR2-E8B-SN069B22P,reporting_mtms=8233-E8B/069B22P,failing_mtms=8233-E8B/069B22P,analyzing_hmc=hmczj20,event_time=03/18/2012 02:21:34
+problem_num=7,pmh_num=,refcode=#2538902,status=Open,first_time=03/18/2012 02:20:18,last_time=03/18/2012 02:25:29,sys_name=XA184-HR1-E8B-SN069B29P,sys_mtms=8233-E8B/069B29P,enclosure_mtms=8233-E8B/069B29P,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=03/18/2012 02:20:18,reporting_name=XA184-HR1-E8B-SN069B29P,reporting_mtms=8233-E8B/069B29P,failing_mtms=8233-E8B/069B29P,analyzing_hmc=hmczj20,event_time=03/18/2012 02:13:51
+problem_num=10,pmh_num=,refcode=#2806,status=Open,first_time=03/18/2012 02:20:55,last_time=03/18/2012 02:20:55,sys_name=XA187-sfhc2-E4B-SN062774R,sys_mtms=8202-E4B/062774R,enclosure_mtms=8202-E4B/062774R,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If this adapter is connected to a network, and if you
+you are experiencing problems with network communications,
+check for a loose or defective cable or connection.
+
+If a switch or another system is directly attached
+to this adapter, verify it is powered up, configured,
+and functioning correctly.",created_time=03/18/2012 02:20:55,reporting_name=XA187-sfhc2-E4B-SN062774R,reporting_mtms=8202-E4B/062774R,failing_mtms=8202-E4B/062774R,analyzing_hmc=hmczj20,event_time=03/18/2012 02:13:51
+problem_num=4,pmh_num=,refcode=#25C3902,status=Open,first_time=02/13/2012 12:45:24,last_time=03/18/2012 02:20:54,sys_name=XA184-HR1-E8B-SN069B29P,sys_mtms=8233-E8B/069B29P,enclosure_mtms=8233-E8B/069B29P,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=02/13/2012 12:45:24,reporting_name=XA184-HR1-E8B-SN069B29P,reporting_mtms=8233-E8B/069B29P,failing_mtms=8233-E8B/069B29P,analyzing_hmc=hmczj20,event_time=02/13/2012 12:43:53
+problem_num=8,pmh_num=,refcode=#2806,status=Open,first_time=03/18/2012 02:20:18,last_time=03/18/2012 02:20:18,sys_name=XA186-sfhc1-E4B-SN06276ER,sys_mtms=8202-E4B/06276ER,enclosure_mtms=8202-E4B/06276ER,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If this adapter is connected to a network, and if you
+you are experiencing problems with network communications,
+check for a loose or defective cable or connection.
+
+If a switch or another system is directly attached
+to this adapter, verify it is powered up, configured,
+and functioning correctly.",created_time=03/18/2012 02:20:18,reporting_name=XA186-sfhc1-E4B-SN06276ER,reporting_mtms=8202-E4B/06276ER,failing_mtms=8202-E4B/06276ER,analyzing_hmc=hmczj20,event_time=03/18/2012 02:13:51
+problem_num=3,pmh_num=,refcode=#25C1902,status=Open,first_time=02/03/2012 09:12:38,last_time=02/03/2012 09:12:38,sys_name=XA184-HR1-E8B-SN069B29P,sys_mtms=8233-E8B/069B29P,enclosure_mtms=8233-E8B/069B29P,firmware_fix=,"text=No trouble was found with this adapter.  However
+Error Log Analysis indicates that there recently may
+have been a network problem.
+
+If your Ethernet adapter is connected to a network,
+and if you are experiencing problems with network
+communications, check for a loose or defective
+cable or connection.
+
+If a switch or another system is directly attached
+to the Ethernet adapter, verify it is powered up,
+configured, and functioning correctly.",created_time=02/03/2012 09:12:38,reporting_name=XA184-HR1-E8B-SN069B29P,reporting_mtms=8233-E8B/069B29P,failing_mtms=8233-E8B/069B29P,analyzing_hmc=hmczj20,event_time=02/02/2012 21:39:04
+problem_num=2,pmh_num=,refcode=B3030001,status=Open,first_time=02/02/2012 20:40:23,last_time=02/02/2012 20:40:23,sys_name=hmczj20,sys_mtms=7042-CR6/06319BC,enclosure_mtms=8202-E4B/0616DFR,firmware_fix=,"text=ACT04283I A connection to a FSP,BPA or BPC was dropped",created_time=02/02/2012 20:40:23,reporting_name=hmczj20,reporting_mtms=7042-CR6/06319BC,failing_mtms=8202-E4B/0616DFR,analyzing_hmc=hmczj20,event_time=02/02/2012 20:40:23
+problem_num=1,pmh_num=,refcode=B3030001,status=Open,first_time=02/02/2012 20:18:09,last_time=02/02/2012 20:18:09,sys_name=hmczj20,sys_mtms=7042-CR6/06319BC,enclosure_mtms=8202-E4B/0616DFR,firmware_fix=,"text=ACT04283I A connection to a FSP,BPA or BPC was dropped",created_time=02/02/2012 20:18:09,reporting_name=hmczj20,reporting_mtms=7042-CR6/06319BC,failing_mtms=8202-E4B/0616DFR,analyzing_hmc=hmczj20,event_time=02/02/2012 20:18:09
