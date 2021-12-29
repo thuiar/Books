@@ -1,0 +1,1001 @@
+*****svm****round7***************
+PCA dimension for first structure = 1
+PCA dimension for second structure = 7train_TP = 0.761965
+train_TN = 0.656237
+test_TP = 0.620879
+test_TN = 0.622829
+roc_auc = 0.643316
+*****svm****round8***************
+PCA dimension for first structure = 1
+PCA dimension for second structure = 8train_TP = 0.804786
+train_TN = 0.667367
+test_TP = 0.626374
+test_TN = 0.608768
+roc_auc = 0.645061
+*****svm****round9***************
+PCA dimension for first structure = 1
+PCA dimension for second structure = 9train_TP = 0.803526
+train_TN = 0.699076
+test_TP = 0.604396
+test_TN = 0.651778
+roc_auc = 0.665290
+*****svm****round10***************
+PCA dimension for first structure = 1
+PCA dimension for second structure = 10train_TP = 0.816121
+train_TN = 0.731205
+test_TP = 0.631868
+test_TN = 0.674111
+roc_auc = 0.678410
+*****svm****round12***************
+PCA dimension for first structure = 1
+PCA dimension for second structure = 12train_TP = 0.863980
+train_TN = 0.759135
+test_TP = 0.626374
+test_TN = 0.675765
+roc_auc = 0.689595
+*****svm****round27***************
+PCA dimension for first structure = 2
+PCA dimension for second structure = 7train_TP = 0.812343
+train_TN = 0.665897
+test_TP = 0.653846
+test_TN = 0.605459
+roc_auc = 0.650138
+*****svm****round28***************
+PCA dimension for first structure = 2
+PCA dimension for second structure = 8train_TP = 0.845088
+train_TN = 0.682486
+test_TP = 0.631868
+test_TN = 0.619520
+roc_auc = 0.655178
+*****svm****round29***************
+PCA dimension for first structure = 2
+PCA dimension for second structure = 9train_TP = 0.861461
+train_TN = 0.694036
+test_TP = 0.620879
+test_TN = 0.626964
+roc_auc = 0.668594
+*****svm****round31***************
+PCA dimension for first structure = 2
+PCA dimension for second structure = 11train_TP = 0.879093
+train_TN = 0.742965
+test_TP = 0.604396
+test_TN = 0.665840
+roc_auc = 0.684818
+*****svm****round32***************
+PCA dimension for first structure = 2
+PCA dimension for second structure = 12train_TP = 0.892947
+train_TN = 0.764385
+test_TP = 0.626374
+test_TN = 0.680728
+roc_auc = 0.692526
+*****svm****round33***************
+PCA dimension for first structure = 2
+PCA dimension for second structure = 13train_TP = 0.906801
+train_TN = 0.776774
+test_TP = 0.609890
+test_TN = 0.703060
+roc_auc = 0.698293
+*****svm****round34***************
+PCA dimension for first structure = 2
+PCA dimension for second structure = 14train_TP = 0.909320
+train_TN = 0.787484
+test_TP = 0.626374
+test_TN = 0.698925
+roc_auc = 0.703628
+*****svm****round35***************
+PCA dimension for first structure = 2
+PCA dimension for second structure = 15train_TP = 0.914358
+train_TN = 0.803864
+test_TP = 0.615385
+test_TN = 0.719603
+roc_auc = 0.709264
+*****svm****round39***************
+PCA dimension for first structure = 2
+PCA dimension for second structure = 19train_TP = 0.950882
+train_TN = 0.849223
+test_TP = 0.609890
+test_TN = 0.755997
+roc_auc = 0.728097
+*****svm****round40***************
+PCA dimension for first structure = 2
+PCA dimension for second structure = 20train_TP = 0.953401
+train_TN = 0.854683
+test_TP = 0.615385
+test_TN = 0.749380
+roc_auc = 0.733151
+*****svm****round46***************
+PCA dimension for first structure = 3
+PCA dimension for second structure = 6train_TP = 0.801008
+train_TN = 0.658337
+test_TP = 0.664835
+test_TN = 0.613730
+roc_auc = 0.681060
+*****svm****round47***************
+PCA dimension for first structure = 3
+PCA dimension for second structure = 7train_TP = 0.838791
+train_TN = 0.692146
+test_TP = 0.653846
+test_TN = 0.629446
+roc_auc = 0.688772
+*****svm****round48***************
+PCA dimension for first structure = 3
+PCA dimension for second structure = 8train_TP = 0.852645
+train_TN = 0.705376
+test_TP = 0.631868
+test_TN = 0.650951
+roc_auc = 0.692167
+*****svm****round49***************
+PCA dimension for first structure = 3
+PCA dimension for second structure = 9train_TP = 0.879093
+train_TN = 0.723226
+test_TP = 0.642857
+test_TN = 0.665840
+roc_auc = 0.705774
+*****svm****round50***************
+PCA dimension for first structure = 3
+PCA dimension for second structure = 10train_TP = 0.869018
+train_TN = 0.754725
+test_TP = 0.615385
+test_TN = 0.684036
+roc_auc = 0.710268
+*****svm****round51***************
+PCA dimension for first structure = 3
+PCA dimension for second structure = 11train_TP = 0.890428
+train_TN = 0.762705
+test_TP = 0.615385
+test_TN = 0.681555
+roc_auc = 0.712759
+*****svm****round52***************
+PCA dimension for first structure = 3
+PCA dimension for second structure = 12train_TP = 0.899244
+train_TN = 0.780974
+test_TP = 0.637363
+test_TN = 0.705542
+roc_auc = 0.722216
+*****svm****round53***************
+PCA dimension for first structure = 3
+PCA dimension for second structure = 13train_TP = 0.903023
+train_TN = 0.800084
+test_TP = 0.615385
+test_TN = 0.731183
+roc_auc = 0.729365
+*****svm****round54***************
+PCA dimension for first structure = 3
+PCA dimension for second structure = 14train_TP = 0.918136
+train_TN = 0.810164
+test_TP = 0.615385
+test_TN = 0.738627
+roc_auc = 0.738363
+*****svm****round55***************
+PCA dimension for first structure = 3
+PCA dimension for second structure = 15train_TP = 0.929471
+train_TN = 0.818354
+test_TP = 0.615385
+test_TN = 0.734491
+roc_auc = 0.742794
+*****svm****round58***************
+PCA dimension for first structure = 3
+PCA dimension for second structure = 18train_TP = 0.944584
+train_TN = 0.857203
+test_TP = 0.604396
+test_TN = 0.763441
+roc_auc = 0.743790
+*****svm****round59***************
+PCA dimension for first structure = 3
+PCA dimension for second structure = 19train_TP = 0.950882
+train_TN = 0.859933
+test_TP = 0.626374
+test_TN = 0.772539
+roc_auc = 0.757655
+*****svm****round60***************
+PCA dimension for first structure = 3
+PCA dimension for second structure = 20train_TP = 0.958438
+train_TN = 0.867703
+test_TP = 0.631868
+test_TN = 0.772539
+roc_auc = 0.764077
+*****svm****round64***************
+PCA dimension for first structure = 4
+PCA dimension for second structure = 4train_TP = 0.772040
+train_TN = 0.645947
+test_TP = 0.631868
+test_TN = 0.601323
+roc_auc = 0.670893
+*****svm****round65***************
+PCA dimension for first structure = 4
+PCA dimension for second structure = 5train_TP = 0.797229
+train_TN = 0.659597
+test_TP = 0.670330
+test_TN = 0.608768
+roc_auc = 0.690490
+*****svm****round66***************
+PCA dimension for first structure = 4
+PCA dimension for second structure = 6train_TP = 0.823678
+train_TN = 0.688786
+test_TP = 0.659341
+test_TN = 0.635236
+roc_auc = 0.697461
+*****svm****round67***************
+PCA dimension for first structure = 4
+PCA dimension for second structure = 7train_TP = 0.843829
+train_TN = 0.712516
+test_TP = 0.642857
+test_TN = 0.638544
+roc_auc = 0.698857
+*****svm****round68***************
+PCA dimension for first structure = 4
+PCA dimension for second structure = 8train_TP = 0.869018
+train_TN = 0.731205
+test_TP = 0.637363
+test_TN = 0.667494
+roc_auc = 0.705401
+*****svm****round69***************
+PCA dimension for first structure = 4
+PCA dimension for second structure = 9train_TP = 0.894207
+train_TN = 0.743385
+test_TP = 0.642857
+test_TN = 0.674111
+roc_auc = 0.716167
+*****svm****round70***************
+PCA dimension for first structure = 4
+PCA dimension for second structure = 10train_TP = 0.897985
+train_TN = 0.771315
+test_TP = 0.604396
+test_TN = 0.698098
+roc_auc = 0.726865
+*****svm****round71***************
+PCA dimension for first structure = 4
+PCA dimension for second structure = 11train_TP = 0.904282
+train_TN = 0.785804
+test_TP = 0.620879
+test_TN = 0.698098
+roc_auc = 0.726470
+*****svm****round72***************
+PCA dimension for first structure = 4
+PCA dimension for second structure = 12train_TP = 0.910579
+train_TN = 0.804074
+test_TP = 0.615385
+test_TN = 0.709677
+roc_auc = 0.732433
+*****svm****round73***************
+PCA dimension for first structure = 4
+PCA dimension for second structure = 13train_TP = 0.913098
+train_TN = 0.817094
+test_TP = 0.626374
+test_TN = 0.732837
+roc_auc = 0.737105
+*****svm****round74***************
+PCA dimension for first structure = 4
+PCA dimension for second structure = 14train_TP = 0.924433
+train_TN = 0.828643
+test_TP = 0.631868
+test_TN = 0.741935
+roc_auc = 0.740858
+*****svm****round75***************
+PCA dimension for first structure = 4
+PCA dimension for second structure = 15train_TP = 0.939547
+train_TN = 0.830953
+test_TP = 0.615385
+test_TN = 0.753515
+roc_auc = 0.748439
+*****svm****round76***************
+PCA dimension for first structure = 4
+PCA dimension for second structure = 16train_TP = 0.938287
+train_TN = 0.839773
+test_TP = 0.604396
+test_TN = 0.755170
+roc_auc = 0.742431
+*****svm****round77***************
+PCA dimension for first structure = 4
+PCA dimension for second structure = 17train_TP = 0.950882
+train_TN = 0.853213
+test_TP = 0.604396
+test_TN = 0.760959
+roc_auc = 0.738491
+*****svm****round78***************
+PCA dimension for first structure = 4
+PCA dimension for second structure = 18train_TP = 0.953401
+train_TN = 0.866023
+test_TP = 0.604396
+test_TN = 0.779156
+roc_auc = 0.745003
+*****svm****round79***************
+PCA dimension for first structure = 4
+PCA dimension for second structure = 19train_TP = 0.957179
+train_TN = 0.868963
+test_TP = 0.615385
+test_TN = 0.785773
+roc_auc = 0.758651
+*****svm****round80***************
+PCA dimension for first structure = 4
+PCA dimension for second structure = 20train_TP = 0.964736
+train_TN = 0.874003
+test_TP = 0.609890
+test_TN = 0.783292
+roc_auc = 0.764068
+*****svm****round82***************
+PCA dimension for first structure = 5
+PCA dimension for second structure = 2train_TP = 0.726700
+train_TN = 0.645527
+test_TP = 0.620879
+test_TN = 0.606286
+roc_auc = 0.644611
+*****svm****round84***************
+PCA dimension for first structure = 5
+PCA dimension for second structure = 4train_TP = 0.804786
+train_TN = 0.648257
+test_TP = 0.648352
+test_TN = 0.610422
+roc_auc = 0.689299
+*****svm****round85***************
+PCA dimension for first structure = 5
+PCA dimension for second structure = 5train_TP = 0.833753
+train_TN = 0.670517
+test_TP = 0.659341
+test_TN = 0.626137
+roc_auc = 0.701565
+*****svm****round86***************
+PCA dimension for first structure = 5
+PCA dimension for second structure = 6train_TP = 0.848866
+train_TN = 0.700966
+test_TP = 0.664835
+test_TN = 0.634409
+roc_auc = 0.714072
+*****svm****round87***************
+PCA dimension for first structure = 5
+PCA dimension for second structure = 7train_TP = 0.875315
+train_TN = 0.717136
+test_TP = 0.681319
+test_TN = 0.657568
+roc_auc = 0.712172
+*****svm****round88***************
+PCA dimension for first structure = 5
+PCA dimension for second structure = 8train_TP = 0.890428
+train_TN = 0.740235
+test_TP = 0.631868
+test_TN = 0.668321
+roc_auc = 0.717899
+*****svm****round89***************
+PCA dimension for first structure = 5
+PCA dimension for second structure = 9train_TP = 0.916877
+train_TN = 0.757035
+test_TP = 0.626374
+test_TN = 0.681555
+roc_auc = 0.723348
+*****svm****round90***************
+PCA dimension for first structure = 5
+PCA dimension for second structure = 10train_TP = 0.906801
+train_TN = 0.783704
+test_TP = 0.604396
+test_TN = 0.704715
+roc_auc = 0.727674
+*****svm****round92***************
+PCA dimension for first structure = 5
+PCA dimension for second structure = 12train_TP = 0.918136
+train_TN = 0.807434
+test_TP = 0.626374
+test_TN = 0.731183
+roc_auc = 0.729488
+*****svm****round93***************
+PCA dimension for first structure = 5
+PCA dimension for second structure = 13train_TP = 0.934509
+train_TN = 0.821504
+test_TP = 0.637363
+test_TN = 0.748553
+roc_auc = 0.737336
+*****svm****round94***************
+PCA dimension for first structure = 5
+PCA dimension for second structure = 14train_TP = 0.938287
+train_TN = 0.835573
+test_TP = 0.604396
+test_TN = 0.756824
+roc_auc = 0.739390
+*****svm****round96***************
+PCA dimension for first structure = 5
+PCA dimension for second structure = 16train_TP = 0.949622
+train_TN = 0.843343
+test_TP = 0.604396
+test_TN = 0.760132
+roc_auc = 0.738627
+*****svm****round97***************
+PCA dimension for first structure = 5
+PCA dimension for second structure = 17train_TP = 0.953401
+train_TN = 0.854893
+test_TP = 0.626374
+test_TN = 0.770058
+roc_auc = 0.741536
+*****svm****round100***************
+PCA dimension for first structure = 5
+PCA dimension for second structure = 20train_TP = 0.968514
+train_TN = 0.883872
+test_TP = 0.604396
+test_TN = 0.797353
+roc_auc = 0.765781
+*****svm****round103***************
+PCA dimension for first structure = 6
+PCA dimension for second structure = 3train_TP = 0.822418
+train_TN = 0.653087
+test_TP = 0.681319
+test_TN = 0.607940
+roc_auc = 0.690717
+*****svm****round104***************
+PCA dimension for first structure = 6
+PCA dimension for second structure = 4train_TP = 0.823678
+train_TN = 0.674297
+test_TP = 0.642857
+test_TN = 0.614557
+roc_auc = 0.688249
+*****svm****round105***************
+PCA dimension for first structure = 6
+PCA dimension for second structure = 5train_TP = 0.858942
+train_TN = 0.682696
+test_TP = 0.681319
+test_TN = 0.607113
+roc_auc = 0.695180
+*****svm****round106***************
+PCA dimension for first structure = 6
+PCA dimension for second structure = 6train_TP = 0.858942
+train_TN = 0.705376
+test_TP = 0.659341
+test_TN = 0.651778
+roc_auc = 0.706769
+*****svm****round107***************
+PCA dimension for first structure = 6
+PCA dimension for second structure = 7train_TP = 0.891688
+train_TN = 0.726375
+test_TP = 0.670330
+test_TN = 0.649297
+roc_auc = 0.718294
+*****svm****round108***************
+PCA dimension for first structure = 6
+PCA dimension for second structure = 8train_TP = 0.901763
+train_TN = 0.750315
+test_TP = 0.626374
+test_TN = 0.678246
+roc_auc = 0.720285
+*****svm****round109***************
+PCA dimension for first structure = 6
+PCA dimension for second structure = 9train_TP = 0.911839
+train_TN = 0.762705
+test_TP = 0.604396
+test_TN = 0.684036
+roc_auc = 0.723811
+*****svm****round110***************
+PCA dimension for first structure = 6
+PCA dimension for second structure = 10train_TP = 0.918136
+train_TN = 0.785804
+test_TP = 0.604396
+test_TN = 0.703060
+roc_auc = 0.729810
+*****svm****round111***************
+PCA dimension for first structure = 6
+PCA dimension for second structure = 11train_TP = 0.913098
+train_TN = 0.802814
+test_TP = 0.615385
+test_TN = 0.712986
+roc_auc = 0.728006
+*****svm****round112***************
+PCA dimension for first structure = 6
+PCA dimension for second structure = 12train_TP = 0.928212
+train_TN = 0.815204
+test_TP = 0.620879
+test_TN = 0.717949
+roc_auc = 0.727811
+*****svm****round113***************
+PCA dimension for first structure = 6
+PCA dimension for second structure = 13train_TP = 0.931990
+train_TN = 0.827593
+test_TP = 0.620879
+test_TN = 0.727047
+roc_auc = 0.734019
+*****svm****round115***************
+PCA dimension for first structure = 6
+PCA dimension for second structure = 15train_TP = 0.945844
+train_TN = 0.836413
+test_TP = 0.604396
+test_TN = 0.760959
+roc_auc = 0.741863
+*****svm****round117***************
+PCA dimension for first structure = 6
+PCA dimension for second structure = 17train_TP = 0.967254
+train_TN = 0.850273
+test_TP = 0.609890
+test_TN = 0.756824
+roc_auc = 0.738309
+*****svm****round118***************
+PCA dimension for first structure = 6
+PCA dimension for second structure = 18train_TP = 0.964736
+train_TN = 0.863503
+test_TP = 0.609890
+test_TN = 0.767577
+roc_auc = 0.748303
+*****svm****round119***************
+PCA dimension for first structure = 6
+PCA dimension for second structure = 19train_TP = 0.971033
+train_TN = 0.877362
+test_TP = 0.615385
+test_TN = 0.785773
+roc_auc = 0.755065
+*****svm****round120***************
+PCA dimension for first structure = 6
+PCA dimension for second structure = 20train_TP = 0.969773
+train_TN = 0.887442
+test_TP = 0.615385
+test_TN = 0.793218
+roc_auc = 0.763500
+*****svm****round123***************
+PCA dimension for first structure = 7
+PCA dimension for second structure = 3train_TP = 0.841310
+train_TN = 0.675556
+test_TP = 0.648352
+test_TN = 0.618693
+roc_auc = 0.690335
+*****svm****round124***************
+PCA dimension for first structure = 7
+PCA dimension for second structure = 4train_TP = 0.850126
+train_TN = 0.690676
+test_TP = 0.631868
+test_TN = 0.641853
+roc_auc = 0.688590
+*****svm****round125***************
+PCA dimension for first structure = 7
+PCA dimension for second structure = 5train_TP = 0.871537
+train_TN = 0.707056
+test_TP = 0.620879
+test_TN = 0.643507
+roc_auc = 0.691444
+*****svm****round126***************
+PCA dimension for first structure = 7
+PCA dimension for second structure = 6train_TP = 0.879093
+train_TN = 0.727845
+test_TP = 0.626374
+test_TN = 0.666667
+roc_auc = 0.697525
+*****svm****round127***************
+PCA dimension for first structure = 7
+PCA dimension for second structure = 7train_TP = 0.901763
+train_TN = 0.749475
+test_TP = 0.631868
+test_TN = 0.671629
+roc_auc = 0.704283
+*****svm****round131***************
+PCA dimension for first structure = 7
+PCA dimension for second structure = 11train_TP = 0.925693
+train_TN = 0.814364
+test_TP = 0.615385
+test_TN = 0.723739
+roc_auc = 0.717481
+*****svm****round132***************
+PCA dimension for first structure = 7
+PCA dimension for second structure = 12train_TP = 0.940806
+train_TN = 0.825073
+test_TP = 0.604396
+test_TN = 0.732010
+roc_auc = 0.719857
+*****svm****round134***************
+PCA dimension for first structure = 7
+PCA dimension for second structure = 14train_TP = 0.944584
+train_TN = 0.841453
+test_TP = 0.604396
+test_TN = 0.756824
+roc_auc = 0.729769
+*****svm****round136***************
+PCA dimension for first structure = 7
+PCA dimension for second structure = 16train_TP = 0.962217
+train_TN = 0.853633
+test_TP = 0.604396
+test_TN = 0.763441
+roc_auc = 0.730501
+*****svm****round143***************
+PCA dimension for first structure = 8
+PCA dimension for second structure = 3train_TP = 0.850126
+train_TN = 0.674087
+test_TP = 0.653846
+test_TN = 0.607940
+roc_auc = 0.704619
+*****svm****round144***************
+PCA dimension for first structure = 8
+PCA dimension for second structure = 4train_TP = 0.867758
+train_TN = 0.699286
+test_TP = 0.642857
+test_TN = 0.634409
+roc_auc = 0.704787
+*****svm****round145***************
+PCA dimension for first structure = 8
+PCA dimension for second structure = 5train_TP = 0.880353
+train_TN = 0.716296
+test_TP = 0.653846
+test_TN = 0.658395
+roc_auc = 0.707128
+*****svm****round146***************
+PCA dimension for first structure = 8
+PCA dimension for second structure = 6train_TP = 0.886650
+train_TN = 0.745275
+test_TP = 0.631868
+test_TN = 0.679074
+roc_auc = 0.709368
+*****svm****round147***************
+PCA dimension for first structure = 8
+PCA dimension for second structure = 7train_TP = 0.906801
+train_TN = 0.763335
+test_TP = 0.642857
+test_TN = 0.693135
+roc_auc = 0.717635
+*****svm****round148***************
+PCA dimension for first structure = 8
+PCA dimension for second structure = 8train_TP = 0.921914
+train_TN = 0.780344
+test_TP = 0.626374
+test_TN = 0.699752
+roc_auc = 0.723080
+*****svm****round151***************
+PCA dimension for first structure = 8
+PCA dimension for second structure = 11train_TP = 0.933249
+train_TN = 0.820874
+test_TP = 0.631868
+test_TN = 0.727047
+roc_auc = 0.725838
+*****svm****round152***************
+PCA dimension for first structure = 8
+PCA dimension for second structure = 12train_TP = 0.944584
+train_TN = 0.830743
+test_TP = 0.604396
+test_TN = 0.747725
+roc_auc = 0.725366
+*****svm****round153***************
+PCA dimension for first structure = 8
+PCA dimension for second structure = 13train_TP = 0.950882
+train_TN = 0.839353
+test_TP = 0.609890
+test_TN = 0.749380
+roc_auc = 0.730428
+*****svm****round154***************
+PCA dimension for first structure = 8
+PCA dimension for second structure = 14train_TP = 0.950882
+train_TN = 0.850903
+test_TP = 0.615385
+test_TN = 0.759305
+roc_auc = 0.732910
+*****svm****round162***************
+PCA dimension for first structure = 9
+PCA dimension for second structure = 2train_TP = 0.814861
+train_TN = 0.687736
+test_TP = 0.648352
+test_TN = 0.611249
+roc_auc = 0.682996
+*****svm****round163***************
+PCA dimension for first structure = 9
+PCA dimension for second structure = 3train_TP = 0.870277
+train_TN = 0.691936
+test_TP = 0.697802
+test_TN = 0.644334
+roc_auc = 0.728088
+*****svm****round164***************
+PCA dimension for first structure = 9
+PCA dimension for second structure = 4train_TP = 0.886650
+train_TN = 0.708106
+test_TP = 0.697802
+test_TN = 0.652605
+roc_auc = 0.722353
+*****svm****round165***************
+PCA dimension for first structure = 9
+PCA dimension for second structure = 5train_TP = 0.900504
+train_TN = 0.724066
+test_TP = 0.686813
+test_TN = 0.664185
+roc_auc = 0.718499
+*****svm****round166***************
+PCA dimension for first structure = 9
+PCA dimension for second structure = 6train_TP = 0.900504
+train_TN = 0.754095
+test_TP = 0.659341
+test_TN = 0.683209
+roc_auc = 0.728974
+*****svm****round167***************
+PCA dimension for first structure = 9
+PCA dimension for second structure = 7train_TP = 0.923174
+train_TN = 0.771525
+test_TP = 0.670330
+test_TN = 0.698098
+roc_auc = 0.733905
+*****svm****round168***************
+PCA dimension for first structure = 9
+PCA dimension for second structure = 8train_TP = 0.929471
+train_TN = 0.787064
+test_TP = 0.642857
+test_TN = 0.713813
+roc_auc = 0.737014
+*****svm****round182***************
+PCA dimension for first structure = 10
+PCA dimension for second structure = 2train_TP = 0.827456
+train_TN = 0.705796
+test_TP = 0.637363
+test_TN = 0.647643
+roc_auc = 0.691521
+*****svm****round183***************
+PCA dimension for first structure = 10
+PCA dimension for second structure = 3train_TP = 0.875315
+train_TN = 0.716506
+test_TP = 0.681319
+test_TN = 0.650124
+roc_auc = 0.737304
+*****svm****round184***************
+PCA dimension for first structure = 10
+PCA dimension for second structure = 4train_TP = 0.894207
+train_TN = 0.731415
+test_TP = 0.653846
+test_TN = 0.660050
+roc_auc = 0.729020
+*****svm****round185***************
+PCA dimension for first structure = 10
+PCA dimension for second structure = 5train_TP = 0.908060
+train_TN = 0.740865
+test_TP = 0.648352
+test_TN = 0.661704
+roc_auc = 0.723630
+*****svm****round186***************
+PCA dimension for first structure = 10
+PCA dimension for second structure = 6train_TP = 0.919395
+train_TN = 0.765225
+test_TP = 0.664835
+test_TN = 0.692308
+roc_auc = 0.734982
+*****svm****round187***************
+PCA dimension for first structure = 10
+PCA dimension for second structure = 7train_TP = 0.928212
+train_TN = 0.784334
+test_TP = 0.648352
+test_TN = 0.696443
+roc_auc = 0.741372
+*****svm****round188***************
+PCA dimension for first structure = 10
+PCA dimension for second structure = 8train_TP = 0.934509
+train_TN = 0.794204
+test_TP = 0.637363
+test_TN = 0.710505
+roc_auc = 0.742208
+*****svm****round189***************
+PCA dimension for first structure = 10
+PCA dimension for second structure = 9train_TP = 0.935768
+train_TN = 0.808064
+test_TP = 0.609890
+test_TN = 0.726220
+roc_auc = 0.738468
+*****svm****round190***************
+PCA dimension for first structure = 10
+PCA dimension for second structure = 10train_TP = 0.947103
+train_TN = 0.820874
+test_TP = 0.609890
+test_TN = 0.735318
+roc_auc = 0.733987
+*****svm****round191***************
+PCA dimension for first structure = 10
+PCA dimension for second structure = 11train_TP = 0.947103
+train_TN = 0.839773
+test_TP = 0.609890
+test_TN = 0.760959
+roc_auc = 0.737423
+*****svm****round196***************
+PCA dimension for first structure = 10
+PCA dimension for second structure = 16train_TP = 0.974811
+train_TN = 0.873373
+test_TP = 0.604396
+test_TN = 0.787428
+roc_auc = 0.749080
+*****svm****round201***************
+PCA dimension for first structure = 11
+PCA dimension for second structure = 1train_TP = 0.826196
+train_TN = 0.713146
+test_TP = 0.604396
+test_TN = 0.640199
+roc_auc = 0.660504
+*****svm****round203***************
+PCA dimension for first structure = 11
+PCA dimension for second structure = 3train_TP = 0.885390
+train_TN = 0.726585
+test_TP = 0.659341
+test_TN = 0.672457
+roc_auc = 0.727352
+*****svm****round204***************
+PCA dimension for first structure = 11
+PCA dimension for second structure = 4train_TP = 0.896725
+train_TN = 0.748635
+test_TP = 0.648352
+test_TN = 0.681555
+roc_auc = 0.729519
+*****svm****round205***************
+PCA dimension for first structure = 11
+PCA dimension for second structure = 5train_TP = 0.913098
+train_TN = 0.757665
+test_TP = 0.626374
+test_TN = 0.682382
+roc_auc = 0.719967
+*****svm****round206***************
+PCA dimension for first structure = 11
+PCA dimension for second structure = 6train_TP = 0.923174
+train_TN = 0.778664
+test_TP = 0.631868
+test_TN = 0.711332
+roc_auc = 0.731092
+*****svm****round207***************
+PCA dimension for first structure = 11
+PCA dimension for second structure = 7train_TP = 0.933249
+train_TN = 0.800084
+test_TP = 0.631868
+test_TN = 0.713813
+roc_auc = 0.734114
+*****svm****round208***************
+PCA dimension for first structure = 11
+PCA dimension for second structure = 8train_TP = 0.937028
+train_TN = 0.809324
+test_TP = 0.626374
+test_TN = 0.729529
+roc_auc = 0.735577
+*****svm****round209***************
+PCA dimension for first structure = 11
+PCA dimension for second structure = 9train_TP = 0.939547
+train_TN = 0.817934
+test_TP = 0.604396
+test_TN = 0.737800
+roc_auc = 0.732337
+*****svm****round221***************
+PCA dimension for first structure = 12
+PCA dimension for second structure = 1train_TP = 0.846348
+train_TN = 0.725745
+test_TP = 0.615385
+test_TN = 0.651778
+roc_auc = 0.663822
+*****svm****round223***************
+PCA dimension for first structure = 12
+PCA dimension for second structure = 3train_TP = 0.885390
+train_TN = 0.742125
+test_TP = 0.637363
+test_TN = 0.678246
+roc_auc = 0.722057
+*****svm****round224***************
+PCA dimension for first structure = 12
+PCA dimension for second structure = 4train_TP = 0.908060
+train_TN = 0.768165
+test_TP = 0.626374
+test_TN = 0.692308
+roc_auc = 0.723180
+*****svm****round225***************
+PCA dimension for first structure = 12
+PCA dimension for second structure = 5train_TP = 0.906801
+train_TN = 0.776144
+test_TP = 0.615385
+test_TN = 0.693135
+roc_auc = 0.717494
+*****svm****round226***************
+PCA dimension for first structure = 12
+PCA dimension for second structure = 6train_TP = 0.931990
+train_TN = 0.794624
+test_TP = 0.626374
+test_TN = 0.709677
+roc_auc = 0.722862
+*****svm****round227***************
+PCA dimension for first structure = 12
+PCA dimension for second structure = 7train_TP = 0.933249
+train_TN = 0.812894
+test_TP = 0.615385
+test_TN = 0.720430
+roc_auc = 0.727252
+*****svm****round228***************
+PCA dimension for first structure = 12
+PCA dimension for second structure = 8train_TP = 0.942065
+train_TN = 0.822974
+test_TP = 0.604396
+test_TN = 0.731183
+roc_auc = 0.729447
+*****svm****round241***************
+PCA dimension for first structure = 13
+PCA dimension for second structure = 1train_TP = 0.867758
+train_TN = 0.735615
+test_TP = 0.604396
+test_TN = 0.665840
+roc_auc = 0.663281
+*****svm****round243***************
+PCA dimension for first structure = 13
+PCA dimension for second structure = 3train_TP = 0.900504
+train_TN = 0.757455
+test_TP = 0.637363
+test_TN = 0.688172
+roc_auc = 0.718449
+*****svm****round244***************
+PCA dimension for first structure = 13
+PCA dimension for second structure = 4train_TP = 0.915617
+train_TN = 0.776984
+test_TP = 0.604396
+test_TN = 0.709677
+roc_auc = 0.718462
+*****svm****round246***************
+PCA dimension for first structure = 13
+PCA dimension for second structure = 6train_TP = 0.944584
+train_TN = 0.805334
+test_TP = 0.609890
+test_TN = 0.713813
+roc_auc = 0.722193
+*****svm****round263***************
+PCA dimension for first structure = 14
+PCA dimension for second structure = 3train_TP = 0.914358
+train_TN = 0.762915
+test_TP = 0.626374
+test_TN = 0.685691
+roc_auc = 0.725366
+*****svm****round264***************
+PCA dimension for first structure = 14
+PCA dimension for second structure = 4train_TP = 0.920655
+train_TN = 0.784754
+test_TP = 0.609890
+test_TN = 0.715467
+roc_auc = 0.726974
+*****svm****round266***************
+PCA dimension for first structure = 14
+PCA dimension for second structure = 6train_TP = 0.940806
+train_TN = 0.815834
+test_TP = 0.620879
+test_TN = 0.735318
+roc_auc = 0.725752
+*****svm****round281***************
+PCA dimension for first structure = 15
+PCA dimension for second structure = 1train_TP = 0.899244
+train_TN = 0.749685
+test_TP = 0.609890
+test_TN = 0.662531
+roc_auc = 0.683550
+*****svm****round282***************
+PCA dimension for first structure = 15
+PCA dimension for second structure = 2train_TP = 0.908060
+train_TN = 0.774885
+test_TP = 0.609890
+test_TN = 0.674938
+roc_auc = 0.686141
+*****svm****round283***************
+PCA dimension for first structure = 15
+PCA dimension for second structure = 3train_TP = 0.925693
+train_TN = 0.783914
+test_TP = 0.609890
+test_TN = 0.705542
+roc_auc = 0.727697
+*****svm****round286***************
+PCA dimension for first structure = 15
+PCA dimension for second structure = 6train_TP = 0.953401
+train_TN = 0.824864
+test_TP = 0.604396
+test_TN = 0.727047
+roc_auc = 0.727061
+*****svm****round301***************
+PCA dimension for first structure = 16
+PCA dimension for second structure = 1train_TP = 0.918136
+train_TN = 0.772365
+test_TP = 0.620879
+test_TN = 0.684036
+roc_auc = 0.693648
+*****svm****round303***************
+PCA dimension for first structure = 16
+PCA dimension for second structure = 3train_TP = 0.926952
+train_TN = 0.804494
+test_TP = 0.609890
+test_TN = 0.721257
+roc_auc = 0.736341
+*****svm****round324***************
+PCA dimension for first structure = 17
+PCA dimension for second structure = 4train_TP = 0.954660
+train_TN = 0.830113
+test_TP = 0.604396
+test_TN = 0.748553
+roc_auc = 0.728529
+*****svm****round343***************
+PCA dimension for first structure = 18
+PCA dimension for second structure = 3train_TP = 0.947103
+train_TN = 0.821294
+test_TP = 0.615385
+test_TN = 0.734491
+roc_auc = 0.739581
+*****svm****round363***************
+PCA dimension for first structure = 19
+PCA dimension for second structure = 3train_TP = 0.953401
+train_TN = 0.834523
+test_TP = 0.609890
+test_TN = 0.737800
+roc_auc = 0.738309
