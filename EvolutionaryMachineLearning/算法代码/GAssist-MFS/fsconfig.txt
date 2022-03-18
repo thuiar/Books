@@ -1,0 +1,6 @@
+popSize = 50
+probCrossover = 0.6 
+probMutation = 0.2 
+beta = 0.2 
+
+numAttributes = 15

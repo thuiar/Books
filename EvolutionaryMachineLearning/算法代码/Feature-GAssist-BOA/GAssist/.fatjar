@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri Jan 06 09:53:32 CST 2012
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=MDL-Feature-Iter.jar
+manifest.mergeall=true
+manifest.mainclass=run.Batch
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=

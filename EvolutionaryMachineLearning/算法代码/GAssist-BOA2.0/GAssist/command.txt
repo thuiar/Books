@@ -1,0 +1,1 @@
+config.txt	0-training-TotalLadderMultiplexer-3-6-1.arff	0-test-TotalLadderMultiplexer-3-6-1.arff	true	1	acc-6.txt

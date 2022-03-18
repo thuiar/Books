@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;offspring&apos; in &apos;boa.BOA.constructTheNetwork_MDL(...)&apos; to &apos;parent&apos;&#x0D;&#x0A;- Original project: &apos;GAssist&apos;&#x0D;&#x0A;- Original element: &apos;boa.BOA.constructTheNetwork_MDL(Population).offspring&apos;&#x0D;&#x0A;- Renamed element: &apos;offspring&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;offspring&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;boa{BOA.java[BOA~constructTheNetwork_MDL~QPopulation;@offspring!2178!2197!2189!2197!QPopulation;" name="parent" references="true" stamp="1322117926328" version="1.0"/>
+</session>

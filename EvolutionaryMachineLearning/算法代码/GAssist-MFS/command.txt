@@ -1,0 +1,6 @@
+config.txt	fsconfig.txt	mushroom\0-training-mushroom.arff	mushroom\0-test-mushroom.arff	10	mushroom\mushroom-0.txt
+config.txt	fsconfig.txt	SPECT\0-training-SPECT.arff	SPECT\0-test-SPECT.arff	10	SPECT\SPECT-0.txt
+config.txt	fsconfig.txt	tic-tac-toe\0-training-tic-tac-toe.arff	tic-tac-toe\0-test-tic-tac-toe.arff	10	tic-tac-toe\tic-tac-toe-0.txt
+config.txt	fsconfig.txt	monks-1\0-training-monks-1.arff	monks-1\0-test-monks-1.arff	10	monks-1\monks-1-0.txt
+config.txt	fsconfig.txt	kr-vs-kp\0-training-kr-vs-kp.arff	kr-vs-kp\0-test-kr-vs-kp.arff	10	kr-vs-kp\kr-vs-kp-0.txt
+config.txt	fsconfig.txt	house-votes-84\0-training-house-votes-84.arff	house-votes-84\0-test-house-votes-84.arff	10	house-votes-84\house-votes-84-0.txt

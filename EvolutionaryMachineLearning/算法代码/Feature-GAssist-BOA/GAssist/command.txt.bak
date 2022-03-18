@@ -1,0 +1,3 @@
+config.txt	relief_0-training-musk2.arff	relief_0-test-musk2.arff	true	1	multi.txt
+config.txt	info_0-training-musk2.arff	info_0-test-musk2.arff	true	1	multi.txt
+config.txt	relief_0-training-musk2.arff	relief_0-test-musk2.arff	true	1	multi.txt

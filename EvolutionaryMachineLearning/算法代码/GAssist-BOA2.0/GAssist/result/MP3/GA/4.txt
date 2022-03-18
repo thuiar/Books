@@ -1,0 +1,271 @@
+4-training-MP-3.arff
+Experiment: 0
+Best of iteration 0 : 0.6049382716049383 49.314318935740914 2(2)
+Best of iteration 100 : 0.9753086419753086 7.46913580246914 13(13)
+Best of iteration 200 : 0.9876543209876543 6.23456790123457 10(10)
+Best of iteration 300 : 1.0 5.0 11(11)
+Best of iteration 400 : 1.0 5.0 10(10)
+training accuracy 160.0/160.0=	1.0
+test accuracy 40.0/40.0=	1.0
+Total time: 8.782
+Experiment: 1
+Best of iteration 0 : 0.525 52.5 21(9)
+Best of iteration 100 : 0.975 7.5 11(11)
+Best of iteration 200 : 0.9625 8.75 11(11)
+Best of iteration 300 : 1.0 5.0 12(12)
+Best of iteration 400 : 1.0 5.0 10(10)
+training accuracy 159.0/160.0=	0.99375
+test accuracy 37.0/40.0=	0.925
+Total time: 8.656
+Experiment: 2
+Best of iteration 0 : 0.5802469135802469 52.05020348141308 2(2)
+Best of iteration 100 : 0.9382716049382716 11.17283950617285 9(9)
+Best of iteration 200 : 0.9506172839506173 9.938271604938265 11(11)
+Best of iteration 300 : 0.9629629629629629 8.70370370370371 11(11)
+Best of iteration 400 : 1.0 5.0 15(15)
+training accuracy 158.0/160.0=	0.9875
+test accuracy 38.0/40.0=	0.95
+Total time: 9.609
+Experiment: 3
+Best of iteration 0 : 0.5925925925925926 50.68226120857701 2(2)
+Best of iteration 100 : 0.9629629629629629 8.70370370370371 13(13)
+Best of iteration 200 : 0.9506172839506173 9.938271604938265 13(13)
+Best of iteration 300 : 0.9753086419753086 7.46913580246914 11(11)
+Best of iteration 400 : 0.9629629629629629 8.70370370370371 14(14)
+training accuracy 155.0/160.0=	0.96875
+test accuracy 37.0/40.0=	0.925
+Total time: 8.703
+Experiment: 4
+Best of iteration 0 : 0.5185185185185185 53.14814814814815 21(9)
+Best of iteration 100 : 0.9135802469135802 13.641975308641975 8(8)
+Best of iteration 200 : 0.9629629629629629 8.70370370370371 11(11)
+Best of iteration 300 : 0.9753086419753086 7.46913580246914 9(9)
+Best of iteration 400 : 0.9753086419753086 7.46913580246914 10(10)
+training accuracy 155.0/160.0=	0.96875
+test accuracy 34.0/40.0=	0.85
+Total time: 7.672
+Experiment: 5
+Best of iteration 0 : 0.5189873417721519 53.10126582278481 21(8)
+Best of iteration 100 : 0.9240506329113924 12.594936708860757 12(12)
+Best of iteration 200 : 0.9620253164556962 8.797468354430379 15(15)
+Best of iteration 300 : 0.9746835443037974 7.5316455696202524 12(12)
+Best of iteration 400 : 0.9873417721518988 6.265822784810126 12(12)
+training accuracy 160.0/160.0=	1.0
+test accuracy 40.0/40.0=	1.0
+Total time: 10.547
+Experiment: 6
+Best of iteration 0 : 0.6 49.86149584487535 2(2)
+Best of iteration 100 : 0.95 10.0 11(11)
+Best of iteration 200 : 0.9875 6.25 10(10)
+Best of iteration 300 : 1.0 5.0 9(9)
+Best of iteration 400 : 1.0 5.0 9(9)
+training accuracy 158.0/160.0=	0.9875
+test accuracy 39.0/40.0=	0.975
+Total time: 8.375
+Experiment: 7
+Best of iteration 0 : 0.7125 37.39612188365651 2(2)
+Best of iteration 100 : 0.9375 11.25 10(10)
+Best of iteration 200 : 0.9375 11.25 10(10)
+Best of iteration 300 : 0.95 10.0 9(9)
+Best of iteration 400 : 0.95 10.0 10(10)
+training accuracy 153.0/160.0=	0.95625
+test accuracy 32.0/40.0=	0.8
+Total time: 7.953
+Experiment: 8
+Best of iteration 0 : 0.6 49.86149584487535 2(2)
+Best of iteration 100 : 0.9375 11.25 10(10)
+Best of iteration 200 : 0.9875 6.25 12(12)
+Best of iteration 300 : 0.9875 6.25 8(8)
+Best of iteration 400 : 0.9875 6.25 8(8)
+training accuracy 158.0/160.0=	0.9875
+test accuracy 39.0/40.0=	0.975
+Total time: 7.844
+Experiment: 9
+Best of iteration 0 : 0.5949367088607594 50.42252533398787 2(2)
+Best of iteration 100 : 0.9620253164556962 8.797468354430379 12(12)
+Best of iteration 200 : 0.9873417721518988 6.265822784810126 11(11)
+Best of iteration 300 : 1.0 5.0 10(10)
+Best of iteration 400 : 0.9873417721518988 6.265822784810126 8(8)
+training accuracy 158.0/160.0=	0.9875
+test accuracy 39.0/40.0=	0.975
+Total time: 7.969
+Experiment: 10
+Best of iteration 0 : 0.6 49.86149584487535 2(2)
+Best of iteration 100 : 0.9375 11.25 11(11)
+Best of iteration 200 : 0.9625 8.75 13(13)
+Best of iteration 300 : 0.9625 8.75 13(13)
+Best of iteration 400 : 0.9625 8.75 8(8)
+training accuracy 152.0/160.0=	0.95
+test accuracy 30.0/40.0=	0.75
+Total time: 8.547
+Experiment: 11
+Best of iteration 0 : 0.525 52.5 21(8)
+Best of iteration 100 : 0.9 15.0 7(7)
+Best of iteration 200 : 0.925 12.5 7(7)
+Best of iteration 300 : 0.95 10.0 7(7)
+Best of iteration 400 : 0.95 10.0 8(8)
+training accuracy 152.0/160.0=	0.95
+test accuracy 37.0/40.0=	0.925
+Total time: 6.593
+Experiment: 12
+Best of iteration 0 : 0.5308641975308642 51.913580246913575 6(5)
+Best of iteration 100 : 0.9012345679012346 14.876543209876544 10(10)
+Best of iteration 200 : 0.9753086419753086 7.46913580246914 14(14)
+Best of iteration 300 : 1.0 5.0 14(14)
+Best of iteration 400 : 1.0 5.0 13(13)
+training accuracy 159.0/160.0=	0.99375
+test accuracy 38.0/40.0=	0.95
+Total time: 10.61
+Experiment: 13
+Best of iteration 0 : 0.5925925925925926 50.68226120857701 2(2)
+Best of iteration 100 : 0.9135802469135802 13.641975308641975 11(11)
+Best of iteration 200 : 0.9506172839506173 9.938271604938265 10(10)
+Best of iteration 300 : 0.9506172839506173 9.938271604938265 11(11)
+Best of iteration 400 : 0.9753086419753086 7.46913580246914 10(10)
+training accuracy 156.0/160.0=	0.975
+test accuracy 35.0/40.0=	0.875
+Total time: 7.765
+Experiment: 14
+Best of iteration 0 : 0.5875 51.24653739612189 2(2)
+Best of iteration 100 : 0.9375 11.25 9(9)
+Best of iteration 200 : 1.0 5.0 12(12)
+Best of iteration 300 : 1.0 5.0 10(10)
+Best of iteration 400 : 1.0 5.0 9(9)
+training accuracy 159.0/160.0=	0.99375
+test accuracy 38.0/40.0=	0.95
+Total time: 7.829
+Experiment: 15
+Best of iteration 0 : 0.7375 34.62603878116344 2(2)
+Best of iteration 100 : 0.925 12.5 11(11)
+Best of iteration 200 : 0.9375 11.25 11(11)
+Best of iteration 300 : 0.9875 6.25 9(9)
+Best of iteration 400 : 0.9875 6.25 8(8)
+training accuracy 157.0/160.0=	0.98125
+test accuracy 38.0/40.0=	0.95
+Total time: 7.343
+Experiment: 16
+Best of iteration 0 : 0.5189873417721519 53.10126582278481 21(9)
+Best of iteration 100 : 0.9493670886075949 10.063291139240505 12(12)
+Best of iteration 200 : 0.9873417721518988 6.265822784810126 11(11)
+Best of iteration 300 : 1.0 5.0 14(14)
+Best of iteration 400 : 1.0 5.0 10(10)
+training accuracy 158.0/160.0=	0.9875
+test accuracy 39.0/40.0=	0.975
+Total time: 9.0
+Experiment: 17
+Best of iteration 0 : 0.5802469135802469 52.05020348141308 2(2)
+Best of iteration 100 : 0.9259259259259259 12.407407407407405 13(13)
+Best of iteration 200 : 0.9506172839506173 9.938271604938265 11(11)
+Best of iteration 300 : 0.9629629629629629 8.70370370370371 9(9)
+Best of iteration 400 : 0.9629629629629629 8.70370370370371 10(10)
+training accuracy 153.0/160.0=	0.95625
+test accuracy 30.0/40.0=	0.75
+Total time: 8.735
+Experiment: 18
+Best of iteration 0 : 0.525 52.5 21(5)
+Best of iteration 100 : 0.9125 13.75 8(8)
+Best of iteration 200 : 0.9375 11.25 8(8)
+Best of iteration 300 : 0.9375 11.25 7(7)
+Best of iteration 400 : 0.95 10.0 8(8)
+training accuracy 153.0/160.0=	0.95625
+test accuracy 37.0/40.0=	0.925
+Total time: 6.562
+Experiment: 19
+Best of iteration 0 : 0.5949367088607594 50.42252533398787 2(2)
+Best of iteration 100 : 0.9113924050632911 13.860759493670884 10(10)
+Best of iteration 200 : 0.9620253164556962 8.797468354430379 13(13)
+Best of iteration 300 : 0.9493670886075949 10.063291139240505 9(9)
+Best of iteration 400 : 0.9493670886075949 10.063291139240505 10(10)
+training accuracy 152.0/160.0=	0.95
+test accuracy 37.0/40.0=	0.925
+Total time: 6.828
+Experiment: 20
+Best of iteration 0 : 0.525 52.5 21(9)
+Best of iteration 100 : 0.925 12.5 8(8)
+Best of iteration 200 : 0.9625 8.75 10(10)
+Best of iteration 300 : 0.9875 6.25 9(9)
+Best of iteration 400 : 1.0 5.0 10(10)
+training accuracy 158.0/160.0=	0.9875
+test accuracy 39.0/40.0=	0.975
+Total time: 7.532
+Experiment: 21
+Best of iteration 0 : 0.5875 51.24653739612189 2(2)
+Best of iteration 100 : 0.9375 11.25 10(10)
+Best of iteration 200 : 0.9625 8.75 9(9)
+Best of iteration 300 : 0.975 7.5 10(10)
+Best of iteration 400 : 0.9875 6.25 8(8)
+training accuracy 157.0/160.0=	0.98125
+test accuracy 38.0/40.0=	0.95
+Total time: 8.203
+Experiment: 22
+Best of iteration 0 : 0.5802469135802469 52.05020348141308 2(2)
+Best of iteration 100 : 0.9012345679012346 14.876543209876544 12(12)
+Best of iteration 200 : 0.9629629629629629 8.70370370370371 9(9)
+Best of iteration 300 : 0.9629629629629629 8.70370370370371 13(13)
+Best of iteration 400 : 0.9753086419753086 7.46913580246914 8(8)
+training accuracy 157.0/160.0=	0.98125
+test accuracy 38.0/40.0=	0.95
+Total time: 7.5
+Experiment: 23
+Best of iteration 0 : 0.5189873417721519 53.10126582278481 21(8)
+Best of iteration 100 : 0.9493670886075949 10.063291139240505 13(13)
+Best of iteration 200 : 1.0 5.0 14(14)
+Best of iteration 300 : 0.9873417721518988 6.265822784810126 10(10)
+Best of iteration 400 : 0.9873417721518988 6.265822784810126 8(8)
+training accuracy 158.0/160.0=	0.9875
+test accuracy 39.0/40.0=	0.975
+Total time: 8.75
+Experiment: 24
+Best of iteration 0 : 0.5125 53.75000000000001 21(8)
+Best of iteration 100 : 0.9125 13.75 11(11)
+Best of iteration 200 : 0.9375 11.25 8(8)
+Best of iteration 300 : 0.9875 6.25 10(10)
+Best of iteration 400 : 1.0 5.0 14(14)
+training accuracy 160.0/160.0=	1.0
+test accuracy 40.0/40.0=	1.0
+Total time: 7.937
+Experiment: 25
+Best of iteration 0 : 0.6455696202531646 44.812230442862656 2(2)
+Best of iteration 100 : 0.9113924050632911 13.860759493670884 9(9)
+Best of iteration 200 : 0.9746835443037974 7.5316455696202524 10(10)
+Best of iteration 300 : 0.9746835443037974 7.5316455696202524 11(11)
+Best of iteration 400 : 0.9873417721518988 6.265822784810126 10(10)
+training accuracy 158.0/160.0=	0.9875
+test accuracy 35.0/40.0=	0.875
+Total time: 8.141
+Experiment: 26
+Best of iteration 0 : 0.5949367088607594 50.42252533398787 2(2)
+Best of iteration 100 : 0.9113924050632911 13.860759493670884 12(12)
+Best of iteration 200 : 0.9620253164556962 8.797468354430379 13(13)
+Best of iteration 300 : 0.9873417721518988 6.265822784810126 11(11)
+Best of iteration 400 : 1.0 5.0 9(9)
+training accuracy 158.0/160.0=	0.9875
+test accuracy 38.0/40.0=	0.95
+Total time: 7.672
+Experiment: 27
+Best of iteration 0 : 0.5875 51.24653739612189 2(2)
+Best of iteration 100 : 0.9375 11.25 16(16)
+Best of iteration 200 : 0.975 7.5 12(12)
+Best of iteration 300 : 0.9875 6.25 9(9)
+Best of iteration 400 : 1.0 5.0 9(9)
+training accuracy 159.0/160.0=	0.99375
+test accuracy 39.0/40.0=	0.975
+Total time: 8.468
+Experiment: 28
+Best of iteration 0 : 0.5189873417721519 53.10126582278481 21(5)
+Best of iteration 100 : 0.8987341772151899 15.12658227848101 11(11)
+Best of iteration 200 : 0.9240506329113924 12.594936708860757 9(9)
+Best of iteration 300 : 0.9367088607594937 11.329113924050631 11(11)
+Best of iteration 400 : 0.9493670886075949 10.063291139240505 8(8)
+training accuracy 152.0/160.0=	0.95
+test accuracy 37.0/40.0=	0.925
+Total time: 7.25
+Experiment: 29
+Best of iteration 0 : 0.5189873417721519 53.10126582278481 21(8)
+Best of iteration 100 : 0.9367088607594937 11.329113924050631 8(8)
+Best of iteration 200 : 0.9493670886075949 10.063291139240505 7(7)
+Best of iteration 300 : 0.9873417721518988 6.265822784810126 13(13)
+Best of iteration 400 : 0.9493670886075949 10.063291139240505 7(7)
+training accuracy 155.0/160.0=	0.96875
+test accuracy 38.0/40.0=	0.95
+Total time: 6.844

@@ -1,0 +1,1040 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="33" version="2.0">
+<workbenchAdvisor/>
+<window height="726" maximized="true" minimized="true" width="1556" x="444" y="155">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout locked="0">
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="98" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="com.instantiations.j2ee.actionset" itemType="typeToolBarContribution" x="39" y="22"/>
+<coolItem id="com.swtdesigner.actionset" itemType="typeToolBarContribution" x="75" y="22"/>
+<coolItem id="com.swtdesigner.gwt.actionset" itemType="typeToolBarContribution" x="62" y="22"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="124" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="98" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="98" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="131" y="22"/>
+<coolItem id="org.eclipse.wst.xml.ui.perspective.NewFileToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.wst.xml.ui.design.DesignToolBar" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="183" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.ui.DefaultTextEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1273478919984" focus="true" label="Workspace - Java">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+<part id="13"/>
+<part id="14"/>
+<part id="15"/>
+<part id="16"/>
+<part id="17"/>
+<part id="18"/>
+<part id="19"/>
+<part id="20"/>
+<part id="21"/>
+<part id="22"/>
+<part id="23"/>
+<part id="24"/>
+<part id="25"/>
+<part id="26"/>
+<part id="27"/>
+<part id="28"/>
+<part id="29"/>
+<part id="30"/>
+<part id="31"/>
+<part id="32"/>
+<part id="33"/>
+<part id="34"/>
+<part id="35"/>
+<part id="36"/>
+<part id="37"/>
+<part id="38"/>
+<part id="39"/>
+<part id="40"/>
+<part id="41"/>
+<part id="42"/>
+<part id="43"/>
+<part id="44"/>
+<part id="45"/>
+<part id="46"/>
+<part id="47"/>
+<part id="48"/>
+<part id="49"/>
+<part id="50"/>
+<part id="51"/>
+<part id="52"/>
+<part id="53"/>
+<part id="54"/>
+<part id="55"/>
+<part id="56"/>
+<part id="57"/>
+<part id="58"/>
+<part id="59"/>
+<part id="60"/>
+<part id="61"/>
+<part id="62"/>
+<part id="63"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Bayesian.java" partName="Bayesian.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/boa/Bayesian.java" title="Bayesian.java" tooltip="GAssist/src/boa/Bayesian.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/boa/Bayesian.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="8" selectionOffset="862" selectionTopPixel="306"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BOAParameter.java" partName="BOAParameter.java" path="D:/workspace/workplace for java/GAssist-BOA 3.1/GAssist/src/boa/BOAParameter.java" title="BOAParameter.java" tooltip="GAssist/src/boa/BOAParameter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/boa/BOAParameter.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="361" selectionOffset="46" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ParityMultiplexer.java" partName="ParityMultiplexer.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/boa/func/ParityMultiplexer.java" title="ParityMultiplexer.java" tooltip="GAssist/src/boa/func/ParityMultiplexer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/boa/func/ParityMultiplexer.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="510" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ParityOne.java" partName="ParityOne.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/boa/func/ParityOne.java" title="ParityOne.java" tooltip="GAssist/src/boa/func/ParityOne.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/boa/func/ParityOne.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="429" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Trap.java" partName="Trap.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/boa/func/Trap.java" title="Trap.java" tooltip="GAssist/src/boa/func/Trap.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/boa/func/Trap.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="25" selectionOffset="294" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="Manifest" partName="Manifest" path="D:/workspace/workplace for java/GAssist-BOA 2.0/GAssist/src/Manifest" title="Manifest" tooltip="GAssist/src/Manifest" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/Manifest"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Classifier.java" partName="Classifier.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/GAssist/Classifier.java" title="Classifier.java" tooltip="GAssist/src/GAssist/Classifier.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/Classifier.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="12" selectionOffset="1170" selectionTopPixel="612"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ParserParameters.java" partName="ParserParameters.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/GAssist/ParserParameters.java" title="ParserParameters.java" tooltip="GAssist/src/GAssist/ParserParameters.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/ParserParameters.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="7" selectionOffset="225" selectionTopPixel="68"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestBOA.java" partName="TestBOA.java" path="D:/workspace/workplace for java/GAssist-BOA 3.0/GAssist/src/run/TestBOA.java" title="TestBOA.java" tooltip="GAssist/src/run/TestBOA.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/run/TestBOA.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="299" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Timers.java" partName="Timers.java" path="D:/workspace/workplace for java/GAssist-BOA 3.0/GAssist/src/GAssist/Timers.java" title="Timers.java" tooltip="GAssist/src/GAssist/Timers.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/Timers.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="979" selectionTopPixel="304"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BOA.java" partName="BOA.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/boa/BOA.java" title="BOA.java" tooltip="GAssist/src/boa/BOA.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/boa/BOA.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="23" selectionOffset="2681" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Test.java" partName="Test.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/run/Test.java" title="Test.java" tooltip="GAssist/src/run/Test.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/run/Test.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="279" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Chromosome.java" partName="Chromosome.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/boa/Chromosome.java" title="Chromosome.java" tooltip="GAssist/src/boa/Chromosome.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/boa/Chromosome.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2777" selectionTopPixel="1849"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Globals_GABIL.java" partName="Globals_GABIL.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/GAssist/Globals_GABIL.java" title="Globals_GABIL.java" tooltip="GAssist/src/GAssist/Globals_GABIL.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/Globals_GABIL.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="13" selectionOffset="266" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Statistics.java" partName="Statistics.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/GAssist/Statistics.java" title="Statistics.java" tooltip="GAssist/src/GAssist/Statistics.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/Statistics.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4248" selectionTopPixel="2193"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="PopulationWrapper.java" partName="PopulationWrapper.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/GAssist/PopulationWrapper.java" title="PopulationWrapper.java" tooltip="GAssist/src/GAssist/PopulationWrapper.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/PopulationWrapper.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="35" selectionOffset="4118" selectionTopPixel="2414"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="InstanceWrapper.java" partName="InstanceWrapper.java" path="D:/workspace/workplace for java/GAssist-BOA 2.0/GAssist/src/GAssist/InstanceWrapper.java" title="InstanceWrapper.java" tooltip="GAssist/src/GAssist/InstanceWrapper.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/InstanceWrapper.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="41" selectionOffset="585" selectionTopPixel="221"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Instance.java" partName="Instance.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/GAssist/Dataset/Instance.java" title="Instance.java" tooltip="GAssist/src/GAssist/Dataset/Instance.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/Dataset/Instance.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3747" selectionTopPixel="2124"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LogManager.java" partName="LogManager.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/GAssist/LogManager.java" title="LogManager.java" tooltip="GAssist/src/GAssist/LogManager.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/LogManager.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="179" selectionOffset="1708" selectionTopPixel="1016"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Population.java" partName="Population.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/boa/Population.java" title="Population.java" tooltip="GAssist/src/boa/Population.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/boa/Population.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="9" selectionOffset="4357" selectionTopPixel="2818"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClassifierGABIL.java" partName="ClassifierGABIL.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/GAssist/ClassifierGABIL.java" title="ClassifierGABIL.java" tooltip="GAssist/src/GAssist/ClassifierGABIL.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/ClassifierGABIL.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="12" selectionOffset="6242" selectionTopPixel="4165"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Generator.java" partName="Generator.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/boa/util/Generator.java" title="Generator.java" tooltip="GAssist/src/boa/util/Generator.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/boa/util/Generator.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3235" selectionTopPixel="1530"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TrainTest.java" partName="TrainTest.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/run/TrainTest.java" title="TrainTest.java" tooltip="GAssist/src/run/TrainTest.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/run/TrainTest.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="9" selectionOffset="149" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Factory.java" partName="Factory.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/GAssist/Factory.java" title="Factory.java" tooltip="GAssist/src/GAssist/Factory.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/Factory.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="13" selectionOffset="511" selectionTopPixel="153"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Globals_DefaultC.java" partName="Globals_DefaultC.java" path="D:/workspace/workplace for java/GAssist-BOA 3.0/GAssist/src/GAssist/Globals_DefaultC.java" title="Globals_DefaultC.java" tooltip="GAssist/src/GAssist/Globals_DefaultC.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/Globals_DefaultC.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1697" selectionTopPixel="816"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Statistics.java" partName="Statistics.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/GAssist/Statistics.java" title="Statistics.java" tooltip="GAssist/src/GAssist/Statistics.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/Statistics.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5878" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FileManagement.java" partName="FileManagement.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/GAssist/FileManagement.java" title="FileManagement.java" tooltip="GAssist/src/GAssist/FileManagement.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/FileManagement.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="810" selectionTopPixel="102"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DiscretizationManager.java" partName="DiscretizationManager.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/GAssist/DiscretizationAlgorithms/DiscretizationManager.java" title="DiscretizationManager.java" tooltip="GAssist/src/GAssist/DiscretizationAlgorithms/DiscretizationManager.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/DiscretizationAlgorithms/DiscretizationManager.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2969" selectionTopPixel="552"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AdaptiveAttribute.java" partName="AdaptiveAttribute.java" path="D:/workspace/workplace for java/GAssist-BOA 3.1/GAssist/src/GAssist/AdaptiveAttribute.java" title="AdaptiveAttribute.java" tooltip="GAssist/src/GAssist/AdaptiveAttribute.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/AdaptiveAttribute.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="8124" selectionTopPixel="5678"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="AdaptiveRule.java" partName="AdaptiveRule.java" path="D:/workspace/workplace for java/GAssist-BOA 3.1/GAssist/src/GAssist/AdaptiveRule.java" title="AdaptiveRule.java" tooltip="GAssist/src/GAssist/AdaptiveRule.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/AdaptiveRule.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5250" selectionTopPixel="2941"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="MyUtil.java" partName="MyUtil.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/boa/util/MyUtil.java" title="MyUtil.java" tooltip="GAssist/src/boa/util/MyUtil.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/boa/util/MyUtil.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="45" selectionOffset="4808" selectionTopPixel="2992"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UniformFrequencyDiscretizer.java" partName="UniformFrequencyDiscretizer.java" path="D:/workspace/workplace for java/GAssist-BOA 3.1/GAssist/src/GAssist/DiscretizationAlgorithms/UniformFrequencyDiscretizer.java" title="UniformFrequencyDiscretizer.java" tooltip="GAssist/src/GAssist/DiscretizationAlgorithms/UniformFrequencyDiscretizer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/DiscretizationAlgorithms/UniformFrequencyDiscretizer.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="23" selectionOffset="468" selectionTopPixel="153"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Attributes.java" partName="Attributes.java" path="D:/workspace/workplace for java/GAssist-BOA 3.1/GAssist/src/GAssist/Dataset/Attributes.java" title="Attributes.java" tooltip="GAssist/src/GAssist/Dataset/Attributes.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/Dataset/Attributes.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="12" selectionOffset="1018" selectionTopPixel="306"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ClassifierADI.java" partName="ClassifierADI.java" path="D:/workspace/workplace for java/GAssist-BOA 3.1/GAssist/src/GAssist/ClassifierADI.java" title="ClassifierADI.java" tooltip="GAssist/src/GAssist/ClassifierADI.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/ClassifierADI.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="310" selectionTopPixel="153"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Control.java" partName="Control.java" path="D:/workspace/workplace for java/GAssist-BOA 3.1/GAssist/src/GAssist/Control.java" title="Control.java" tooltip="GAssist/src/GAssist/Control.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/Control.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="536" selectionTopPixel="45"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ChiMergeDiscretizer.java" partName="ChiMergeDiscretizer.java" path="D:/workspace/workplace for java/GAssist-BOA 3.1/GAssist/src/GAssist/DiscretizationAlgorithms/ChiMergeDiscretizer.java" title="ChiMergeDiscretizer.java" tooltip="GAssist/src/GAssist/DiscretizationAlgorithms/ChiMergeDiscretizer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/DiscretizationAlgorithms/ChiMergeDiscretizer.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="20" selectionOffset="166" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="UniformWidthDiscretizer.java" partName="UniformWidthDiscretizer.java" path="D:/workspace/workplace for java/GAssist-BOA 3.1/GAssist/src/GAssist/DiscretizationAlgorithms/UniformWidthDiscretizer.java" title="UniformWidthDiscretizer.java" tooltip="GAssist/src/GAssist/DiscretizationAlgorithms/UniformWidthDiscretizer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/DiscretizationAlgorithms/UniformWidthDiscretizer.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="377" selectionOffset="261" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="FayyadDiscretizer.java" partName="FayyadDiscretizer.java" path="D:/workspace/workplace for java/GAssist-BOA 3.1/GAssist/src/GAssist/DiscretizationAlgorithms/FayyadDiscretizer.java" title="FayyadDiscretizer.java" tooltip="GAssist/src/GAssist/DiscretizationAlgorithms/FayyadDiscretizer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/DiscretizationAlgorithms/FayyadDiscretizer.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="11" selectionOffset="170" selectionTopPixel="306"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GreedyDiscretizer.java" partName="GreedyDiscretizer.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/GAssist/DiscretizationAlgorithms/GreedyDiscretizer.java" title="GreedyDiscretizer.java" tooltip="GAssist/src/GAssist/DiscretizationAlgorithms/GreedyDiscretizer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/DiscretizationAlgorithms/GreedyDiscretizer.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="17" selectionOffset="86" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Chi2Discretizer.java" partName="Chi2Discretizer.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/GAssist/DiscretizationAlgorithms/Chi2Discretizer.java" title="Chi2Discretizer.java" tooltip="GAssist/src/GAssist/DiscretizationAlgorithms/Chi2Discretizer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/DiscretizationAlgorithms/Chi2Discretizer.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="14" selectionOffset="232" selectionTopPixel="66"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Batch.java" partName="Batch.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/run/Batch.java" title="Batch.java" tooltip="GAssist/src/run/Batch.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/run/Batch.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1218" selectionTopPixel="204"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DisTrans.java" partName="DisTrans.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/run/DisTrans.java" title="DisTrans.java" tooltip="GAssist/src/run/DisTrans.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/run/DisTrans.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1151" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Transform.java" partName="Transform.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/boa/util/Transform.java" title="Transform.java" tooltip="GAssist/src/boa/util/Transform.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/boa/util/Transform.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1771" selectionTopPixel="323"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Discretizer.java" partName="Discretizer.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/GAssist/DiscretizationAlgorithms/Discretizer.java" title="Discretizer.java" tooltip="GAssist/src/GAssist/DiscretizationAlgorithms/Discretizer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/DiscretizationAlgorithms/Discretizer.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="3" selectionOffset="4456" selectionTopPixel="2210"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Parameters.java" partName="Parameters.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/GAssist/Parameters.java" title="Parameters.java" tooltip="GAssist/src/GAssist/Parameters.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/Parameters.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="7239" selectionTopPixel="2831"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Parameter.java" partName="Parameter.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/boa/util/Parameter.java" title="Parameter.java" tooltip="GAssist/src/boa/util/Parameter.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/boa/util/Parameter.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="212" selectionOffset="25" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Utils.java" partName="Utils.java" path="D:/workspace/workplace for java/GAssist-BOA 3.1/GAssist/src/GAssist/Utils.java" title="Utils.java" tooltip="GAssist/src/GAssist/Utils.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/Utils.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="662" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Relief.java" partName="Relief.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/relief/Relief.java" title="Relief.java" tooltip="GAssist/src/relief/Relief.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/relief/Relief.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1536" selectionTopPixel="635"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="InstanceSet.java" partName="InstanceSet.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/GAssist/Dataset/InstanceSet.java" title="InstanceSet.java" tooltip="GAssist/src/GAssist/Dataset/InstanceSet.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/Dataset/InstanceSet.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="11" selectionOffset="102" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TestRelief.java" partName="TestRelief.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/run/TestRelief.java" title="TestRelief.java" tooltip="GAssist/src/run/TestRelief.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/run/TestRelief.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1820" selectionTopPixel="567"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BOAGAssist.java" partName="BOAGAssist.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/run/BOAGAssist.java" title="BOAGAssist.java" tooltip="GAssist/src/run/BOAGAssist.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/run/BOAGAssist.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1803" selectionTopPixel="561"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GA.java" partName="GA.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/GAssist/GA.java" title="GA.java" tooltip="GAssist/src/GAssist/GA.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/GA.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4770" selectionTopPixel="5474"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Stat.java" partName="Stat.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/run/Stat.java" title="Stat.java" tooltip="GAssist/src/run/Stat.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/run/Stat.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="8" selectionOffset="535" selectionTopPixel="485"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Chronometer.java" partName="Chronometer.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/GAssist/Chronometer.java" title="Chronometer.java" tooltip="GAssist/src/GAssist/Chronometer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/GAssist/Chronometer.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="20" selectionOffset="4378" selectionTopPixel="2278"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SingleStat.java" partName="SingleStat.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/run/SingleStat.java" title="SingleStat.java" tooltip="GAssist/src/run/SingleStat.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/run/SingleStat.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="8" selectionOffset="445" selectionTopPixel="43"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ReadWeka.java" partName="ReadWeka.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/run/ReadWeka.java" title="ReadWeka.java" tooltip="GAssist/src/run/ReadWeka.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/run/ReadWeka.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1352" selectionTopPixel="204"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DeleteAttr.java" partName="DeleteAttr.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/run/DeleteAttr.java" title="DeleteAttr.java" tooltip="GAssist/src/run/DeleteAttr.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/run/DeleteAttr.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="415" selectionTopPixel="102"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StatLine.java" partName="StatLine.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/run/StatLine.java" title="StatLine.java" tooltip="GAssist/src/run/StatLine.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/run/StatLine.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="101" selectionOffset="585" selectionTopPixel="59"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StatIteration.java" partName="StatIteration.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/run/StatIteration.java" title="StatIteration.java" tooltip="GAssist/src/run/StatIteration.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/run/StatIteration.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="511" selectionTopPixel="204"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Multiplexer.java" partName="Multiplexer.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/boa/func/Multiplexer.java" title="Multiplexer.java" tooltip="GAssist/src/boa/func/Multiplexer.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/boa/func/Multiplexer.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TotalGenerator.java" partName="TotalGenerator.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/boa/util/TotalGenerator.java" title="TotalGenerator.java" tooltip="GAssist/src/boa/util/TotalGenerator.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/boa/util/TotalGenerator.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="5" selectionOffset="3859" selectionTopPixel="2202"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DataGenerator.java" partName="DataGenerator.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/run/DataGenerator.java" title="DataGenerator.java" tooltip="GAssist/src/run/DataGenerator.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/run/DataGenerator.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="23" selectionOffset="216" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CountOne.java" partName="CountOne.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/boa/func/CountOne.java" title="CountOne.java" tooltip="GAssist/src/boa/func/CountOne.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/boa/func/CountOne.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Net.java" partName="Net.java" path="D:/workspace/workplace for java/Feature-GAssist-BOA/GAssist/src/boa/bn/Net.java" title="Net.java" tooltip="GAssist/src/boa/bn/Net.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/GAssist/src/boa/bn/Net.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="874" selectionTopPixel="489"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.jdt.ui.TypeHierarchy" partName="Hierarchy">
+<viewState hidefields="false" hidelocaltypes="false" hidenonpublic="false" hidestatic="false" input="=GAssist/src&lt;run{StatLine.java[StatLine" link_editors="0" mv_vertical_scroll="0" orientation="3" qualified_names="0" ratio="350" selection="=GAssist/src&lt;run{StatLine.java[StatLine" showinherited="false" sortbydefiningtype="false" vertical_scroll="0" view="2" workingSetName=""/>
+</view>
+<view id="org.eclipse.search.ui.views.SearchView" partName="Search">
+<viewState isPinned="false">
+<view IMemento.internal.id="org.eclipse.jdt.ui.JavaSearchResultPage" org.eclipse.jdt.search.resultpage.grouping="3" org.eclipse.jdt.search.resultpage.limit="1000" org.eclipse.jdt.search.resultpage.limit_enabled="TRUE" org.eclipse.jdt.search.resultpage.sorting="1" org.eclipse.search.lastActivation="1" org.eclipse.search.resultpage.layout="2"/>
+<view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
+</viewState>
+</view>
+<view id="org.eclipse.debug.ui.DebugView" partName="Debug">
+<viewState/>
+</view>
+<view id="org.eclipse.pde.runtime.LogView" partName="Error Log">
+<viewState activate="true" allSessions="true" column2="300" column3="150" column4="150" error="true" groupBy="0" info="true" limit="50" ok="true" orderType="2" orderValue="-1" show_filter_text="true" useLimit="true" warning="true"/>
+</view>
+<view id="org.eclipse.debug.ui.VariableView" partName="Variables">
+<viewState/>
+</view>
+<view id="org.eclipse.pde.ui.PluginsView" partName="Plug-ins"/>
+<view id="org.eclipse.ui.views.TaskList" partName="Tasks"/>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+<view id="org.eclipse.debug.ui.ExpressionView" partName="Expressions">
+<viewState/>
+</view>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" partName="Snippets">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<expanded>&#x0A;<category IMemento.internal.id="Errors"/>
+<category IMemento.internal.id="Warnings"/>
+</expanded>
+<columnWidths org.eclipse.ui.ide.locationField="0" org.eclipse.ui.ide.markerType="0" org.eclipse.ui.ide.pathField="0" org.eclipse.ui.ide.resourceField="0" org.eclipse.ui.ide.severityAndDescriptionField="0"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
+<viewState group_libraries="1" layout="2" linkWithEditor="0" rootMode="1" workingSetName="">
+<customFilters userDefinedPatternsEnabled="false">
+<xmlDefinedFilters>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.StaticsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.pde.ui.ExternalPluginLibrariesFilter1" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ContainedLibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.FieldsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.HideInnerClassFilesFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.EmptyLibraryContainerFilter" isEnabled="true"/>
+<child filterId="org.eclipse.pde.ui.BinaryProjectFilter1" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter" isEnabled="true"/>
+<child filterId="org.eclipse.mylyn.java.ui.MembersFilter" isEnabled="false"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.mylyn.tasks.ui.views.tasks" partName="Task List">
+<viewState linkWithEditor="true" presentation="org.eclipse.mylyn.tasks.ui.categorized">
+<sorter groupBy="CATEGORY_QUERY">
+<sorter>
+<sort0 sortDirection="1" sortKey="PRIORITY"/>
+<sort1 sortDirection="1" sortKey="DATE_CREATED"/>
+<sort2 sortDirection="1" sortKey="NONE"/>
+<sort3 sortDirection="1" sortKey="NONE"/>
+</sorter>
+</sorter>
+</viewState>
+</view>
+<view id="org.eclipse.help.ui.HelpView" partName="Help">
+<viewState pageId="context-help-page"/>
+</view>
+<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration">
+<viewState/>
+</view>
+<view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
+</views>
+<perspectives activePart="org.eclipse.jdt.ui.CompilationUnitEditor" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.pde.internal.ui.PDEPerspective" id="org.eclipse.pde.ui.PDEPerspective" label="Plug-in Development"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="com.instantiations.j2ee.actionset"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="com.swtdesigner.actionset"/>
+<alwaysOnActionSet id="com.swtdesigner.gwt.actionset"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<show_view_action id="org.eclipse.jdt.ui.PackagesView"/>
+<show_view_action id="org.eclipse.pde.ui.PluginsView"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<new_wizard_action id="org.eclipse.mylyn.tasks.ui.wizards.new.repository.task"/>
+<new_wizard_action id="org.eclipse.pde.ds.ui.wizard"/>
+<new_wizard_action id="org.eclipse.pde.ui.NewProductConfigurationWizard"/>
+<new_wizard_action id="org.eclipse.pde.ui.NewProfileWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<perspective_action id="org.eclipse.ui.resourcePerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<view id="org.eclipse.pde.ui.PluginsView"/>
+<view id="org.eclipse.pde.runtime.LogView"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<fastViewBars/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="topLeft">&#x0A;<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<page content="org.eclipse.pde.ui.PluginsView" label="Plug-ins"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@183e895" ratio="0.75" ratioLeft="756" ratioRight="252" relationship="2" relative="topLeft">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.25" ratioLeft="252" ratioRight="756" relationship="2" relative="topLeft"/>
+<info folder="true" part="bottomRight" ratio="0.74961597" ratioLeft="488" ratioRight="163" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.pde.runtime.LogView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.pde.runtime.LogView" label="Error Log"/>
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@4ba4d6" ratio="0.75" ratioLeft="567" ratioRight="189" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="Task List"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="com.instantiations.j2ee.actionset"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="com.swtdesigner.actionset"/>
+<alwaysOnActionSet id="com.swtdesigner.gwt.actionset"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
+<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ui.views.ProgressView"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="org.eclipse.ui.texteditor.TemplatesView"/>
+<show_view_action id="com.swtdesigner.views.palette"/>
+<show_view_action id="com.swtdesigner.views.property"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewEnumCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewJavaWorkingSetWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="com.swtdesigner.wizards.NewJavaSWTProjectCreationWizard"/>
+<new_wizard_action id="com.swtdesigner.wizards.NewSWTApplicationWizard"/>
+<new_wizard_action id="com.swtdesigner.wizards.NewJFaceDialogWizard"/>
+<new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
+<new_wizard_action id="org.eclipse.mylyn.tasks.ui.wizards.new.repository.task"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<view id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.jdt.ui.JavadocView"/>
+<view id="org.eclipse.jdt.ui.SourceView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.search.ui.views.SearchView"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.mylyn.tasks.ui.views.tasks"/>
+<fastViewBars>
+<fastViewBar fastViewLocation="131072" id="stickyFolderRight" orientation="512" selectedTabId="org.eclipse.help.ui.HelpView" style="0">
+<fastViews>
+<view id="org.eclipse.help.ui.HelpView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="Hierarchy"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
+<page content="com.swtdesigner.views.palette" label="LabelNotFound"/>
+<page content="com.swtdesigner.views.property" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1254" ratioRight="418" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.29354447" ratioLeft="482" ratioRight="1160" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.5501139" ratioLeft="483" ratioRight="395" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
+<page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" label="Snippets"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@125b4f" ratio="0.921944" ratioLeft="1252" ratioRight="106" relationship="2" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.mylyn.tasks.ui.views.tasks" appearance="2" expanded="2">
+<page content="org.eclipse.mylyn.tasks.ui.views.tasks" label="Task List"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="right" ratio="0.49926794" ratioLeft="341" ratioRight="342" relationship="4" relative="org.eclipse.ui.internal.ViewStack@125b4f">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.ui.texteditor.TemplatesView" label="LabelNotFound"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.debug.internal.ui.DebugPerspectiveFactory" id="org.eclipse.debug.ui.DebugPerspective" label="Debug"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.context.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.tasks.ui.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="com.instantiations.j2ee.actionset"/>
+<alwaysOnActionSet id="org.eclipse.mylyn.doc.actionSet"/>
+<alwaysOnActionSet id="com.swtdesigner.actionset"/>
+<alwaysOnActionSet id="com.swtdesigner.gwt.actionset"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<show_view_action id="org.eclipse.debug.ui.DebugView"/>
+<show_view_action id="org.eclipse.debug.ui.VariableView"/>
+<show_view_action id="org.eclipse.debug.ui.BreakpointView"/>
+<show_view_action id="org.eclipse.debug.ui.ExpressionView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.jdt.debug.ui.DisplayView"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.wst.xml.ui.perspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.TaskList"/>
+<view id="org.eclipse.search.ui.views.SearchView"/>
+<view id="org.eclipse.wst.common.snippets.internal.ui.SnippetsView"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.debug.ui.ExpressionView"/>
+<view id="org.eclipse.debug.ui.VariableView"/>
+<fastViewBars>&#x0A;<fastViewBar fastViewLocation="131072" id="org.eclipse.debug.internal.ui.ToolsFolderView" orientation="256" selectedTabId="org.eclipse.debug.ui.BreakpointView" style="0">&#x0A;<fastViews>&#x0A;<view id="org.eclipse.debug.ui.BreakpointView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="131072" id="stickyFolderRight" orientation="512" selectedTabId="org.eclipse.help.ui.HelpView" style="0">&#x0A;<fastViews>&#x0A;<view id="org.eclipse.help.ui.HelpView" ratio="0.29969606"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="1254" ratioRight="418" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ConsoleFolderView" ratio="0.70132744" ratioLeft="634" ratioRight="270" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+<page content="org.eclipse.wst.common.snippets.internal.ui.SnippetsView" label="Snippets"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.debug.ui.DisplayView" label="LabelNotFound"/>
+<page content="org.eclipse.search.SearchResultView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.2393027" ratioLeft="151" ratioRight="480" relationship="4" relative="org.eclipse.debug.internal.ui.NavigatorFolderView"/>
+<info folder="true" part="org.eclipse.debug.internal.ui.OutlineFolderView" ratio="0.5365408" ratioLeft="881" ratioRight="761" relationship="2" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.debug.ui.ExpressionView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.eclipse.debug.ui.ExpressionView" label="Expressions"/>
+<page content="org.eclipse.debug.ui.VariableView" label="Variables"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="2"/>
+<part id="1"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.debug.internal.ui.ToolsFolderView" ratio="0.5" ratioLeft="836" ratioRight="836" relationship="2" relative="org.eclipse.debug.internal.ui.NavigatorFolderView">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/run/DataGenerator.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/boa/util/TotalGenerator.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/boa/func/CountOne.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/run/DeleteAttr.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/run/DisTrans.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/GAssist/Parameters.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/run/SingleStat.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/boa/util/MyUtil.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/run/Stat.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/boa/util/MyUtil.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/run/SingleStat.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/run/Stat.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/boa/util/MyUtil.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/GAssist/GA.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/GAssist/Classifier.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/GAssist/Statistics.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/boa/BOA.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/boa/Population.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/boa/Chromosome.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/boa/Bayesian.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/boa/bn/Net.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/run/Batch.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/GAssist/FileManagement.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/boa/util/MyUtil.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/GAssist/Statistics.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/GAssist/src/GAssist/GA.java"/>
+</editors>
+<item historyLabel="TotalGenerator.java" index="1">
+<position info="not_deleted" x="4369" y="26"/>
+</item>
+<item historyLabel="TotalGenerator.java" index="1">
+<position/>
+</item>
+<item historyLabel="CountOne.java" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="DataGenerator.java" index="0">
+<position info="not_deleted" x="144" y="26"/>
+</item>
+<item historyLabel="TotalGenerator.java" index="1">
+<position info="not_deleted" x="4222" y="0"/>
+</item>
+<item historyLabel="CountOne.java" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="DataGenerator.java" index="0">
+<position info="not_deleted" x="216" y="23"/>
+</item>
+<item historyLabel="TotalGenerator.java" index="1">
+<position info="not_deleted" x="3859" y="5"/>
+</item>
+<item historyLabel="CountOne.java" index="2">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="DeleteAttr.java" index="3">
+<position info="not_deleted" x="794" y="0"/>
+</item>
+<item historyLabel="DisTrans.java" index="4">
+<position info="not_deleted" x="1151" y="0"/>
+</item>
+<item historyLabel="DeleteAttr.java" index="3">
+<position info="not_deleted" x="864" y="0"/>
+</item>
+<item historyLabel="Parameters.java" index="5">
+<position info="not_deleted" x="3" y="0"/>
+</item>
+<item historyLabel="Parameters.java" index="5">
+<position info="not_deleted" x="7200" y="0"/>
+</item>
+<item historyLabel="SingleStat.java" index="6">
+<position info="not_deleted" x="680" y="0"/>
+</item>
+<item historyLabel="MyUtil.java" index="7">
+<position info="not_deleted" x="3398" y="0"/>
+</item>
+<item historyLabel="MyUtil.java" index="7">
+<position info="not_deleted" x="7442" y="0"/>
+</item>
+<item historyLabel="SingleStat.java" index="6">
+<position info="not_deleted" x="523" y="0"/>
+</item>
+<item historyLabel="MyUtil.java" index="7">
+<position info="not_deleted" x="6887" y="36"/>
+</item>
+<item historyLabel="SingleStat.java" index="6">
+<position info="not_deleted" x="523" y="0"/>
+</item>
+<item historyLabel="Stat.java" index="8">
+<position info="not_deleted" x="535" y="8"/>
+</item>
+<item historyLabel="MyUtil.java" index="9">
+<position info="not_deleted" x="6887" y="36"/>
+</item>
+<item historyLabel="MyUtil.java" index="9">
+<position info="not_deleted" x="4417" y="8"/>
+</item>
+<item historyLabel="SingleStat.java" index="10">
+<position info="not_deleted" x="523" y="0"/>
+</item>
+<item historyLabel="Stat.java" index="11">
+<position info="not_deleted" x="535" y="8"/>
+</item>
+<item historyLabel="SingleStat.java" index="10">
+<position info="not_deleted" x="523" y="0"/>
+</item>
+<item historyLabel="MyUtil.java" index="12">
+<position info="not_deleted" x="7094" y="8"/>
+</item>
+<item historyLabel="MyUtil.java" index="12">
+<position info="not_deleted" x="4417" y="8"/>
+</item>
+<item historyLabel="GA.java" index="13">
+<position info="not_deleted" x="12750" y="44"/>
+</item>
+<item historyLabel="Classifier.java" index="14">
+<position info="not_deleted" x="4" y="0"/>
+</item>
+<item historyLabel="Classifier.java" index="14">
+<position info="not_deleted" x="1242" y="19"/>
+</item>
+<item historyLabel="Statistics.java" index="15">
+<position info="not_deleted" x="4" y="0"/>
+</item>
+<item historyLabel="Statistics.java" index="15">
+<position info="not_deleted" x="4605" y="0"/>
+</item>
+<item historyLabel="Statistics.java" index="15">
+<position info="not_deleted" x="195" y="176"/>
+</item>
+<item historyLabel="GA.java" index="13">
+<position info="not_deleted" x="9725" y="0"/>
+</item>
+<item historyLabel="BOA.java" index="16">
+<position info="not_deleted" x="3311" y="0"/>
+</item>
+<item historyLabel="Population.java" index="17">
+<position info="not_deleted" x="1202" y="19"/>
+</item>
+<item historyLabel="Chromosome.java" index="18">
+<position info="not_deleted" x="2777" y="0"/>
+</item>
+<item historyLabel="BOA.java" index="16">
+<position info="not_deleted" x="2681" y="23"/>
+</item>
+<item historyLabel="Bayesian.java" index="19">
+<position info="not_deleted" x="862" y="8"/>
+</item>
+<item historyLabel="Net.java" index="20">
+<position info="not_deleted" x="874" y="0"/>
+</item>
+<item historyLabel="GA.java" index="13">
+<position info="not_deleted" x="4770" y="0"/>
+</item>
+<item historyLabel="Batch.java" index="21">
+<position info="not_deleted" x="1346" y="3"/>
+</item>
+<item historyLabel="FileManagement.java" index="22">
+<position info="not_deleted" x="3" y="0"/>
+</item>
+<item historyLabel="FileManagement.java" index="22">
+<position info="not_deleted" x="1137" y="0"/>
+</item>
+<item historyLabel="MyUtil.java" index="23">
+<position info="not_deleted" x="1046" y="0"/>
+</item>
+<item historyLabel="MyUtil.java" index="23">
+<position info="not_deleted" x="4417" y="8"/>
+</item>
+<item historyLabel="Statistics.java" index="24">
+<position info="not_deleted" x="4" y="0"/>
+</item>
+<item historyLabel="Statistics.java" index="24">
+<position info="not_deleted" x="195" y="176"/>
+</item>
+<item active="true" historyLabel="GA.java" index="25">
+<position info="not_deleted" x="4770" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="131072">
+<trimItem IMemento.internal.id="stickyFolderRight"/>
+</trimArea>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Net.java" tooltip="GAssist/src/boa/bn/Net.java">
+<persistable path="/GAssist/src/boa/bn/Net.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CountOne.java" tooltip="GAssist/src/boa/func/CountOne.java">
+<persistable path="/GAssist/src/boa/func/CountOne.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DataGenerator.java" tooltip="GAssist/src/run/DataGenerator.java">
+<persistable path="/GAssist/src/run/DataGenerator.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="TotalGenerator.java" tooltip="GAssist/src/boa/util/TotalGenerator.java">
+<persistable path="/GAssist/src/boa/util/TotalGenerator.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Multiplexer.java" tooltip="GAssist/src/boa/func/Multiplexer.java">
+<persistable path="/GAssist/src/boa/func/Multiplexer.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StatIteration.java" tooltip="GAssist/src/run/StatIteration.java">
+<persistable path="/GAssist/src/run/StatIteration.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="StatLine.java" tooltip="GAssist/src/run/StatLine.java">
+<persistable path="/GAssist/src/run/StatLine.java"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="org.eclipse.ui.systemExternalEditor" name="0.png" tooltip="D:\workspace\workplace for java\Feature-GAssist-BOA\.metadata\.plugins\org.eclipse.jdt.ui\jdt-images\0.png">
+<persistable uri="file:/D:/workspace/workplace%20for%20java/Feature-GAssist-BOA/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/0.png"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="DeleteAttr.java" tooltip="GAssist/src/run/DeleteAttr.java">
+<persistable path="/GAssist/src/run/DeleteAttr.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ReadWeka.java" tooltip="GAssist/src/run/ReadWeka.java">
+<persistable path="/GAssist/src/run/ReadWeka.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SingleStat.java" tooltip="GAssist/src/run/SingleStat.java">
+<persistable path="/GAssist/src/run/SingleStat.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Chronometer.java" tooltip="GAssist/src/GAssist/Chronometer.java">
+<persistable path="/GAssist/src/GAssist/Chronometer.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Stat.java" tooltip="GAssist/src/run/Stat.java">
+<persistable path="/GAssist/src/run/Stat.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="GA.java" tooltip="GAssist/src/GAssist/GA.java">
+<persistable path="/GAssist/src/GAssist/GA.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BOAGAssist.java" tooltip="GAssist/src/run/BOAGAssist.java">
+<persistable path="/GAssist/src/run/BOAGAssist.java"/>
+</file>
+</mruList>
+</workbench>

@@ -1,0 +1,43 @@
+popSize = 400 
+numIterations = 500
+initialNumberOfRules = 20 
+probCrossover = 0.6 
+probMutationInd = 0.6 
+probOne = 0.90
+initMethod = cwinit
+numStrata = 2
+sizePenaltyMinRules = 4
+tournamentSize = 3 
+defaultClass = auto
+
+adiKR = true
+discretizer1 = UniformWidth_4 
+discretizer2 = UniformWidth_5 
+discretizer3 = UniformWidth_6 
+discretizer4 = UniformWidth_7 
+discretizer5 = UniformWidth_8 
+discretizer6 = UniformWidth_10
+discretizer7 = UniformWidth_15
+discretizer8 = UniformWidth_20
+discretizer9 = UniformWidth_25
+discretizer10 = Disabled
+maxIntervals = 5
+probMerge = 0.05 
+probReinitializeBegin = 0.03 
+probReinitializeEnd = 0 
+probSplit = 0.05 
+
+hierarchicalSelectionThreshold = 0 
+iterationHierarchicalSelection = 24 
+
+iterationMDL = 25
+useMDL = true 
+initialTheoryLengthRatio = 0.075 
+weightRelaxFactor = 0.90 
+
+iterationRuleDeletion = 5
+ruleDeletionMinRules = 12
+
+MAX_NODE_INCOMING = 1
+BOA_INTERVAL = 10
+

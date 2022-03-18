@@ -1,0 +1,121 @@
+0-training-MP3.arff
+Experiment: 0
+training accuracy 151.0/160.0=	0.94375
+test accuracy 35.0/40.0=	0.875
+Total time: 8.078
+Experiment: 1
+training accuracy 158.0/160.0=	0.9875
+test accuracy 40.0/40.0=	1.0
+Total time: 14.765
+Experiment: 2
+training accuracy 158.0/160.0=	0.9875
+test accuracy 31.0/40.0=	0.775
+Total time: 17.344
+Experiment: 3
+training accuracy 160.0/160.0=	1.0
+test accuracy 38.0/40.0=	0.95
+Total time: 19.797
+Experiment: 4
+training accuracy 156.0/160.0=	0.975
+test accuracy 34.0/40.0=	0.85
+Total time: 15.484
+Experiment: 5
+training accuracy 151.0/160.0=	0.94375
+test accuracy 37.0/40.0=	0.925
+Total time: 13.625
+Experiment: 6
+training accuracy 148.0/160.0=	0.925
+test accuracy 31.0/40.0=	0.775
+Total time: 14.36
+Experiment: 7
+training accuracy 158.0/160.0=	0.9875
+test accuracy 38.0/40.0=	0.95
+Total time: 17.125
+Experiment: 8
+training accuracy 156.0/160.0=	0.975
+test accuracy 34.0/40.0=	0.85
+Total time: 15.453
+Experiment: 9
+training accuracy 151.0/160.0=	0.94375
+test accuracy 37.0/40.0=	0.925
+Total time: 13.781
+Experiment: 10
+training accuracy 148.0/160.0=	0.925
+test accuracy 31.0/40.0=	0.775
+Total time: 14.266
+Experiment: 11
+training accuracy 158.0/160.0=	0.9875
+test accuracy 38.0/40.0=	0.95
+Total time: 17.203
+Experiment: 12
+training accuracy 156.0/160.0=	0.975
+test accuracy 34.0/40.0=	0.85
+Total time: 15.5
+Experiment: 13
+training accuracy 151.0/160.0=	0.94375
+test accuracy 37.0/40.0=	0.925
+Total time: 13.703
+Experiment: 14
+training accuracy 148.0/160.0=	0.925
+test accuracy 31.0/40.0=	0.775
+Total time: 14.359
+Experiment: 15
+training accuracy 158.0/160.0=	0.9875
+test accuracy 38.0/40.0=	0.95
+Total time: 17.313
+Experiment: 16
+training accuracy 156.0/160.0=	0.975
+test accuracy 34.0/40.0=	0.85
+Total time: 15.5
+Experiment: 17
+training accuracy 151.0/160.0=	0.94375
+test accuracy 37.0/40.0=	0.925
+Total time: 13.75
+Experiment: 18
+training accuracy 148.0/160.0=	0.925
+test accuracy 31.0/40.0=	0.775
+Total time: 14.437
+Experiment: 19
+training accuracy 158.0/160.0=	0.9875
+test accuracy 38.0/40.0=	0.95
+Total time: 17.218
+Experiment: 20
+training accuracy 156.0/160.0=	0.975
+test accuracy 34.0/40.0=	0.85
+Total time: 15.516
+Experiment: 21
+training accuracy 151.0/160.0=	0.94375
+test accuracy 37.0/40.0=	0.925
+Total time: 13.813
+Experiment: 22
+training accuracy 148.0/160.0=	0.925
+test accuracy 31.0/40.0=	0.775
+Total time: 14.375
+Experiment: 23
+training accuracy 158.0/160.0=	0.9875
+test accuracy 38.0/40.0=	0.95
+Total time: 17.234
+Experiment: 24
+training accuracy 156.0/160.0=	0.975
+test accuracy 34.0/40.0=	0.85
+Total time: 15.219
+Experiment: 25
+training accuracy 151.0/160.0=	0.94375
+test accuracy 37.0/40.0=	0.925
+Total time: 13.593
+Experiment: 26
+training accuracy 148.0/160.0=	0.925
+test accuracy 31.0/40.0=	0.775
+Total time: 14.36
+Experiment: 27
+training accuracy 158.0/160.0=	0.9875
+test accuracy 38.0/40.0=	0.95
+Total time: 17.078
+Experiment: 28
+training accuracy 156.0/160.0=	0.975
+test accuracy 34.0/40.0=	0.85
+Total time: 15.5
+Experiment: 29
+training accuracy 151.0/160.0=	0.94375
+test accuracy 37.0/40.0=	0.925
+Total time: 13.766

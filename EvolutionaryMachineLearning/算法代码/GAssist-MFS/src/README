@@ -1,0 +1,39 @@
+|-------------------------------------------------------------|
+|The GAssist Pittsburgh Learning Classifier System            |
+|-------------------------------------------------------------|
+|Jaume Bacardit - jqb@cs.nott.ac.uk                           |
+|Automated Optimization Scheduling and Planning Research Group|
+|School of Computer Science and IT, University of Nottingham  |
+|-------------------------------------------------------------|
+
+Instructions: 
+
+To compile you need ant (http://ant.apache.org/). You just need to run ant 
+from this directory. It will create a jar file called GAssist.jar in the dist 
+subdirectory.
+
+The data files should be in the ARFF format used by the WEKA package 
+(http://www.cs.waikato.ac.nz/ml/weka/).
+
+Usage: java -jar GAssist.jar <config file> <train file> <test file>
+
+There is a sample config file called config.txt in this directory.
+
+To adapt it to you needs you have to tweak one parameters mainly: 
+"numInterations", which defines the number of GA cycles that the system will
+do.
+
+For non-small datasets (more than 1000 instances) probably you will need to
+modify also the "numStrata" parameter, increasing its default value (2).
+
+BibTeX reference for GAssist:
+
+@phdthesis{Bacardit04thesis,
+author  ={Jaume Bacardit},
+year=2004,
+school  ={Ramon Llull University, Barcelona, Catalonia, Spain},
+title   ={Pittsburgh Genetics-Based Machine Learning in the Data Mining era: Representations, generalization, and run-time}
+}
+
+
+

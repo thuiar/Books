@@ -1,0 +1,32 @@
+<installation datetime="201201061432">
+   <serialNumbers>
+   </serialNumbers>
+   <activationKeys>
+   </activationKeys>
+   <products>
+      <product name="Code Coverage"                installed="false" fullyEnabled="false" build="UNKNOWN" />
+      <product name="CodePro AnalytiX"             installed="false" fullyEnabled="false" build="UNKNOWN" />
+      <product name="CodePro Analytix and PlusPak" installed="false" fullyEnabled="false" build="UNKNOWN" />
+      <product name="CodePro PlusPak"              installed="false" fullyEnabled="false" build="UNKNOWN" />
+      <product name="CodePro Profiler"             installed="false" fullyEnabled="false" build="UNKNOWN" />
+      <product name="CodePro Server"               installed="false" fullyEnabled="false" build="UNKNOWN" />
+      <product name="EclipsePro Audit"             installed="false" fullyEnabled="false" build="UNKNOWN" />
+      <product name="EclipsePro Test"              installed="false" fullyEnabled="false" build="UNKNOWN" />
+      <product name="GWT Designer"                 installed="true"  fullyEnabled="false" build="201003150215" />
+      <product name="Help Composer"                installed="false" fullyEnabled="false" build="UNKNOWN" />
+      <product name="RCP Developer"                installed="false" fullyEnabled="false" build="UNKNOWN" />
+      <product name="RCP Packager"                 installed="false" fullyEnabled="false" build="UNKNOWN" />
+      <product name="RIM Designer"                 installed="false" fullyEnabled="true"  build="UNKNOWN" />
+      <product name="SWT Designer"                 installed="true"  fullyEnabled="false" build="201003150202" />
+      <product name="Shared"                       installed="true"  fullyEnabled="true"  build="201003100128" />
+      <product name="Swing Designer"               installed="true"  fullyEnabled="false" build="201003150202" />
+      <product name="WindowBuilder"                installed="true"  fullyEnabled="false" build="201003150202" />
+      <product name="WindowTester Pro"             installed="false" fullyEnabled="false" build="UNKNOWN" />
+      <product name="WindowTester Runner"          installed="false" fullyEnabled="false" build="UNKNOWN" />
+      <product name="WindowTester SWT"             installed="false" fullyEnabled="false" build="UNKNOWN" />
+      <product name="WindowTester SWT Runner"      installed="false" fullyEnabled="false" build="UNKNOWN" />
+      <product name="WindowTester Swing"           installed="false" fullyEnabled="false" build="UNKNOWN" />
+      <product name="WindowTester Swing Runner"    installed="false" fullyEnabled="false" build="UNKNOWN" />
+      <product name="eRCP Designer"                installed="false" fullyEnabled="false" build="UNKNOWN" />
+   </products>
+</installation>

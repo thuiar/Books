@@ -1,0 +1,25 @@
+package run;
+
+import boa.util.MyUtil;
+
+public class SingleStat {
+	
+		public static void main(String[] arg){
+			String dir = "D://Document/Paper/my paper/BOA-Feature/data/new";
+			//String dir = "D://Document/Paper/my paper/multiclass/data/new";
+			
+			String data = "/heart";
+			String method= "/reduced";
+			String type= "/999";
+			String index = "_2info";
+			String[] result= new String[9];
+			String[] r=null;
+
+			r = MyUtil.stepStat(dir+data+method+type+index+"_acc.txt",30);
+			for(int i=0;i<r.length ;i++){
+				result[i] = r[i]; 			
+			}
+			
+		
+		}
+}

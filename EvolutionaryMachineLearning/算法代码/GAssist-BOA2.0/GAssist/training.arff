@@ -1,0 +1,49 @@
+@relation Training
+
+@attribute surgery {yes,no}
+@attribute Age {adult,young}
+@attribute temp_extremities {normal,warm,cool,cold}
+@attribute peripheral_pulse {normal,increased,reduced,absent}
+@attribute mucous_membranes {normal_pink,bright_pink,pale_pink,pale_cyanotic,bright_red,dark_cyanotic}
+@attribute capillary_refill_time {<3,>=3,meaning_unknown}
+@attribute pain {alert_no_pain,depressed,intermittent_mild_pain,intermittent_severe_pain,continuous_severe_pain}
+@attribute peristalsis {hypermotile,normal,hypomotile,absent}
+@attribute abdominal_distension {none,slight,moderate,severe}
+@attribute nasogastric_tube {none,slight,significant}
+@attribute nasogastric_reflux {none,>1l,<1l}
+@attribute rectal_examination {normal,increased,decreased,absent}
+@attribute abdomen {normal,other,firm_feces_in_large_intestine,distended_small_intestine,distended_large_intestine}
+@attribute abdominocentesis_appearance {clear,cloudy,serosanguinous}
+@attribute outcome {lived,died,euthanized}
+@attribute surgical_lesion {yes,no}
+
+@data
+yes,adult,normal,increased,bright_pink,<3,depressed,normal,?,?,?,?,?,?,euthanized,yes
+no,young,cold,absent,pale_cyanotic,>=3,continuous_severe_pain,absent,severe,?,?,?,?,?,died,yes
+yes,adult,cool,normal,pale_cyanotic,<3,depressed,hypomotile,moderate,?,<1l,absent,distended_small_intestine,serosanguinous,euthanized,yes
+yes,adult,cool,?,dark_cyanotic,>=3,continuous_severe_pain,absent,moderate,slight,>1l,normal,distended_large_intestine,serosanguinous,euthanized,yes
+yes,adult,?,normal,bright_pink,<3,intermittent_mild_pain,hypomotile,moderate,slight,none,decreased,distended_large_intestine,?,lived,yes
+yes,young,cool,reduced,bright_red,>=3,depressed,hypomotile,?,?,?,?,?,cloudy,euthanized,yes
+yes,adult,warm,normal,normal_pink,<3,alert_no_pain,hypomotile,none,none,none,?,distended_large_intestine,?,lived,yes
+yes,adult,warm,normal,normal_pink,<3,depressed,hypermotile,none,none,none,normal,?,cloudy,euthanized,yes
+yes,adult,cool,normal,pale_pink,<3,continuous_severe_pain,absent,slight,?,?,?,?,cloudy,lived,yes
+no,adult,cool,reduced,pale_pink,>=3,depressed,hypomotile,none,slight,none,decreased,?,serosanguinous,lived,yes
+yes,adult,cool,reduced,pale_cyanotic,>=3,continuous_severe_pain,absent,severe,significant,<1l,absent,distended_small_intestine,?,lived,yes
+yes,adult,warm,?,pale_pink,<3,depressed,hypomotile,?,?,?,?,?,?,euthanized,yes
+yes,adult,?,?,?,?,?,?,?,?,?,?,?,?,lived,yes
+yes,adult,cool,reduced,pale_pink,<3,depressed,absent,moderate,none,<1l,?,?,serosanguinous,lived,yes
+yes,adult,cool,reduced,pale_pink,<3,intermittent_mild_pain,hypomotile,moderate,significant,none,absent,distended_small_intestine,serosanguinous,lived,yes
+yes,adult,normal,normal,normal_pink,<3,intermittent_mild_pain,hypermotile,?,?,?,absent,distended_small_intestine,cloudy,lived,yes
+yes,adult,?,?,?,?,?,?,?,?,?,?,?,?,lived,yes
+yes,adult,normal,?,pale_pink,>=3,intermittent_mild_pain,hypomotile,slight,?,?,absent,distended_large_intestine,serosanguinous,died,yes
+no,adult,cool,normal,normal_pink,>=3,intermittent_severe_pain,?,moderate,none,<1l,?,?,?,euthanized,yes
+yes,adult,cool,reduced,bright_red,>=3,depressed,absent,moderate,?,<1l,absent,distended_small_intestine,cloudy,died,yes
+yes,young,cool,reduced,pale_pink,<3,continuous_severe_pain,hypermotile,moderate,slight,>1l,increased,?,cloudy,died,yes
+yes,young,?,?,?,?,?,?,?,?,?,?,?,cloudy,lived,yes
+?,adult,?,normal,pale_cyanotic,>=3,depressed,?,?,?,?,?,distended_large_intestine,?,?,yes
+no,adult,warm,reduced,pale_pink,<3,alert_no_pain,hypomotile,slight,significant,none,?,?,?,lived,no
+no,adult,warm,normal,bright_red,<3,intermittent_mild_pain,hypermotile,none,?,none,?,other,serosanguinous,lived,no
+no,adult,normal,normal,normal_pink,<3,depressed,hypermotile,none,?,?,decreased,other,?,lived,no
+no,adult,?,?,?,?,alert_no_pain,hypermotile,?,none,none,normal,?,?,lived,no
+no,adult,normal,normal,pale_pink,<3,depressed,hypermotile,?,none,none,absent,distended_large_intestine,?,lived,no
+no,adult,cold,reduced,pale_cyanotic,>=3,depressed,absent,severe,none,none,?,?,cloudy,euthanized,no

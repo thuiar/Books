@@ -1,0 +1,117 @@
+package run;
+
+import boa.util.MyUtil;
+
+public class Stat {
+	public static void main(String[] arg){
+	
+//		MyUtil.stepStat("chi99_4.txt",30);
+		
+		
+//		MyUtil.stepStat("result/ios/chi9999_restrict_1.txt",30);
+//		MyUtil.stepStat("result/ios/new/chi9999_1.txt",30);
+//		MyUtil.stepStat("result/ios/new/chi9999_2.txt",30);
+//		MyUtil.stepStat("result/ios/new/chi9999_3.txt",30);
+//		MyUtil.stepStat("result/ios/new/chi9999_4.txt",30);
+		
+
+
+		
+//		MyUtil.stepStat("result/true-4.txt",30);
+		
+//		MyUtil.stepStat("result/true-3-bak.txt",30);
+//		MyUtil.stepStat("result/vote/true-4.txt",30);
+		
+			
+//		MyUtil.stepStat("result/par/chi99_0.txt",30);
+//		MyUtil.stepStat("result/par/chi99_1.txt",30);
+//		MyUtil.stepStat("result/par/chi99_2.txt",30);
+//		MyUtil.stepStat("result/par/chi99_3.txt",30);
+//		MyUtil.stepStat("result/par/chi99_4.txt",30);		
+//		
+//
+		System.out.println("---------------------");		
+		
+		
+
+//		MyUtil.stepStat("result/wdbc/33.txt",24);
+//		MyUtil.stepStat("result/wdbc/1.txt",30);
+//		MyUtil.stepStat("result/wdbc/11.txt",27);
+//		MyUtil.stepStat("result/wdbc/999 new/4.txt",30);
+		
+		
+//		MyUtil.stepStat("result/wdbc/restrict/4.txt",30);
+//		MyUtil.stepStat("result/wdbc/9999 new/4.txt",30);
+//		MyUtil.stepStat("result/wdbc/999/3.txt",30);
+//		MyUtil.stepStat("result/wdbc/44.txt",26);
+//		MyUtil.stepStat("result/wdbc/4.txt",30);
+		System.out.println("---------------------");		
+		
+		
+//		MyUtil.stepStat("result/par/no relax/chi99_0.txt",30);
+//		MyUtil.stepStat("result/par/no relax/chi99_1.txt",30);
+//		MyUtil.stepStat("result/par/no relax/chi99_2.txt",30);
+//		MyUtil.stepStat("result/par/no relax/chi99_3.txt",30);
+//		MyUtil.stepStat("result/par/no relax/chi99_4.txt",30);
+		
+//		MyUtil.stepStat("result/ios/new/chi9999_0.txt",30);
+//		MyUtil.stepStat("result/ios/new/chi9999_1.txt",30);
+//		MyUtil.stepStat("result/ios/new/chi9999_2.txt",30);
+//		MyUtil.stepStat("result/ios/new/chi9999_3.txt",30);
+//		MyUtil.stepStat("result/ios/new/chi9999_4.txt",30);		
+
+
+//		
+//		MyUtil.stepStat("result/australia/99/true-0.txt",30);
+//		MyUtil.stepStat("result/australia/99/true-1.txt",30);
+//		MyUtil.stepStat("result/australia/99/true-2.txt",30);
+//		MyUtil.stepStat("result/australia/99/true-3.txt",30);
+//		MyUtil.stepStat("result/australia/99/true-4.txt",30);
+
+		
+
+//		MyUtil.stepStat("result/3.txt",30);
+//		MyUtil.stepStat("result/ios/new/chi9999_0.txt",30);
+//		MyUtil.stepStat("result/wis/new/0.85/chi999_2.txt",30);
+//		MyUtil.stepStat("result/wis/new/0.85/chi999_3.txt",30);
+//		MyUtil.stepStat("result/wis/new/0.85/chi999_4.txt",30);
+
+		
+		
+		
+//		MyUtil.stepStat("D://Document/Paper/my paper/BOA-Feature/data/tic/true-0.txt",30);
+//		MyUtil.stepStat("D://Document/Paper/my paper/BOA-Feature/data/wdbc/9999 new/2-b.txt",30);
+//		MyUtil.stepStat("D://Document/Paper/my paper/BOA-Feature/data/wdbc/9999 new/2.txt",30);
+//		MyUtil.stepStat("D://Document/Paper/my paper/BOA-Feature/data/wdbc/9999 new/3.txt",30);
+//		MyUtil.stepStat("D://Document/Paper/my paper/BOA-Feature/data/wdbc/9999 new/44.txt",26);
+//		
+		
+		//MyUtil.steplineStat("D://Document/Paper/my paper/BOA-GASSIST/data/MP-3/BOA/i=40/4.txt",30,500);
+		
+		System.out.println("---------------------");
+		
+		                          
+		MyUtil.stepStat("D://Document/Paper/my paper/BOA-GASSIST/data/match/PM2-6/BOA/1-0.txt",30);
+//		MyUtil.stepStat("D://Document/Paper/my paper/BOA-GASSIST/data/match/mp3-0.20/BOA/0.20-1.txt",30);
+//		MyUtil.stepStat("D://Document/Paper/my paper/BOA-GASSIST/data/match/mp3-0.20/BOA/0.20-2.txt",30);
+//		MyUtil.stepStat("D://Document/Paper/my paper/BOA-GASSIST/data/match/mp3-0.20/BOA/0.20-3.txt",30);
+//		MyUtil.stepStat("D://Document/Paper/my paper/BOA-GASSIST/data/match/mp3-0.20/BOA/0.20-4.txt",30);
+//		MyUtil.stepStat("D://Document/Paper/my paper/BOA-GASSIST/data/match/mp3-0.20/BOA/0.20-11.txt",30);
+		
+//		MyUtil.stepStat("D://Document/Paper/my paper/BOA-GASSIST/data/match/mp3-0.20/GA/new/conf-0.txt",30);
+//		MyUtil.stepStat("D://Document/Paper/my paper/BOA-GASSIST/data/match/mp3-0.20/GA/new/conf-1.txt",30);
+//		MyUtil.stepStat("D://Document/Paper/my paper/BOA-GASSIST/data/match/mp3-0.20/GA/new/conf-2.txt",30);
+//		MyUtil.stepStat("D://Document/Paper/my paper/BOA-GASSIST/data/match/mp3-0.20/GA/new/conf-3.txt",30);
+//		MyUtil.stepStat("D://Document/Paper/my paper/BOA-GASSIST/data/match/mp3-0.20/GA/new/conf-4.txt",30);
+		
+//		MyUtil.stepStat("D://Document/Paper/my paper/BOA-GASSIST/data/match/L2-6-1/GA/new/conf-0.txt",30);
+//		MyUtil.stepStat("D://Document/Paper/my paper/BOA-GASSIST/data/match/L2-6-1/GA/new/conf-00.txt",30);
+		
+//		MyUtil.stepStat("D://Document/Paper/my paper/BOA-Feature/data/reduced/wdbc/infogain/GA/chi9999_0.txt",30);
+//		MyUtil.stepStat("D://Document/Paper/my paper/BOA-Feature/data/reduced/wdbc/infogain/GA/chi9999_1.txt",30);
+//		MyUtil.stepStat("D://Document/Paper/my paper/BOA-Feature/data/reduced/wdbc/infogain/GA/chi9999_2.txt",30);
+//		MyUtil.stepStat("D://Document/Paper/my paper/BOA-Feature/data/reduced/wdbc/infogain/GA/chi9999_3.txt",30);
+//		MyUtil.stepStat("D://Document/Paper/my paper/BOA-Feature/data/reduced/wdbc/infogain/GA/chi9999_4.txt",30);
+		
+	}
+}

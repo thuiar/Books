@@ -1,0 +1,15 @@
+INDEX VERSION 1.126+D:\workspace\workplace for java\Feature-GAssist-BOA\.metadata\.plugins\org.eclipse.jdt.core
+3543094259.index
+2760049532.index
+4040018818.index
+443665945.index
+1818307021.index
+2347869523.index
+1363460226.index
+1619351571.index
+2477424323.index
+978754967.index
+2897944469.index
+3413813329.index
+2500793304.index
+1996206186.index

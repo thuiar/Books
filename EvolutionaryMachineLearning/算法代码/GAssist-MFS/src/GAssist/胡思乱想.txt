@@ -1,0 +1,9 @@
+1. 加入FS之后对GAssist的影响
+  a. PopulationWrapper中evaluateClassifier过程，进言之，是doMatch这个匹配的过程；
+  b. Classifier的doMutation过程，是否只应改变选中的特征？（尚需实验结果支持）
+2. 加入CoCo之后对GAssist的影响
+  a. 每轮迭代后需要记录最佳Feature Set和最佳Classifier；
+  b. 如何体现Memetic？（加入若干local search operators，直观的说，Add和Delete两种操作，Add可以用SU作为评价指标，Delete可以用Marckov blanket作为指标）
+  
+3. 需要定义FS的参数设置
+4. 需要在计时器中加入FS相关操作的计算

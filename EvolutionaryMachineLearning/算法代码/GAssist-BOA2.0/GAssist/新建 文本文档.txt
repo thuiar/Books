@@ -1,0 +1,134 @@
+@relation Training
+
+@attribute 'family' {'NF','GB','GK','GS','TN','ZA','ZF','ZH','ZM','ZS'}
+@attribute 'product-type' {'C','H','G'}
+@attribute 'steel' {'NF','R','A','U','K','M','S','W','V'}
+@attribute 'carbon' real
+@attribute 'hardness' real
+@attribute 'temper_rolling' {'NF','T'}
+@attribute 'condition' {'NF','S','A','X'}
+@attribute 'formability' {'NF','1','2','3','4','5'}
+@attribute 'strength' real
+@attribute 'non-ageing' {'NF','N'}
+@attribute 'surface-finish' {'NF','P','M'}
+@attribute 'surface-quality' {'NF','D','E','F','G'}
+@attribute 'enamelability' {'NF','1','2','3','4','5'}
+@attribute 'bc' {'NF','Y'}
+@attribute 'bf' {'NF','Y'}
+@attribute 'bt' {'NF','Y'}
+@attribute 'bw/me' {'NF','B','M'}
+@attribute 'bl' {'NF','Y'}
+@attribute 'm' {'NF','Y'}
+@attribute 'chrom' {'NF','C'}
+@attribute 'phos' {'NF','P'}
+@attribute 'cbond' {'NF','Y'}
+@attribute 'marvi' {'NF','Y'}
+@attribute 'exptl' {'NF','Y'}
+@attribute 'ferro' {'NF','Y'}
+@attribute 'corr' {'NF','Y'}
+@attribute 'blue/bright/varn/clean' {'NF','B','R','V','C'}
+@attribute 'lustre' {'NF','Y'}
+@attribute 'jurofm' {'NF','Y'}
+@attribute 's' {'NF','Y'}
+@attribute 'p' {'NF','Y'}
+@attribute 'shape' {'COIL','SHEET'}
+@attribute 'thick' real
+@attribute 'width' real
+@attribute 'len' real
+@attribute 'oil' {'NF','Y','N'}
+@attribute 'bore' {'0','500','600','760'}
+@attribute 'packing' {'NF','1','2','3'}
+@attribute 'class' {'1','2','3','5','U'}
+@data
+'TN','C','A',0,0,'NF','NF','3',0,'N','NF','NF','NF','NF','NF','NF','NF','NF','NF','C','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',1.6,1220,761,'NF','0','NF','5'
+'TN','C','A',0,0,'NF','NF','3',0,'N','NF','NF','NF','NF','NF','NF','NF','NF','NF','C','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',1.2,335,612,'NF','0','NF','5'
+'TN','C','A',0,0,'NF','NF','3',0,'N','NF','NF','NF','NF','NF','NF','B','NF','NF','NF','NF','NF','NF','NF','Y','NF','NF','NF','NF','NF','NF','SHEET',1.6,609.9,3000,'NF','0','NF','5'
+'TN','C','A',0,0,'NF','NF','3',0,'N','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','Y','NF','NF','NF','NF','NF','NF','COIL',1.6,50,0,'NF','0','NF','5'
+'TN','C','A',0,0,'NF','NF','3',0,'N','NF','NF','NF','NF','NF','NF','NF','NF','NF','C','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.6,610,612,'NF','0','NF','5'
+'TN','C','A',0,0,'NF','NF','3',0,'N','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','Y','NF','NF','NF','NF','NF','NF','SHEET',1.6,1220,761,'NF','0','NF','5'
+'NF','C','R',0,0,'NF','S','2',0,'NF','NF','NF','NF','NF','NF','NF','NF','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',1.6,610,612,'NF','0','NF','2'
+'NF','C','V',0,0,'NF','S','2',0,'NF','NF','NF','2','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.8,1320,4880,'NF','0','NF','2'
+'NF','C','R',0,0,'NF','S','2',0,'NF','NF','NF','NF','NF','NF','NF','NF','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.8,610,4880,'NF','0','NF','2'
+'NF','C','R',0,0,'NF','S','2',0,'NF','NF','NF','NF','NF','NF','NF','B','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.8,1300,762,'NF','0','NF','2'
+'NF','C','R',0,0,'NF','S','2',0,'NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',0.8,1320,0,'NF','0','NF','2'
+'NF','C','R',0,0,'NF','S','3',0,'NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',1.601,830,880,'NF','0','NF','2'
+'NF','C','R',0,0,'NF','S','3',0,'NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',0.8,20,0,'NF','0','NF','2'
+'NF','C','V',0,0,'NF','S','2',0,'NF','NF','NF','2','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',1.201,1525,0,'NF','0','NF','2'
+'NF','C','V',0,0,'NF','S','2',0,'NF','NF','NF','2','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',2,1525,0,'NF','0','NF','2'
+'ZS','C','A',0,0,'NF','S','5',0,'N','NF','E','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',0.8,75,0,'NF','0','NF','3'
+'NF','C','A',0,0,'NF','S','2',0,'NF','NF','F','NF','NF','Y','NF','B','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.6,520,0,'NF','0','NF','3'
+'NF','C','A',0,0,'NF','S','2',0,'NF','NF','G','NF','NF','NF','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',3.2,1300,762,'NF','0','NF','3'
+'NF','C','V',0,0,'NF','S','2',0,'NF','NF','NF','1','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.7,610,4880,'NF','0','NF','3'
+'NF','C','A',0,0,'NF','S','2',0,'NF','NF','E','NF','NF','NF','NF','B','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',3.2,609.9,0,'NF','0','NF','3'
+'NF','C','R',0,0,'NF','S','2',0,'NF','NF','E','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',3.2,1320,762,'NF','0','NF','3'
+'NF','C','A',0,45,'NF','S','NF',0,'NF','NF','D','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.7,1320,762,'NF','0','NF','3'
+'NF','C','A',0,0,'NF','S','2',0,'NF','NF','F','NF','NF','Y','NF','NF','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.999,610,762,'NF','0','NF','3'
+'NF','C','R',0,0,'NF','S','3',0,'NF','NF','E','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.601,609.9,612,'NF','0','NF','3'
+'NF','C','NF',0,45,'NF','S','NF',0,'NF','NF','E','NF','NF','NF','NF','NF','NF','NF','NF','NF','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.7,1320,762,'NF','0','NF','3'
+'NF','C','A',0,0,'NF','S','2',0,'NF','NF','G','NF','NF','NF','NF','NF','NF','NF','NF','NF','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',0.4,609.9,0,'NF','0','NF','3'
+'NF','C','A',0,0,'NF','S','2',0,'NF','NF','E','NF','NF','Y','NF','NF','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.3,1320,4880,'Y','0','NF','3'
+'NF','C','K',45,0,'NF','NF','NF',0,'NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',1.1,610,0,'NF','0','NF','3'
+'NF','C','NF',0,0,'NF','S','1',0,'NF','NF','G','NF','NF','NF','NF','NF','NF','NF','NF','NF','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',0.3,609.9,0,'NF','0','NF','3'
+'NF','C','NF',0,50,'T','NF','NF',0,'NF','NF','G','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','Y','NF','NF','NF','COIL',1.201,610,0,'NF','0','NF','3'
+'NF','C','K',55,0,'NF','NF','NF',0,'NF','NF','NF','NF','NF','NF','Y','M','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','Y','NF','NF','NF','COIL',2.2,900,0,'NF','0','NF','3'
+'NF','C','A',0,0,'NF','S','3',0,'N','NF','E','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.601,1320,4880,'NF','0','NF','3'
+'NF','C','R',6,0,'T','NF','NF',0,'NF','NF','NF','NF','NF','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',0.5,25,0,'NF','0','NF','3'
+'NF','C','R',0,0,'NF','S','2',0,'NF','NF','E','NF','NF','NF','NF','B','NF','NF','NF','NF','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',0.7,1220,0,'NF','0','NF','3'
+'NF','C','A',0,0,'NF','S','2',0,'NF','NF','E','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','Y','NF','NF','NF','COIL',3.3,152,0,'NF','0','NF','3'
+'NF','C','A',0,0,'NF','S','2',0,'NF','NF','E','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',3.2,609.9,0,'NF','0','NF','3'
+'NF','C','A',0,50,'T','NF','NF',0,'NF','NF','G','NF','NF','NF','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',0.601,610,0,'NF','0','NF','3'
+'NF','C','A',0,0,'NF','S','2',0,'NF','NF','E','NF','NF','NF','NF','NF','NF','NF','NF','NF','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',0.6,609.9,0,'NF','0','NF','3'
+'NF','C','R',0,0,'NF','S','3',0,'NF','NF','E','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',0.8,75,0,'NF','0','NF','3'
+'NF','C','R',0,0,'NF','S','2',0,'NF','NF','E','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',3.2,1320,4880,'NF','0','NF','3'
+'NF','C','NF',0,0,'NF','S','1',0,'NF','NF','G','NF','NF','NF','NF','B','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.3,1300,762,'NF','0','NF','3'
+'NF','C','R',0,0,'NF','S','2',0,'NF','NF','E','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','Y','NF','NF','NF','COIL',3.2,1320,0,'NF','0','NF','3'
+'NF','C','A',0,0,'NF','S','3',0,'N','NF','F','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',1,1320,762,'NF','0','NF','3'
+'NF','C','A',0,0,'NF','S','2',0,'NF','NF','G','NF','NF','NF','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.7,610,4880,'NF','0','NF','3'
+'ZS','C','A',0,50,'T','NF','NF',0,'NF','NF','E','NF','NF','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',1.6,1250,0,'NF','0','NF','3'
+'NF','C','A',0,0,'NF','S','2',0,'NF','NF','E','NF','NF','NF','NF','B','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',1.6,1320,1000,'NF','0','NF','3'
+'NF','C','A',0,0,'NF','S','2',0,'NF','NF','E','NF','NF','NF','NF','NF','NF','NF','NF','NF','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',0.7,610,0,'NF','0','3','3'
+'NF','C','NF',0,0,'NF','A','2',0,'NF','NF','G','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',0.699,610,0,'NF','0','NF','3'
+'ZS','C','A',0,50,'T','NF','NF',0,'NF','NF','E','NF','NF','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',0.3,610,0,'NF','0','NF','3'
+'NF','C','K',45,0,'NF','NF','NF',0,'NF','NF','NF','NF','NF','NF','Y','M','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',1.5,640,0,'NF','0','NF','3'
+'NF','C','A',0,0,'NF','S','3',0,'N','NF','E','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',1,610,762,'NF','0','NF','3'
+'NF','C','A',0,0,'NF','S','2',0,'NF','NF','G','NF','NF','NF','NF','B','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.7,610,4880,'NF','0','NF','3'
+'NF','C','K',45,0,'NF','NF','NF',0,'NF','NF','NF','NF','NF','NF','NF','M','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',2.3,900,0,'NF','600','NF','3'
+'NF','C','R',0,0,'NF','S','2',0,'NF','NF','E','NF','NF','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',3.2,1320,4880,'NF','0','NF','3'
+'NF','C','M',0,0,'NF','NF','NF',350,'NF','NF','G','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',1.399,609.9,0,'NF','0','NF','3'
+'NF','C','A',0,45,'NF','S','NF',0,'NF','NF','D','NF','NF','NF','NF','B','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.699,1320,762,'NF','0','NF','3'
+'NF','C','A',0,70,'T','NF','NF',0,'NF','NF','G','NF','NF','NF','NF','B','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',0.8,50,0,'NF','0','NF','3'
+'NF','C','K',55,0,'NF','NF','NF',0,'NF','NF','NF','NF','NF','NF','NF','M','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',2.3,900,0,'NF','500','NF','3'
+'NF','C','A',0,70,'T','NF','NF',0,'NF','NF','G','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','Y','NF','NF','NF','COIL',0.6,1320,0,'NF','600','NF','3'
+'NF','C','W',0,0,'NF','NF','NF',310,'NF','NF','G','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',1.6,610,0,'NF','500','NF','3'
+'ZS','C','A',0,50,'T','NF','NF',0,'NF','NF','E','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',0.3,1250,0,'NF','0','NF','3'
+'NF','C','A',0,0,'NF','S','2',0,'NF','NF','E','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.7,1320.1,4880,'NF','0','NF','3'
+'NF','C','K',65,0,'NF','NF','NF',0,'NF','NF','NF','NF','NF','NF','NF','M','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',3.2,640,0,'NF','500','NF','3'
+'NF','C','A',0,0,'NF','S','2',0,'NF','NF','E','NF','NF','Y','NF','NF','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.699,610,4880,'Y','0','NF','3'
+'NF','C','NF',0,70,'T','NF','NF',0,'NF','NF','G','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','Y','NF','NF','NF','COIL',0.6,610,0,'NF','600','NF','3'
+'NF','C','A',0,45,'NF','S','NF',0,'NF','NF','D','NF','NF','NF','NF','B','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.3,610,762,'NF','0','NF','3'
+'NF','C','R',0,0,'NF','S','2',0,'NF','NF','E','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',3.2,610,0,'NF','0','3','3'
+'ZS','C','R',0,0,'NF','A','2',0,'NF','NF','G','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',0.699,609.9,0,'NF','0','NF','3'
+'NF','C','R',0,0,'NF','S','2',0,'NF','NF','E','NF','NF','NF','NF','B','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',3.2,609.9,0,'NF','0','NF','3'
+'NF','C','R',0,0,'NF','S','2',0,'NF','NF','E','NF','NF','NF','NF','B','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.4,1320,150,'NF','0','NF','3'
+'NF','C','W',0,0,'NF','NF','NF',310,'NF','NF','G','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',1.599,1275,0,'NF','0','NF','3'
+'NF','C','R',0,0,'NF','S','3',0,'NF','NF','E','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.699,609.9,762,'NF','0','NF','3'
+'NF','C','A',0,0,'NF','S','3',0,'N','NF','F','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',1,610,4880,'NF','0','NF','3'
+'NF','C','K',45,0,'NF','NF','NF',0,'NF','NF','NF','NF','NF','NF','Y','M','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',3.2,640,0,'NF','500','NF','3'
+'NF','C','R',0,0,'NF','S','2',0,'NF','NF','E','NF','NF','NF','NF','NF','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.3,1320,4880,'Y','0','NF','3'
+'NF','C','R',0,0,'NF','S','2',0,'NF','NF','E','NF','NF','NF','NF','B','Y','NF','NF','NF','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.7,150,612,'NF','0','NF','3'
+'NF','C','A',0,0,'NF','S','2',0,'NF','NF','G','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.4,1320,4880,'N','0','NF','3'
+'ZS','C','R',0,0,'NF','A','2',0,'NF','NF','G','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',0.699,609.9,0,'NF','0','NF','3'
+'NF','C','A',0,45,'NF','S','NF',0,'NF','NF','D','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',1.6,610,4880,'NF','0','NF','3'
+'NF','C','R',0,0,'NF','S','2',0,'NF','NF','E','NF','NF','NF','Y','M','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',4,1000,0,'NF','600','NF','3'
+'NF','C','A',0,60,'T','NF','NF',0,'NF','NF','G','NF','NF','NF','NF','B','Y','NF','NF','NF','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.8,356.1,4880,'NF','0','NF','3'
+'NF','C','A',0,0,'NF','S','2',0,'NF','NF','E','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',4,1320,762,'NF','0','NF','3'
+'ZS','C','A',0,0,'NF','S','3',0,'N','NF','E','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.7,609.9,4170,'NF','0','NF','3'
+'NF','C','A',0,85,'T','NF','NF',0,'NF','NF','G','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',3.2,609.9,0,'NF','0','NF','U'
+'ZS','C','A',0,85,'T','NF','NF',0,'NF','NF','E','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',0.321,1220,0,'NF','0','NF','U'
+'NF','C','A',0,85,'T','NF','NF',0,'NF','NF','G','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',3.2,200.1,4880,'NF','0','NF','U'
+'NF','C','A',0,85,'T','NF','NF',0,'NF','NF','G','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',1.2,609.9,0,'NF','0','NF','U'
+'TN','C','A',0,0,'NF','NF','3',0,'N','NF','NF','NF','NF','NF','NF','B','NF','NF','NF','NF','NF','NF','NF','Y','NF','NF','NF','NF','NF','NF','SHEET',1.6,610,762,'NF','0','NF','5'
+'TN','C','A',0,0,'NF','NF','3',0,'N','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','P','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','COIL',1.6,610,0,'NF','0','NF','5'
+'NF','C','R',0,0,'NF','S','2',0,'NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',2,1500,612,'NF','0','NF','2'
+'NF','C','R',0,0,'NF','S','2',0,'NF','NF','NF','NF','NF','NF','Y','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','SHEET',0.8,1300,762,'NF','0','NF','2'
+'ZS','C','R',0,0,'NF','NF','NF',300,'NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','NF','Y','NF','NF','NF','NF','NF','NF','NF','COIL',0.8,915,0,'NF','0','NF','1'
