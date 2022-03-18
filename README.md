@@ -1,5 +1,7 @@
 # 图书目录
 
+## [演化机器学习](EvolutionaryMachineLearning)
+
 ## [数据挖掘：方法与应用](DataMining)
 
 ## [数据挖掘：方法与应用——应用案例](DataMiningCases)
