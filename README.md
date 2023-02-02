@@ -1,7 +1,6 @@
 # 图书目录
 
-## [数据挖掘：方法与应用]
-(DataMining-MethodologyandApplications)
+## [数据挖掘：方法与应用](DataMining-MethodologyandApplications)
 
 ## [数据挖掘：方法与应用——应用案例](DataMining-MethodsandApplications-ApplicationCases)
 
