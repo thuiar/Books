@@ -36,6 +36,10 @@
     * 本书第5章的内容已发表于 KBS 2019
     * [A post-processing method for detecting unknown intent of dialogue system via pre-trained deep neural network classifier](https://www.sciencedirect.com/science/article/abs/pii/S0950705119304034)
     
+* [DDML+](小论文/ADB.pdf)
+
+    * 本书第6章的内容已发表于 AAAI 2021
+    * [Deep Open Intent Classification with Adaptive Decision Boundary](https://arxiv.org/pdf/2012.10209.pdf)
 
 * [LMCL](小论文/LMCL.pdf)
 
@@ -57,7 +61,9 @@
 ### c. 算法代码
 
 * [SMDN](算法代码/SMDN)
+* [DDML+](https://github.com/thuiar/TEXTOIR)
 * [LMCL](算法代码/DeepUnkID)
+* [DCB](算法代码/DCB/)
 * [CDAC+](算法代码/CDAC-plus)
 * [TEXTOIR](算法代码/TEXTOIR)
 
