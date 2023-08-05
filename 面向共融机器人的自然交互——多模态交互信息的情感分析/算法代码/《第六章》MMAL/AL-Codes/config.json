@@ -1,0 +1,105 @@
+{
+    "classifiers": {
+        "TFN":{
+            "args":{
+                "use_bert": false,
+                "aligned": false,
+                "normalized": true,
+                "valid_size": 0.2,
+                "early_stop": 8,
+                "weight_decay": 0.0,
+                "hidden_dim_t": 256,
+                "hidden_dim_a": 32,
+                "hidden_dim_v": 256,
+                "text_out": 64,
+                "post_fusion_dim": 16,
+                "dropouts_a": 0.2,
+                "dropouts_v": 0.2,
+                "dropouts_t": 0.2,
+                "dropouts_f": 0.3,
+                "batch_size": 32,
+                "learning_rate": 5e-4,
+                "grad_clip": 0.0,
+                "seed": 1234,
+                "num_workers": 0,
+                "gpu_ids": [3],
+                "KeyEval": "Loss",
+                "semi_weight":1,
+                "semi_range":0
+            }
+        }
+    },
+    "selectors": {
+        "DEMO":{
+            "args":{}
+        },
+        "MSAL":{
+            "args":{
+                "range":[0.5, 0.95]
+            }
+        },
+        "CONF":{
+            "args":{}
+        },
+        "MARGIN":{
+            "args":{}
+        },
+        "ENTROPY":{
+            "args":{}
+        },
+        "MMAL":{
+            "args":{}
+        },
+        "LOSSPRED":{
+            "args":{}
+        },
+        "RANDOM":{
+            "args":{}
+        },
+        "CLUSTER":{
+            "args":{}
+        }
+    },
+    "data": {
+        "MOSI":{
+            "label_path": "/home/wujiele/dataset/StandardDatasets/MOSI/label-AL.csv",
+            "True_label": "/home/wujiele/dataset/StandardDatasets/MOSI/label.csv",
+            "feature_path": "/home/sharing/disk3/dataset/multimodal-sentiment-dataset/StandardDatasets/MOSI/Processed/unaligned_50.pkl",
+            "seq_lens": [50, 375, 500],
+            "feature_dims": [768, 5, 20],
+            "num_classes": 3,
+            "sample": 2199
+        },
+        "MOSEI":{
+            "label_path": "/home/wujiele/dataset/StandardDatasets/MOSEI/label-AL.csv",
+            "True_label": "/home/wujiele/dataset/StandardDatasets/MOSEI/label.csv",
+            "feature_path": "/home/sharing/disk3/dataset/multimodal-sentiment-dataset/StandardDatasets/MOSEI/Processed/unaligned_50.pkl",
+            "seq_lens": [50, 500, 500],
+            "feature_dims": [768, 74, 35],
+            "num_classes": 3,
+            "sample": 22856
+        },
+        "SIMS":{
+            "label_path": "/home/wujiele/dataset/StandardDatasets/SIMS/label-AL.csv",
+            "True_label": "/home/wujiele/dataset/StandardDatasets/SIMS/label.csv",
+            "feature_path": "/home/sharing/disk3/dataset/multimodal-sentiment-dataset/StandardDatasets/SIMS/Processed/features/unaligned_39.pkl",
+            "seq_lens": [39, 400, 55],
+            "feature_dims": [768, 33, 709],
+            "num_classes": 3,
+            "sample": 2281
+        },
+        "MOSIMOSEI":{
+            "label_path": "/home/wujiele/dataset/StandardDatasets/MOSI/label-AL.csv",
+            "label_path_MOSEI": "/home/wujiele/dataset/StandardDatasets/MOSEI/label-AL.csv",
+            "True_label": "/home/wujiele/dataset/StandardDatasets/MOSI/label.csv",
+            "True_label_MOSEI": "/home/wujiele/dataset/StandardDatasets/MOSEI/label.csv",
+            "feature_path": "/home/sharing/disk3/dataset/multimodal-sentiment-dataset/StandardDatasets/MOSI/Processed/our_unaligned.pkl",
+            "feature_path_MOSEI": "/home/sharing/disk3/dataset/multimodal-sentiment-dataset/StandardDatasets/MOSEI/Processed/our_unaligned.pkl",
+            "seq_lens": [50, 500, 100],
+            "feature_dims": [768, 33, 709],
+            "num_classes": 3,
+            "sample": 25055,
+            "sample_MOSEI":22856
+        }
+    }
+}
