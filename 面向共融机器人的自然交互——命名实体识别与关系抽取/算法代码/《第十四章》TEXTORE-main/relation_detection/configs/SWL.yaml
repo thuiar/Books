@@ -1,0 +1,11 @@
+freeze_bert_parameters:
+  val: 1
+  desc: Freeze the parameters of bert.
+
+warmup_proportion:
+  val: 0.1
+  desc: The warmup ratio for learning rate. | (float)
+
+mlp_hidden:
+  val: 64
+  desc: mlp

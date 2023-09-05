@@ -1,0 +1,19 @@
+distance_type:
+  val: cosine
+  desc: The distance_type.
+
+weibull_tail_size:
+  val: 20
+  desc: The factor of weibull model.
+
+threshold:
+  val: 0.5
+  desc: The probability threshold for detecting the open samples.
+
+alpharank:
+  val: 10
+  desc: The factor of alpha rank.
+
+freeze_bert_parameters:
+  val: 1
+  desc: Freeze the parameters of bert.

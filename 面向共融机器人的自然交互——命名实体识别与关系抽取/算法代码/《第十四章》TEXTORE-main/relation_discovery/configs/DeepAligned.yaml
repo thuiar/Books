@@ -1,0 +1,30 @@
+feat_dim:
+  val: 768
+  desc: The feature dimension.
+
+num_pretrain_epochs:
+  val: 100
+  desc: The number of training epochs.
+num_train_epochs: 
+  val: 100
+  desc: The number of refining epochs.
+freeze_bert_parameters:
+  val: 1
+  desc: Whether to freeze all parameters but the last layer.
+
+lr_pre: 
+  val: 0.00005
+  desc: The learning rate for pre-training model.
+eval_batch_size:
+  val: 1
+  desc: Batch size during evaluation.
+lr:
+  val: 0.00005
+  desc: The learning rate of model.
+wait_patient:
+  val: 20
+  desc: Patient steps for Early Stop.
+
+cluster_num_factor: 
+  val: 1
+  desc: Cluster scaling factor.

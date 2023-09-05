@@ -1,0 +1,39 @@
+train_batch_size: 
+  val: 16
+  desc: The batch size for training.
+
+backbone: 
+  val: bert
+  desc: Patient steps for Early Stop.
+
+feat_dim: 
+  val: 768
+  desc: The feature dimension.
+
+num_train_epochs: 
+  val: 10
+  desc: The number of training epochs.
+num_refine_epochs: 
+  val: 20
+  desc: The number of refining epochs.
+freeze_bert_parameters:
+  val: 1
+  desc: Whether to freeze all parameters but the last layer.
+warmup_proportion:
+  val: 0.1
+  desc: The warmup ratio for learning rate.
+lr: 
+  val: 0.00005
+  desc: The learning rate of model.
+u: 
+  val: 0.95
+  desc: The upper bound of the dynamic threshold.
+l: 
+  val: 0.455
+  desc: The lower bound of the dynamic threshold.
+wait_patient:
+  val: 5 
+  desc: Patient steps for Early Stop.
+cluster_num_factor: 
+  val: 1
+  desc: Cluster scaling factor.

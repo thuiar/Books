@@ -1,0 +1,48 @@
+moment:
+  val: 0.5
+  desc: Moment update ratio.
+z_dim:
+  val: 64
+  desc: Sentence embedding dimension.
+need_ind:
+  val: 1
+  desc: Whether the data set output index.
+eval_batch_size:
+  val: 1
+  desc: Batch size during evaluation.
+freeze_bert_parameters:
+  val: 1
+  desc: Whether to freeze all parameters but the last layer.
+pos_margin:
+  val: 0.7
+  desc: Whether to freeze all parameters but the last layer.
+neg_margin:
+  val: 1.4
+  desc: Whether to freeze all parameters but the last layer.
+use_pretrain:
+  val: 1
+  desc: Whether to freeze all parameters but the last layer.
+temp:
+  val: 30
+  desc: Whether to freeze all parameters but the last layer.
+use_sc:
+  val: 1
+  desc: Whether to freeze all parameters but the last layer.
+warmup_proportion:
+  val: 0.1
+  desc: The warmup ratio for learning rate.
+pre_loop_nums:
+  val: 20
+  desc: The warmup ratio for learning rate.
+loop_nums:
+  val: 100
+  desc: The warmup ratio for learning rate.
+loss_type:
+  val: pml
+  desc: The warmup ratio for learning rate.
+batch_num:
+  val: 1000
+  desc: Number of inner loops.
+val_step:
+  val: 500
+  desc: Number of val loops.

@@ -1,0 +1,33 @@
+dataname: 
+  val: semeval
+  desc: Dataset Name.
+data_dir: 
+  val: /home/jaczhao/OpenORE/ORE/data/demo_data
+  desc: Where the data set is stored.
+backbone: 
+  val: bert
+  desc: Which backbone to choose.
+seed: 
+  val: 0
+  desc: Random Seed.
+output_path:
+  val: /home/sharing/disk3/zk/weight_cache/results/
+  desc: Evaluation result and log path.
+bert_path:
+  val: /home/sharing/disk1/zk/datasets/bert/bert-base-uncased
+  desc: Storage path of pre-training model BERT.
+glove_path:
+  val: /home/sharing/disk1/zk/datasets/glove
+  desc: Storage path of pre-training word embeddings Glove.
+max_length:
+  val: 120
+  desc: The maximum number of tokens for sentences.
+known_cls_ratio:
+  val: 0.25
+  desc: Proportion of known classes.
+labeled_ratio:
+  val: 1.0
+  desc: The ratio of labeled samples in the known classes.
+num_worker:
+  val: 64
+  desc: num_worker.

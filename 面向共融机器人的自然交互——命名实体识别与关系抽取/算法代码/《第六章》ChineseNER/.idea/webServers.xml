@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1dc43446-d1ef-4555-984a-d37f97a0ff84" name="Chinese_test" url="http://166.111.138.128">
+        <fileTransfer host="166.111.138.128" port="22" rootFolder="/home/yangcongcong" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

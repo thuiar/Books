@@ -1,0 +1,39 @@
+ADB:
+    model_id: 1
+    model_name: ADB
+    paper_source: https://arxiv.org/pdf/2012.10209.pdf
+    code_source: https://github.com/thuiar/Adaptive-Decision-Boundary
+    local_path: 1
+    type: 1
+
+DeepUnk:
+    model_id: 2
+    model_name: DeepUnk
+    paper_source: https://aclanthology.org/P19-1548.pdf
+    code_source: https://github.com/thuiar/DeepUnkID
+    local_path: 2
+    type: 1
+
+DOC:
+    model_id: 3
+    model_name: DOC
+    paper_source: https://www.aclweb.org/anthology/D17-1314.pdf
+    code_source: https://github.com/leishu02/EMNLP2017_DOC
+    local_path: 3
+    type: 1
+
+MSP:
+    model_id: 4
+    model_name: MSP
+    paper_source: https://arxiv.org/pdf/1610.02136.pdf
+    code_source: https://github.com/facebookresearch/odin
+    local_path: 4
+    type: 1
+
+OpenMax:
+    model_id: 5
+    model_name: OpenMax
+    paper_source: https://openaccess.thecvf.com/content_cvpr_2016/papers/Bendale_Towards_Open_Set_CVPR_2016_paper.pdf
+    code_source: https://github.com/thuiar/TEXTOIR/tree/main/open_intent_detection/methods/OpenMax
+    local_path: 5
+    type: 1  

@@ -1,0 +1,11 @@
+lr_boundary:
+  val: 0.05
+  desc: The learning rate of the decision boundary.
+
+warmup_proportion:
+  val: 0.1
+  desc: The warmup ratio for learning rate. | (float)
+
+freeze_bert_parameters:
+  val: 1
+  desc: Freeze the parameters of bert.

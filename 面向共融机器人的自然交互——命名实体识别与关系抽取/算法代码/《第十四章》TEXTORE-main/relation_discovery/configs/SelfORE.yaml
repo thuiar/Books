@@ -1,0 +1,27 @@
+z_dim:
+  val: 300
+  desc: Sentence embedding dimension.
+
+cluster:
+  val: kmeans
+  desc: clustering method
+
+loop_num:
+  val: 5
+  desc: Number of outer loops.
+eval_batch_size:
+  val: 1
+  desc: Batch size during evaluation.
+batch_size:
+  val: 64
+  desc: Training batch size.
+freeze_bert_parameters:
+  val: 1
+  desc: Whether to freeze all parameters but the last layer.
+epoch:
+  val: 4
+  desc: Epoch of pseudo-label classification training.
+
+warm_up:
+  val: 0
+  desc: Use learning rate warm-up strategy.

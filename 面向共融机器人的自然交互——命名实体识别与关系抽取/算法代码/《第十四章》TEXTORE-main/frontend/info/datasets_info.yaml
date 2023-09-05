@@ -1,0 +1,63 @@
+Wiki80:
+  dataset_id: 1
+  dataset_name: Wiki80
+  domain: Wiki Data 
+  class_num: 80
+  source: "https://aclanthology.org/D19-3029.pdf"
+  local_path: ""
+  type: "5"
+  sample_total_num: 56000
+  sample_training_num: 44800
+  sample_validation_num: 5600
+  sample_test_num: 5600
+  sentence_max_length: 36
+  sentence_avg_length: 25
+  create_time: 
+
+NYT10M:
+  dataset_id: 2
+  dataset_name: NYT10m
+  domain: NYT corpus (DS Dataset)
+  class_num: 25
+  source: "https://aclanthology.org/2021.findings-acl.112.pdf"
+  local_path: ""
+  type: "5"
+  sample_total_num: 475401
+  sample_training_num: 417893
+  sample_validation_num: 46422
+  sample_test_num: 11086
+  sentence_max_length: 9621
+  sentence_avg_length: 41
+  create_time: 
+
+Wiki20M:
+  dataset_id: 3
+  dataset_name: Wiki20m
+  domain: Wiki Data (DS Dataset)
+  class_num: 81
+  source: "https://aclanthology.org/2021.findings-acl.112.pdf"
+  local_path: ""
+  type: "5"
+  sample_total_num: 901314
+  sample_training_num: 698721
+  sample_validation_num: 64607
+  sample_test_num: 137986
+  sentence_max_length: 36
+  sentence_avg_length: 26
+  create_time: 
+
+SemEval:
+  dataset_id: 4
+  dataset_name: SemEval
+  domain: SemEval-2010 Task 8
+  class_num: 19
+  source: "https://aclanthology.org/S10-1006.pdf"
+  local_path: ""
+  type: "5"
+  sample_total_num: 56000
+  sample_training_num: 6500
+  sample_validation_num: 1500
+  sample_test_num: 2717
+  sentence_max_length: 97
+  sentence_avg_length: 19
+  create_time: 

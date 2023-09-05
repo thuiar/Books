@@ -1,0 +1,78 @@
+class_num_ratio:
+ val: 0.1
+ desc: The proportion of the number of categories in each batch.
+
+feat_dim:
+  val: 768
+  desc: The feature dimension.
+warmup_step:
+  val: 500
+  desc: The warmup step for learning rate.
+
+p_mult:
+  val: 0.03
+  desc: Anti-disturbance coefficient.
+
+lambda_V: 
+  val: 1
+  desc: Virtual confrontation loss coefficient.
+
+drop_out: 
+  val: 0.2
+  desc: Dropout probability.
+
+alpha_rank: 
+  val: 1.2
+  desc: Maximum boundary of L2 Euclidean distance.
+
+margin:
+  val: 0.4
+  desc: Positive and negative sample spacing.
+
+loop_nums:
+  val: 4
+  desc: Number of outer loops.
+
+batch_num:
+  val: 1000
+  desc: Number of inner loops.
+val_step:
+  val: 500
+  desc: Number of val loops.
+eval_batch_size:
+  val: 1
+  desc: Batch size during evaluation.
+
+inclass_augment:
+  val: 0
+  desc: In-class enhancement strategy.
+
+squared:
+  val: 0
+  desc: Whether to square the Euclidean distance.
+
+pos_emb_dim:
+  val: 10
+  desc: Position embedding dimension.
+
+vat:
+  val: 0
+  desc: Virtual adversarial training.
+
+temp_neg:
+  val: 10
+  desc: Temperature parameter.
+
+embedding_dim:
+  val: 64
+  desc: Sentence embedding dimension.
+freeze_bert_parameters:
+  val: 1
+  desc: Whether to freeze all parameters but the last layer.
+learning_rate:
+  val: 0.0003
+  desc: Learning rate of CNN model.
+
+use_sample:
+  val: 1
+  desc: Does the training set require a sampling strategy?

@@ -1,0 +1,15 @@
+moment:
+  val: 0.5
+  desc: Moment update ratio.
+z_dim:
+  val: 64
+  desc: Sentence embedding dimension.
+need_ind:
+  val: 1
+  desc: Whether the data set output index.
+eval_batch_size:
+  val: 1
+  desc: Batch size during evaluation.
+freeze_bert_parameters:
+  val: 1
+  desc: Whether to freeze all parameters but the last layer.

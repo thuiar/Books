@@ -1,0 +1,47 @@
+RSN:
+    model_id: 1
+    model_name: RSN
+    paper_source: https://aclanthology.org/D19-1021.pdf
+    code_source: https://github.com/thunlp/RSN
+    local_path: 1
+    type: 2
+
+SelfORE:
+    model_id: 2
+    model_name: SelfORE
+    paper_source: https://aclanthology.org/2020.emnlp-main.299.pdf
+    code_source: https://github.com/THU-BPM/SelfORE
+    local_path: 2
+    type: 2
+
+MORE:
+    model_id: 3
+    model_name: MORE
+    paper_source: https://ieeexplore.ieee.org/document/9413437
+    code_source: https://github.com/RenzeLou/MORE
+    local_path: 3
+    type: 2
+
+ODC:
+    model_id: 4
+    model_name: ODC
+    paper_source: https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhan_Online_Deep_Clustering_for_Unsupervised_Representation_Learning_CVPR_2020_paper.pdf
+    code_source: https://github.com/open-mmlab/OpenSelfSup
+    local_path: 4
+    type: 2
+
+CDACPlus:
+    model_id: 5
+    model_name: CDACPlus
+    paper_source: https://arxiv.org/abs/1911.08891
+    code_source: https://github.com/thuiar/CDAC-plus
+    local_path: 5
+    type: 2
+
+DeepAligned:
+    model_id: 6
+    model_name: DeepAligned
+    paper_source: https://arxiv.org/pdf/2012.08987.pdf
+    code_source: https://github.com/thuiar/DeepAligned-Clustering
+    local_path: 5
+    type: 2

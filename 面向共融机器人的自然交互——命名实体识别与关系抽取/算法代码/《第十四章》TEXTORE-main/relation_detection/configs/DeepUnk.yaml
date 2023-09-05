@@ -1,0 +1,11 @@
+n_neighbors:
+  val: 20
+  desc: The number of neighbors of LOF.
+
+contamination:
+  val: 0.05
+  desc: The contamination factor of LOF.
+
+freeze_bert_parameters:
+  val: 1
+  desc: Freeze the parameters of bert.

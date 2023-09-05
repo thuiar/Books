@@ -1,0 +1,102 @@
+dataname: 
+  val: semeval
+  desc: Dataset Name.
+data_dir: 
+  val: /home/jaczhao/OpenORE/ORE/data/demo_data
+  desc: Where the data set is stored.
+method: 
+  val: DOC
+  desc: Which method to use.
+detection_method: 
+  val: none
+  desc: Which method to use.
+discovery_method:
+  val: none
+  desc: Which method to use.
+backbone: 
+  val: bert
+  desc: Which backbone to choose.
+seed: 
+  val: 0
+  desc: Random Seed.
+task_type:
+  val: relation_discovery
+  desc: Type of task.
+method_type:
+  val: semi_supervised
+  desc: Type of method.
+result_path:
+  val: /home/sharing/disk3/zk/weight_cache/results/
+  desc: Evaluation result and log path.
+save_path:
+  val: /home/sharing/disk2/zk/weight_cache/
+  desc: Path to save model parameters.
+bert_path:
+  val: /home/sharing/disk1/zk/datasets/bert/bert-base-uncased
+  desc: Storage path of pre-training model BERT.
+glove_path:
+  val: /home/sharing/disk1/zk/datasets/glove
+  desc: Storage path of pre-training word embeddings Glove.
+max_length:
+  val: 120
+  desc: The maximum number of tokens for sentences.
+num_train_epochs:
+  val: 100
+  desc: Number of epochs in training.
+this_name:
+  val: normal
+  desc: Special mark for model parameter name.
+train_model:
+  val: 1
+  desc: Whether to train the model.
+gpu_id:
+  val: 0
+  desc: Select the index of the running GPU.
+lr:
+  val: 0.00002
+  desc: learning rate.
+optim:
+  val: adamw
+  desc: The type of optimizer.
+sche:
+  val: linear_warmup
+  desc: Learning rate schedule.
+wait_patient:
+  val: 10
+  desc: Early stop strategy.
+load_ckpt:
+  val: none
+  desc: Model to be loaded.
+use_sample:
+  val: 0
+  desc: Does the training set require a sampling strategy?
+known_cls_ratio:
+  val: 0.5
+  desc: Proportion of known classes.
+labeled_ratio:
+  val: 1.0
+  desc: The ratio of labeled samples in the known classes.
+train_batch_size:
+  val: 64
+  desc: Batch size during training.
+eval_batch_size:
+  val: 64
+  desc: Batch size during evaluation.
+need_ind:
+  val: 0
+  desc: Whether the data set output index.
+warmup_proportion:
+  val: 0.1
+  desc: The proportion of warmup steps to total steps.
+freeze_bert_parameters:
+  val: 1
+  desc: Whether to freeze all parameters but the last layer.
+test_by_pkl:
+  val: 0
+  desc: by pkl to compute score
+is_pipe:
+  val: 0
+  desc: for pipeline
+need_keyword:
+  val: 0
+  desc: extract keyword

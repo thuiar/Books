@@ -1,0 +1,7 @@
+scale:
+  val: 2
+  desc: The scale factor of DOC.
+
+freeze_bert_parameters:
+  val: 1
+  desc: Freeze the parameters of bert.

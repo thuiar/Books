@@ -1,0 +1,58 @@
+same_ratio:
+  val: 0.5
+  desc: Proportion of the same relation.
+
+batch_size:
+  val: 100
+  desc: Training batch size.
+
+val_size:
+  val: 1000
+  desc: Validation batch size.
+
+epoch_num:
+  val: 5 
+  desc: Number of outer loops.
+eval_batch_size:
+  val: 1
+  desc: Batch size during evaluation.
+batch_num:
+  val: 10000
+  desc: Number of inner loops.
+freeze_bert_parameters:
+  val: 1
+  desc: Whether to freeze all parameters but the last layer.
+learning_rate:
+  val: 0.0003
+  desc: Learning rate of CNN model.
+
+drop_out: 
+  val: 0.2
+  desc: Dropout probability.
+
+pos_emb_dim:
+  val: 5
+  desc: Position embedding dimension.
+
+out_dim:
+  val: 230
+  desc: Sentence embedding dimension.
+
+p_mult:
+  val: 0.02
+  desc: Anti-disturbance coefficient.
+
+p_cond:
+  val: 0.03
+  desc: Conditional Entropy Coefficient.
+
+lambda_s:
+  val: 1
+  desc: Loss scaling factor.
+
+select_cluster:
+  val: Louvain
+  desc: Selected clustering algorithm.
+weight_decay:
+  val: 0.00001
+  desc: weight decay

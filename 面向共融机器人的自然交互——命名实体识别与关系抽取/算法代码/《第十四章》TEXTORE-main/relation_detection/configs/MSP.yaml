@@ -1,0 +1,7 @@
+threshold:
+  val: 0.5
+  desc: The probability threshold.
+
+freeze_bert_parameters:
+  val: 1
+  desc: Freeze the parameters of bert.
