@@ -1,0 +1,5 @@
+F:\张东昀毕设\代码\HHS_Test1\HHS_Test1\bin\Release\HHS_Test1.exe
+F:\张东昀毕设\代码\HHS_Test1\HHS_Test1\bin\Release\HHS_Test1.pdb
+F:\张东昀毕设\代码\HHS_Test1\HHS_Test1\obj\x86\Release\ResolveAssemblyReference.cache
+F:\张东昀毕设\代码\HHS_Test1\HHS_Test1\obj\x86\Release\HHS_Test1.exe
+F:\张东昀毕设\代码\HHS_Test1\HHS_Test1\obj\x86\Release\HHS_Test1.pdb

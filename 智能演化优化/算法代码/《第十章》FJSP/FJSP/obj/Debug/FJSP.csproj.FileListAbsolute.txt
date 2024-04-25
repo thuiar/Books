@@ -1,0 +1,45 @@
+D:\FJSP\FJSP\bin\Debug\FJSP.exe
+D:\FJSP\FJSP\bin\Debug\FJSP.pdb
+D:\FJSP\FJSP\obj\Debug\ResolveAssemblyReference.cache
+D:\FJSP\FJSP\obj\Debug\FJSP.exe
+D:\FJSP\FJSP\obj\Debug\FJSP.pdb
+C:\Users\yuanyuan\Desktop\FJSP\FJSP\obj\Debug\FJSP.exe
+C:\Users\yuanyuan\Desktop\FJSP\FJSP\obj\Debug\FJSP.pdb
+C:\Users\yuanyuan\Desktop\FJSP\FJSP\bin\Debug\FJSP.exe
+C:\Users\yuanyuan\Desktop\FJSP\FJSP\bin\Debug\FJSP.pdb
+C:\Users\yuanyuan\Desktop\FJSP\FJSP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yuanyuan\Desktop\FJSP-n\FJSP\obj\Debug\FJSP.exe
+C:\Users\yuanyuan\Desktop\FJSP-n\FJSP\obj\Debug\FJSP.pdb
+C:\Users\yuanyuan\Desktop\FJSP-n\FJSP\bin\Debug\FJSP.exe
+C:\Users\yuanyuan\Desktop\FJSP-n\FJSP\bin\Debug\FJSP.pdb
+C:\Users\yuanyuan\Desktop\FJSP-n\FJSP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yuanyuan\Desktop\gong\FJSP-n\FJSP\obj\Debug\FJSP.exe
+C:\Users\yuanyuan\Desktop\gong\FJSP-n\FJSP\obj\Debug\FJSP.pdb
+C:\Users\yuanyuan\Desktop\gong\FJSP-n\FJSP\bin\Debug\FJSP.exe
+C:\Users\yuanyuan\Desktop\gong\FJSP-n\FJSP\bin\Debug\FJSP.pdb
+C:\Users\yuanyuan\Desktop\gong\FJSP-n\FJSP\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dodo\桌面\gong_new\FJSP-n\FJSP\obj\Debug\FJSP.exe
+C:\Documents and Settings\dodo\桌面\gong_new\FJSP-n\FJSP\obj\Debug\FJSP.pdb
+C:\Documents and Settings\dodo\桌面\gong_new\FJSP-n\FJSP\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dodo\桌面\gong_new\FJSP-n\FJSP\bin\Debug\FJSP.exe
+C:\Documents and Settings\dodo\桌面\gong_new\FJSP-n\FJSP\bin\Debug\FJSP.pdb
+C:\Users\yuanyuan\Desktop\gong_new_1\FJSP-n\FJSP\obj\Debug\FJSP.exe
+C:\Users\yuanyuan\Desktop\gong_new_1\FJSP-n\FJSP\obj\Debug\FJSP.pdb
+C:\Users\yuanyuan\Desktop\gong_new_1\FJSP-n\FJSP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\yuanyuan\Desktop\gong_new_1\FJSP-n\FJSP\bin\Debug\FJSP.exe
+C:\Users\yuanyuan\Desktop\gong_new_1\FJSP-n\FJSP\bin\Debug\FJSP.pdb
+C:\Documents and Settings\dodo\桌面\gong_new2\FJSP-n\FJSP\obj\Debug\FJSP.exe
+C:\Documents and Settings\dodo\桌面\gong_new2\FJSP-n\FJSP\obj\Debug\FJSP.pdb
+C:\Documents and Settings\dodo\桌面\gong_new2\FJSP-n\FJSP\bin\Debug\FJSP.exe
+C:\Documents and Settings\dodo\桌面\gong_new2\FJSP-n\FJSP\bin\Debug\FJSP.pdb
+C:\Documents and Settings\dodo\桌面\gong_new2\FJSP-n\FJSP\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dodo\桌面\gong_new3\FJSP-n\FJSP\obj\Debug\FJSP.exe
+C:\Documents and Settings\dodo\桌面\gong_new3\FJSP-n\FJSP\obj\Debug\FJSP.pdb
+C:\Documents and Settings\dodo\桌面\gong_new3\FJSP-n\FJSP\bin\Debug\FJSP.exe
+C:\Documents and Settings\dodo\桌面\gong_new3\FJSP-n\FJSP\bin\Debug\FJSP.pdb
+C:\Documents and Settings\dodo\桌面\gong_new3\FJSP-n\FJSP\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\dodo\桌面\gong_new_4\FJSP-n\FJSP\obj\Debug\FJSP.exe
+C:\Documents and Settings\dodo\桌面\gong_new_4\FJSP-n\FJSP\obj\Debug\FJSP.pdb
+C:\Documents and Settings\dodo\桌面\gong_new_4\FJSP-n\FJSP\bin\Debug\FJSP.exe
+C:\Documents and Settings\dodo\桌面\gong_new_4\FJSP-n\FJSP\bin\Debug\FJSP.pdb
+C:\Documents and Settings\dodo\桌面\gong_new_4\FJSP-n\FJSP\obj\Debug\ResolveAssemblyReference.cache
