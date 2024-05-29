@@ -1,12 +1,12 @@
 # 图书目录
 
+## [演化机器学习](演化机器学习) 
+
 ## [数据挖掘：方法与应用](DataMining-MethodologyandApplications)
 
 ## [数据挖掘：方法与应用——应用案例](DataMining-MethodsandApplications-ApplicationCases)
 
 ## [数据挖掘：方法与应用（第二版）](DataMining-MethodologyandApplications(2nd-edition))
-
-## [演化机器学习](演化机器学习) 
 
 ## [面向共融机器人的自然交互——人机对话意图理解(CN)](面向智能机器人的自然交互——人机对话意图理解)
 
